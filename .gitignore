@@ -160,3 +160,7 @@ venv/
 *.pem
 *.p12
 # Virtual Environments
+# Python venv in wrong locations
+my-app/Scripts/
+my-app/public/Lib/
+**/site-packages/

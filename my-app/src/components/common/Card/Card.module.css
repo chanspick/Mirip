@@ -1,0 +1,98 @@
+/* Card 컴포넌트 스타일 */
+/* SPEC-UI-001: MIRIP 디자인 시스템 기반 카드 스타일 */
+
+/* 기본 카드 스타일 */
+.card {
+  box-sizing: border-box;
+  transition: all var(--transition-fast);
+}
+
+/* ===== Variant Styles ===== */
+
+/* Basic 카드: 흰색 배경, 얇은 보더 */
+.basic {
+  background-color: var(--white);
+  box-shadow: var(--shadow-card);
+  border-radius: 4px;
+}
+
+/* Frame 카드: 베이지 배경, 오프셋 그림자, 3:4 비율 */
+.frame {
+  background-color: var(--bg-secondary);
+  box-shadow: var(--shadow-frame);
+  aspect-ratio: 3 / 4;
+  position: relative;
+}
+
+/* Frame 호버 효과 */
+.frame:hover {
+  box-shadow: 24px 24px 0 0 #E8E4DF;
+}
+
+/* ===== Padding Styles ===== */
+
+/* Small 패딩 */
+.paddingSm {
+  padding: var(--spacing-sm);
+}
+
+/* Medium 패딩 (기본) */
+.paddingMd {
+  padding: var(--spacing-md);
+}
+
+/* Large 패딩 */
+.paddingLg {
+  padding: var(--spacing-lg);
+}
+
+/* ===== Responsive Styles ===== */
+
+/* 태블릿 (1024px 이하) */
+@media (max-width: 1024px) {
+  .paddingLg {
+    padding: var(--spacing-md);
+  }
+
+  .frame {
+    box-shadow: 16px 16px 0 0 #E8E4DF;
+  }
+
+  .frame:hover {
+    box-shadow: 20px 20px 0 0 #E8E4DF;
+  }
+}
+
+/* 모바일 (768px 이하) */
+@media (max-width: 768px) {
+  .paddingSm {
+    padding: var(--spacing-xs);
+  }
+
+  .paddingMd {
+    padding: var(--spacing-sm);
+  }
+
+  .paddingLg {
+    padding: var(--spacing-md);
+  }
+
+  .frame {
+    box-shadow: 12px 12px 0 0 #E8E4DF;
+  }
+
+  .frame:hover {
+    box-shadow: 16px 16px 0 0 #E8E4DF;
+  }
+}
+
+/* 작은 모바일 (480px 이하) */
+@media (max-width: 480px) {
+  .frame {
+    box-shadow: 8px 8px 0 0 #E8E4DF;
+  }
+
+  .frame:hover {
+    box-shadow: 12px 12px 0 0 #E8E4DF;
+  }
+}

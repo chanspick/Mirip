@@ -1,0 +1,144 @@
+/* Button 컴포넌트 스타일 */
+/* SPEC-UI-001: MIRIP 디자인 시스템 기반 버튼 스타일 */
+
+/* 기본 버튼 스타일 */
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-weight: 500;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+  text-decoration: none;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.button:focus-visible {
+  outline: 2px solid var(--accent-gold);
+  outline-offset: 2px;
+}
+
+/* ===== Variant Styles ===== */
+
+/* Primary 버튼: 검정 배경, 흰색 텍스트, 호버시 반전 */
+.primary {
+  background-color: var(--text-primary);
+  color: var(--white);
+  border: 1px solid var(--text-primary);
+}
+
+.primary:hover:not(.disabled) {
+  background-color: var(--white);
+  color: var(--text-primary);
+}
+
+/* CTA 버튼: 딥 레드 배경, 흰색 텍스트 */
+.cta {
+  background-color: var(--accent-cta);
+  color: var(--white);
+  border: 1px solid var(--accent-cta);
+}
+
+.cta:hover:not(.disabled) {
+  background-color: var(--accent-cta-hover);
+  border-color: var(--accent-cta-hover);
+}
+
+/* Outline 버튼: 투명 배경, 검정 보더, 호버시 반전 */
+.outline {
+  background-color: transparent;
+  color: var(--text-primary);
+  border: 1px solid var(--text-primary);
+}
+
+.outline:hover:not(.disabled) {
+  background-color: var(--text-primary);
+  color: var(--white);
+}
+
+/* ===== Size Styles ===== */
+
+/* Small 사이즈 */
+.sm {
+  padding: 10px 24px;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+/* Medium 사이즈 (기본) */
+.md {
+  padding: 16px 40px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Large 사이즈 */
+.lg {
+  padding: 18px 48px;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/* ===== State Styles ===== */
+
+/* 전체 너비 */
+.fullWidth {
+  width: 100%;
+}
+
+/* 비활성화 상태 */
+.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+/* ===== Responsive Styles ===== */
+
+/* 태블릿 (1024px 이하) */
+@media (max-width: 1024px) {
+  .lg {
+    padding: 16px 40px;
+    font-size: 17px;
+  }
+}
+
+/* 모바일 (768px 이하) */
+@media (max-width: 768px) {
+  .sm {
+    padding: 8px 20px;
+    font-size: 13px;
+  }
+
+  .md {
+    padding: 14px 32px;
+    font-size: 15px;
+  }
+
+  .lg {
+    padding: 16px 36px;
+    font-size: 16px;
+  }
+}
+
+/* 작은 모바일 (480px 이하) */
+@media (max-width: 480px) {
+  .sm {
+    padding: 8px 16px;
+    font-size: 12px;
+  }
+
+  .md {
+    padding: 12px 24px;
+    font-size: 14px;
+  }
+
+  .lg {
+    padding: 14px 32px;
+    font-size: 15px;
+  }
+}

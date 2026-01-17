@@ -1,0 +1,114 @@
+/* Footer 컴포넌트 스타일 */
+/* SPEC-UI-001: MIRIP 디자인 시스템 기반 푸터 스타일 */
+
+/* 기본 푸터 스타일 */
+.footer {
+  background-color: var(--bg-secondary);
+  padding: var(--spacing-xl) 0;
+}
+
+/* 컨테이너 */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-md);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+
+/* 링크 네비게이션 */
+.linkNav {
+  width: 100%;
+}
+
+.linkList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: var(--spacing-md);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.linkItem {
+  margin: 0;
+  padding: 0;
+}
+
+/* 링크 스타일 */
+.link {
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 400;
+  transition: color var(--transition-fast);
+}
+
+.link:hover {
+  color: var(--text-primary);
+}
+
+/* 저작권 영역 */
+.copyright {
+  color: var(--text-muted);
+  font-family: var(--font-sans);
+  font-size: 13px;
+  text-align: center;
+}
+
+/* ===== Responsive Styles ===== */
+
+/* 태블릿 (1024px 이하) */
+@media (max-width: 1024px) {
+  .footer {
+    padding: var(--spacing-lg) 0;
+  }
+
+  .linkList {
+    gap: var(--spacing-sm);
+  }
+}
+
+/* 모바일 (768px 이하) */
+@media (max-width: 768px) {
+  .footer {
+    padding: var(--spacing-md) 0;
+  }
+
+  .container {
+    padding: 0 var(--spacing-sm);
+  }
+
+  .linkList {
+    flex-direction: column;
+    gap: var(--spacing-xs);
+  }
+
+  .link {
+    font-size: 13px;
+  }
+
+  .copyright {
+    font-size: 12px;
+  }
+}
+
+/* 작은 모바일 (480px 이하) */
+@media (max-width: 480px) {
+  .footer {
+    padding: var(--spacing-sm) 0;
+  }
+
+  .link {
+    font-size: 12px;
+  }
+
+  .copyright {
+    font-size: 11px;
+  }
+}

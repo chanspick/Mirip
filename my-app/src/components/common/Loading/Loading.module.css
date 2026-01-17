@@ -1,0 +1,98 @@
+/* Loading 컴포넌트 스타일 */
+/* SPEC-UI-001: MIRIP 디자인 시스템 기반 로딩 스타일 */
+
+/* 기본 로딩 컨테이너 */
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 스피너 기본 스타일 */
+.spinner {
+  border-radius: 50%;
+  border: 3px solid var(--border-light);
+  border-top-color: var(--accent-gold);
+  animation: spin 1s linear infinite;
+}
+
+/* 스피닝 애니메이션 */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* ===== Size Styles ===== */
+
+/* Small 사이즈: 24px */
+.sm .spinner {
+  width: 24px;
+  height: 24px;
+  border-width: 2px;
+}
+
+/* Medium 사이즈: 40px (기본) */
+.md .spinner {
+  width: 40px;
+  height: 40px;
+  border-width: 3px;
+}
+
+/* Large 사이즈: 64px */
+.lg .spinner {
+  width: 64px;
+  height: 64px;
+  border-width: 4px;
+}
+
+/* ===== Full Screen Mode ===== */
+
+.fullScreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(26, 26, 26, 0.6);
+  z-index: 9999;
+}
+
+/* ===== Responsive Styles ===== */
+
+/* 태블릿 (1024px 이하) */
+@media (max-width: 1024px) {
+  .lg .spinner {
+    width: 56px;
+    height: 56px;
+  }
+}
+
+/* 모바일 (768px 이하) */
+@media (max-width: 768px) {
+  .sm .spinner {
+    width: 20px;
+    height: 20px;
+  }
+
+  .md .spinner {
+    width: 32px;
+    height: 32px;
+  }
+
+  .lg .spinner {
+    width: 48px;
+    height: 48px;
+  }
+}
+
+/* 작은 모바일 (480px 이하) */
+@media (max-width: 480px) {
+  .lg .spinner {
+    width: 40px;
+    height: 40px;
+  }
+}

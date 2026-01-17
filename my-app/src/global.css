@@ -1,0 +1,189 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Noto+Serif+KR:wght@400;500;700&family=Roboto+Mono:wght@400;500&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* ===== MIRIP Design System ===== */
+
+  /* 배경색 (Background Colors) */
+  --bg-primary: #FAFAFA;
+  --bg-secondary: #F5F3F0;
+  --white: #FFFFFF;
+
+  /* 텍스트 (Text Colors) */
+  --text-primary: #1A1A1A;
+  --text-secondary: #666666;
+  --text-muted: #999999;
+
+  /* 포인트 컬러 (Accent Colors) */
+  --accent-gold: #B8860B;
+  --accent-cta: #8B0000;
+  --accent-cta-hover: #6B0000;
+
+  /* 보더 (Border Colors) */
+  --border-light: #D4CFC9;
+  --border-medium: #BFBAB3;
+
+  /* 트랜지션 (Transitions) */
+  --transition-fast: 0.3s ease;
+  --transition-smooth: 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* 간격 (Spacing) */
+  --spacing-xs: 8px;
+  --spacing-sm: 16px;
+  --spacing-md: 24px;
+  --spacing-lg: 32px;
+  --spacing-xl: 48px;
+  --spacing-section: 120px;
+
+  /* 폰트 (Fonts) */
+  --font-serif: 'Noto Serif KR', serif;
+  --font-sans: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-english: 'Cormorant Garamond', serif;
+  --font-mono: 'Roboto Mono', monospace;
+
+  /* 그림자 (Shadows) */
+  --shadow-card: 0 0 0 1px var(--border-light);
+  --shadow-frame: 20px 20px 0 0 #E8E4DF;
+
+  /* ===== Legacy Daconio Variables ===== */
+
+  /* fonts */
+  --daconio-inter-demilight-12: "Noto Sans KR";
+  --daconio-inter-regular-16: Roboto;
+
+  /* font sizes */
+  --daconio-inter-demilight-12-size: 12px;
+  --daconio-inter-medium-14-size: 14px;
+  --daconio-inter-demilight-16-size: 16px;
+  --daconio-inter-demilight-13-size: 13px;
+  --daconio-noto-sans-kr-bold-20-size: 20px;
+  --font-size-lg-7: 18.7px;
+  --daconio-inter-demilight-10-size: 10px;
+  --daconio-inter-bold-24-size: 24px;
+  --font-size-lgi: 19px;
+
+  /* Colors */
+  --daconio-white: #fff;
+  --daconio-athens-gray1: #f9fafb;
+  --daconio-athens-gray: #f3f4f6;
+  --daconio-dodger-blue: #3b82f6;
+  --daconio-royal-blue: #3c7cde;
+  --daconio-royal-blue1: #3b7cde;
+  --daconio-nevada: #5d6970;
+  --daconio-river-bed: #4b5563;
+  --daconio-scampi: #545ca5;
+  --daconio-deep-sapphire: #0c3675;
+  --daconio-gray-chateau: #9ca3af;
+  --daconio-alto: #e0e0e0;
+  --daconio-alabaster: #fafafa;
+  --daconio-oslo-gray: #808388;
+  --daconio-mine-shaft: #222;
+  --daconio-cod-gray: #171717;
+  --daconio-cod-gray-60: rgba(23, 23, 23, 0.6);
+  --daconio-black-87: rgba(0, 0, 0, 0.87);
+  --daconio-black-12: rgba(0, 0, 0, 0.12);
+  --daconio-black: #000;
+  --daconio-tundora: #424242;
+  --daconio-oxford-blue: #384252;
+  --daconio-oxford-blue1: #374151;
+  --daconio-oxford-blue-20: rgba(56, 66, 82, 0.2);
+  --daconio-oxford-blue-80: rgba(56, 66, 82, 0.8);
+  --daconio-mischka: #d1d5db;
+  --daconio-lochinvar: #329d83;
+  --daconio-pizza: #cc8d12;
+  --daconio-disco: #9a133b;
+  --daconio-genoa: #0e6969;
+  --daconio-texas-rose: #fdac53;
+  --daconio-royal-blue2: #2a61ef;
+  --daconio-tuscany: #b45a2e;
+  --daconio-atlantis: #9ac325;
+  --daconio-jade: #00c85c;
+  --color-tomato: #ef5656;
+  --daconio-electric-violet: #8923ef;
+  --daconio-robins-egg-blue: #00b9cb;
+  --daconio-orange: #ff6915;
+  --daconio-olivetone: #667b11;
+  --daconio-mandy: #e95c80;
+  --daconio-sunglow: #fdd032;
+  --daconio-froly: #f87272;
+  --daconio-pale-sky: #6b7280;
+
+  /* Gaps */
+  --gap-xs: 12px;
+  --gap-base: 16px;
+  --gap-xl: 20px;
+  --gap-61xl: 80px;
+  --gap-3xs: 10px;
+  --gap-8xs-5: 4.5px;
+  --gap-5xs: 8px;
+  --gap-6xl: 25px;
+  --gap-13xl: 32px;
+  --gap-10xs: 3px;
+  --gap-0: 0px;
+  --gap-2xs: 11px;
+  --gap-5xs-2: 7.2px;
+  --gap-9xs: 4px;
+  --gap-5xs-3: 7.3px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-50xl: 69px;
+  --padding-344xl: 363px;
+  --padding-31xl: 50px;
+  --padding-162xl: 181px;
+  --padding-71xl: 90px;
+  --padding-49xl: 68px;
+  --padding-7xs: 6px;
+  --padding-11xs: 2px;
+  --padding-xs: 12px;
+  --padding-sm: 14px;
+  --padding-57xl: 76px;
+  --padding-22xl: 41px;
+  --padding-15xl: 34px;
+  --padding-6xl: 25px;
+  --padding-26xl: 45px;
+  --padding-10xl: 29px;
+  --padding-3xl: 22px;
+  --padding-4xl: 23px;
+  --padding-base: 16px;
+  --padding-43xl: 62px;
+  --padding-mini: 15px;
+  --padding-11xl: 30px;
+  --padding-smi: 13px;
+  --padding-mid: 17px;
+  --padding-5xl: 24px;
+  --padding-10xs: 3px;
+  --padding-36xl: 55px;
+  --padding-6xs: 7px;
+  --padding-5xs: 8px;
+  --padding-3xs: 10px;
+  --padding-9xs: 4px;
+  --padding-2xs: 11px;
+  --padding-xs-5: 11.5px;
+  --padding-smi-5: 12.5px;
+  --padding-12xs: 1px;
+  --padding-158xl: 177px;
+  --padding-48xl: 67px;
+  --padding-8xs: 5px;
+  --padding-3xs-5: 9.5px;
+  --padding-11xs-2: 1.2px;
+  --padding-9xs-7: 3.7px;
+  --padding-9xs-8: 3.8px;
+  --padding-2xs-7: 10.7px;
+  --padding-21xl: 40px;
+  --padding-7xl: 26px;
+
+  /* Border radiuses */
+  --br-9xl: 28px;
+  --br-9xs: 4px;
+  --br-xl: 20px;
+  --br-5xs: 8px;
+  --br-9980xl: 9999px;
+  --br-base: 16px;
+}

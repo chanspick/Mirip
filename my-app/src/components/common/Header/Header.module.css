@@ -1,0 +1,181 @@
+/* Header 컴포넌트 스타일 */
+/* SPEC-UI-001: MIRIP 디자인 시스템 기반 헤더 스타일 */
+
+/* 기본 헤더 스타일 - 고정 위치 */
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: var(--white);
+  transition: all var(--transition-fast);
+}
+
+/* 스크롤 시 효과 - 블러 + 그림자 */
+.scrolled {
+  background-color: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* 컨테이너 */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--spacing-sm) var(--spacing-md);
+  height: 72px;
+  box-sizing: border-box;
+}
+
+/* 로고 영역 */
+.logoContainer {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.logoContainer img {
+  height: 40px;
+  width: auto;
+}
+
+/* 네비게이션 영역 */
+.nav {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  justify-content: center;
+}
+
+.navList {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-lg);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navItem {
+  margin: 0;
+  padding: 0;
+}
+
+/* 네비게이션 링크 - 골드 언더라인 애니메이션 */
+.navLink {
+  position: relative;
+  color: var(--text-primary);
+  text-decoration: none;
+  font-family: var(--font-sans);
+  font-size: 15px;
+  font-weight: 500;
+  padding: 8px 0;
+  transition: color var(--transition-fast);
+}
+
+.navLink::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 2px;
+  background-color: var(--accent-gold);
+  transition: all var(--transition-fast);
+  transform: translateX(-50%);
+}
+
+.navLink:hover {
+  color: var(--accent-gold);
+}
+
+.navLink:hover::after {
+  width: 100%;
+}
+
+/* CTA 버튼 영역 */
+.ctaContainer {
+  flex-shrink: 0;
+  margin-left: var(--spacing-md);
+}
+
+.ctaButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 28px;
+  background-color: var(--accent-cta);
+  color: var(--white);
+  border: none;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color var(--transition-fast);
+}
+
+.ctaButton:hover {
+  background-color: var(--accent-cta-hover);
+}
+
+/* ===== Responsive Styles ===== */
+
+/* 태블릿 (1024px 이하) */
+@media (max-width: 1024px) {
+  .container {
+    padding: var(--spacing-sm);
+  }
+
+  .navList {
+    gap: var(--spacing-md);
+  }
+
+  .navLink {
+    font-size: 14px;
+  }
+}
+
+/* 모바일 (768px 이하) */
+@media (max-width: 768px) {
+  .container {
+    height: 60px;
+  }
+
+  .nav {
+    display: none;
+  }
+
+  .ctaContainer {
+    margin-left: auto;
+  }
+
+  .ctaButton {
+    padding: 10px 20px;
+    font-size: 13px;
+  }
+
+  .logoContainer img {
+    height: 32px;
+  }
+}
+
+/* 작은 모바일 (480px 이하) */
+@media (max-width: 480px) {
+  .container {
+    padding: var(--spacing-xs) var(--spacing-sm);
+  }
+
+  .ctaButton {
+    padding: 8px 16px;
+    font-size: 12px;
+  }
+
+  .logoContainer img {
+    height: 28px;
+  }
+}

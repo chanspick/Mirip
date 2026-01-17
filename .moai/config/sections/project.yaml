@@ -1,0 +1,9 @@
+project:
+  name: Mirip
+  description: ''
+  type: ''
+  locale: '{{LOCALE}}'
+  created_at: '2026-01-17T14:41:18.857778Z'
+  initialized: 'true'
+github:
+  profile_name: chanspick

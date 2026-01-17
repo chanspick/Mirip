@@ -1,0 +1,162 @@
+
+# Dependencies
+/node_modules
+
+# Production
+/build
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.log
+
+# Editor directories and files
+.idea
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# OS-specific
+Thumbs.db
+  
+.uv-cache/
+# OS Files
+# Credential patterns in environment files
+secret-key-*
+# Skill-specific credentials
+*_token=*
+*-backup/
+# Private keys (specific patterns to avoid false positives)
+# Environment files
+.Spotlight-V100
+.moai-backups/
+.uv_cache/
+build/
+.coverage
+*_key.*
+.turbo/
+.#*
+.Trashes
+# Version: 0.33.0
+*.rdb
+# Windows
+.claude/.env.local*
+dist-ssr/
+node_modules/
+*.sw?
+# Cloud provider credentials
+logs/
+.vercel/
+.fseventsd
+*.sln
+*_backup_*/
+*.pyo
+.claude/local/
+*-secret.*
+# FIXED: Issue #237 - Replaced overly broad *key* and *secret* patterns
+*-key.*
+# Build Artifacts & Distribution
+# Deployment & CI/CD
+dist/
+.venv/
+.pytest_cache/
+.env/
+*.pfx
+# Build Tools & Frameworks
+.mypy_cache/
+*.key.*
+.VolumeIcon.icns
+env/
+*.tmp
+*.backup/
+# Test Coverage
+*.sublime-workspace
+*.db
+private-key*
+.tscache/
+# MoAI-ADK Package Distribution .gitignore
+# Updated: 2026-01-10
+.claude/skills/*/.env*
+htmlcov/
+*~
+*.secret.*
+*.pyd
+# ============================================
+# Secrets and Credentials (CRITICAL)
+.netlify/
+.ruff_cache/
+.firebase/
+*.njsproj
+*.sqlite
+# Python Cache & Bytecode
+*.jks
+*.sqlite3
+*.egg-info/
+# Mac
+.claude/settings.local.json
+.claude/skills/*/*/*token*
+*_secret.*
+# Logs & Temporary Files
+.aws/config
+*.tsbuildinfo
+# Linux
+secret-*.*
+.claude/skills/*/*/*secret*
+.DocumentRevisions-V100
+*.egg
+.aws/credentials
+.claude/skills/*/secrets/
+*.sublime-project
+*.temp
+*-api-key.*
+ehthumbs.db
+.env.*
+# Purpose: Essential patterns for user projects
+!.env.example
+*.bak
+# Backups
+coverage.json
+__pycache__/
+# ===========================================
+.LSOverride
+[Dd]esktop.ini
+.claude/settings.local.*.json
+.idea/
+# Certificate files
+*-secret-key.*
+.next/
+.directory
+api-key-*
+*.dbm
+.env
+.cursor/
+.TemporaryItems
+# Claude Code Configuration
+*.pyc
+out/
+# Node.js (for docs/Nextra)
+# IDE & Editors
+*.backup
+.AppleDouble
+.claude/skills/*/*/*key*
+venv/
+*.suo
+*_secret=*
+.nuxt/
+*.pem
+*.p12
+# Virtual Environments

@@ -89,9 +89,40 @@ AI 진단 학습을 위한 데이터 파이프라인입니다.
 
 **테스트 결과**: 168/168 통과 (100%)
 
+## AI 평가 모델 (SPEC-AI-001)
+
+DINOv2 기반 미술 작품 평가 모델입니다.
+
+### 모델 아키텍처
+
+- **Feature Extractor**: DINOv2 ViT-L (frozen backbone, 1024-d 출력)
+- **Projector**: 1024 → 512 → 256 (LayerNorm, GELU, Dropout 0.1)
+- **Score Head**: Linear (256 → 1)
+- **Loss**: MarginRankingLoss (margin=1.0)
+
+### 학습 설정
+
+- **Optimizer**: AdamW (lr=1e-4, weight_decay=0.01)
+- **Scheduler**: CosineAnnealingLR
+- **Early Stopping**: patience=10
+- **데이터 분할**: 80/10/10 (Stratified by tier)
+
+### 구현 현황
+
+| 컴포넌트 | 상태 | 설명 |
+|----------|------|------|
+| FeatureExtractor | 완료 | DINOv2 ViT-L 모델 로드 |
+| Projector | 완료 | 차원 축소 및 정규화 |
+| PairwiseRankingModel | 완료 | 통합 모델 |
+| PairwiseDataset | 완료 | 페어 생성 및 분할 |
+| Trainer | 완료 | 학습 루프 및 체크포인트 |
+
+**목표 정확도**: Pairwise Accuracy 60%+
+
 ## SPEC 문서
 
 - `SPEC-DATA-001`: AI 진단 데이터 파이프라인 (완료)
+- `SPEC-AI-001`: DINOv2 Baseline AI 평가 모델 (완료)
 - `SPEC-COMP-001`: 공모전 시스템
 - `SPEC-BACKEND-001`: 백엔드 API
 

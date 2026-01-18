@@ -1,0 +1,106 @@
+# MIRIP Backend Docker Compose Configuration
+# 개발 및 테스트 환경용
+
+version: '3.8'
+
+services:
+  # ======================
+  # API 서버
+  # ======================
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mirip-api
+    ports:
+      - "8000:8000"
+    volumes:
+      # 모델 가중치 (읽기 전용)
+      - ./weights:/app/weights:ro
+      # 로그 디렉토리
+      - ./logs:/app/logs
+      # 개발 모드: 코드 핫 리로드
+      - ./app:/app/app:ro
+    environment:
+      - DEBUG=true
+      - REDIS_URL=redis://redis:6379
+      - MODEL_WEIGHTS_PATH=/app/weights
+      - DEVICE=cuda
+    env_file:
+      - .env
+    depends_on:
+      redis:
+        condition: service_healthy
+    # GPU 지원 (NVIDIA)
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped
+
+  # ======================
+  # Redis 캐시
+  # ======================
+  redis:
+    image: redis:7-alpine
+    container_name: mirip-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    restart: unless-stopped
+
+  # ======================
+  # API 서버 (개발 모드 - GPU 없이)
+  # ======================
+  api-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mirip-api-dev
+    ports:
+      - "8001:8000"
+    volumes:
+      - ./app:/app/app:ro
+      - ./logs:/app/logs
+    environment:
+      - DEBUG=true
+      - REDIS_URL=redis://redis:6379
+      - DEVICE=cpu
+    env_file:
+      - .env
+    depends_on:
+      redis:
+        condition: service_healthy
+    profiles:
+      - dev
+    restart: unless-stopped
+
+# ======================
+# 볼륨
+# ======================
+volumes:
+  redis_data:
+    driver: local
+
+# ======================
+# 네트워크
+# ======================
+networks:
+  default:
+    name: mirip-network

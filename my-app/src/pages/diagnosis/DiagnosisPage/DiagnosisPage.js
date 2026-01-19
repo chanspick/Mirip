@@ -3,13 +3,22 @@
  *
  * MIRIP 프로토타입 - 작품 이미지를 업로드하고 AI 진단 결과를 받는 페이지
  * 디자인 시스템: Competition, Landing 페이지와 동일한 패턴 적용
+ * Phase B-3: Backend API 통합 (POST /api/v1/evaluate)
  *
  * @module pages/diagnosis/DiagnosisPage
  */
 
-import React, { useState, useCallback, useRef } from 'react';
+import React, { useState, useCallback, useRef, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Header, Footer, Button, Loading } from '../../../components/common';
+import {
+  evaluateImage,
+  generateMockResult,
+  checkApiHealth,
+  DiagnosisAPIError,
+  NetworkError,
+  TimeoutError,
+} from '../../../services/diagnosisService';
 import styles from './DiagnosisPage.module.css';
 
 /**
@@ -41,36 +50,44 @@ const DEPARTMENT_OPTIONS = [
 ];
 
 /**
- * 목 AI 진단 결과 (프로토타입용)
- * 실제 서비스에서는 백엔드 API 호출로 대체
+ * 진행 상태 메시지
  */
-const generateMockResult = (department) => {
-  // 학과별 대학 목록
-  const universities = {
-    visual_design: ['서울대', '홍익대', '국민대', '건국대'],
-    industrial_design: ['서울대', '홍익대', 'KAIST', '한양대'],
-    fine_art: ['서울대', '홍익대', '이화여대', '중앙대'],
-    craft: ['서울대', '홍익대', '국민대', '이화여대'],
-  };
+const PROGRESS_MESSAGES = {
+  uploading: '이미지를 업로드하고 있습니다...',
+  analyzing: 'AI가 작품을 분석하고 있습니다...',
+  processing: '결과를 처리하고 있습니다...',
+  default: 'AI가 작품을 분석하고 있습니다...',
+};
 
-  const scores = universities[department] || universities.visual_design;
-
+/**
+ * 에러 타입별 메시지
+ */
+const getErrorMessage = (error) => {
+  if (error instanceof NetworkError) {
+    return {
+      message: error.message,
+      canRetry: true,
+      type: 'network',
+    };
+  }
+  if (error instanceof TimeoutError) {
+    return {
+      message: error.message,
+      canRetry: true,
+      type: 'timeout',
+    };
+  }
+  if (error instanceof DiagnosisAPIError) {
+    return {
+      message: error.message,
+      canRetry: error.statusCode >= 500, // 서버 오류만 재시도 가능
+      type: 'api',
+    };
+  }
   return {
-    tier: ['S', 'A', 'B', 'C'][Math.floor(Math.random() * 3)],
-    universityScores: scores.map(univ => ({
-      university: univ,
-      score: Math.floor(Math.random() * 30) + 60,
-    })),
-    feedback: {
-      strengths: ['구도 구성이 안정적입니다', '명암 대비가 효과적입니다'],
-      improvements: ['비례 표현을 보완하면 좋겠습니다', '디테일 표현을 강화해보세요'],
-    },
-    axisScores: {
-      composition: Math.floor(Math.random() * 20) + 70,
-      color: Math.floor(Math.random() * 20) + 65,
-      technique: Math.floor(Math.random() * 20) + 68,
-      creativity: Math.floor(Math.random() * 20) + 72,
-    },
+    message: '진단 중 오류가 발생했습니다. 다시 시도해주세요.',
+    canRetry: true,
+    type: 'unknown',
   };
 };
 
@@ -85,9 +102,26 @@ const DiagnosisPage = () => {
   const [isAnalyzing, setIsAnalyzing] = useState(false);
   const [result, setResult] = useState(null);
   const [error, setError] = useState(null);
+  const [errorInfo, setErrorInfo] = useState(null); // 상세 에러 정보
   const [isDragging, setIsDragging] = useState(false);
+  const [progressStatus, setProgressStatus] = useState('default'); // 진행 상태
+  const [isApiAvailable, setIsApiAvailable] = useState(null); // API 가용성
 
   const fileInputRef = useRef(null);
+
+  /**
+   * API 서버 상태 확인 (마운트 시)
+   */
+  useEffect(() => {
+    const checkApi = async () => {
+      const available = await checkApiHealth();
+      setIsApiAvailable(available);
+      if (!available) {
+        console.log('[DiagnosisPage] API 서버 불가 - Mock 모드로 동작합니다.');
+      }
+    };
+    checkApi();
+  }, []);
 
   /**
    * 파일 선택 핸들러
@@ -163,20 +197,57 @@ const DiagnosisPage = () => {
 
     setIsAnalyzing(true);
     setError(null);
+    setErrorInfo(null);
+    setProgressStatus('default');
 
     try {
-      // 프로토타입: 2초 딜레이 후 목 결과 반환
-      // 실제 서비스에서는 백엔드 API 호출
-      await new Promise(resolve => setTimeout(resolve, 2000));
+      let analysisResult;
 
-      const mockResult = generateMockResult(department);
-      setResult(mockResult);
+      // API가 사용 불가능하면 Mock 모드로 폴백
+      if (isApiAvailable === false) {
+        console.log('[DiagnosisPage] API 불가 - Mock 결과 사용');
+        analysisResult = await generateMockResult(department);
+      } else {
+        // 실제 API 호출
+        analysisResult = await evaluateImage(
+          selectedImage,
+          department,
+          true, // includeFeedback
+          {
+            timeout: 30000, // 30초 타임아웃
+            onProgress: (status) => {
+              setProgressStatus(status);
+            },
+          }
+        );
+      }
+
+      setResult(analysisResult);
     } catch (err) {
-      setError('진단 중 오류가 발생했습니다. 다시 시도해주세요.');
+      console.error('[DiagnosisPage] 진단 오류:', err);
+
+      const errorDetails = getErrorMessage(err);
+      setError(errorDetails.message);
+      setErrorInfo(errorDetails);
+
+      // API 오류 시 Mock 폴백 시도 (네트워크/타임아웃 에러만)
+      if (errorDetails.type === 'network' || errorDetails.type === 'timeout') {
+        setIsApiAvailable(false);
+      }
     } finally {
       setIsAnalyzing(false);
+      setProgressStatus('default');
     }
-  }, [selectedImage, department]);
+  }, [selectedImage, department, isApiAvailable]);
+
+  /**
+   * 재시도 핸들러
+   */
+  const handleRetry = useCallback(() => {
+    setError(null);
+    setErrorInfo(null);
+    handleAnalyze();
+  }, [handleAnalyze]);
 
   /**
    * 초기화 핸들러
@@ -186,6 +257,8 @@ const DiagnosisPage = () => {
     setPreviewUrl(null);
     setResult(null);
     setError(null);
+    setErrorInfo(null);
+    setProgressStatus('default');
   }, []);
 
   return (
@@ -283,6 +356,15 @@ const DiagnosisPage = () => {
               {error && (
                 <div className={styles.error}>
                   <span>{error}</span>
+                  {errorInfo?.canRetry && (
+                    <button
+                      className={styles.retryButton}
+                      onClick={handleRetry}
+                      type="button"
+                    >
+                      다시 시도
+                    </button>
+                  )}
                 </div>
               )}
 
@@ -303,7 +385,14 @@ const DiagnosisPage = () => {
               {isAnalyzing ? (
                 <div className={styles.loadingState}>
                   <Loading size="large" />
-                  <p className={styles.loadingText}>AI가 작품을 분석하고 있습니다...</p>
+                  <p className={styles.loadingText}>
+                    {PROGRESS_MESSAGES[progressStatus] || PROGRESS_MESSAGES.default}
+                  </p>
+                  {isApiAvailable === false && (
+                    <p className={styles.mockModeHint}>
+                      (오프라인 모드)
+                    </p>
+                  )}
                 </div>
               ) : result ? (
                 <div className={styles.resultCard}>
@@ -398,10 +487,21 @@ const DiagnosisPage = () => {
 
           {/* 안내 문구 */}
           <div className={styles.notice}>
-            <p>
-              <strong>프로토타입 안내:</strong> 현재는 목업 데이터로 동작합니다.
-              실제 AI 모델 연동은 추후 업데이트될 예정입니다.
-            </p>
+            {isApiAvailable === false ? (
+              <p>
+                <strong>오프라인 모드:</strong> 현재 AI 서버에 연결할 수 없어 데모 데이터로 동작합니다.
+                네트워크 연결을 확인하거나 잠시 후 다시 시도해주세요.
+              </p>
+            ) : isApiAvailable === true ? (
+              <p>
+                <strong>AI 진단 서비스:</strong> DINOv2 기반 AI 모델이 작품을 분석합니다.
+                결과는 참고용이며, 실제 입시 결과와 다를 수 있습니다.
+              </p>
+            ) : (
+              <p>
+                <strong>서버 연결 확인 중...</strong> 잠시만 기다려주세요.
+              </p>
+            )}
           </div>
         </div>
       </main>

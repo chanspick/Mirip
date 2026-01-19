@@ -9,7 +9,8 @@
 | **SPEC ID** | SPEC-CRED-001 |
 | **제목** | 크레덴셜 시스템 (마이페이지 + 공개 프로필 + GitHub 잔디밭) |
 | **생성일** | 2025-01-19 |
-| **상태** | Planned |
+| **완료일** | 2026-01-20 |
+| **상태** | ✅ Completed |
 | **우선순위** | HIGH (Phase 3 핵심 기능) |
 | **담당** | expert-frontend, expert-backend |
 | **관련 SPEC** | SPEC-COMP-001 (공모전), SPEC-AI-001 (AI 진단), SPEC-FIREBASE-001 |

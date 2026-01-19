@@ -1,6 +1,6 @@
 # MIRIP 개발 로드맵
 
-> 최종 업데이트: 2026-01-19
+> 최종 업데이트: 2026-01-20
 
 ---
 
@@ -9,6 +9,7 @@
 ```
 Phase 1 (Foundation)     ████████████████████ 100%  ✅ 완료
 Phase B (Integration)    ████████████████████ 100%  ✅ 완료
+Phase 3 (Credential)     ████████████████████ 100%  ✅ 완료
 Phase A (ML Training)    ████░░░░░░░░░░░░░░░░  20%  🔧 인프라 준비
 Phase C (Launch)         ░░░░░░░░░░░░░░░░░░░░   0%  ⏳ 대기
 ```
@@ -64,6 +65,28 @@ Phase C (Launch)         ░░░░░░░░░░░░░░░░░░�
 | Mock → Real API 전환 | ✅ 완료 | DiagnosisPage API 연결 |
 | 에러 핸들링 | ✅ 완료 | 네트워크 오류, 타임아웃 처리 |
 | 로딩 상태 개선 | ✅ 완료 | 진행 상태별 메시지 표시 |
+
+---
+
+## ✅ Phase 3: Credential System (크레덴셜) - 완료
+
+### SPEC-CRED-001: 마이페이지 + 공개 프로필 + GitHub 잔디밭
+
+| 마일스톤 | 우선순위 | 상태 | 설명 |
+|----------|----------|------|------|
+| M1: 데이터 모델 및 서비스 | PRIMARY | ✅ 완료 | Firestore 스키마, 서비스 레이어 |
+| M2: 마이페이지 (잔디밭) | PRIMARY | ✅ 완료 | ActivityHeatmap, ActivityTimeline |
+| M3: 공개 프로필 | SECONDARY | ✅ 완료 | PublicProfile, ProfileCard, TierBadge |
+| M4: 포트폴리오 관리 | SECONDARY | ✅ 완료 | Portfolio CRUD, 이미지 업로드 |
+| M5: 기존 시스템 연동 | FINAL | ✅ 완료 | 진단/공모전 → 활동 기록 자동화 |
+
+### 주요 산출물
+
+- **컴포넌트**: ActivityHeatmap, ActivityTimeline, StreakDisplay, ProfileCard, TierBadge, AchievementList, PortfolioCard, PortfolioGrid, PortfolioUploadForm, PortfolioModal
+- **서비스**: credentialService, activityService, portfolioService, awardService, integrationService
+- **Hooks**: useUserProfile, useActivities, usePortfolios, useAwards, useAuth
+- **페이지**: /profile (마이페이지), /profile/:username (공개 프로필), /portfolio (포트폴리오 관리)
+- **테스트**: 547+ 테스트 통과 (TDD 방식)
 
 ---
 

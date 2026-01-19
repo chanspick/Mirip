@@ -1,11 +1,10 @@
 // Landing 페이지 컴포넌트
-// SPEC-FIREBASE-001: 사전 등록 랜딩 페이지
-// 6개 섹션: Hero, Problem, Solution, AI Preview, CTA, Success Modal
-// TDD로 구현 - 28개 테스트 통과
+// MIRIP 프로토타입 버전 - 공모전 + AI 진단 연결
+// 5개 섹션: Hero, Problem, Solution, AI Preview, CTA (프로토타입)
 
-import React, { useState, useRef, useCallback, useMemo } from 'react';
-import { Header, Footer, Modal, Button } from '../../components/common';
-import RegistrationForm from '../../components/features/RegistrationForm';
+import React, { useCallback, useMemo } from 'react';
+import { Link, useNavigate } from 'react-router-dom';
+import { Header, Footer, Button } from '../../components/common';
 import styles from './Landing.module.css';
 
 /**
@@ -56,9 +55,10 @@ const AI_SCORES = [
  * @type {Array<{label: string, href: string}>}
  */
 const NAV_ITEMS = [
+  { label: '공모전', href: '/competitions' },
+  { label: 'AI 진단', href: '/diagnosis' },
   { label: 'Why MIRIP', href: '#problem' },
   { label: 'Solution', href: '#solution' },
-  { label: 'AI Preview', href: '#ai-preview' },
 ];
 
 /**
@@ -76,64 +76,36 @@ const FOOTER_LINKS = [
 
 /**
  * Landing 페이지 컴포넌트
- * 사전 등록을 위한 랜딩 페이지로, 6개의 섹션으로 구성됩니다.
+ * MIRIP 프로토타입 버전 - 공모전과 AI 진단 기능 제공
  *
  * @component
- * @example
- * return (
- *   <Landing />
- * )
  */
 const Landing = () => {
-  // 성공 모달 상태
-  const [isModalOpen, setIsModalOpen] = useState(false);
-
-  // CTA 섹션 참조 (스크롤용)
-  const ctaSectionRef = useRef(null);
+  const navigate = useNavigate();
 
   /**
-   * CTA 섹션으로 스크롤
-   * @function
+   * AI 진단 페이지로 이동
    */
-  const scrollToCta = useCallback(() => {
-    if (ctaSectionRef.current) {
-      ctaSectionRef.current.scrollIntoView({
-        behavior: 'smooth',
-        block: 'start',
-      });
-    }
-  }, []);
-
-  /**
-   * 등록 성공 핸들러
-   */
-  const handleRegistrationSuccess = useCallback(() => {
-    setIsModalOpen(true);
-  }, []);
-
-  /**
-   * 모달 닫기 핸들러
-   */
-  const handleCloseModal = useCallback(() => {
-    setIsModalOpen(false);
-  }, []);
+  const goToDiagnosis = useCallback(() => {
+    navigate('/diagnosis');
+  }, [navigate]);
 
   /**
    * Header CTA 버튼 설정 (메모이제이션)
    */
   const ctaButtonConfig = useMemo(
     () => ({
-      label: '사전등록',
-      onClick: scrollToCta,
+      label: 'AI 진단',
+      onClick: goToDiagnosis,
     }),
-    [scrollToCta]
+    [goToDiagnosis]
   );
 
   return (
     <div className={styles.landing}>
       {/* Header */}
       <Header
-        logo={<span className={styles.logo}>MIRIP</span>}
+        logo={<Link to="/" className={styles.logo}>MIRIP</Link>}
         navItems={NAV_ITEMS}
         ctaButton={ctaButtonConfig}
       />
@@ -156,8 +128,8 @@ const Landing = () => {
               <br />
               객관적으로 진단합니다
             </p>
-            <Button variant="cta" size="lg" onClick={scrollToCta}>
-              사전등록
+            <Button variant="cta" size="lg" onClick={goToDiagnosis}>
+              AI 진단 시작하기
             </Button>
           </div>
           <div className={styles.heroVisual}>
@@ -269,31 +241,51 @@ const Landing = () => {
                     비례 보완 추천"
                   </p>
                 </div>
+                <Link to="/diagnosis" className={styles.tryDiagnosisButton}>
+                  내 작품 진단받기
+                </Link>
               </div>
             </div>
           </div>
         </div>
       </section>
 
-      {/* CTA Section */}
+      {/* CTA Section - 프로토타입 기능 소개 */}
       <section
         id="cta"
         className={styles.cta}
         data-testid="cta-section"
-        ref={ctaSectionRef}
       >
         <div className={styles.container}>
           <div className={styles.ctaWrapper}>
             <div className={styles.sectionHeader}>
-              <span className={styles.sectionLabel}>Pre-registration</span>
-              <h2 className={styles.sectionTitle}>MIRIP, 곧 시작됩니다</h2>
+              <span className={styles.sectionLabel}>Try Now</span>
+              <h2 className={styles.sectionTitle}>지금 바로 체험해보세요</h2>
             </div>
-            <RegistrationForm
-              onSuccess={handleRegistrationSuccess}
-              className={styles.ctaForm}
-            />
+            <div className={styles.ctaCards}>
+              <Link to="/competitions" className={styles.ctaCard}>
+                <div className={styles.ctaCardIcon}>🏆</div>
+                <h3 className={styles.ctaCardTitle}>공모전</h3>
+                <p className={styles.ctaCardDesc}>
+                  다양한 분야의 공모전에 참여하고
+                  <br />
+                  실력을 뽐내보세요
+                </p>
+                <span className={styles.ctaCardLink}>둘러보기 →</span>
+              </Link>
+              <Link to="/diagnosis" className={styles.ctaCard}>
+                <div className={styles.ctaCardIcon}>🤖</div>
+                <h3 className={styles.ctaCardTitle}>AI 진단</h3>
+                <p className={styles.ctaCardDesc}>
+                  내 작품의 대학별 합격 가능성을
+                  <br />
+                  AI로 분석해보세요
+                </p>
+                <span className={styles.ctaCardLink}>진단받기 →</span>
+              </Link>
+            </div>
             <p className={styles.ctaNotice}>
-              등록하신 정보는 서비스 출시 알림 목적으로만 사용됩니다.
+              프로토타입 버전입니다. 더 나은 서비스를 위해 피드백을 기다립니다.
             </p>
           </div>
         </div>
@@ -304,20 +296,6 @@ const Landing = () => {
         links={FOOTER_LINKS}
         copyright="© 2025 MIRIP. All rights reserved."
       />
-
-      {/* Success Modal */}
-      <Modal
-        isOpen={isModalOpen}
-        onClose={handleCloseModal}
-        title="등록이 완료되었습니다"
-      >
-        <div className={styles.modalContent}>
-          <div className={styles.modalIcon}>&#10003;</div>
-          <p className={styles.modalText}>
-            서비스 출시 시 가장 먼저 알려드리겠습니다.
-          </p>
-        </div>
-      </Modal>
     </div>
   );
 };

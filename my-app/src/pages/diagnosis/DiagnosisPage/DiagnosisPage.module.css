@@ -1,0 +1,599 @@
+/* DiagnosisPage 스타일 */
+/* MIRIP Design System 적용 */
+
+/* ===== Page Layout ===== */
+.page {
+  min-height: 100vh;
+  background-color: var(--bg-primary);
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1;
+  padding-top: 80px; /* Header only */
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--spacing-xl) var(--spacing-md);
+}
+
+/* ===== 프로토타입 배너 ===== */
+.prototypeBanner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1001;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-xs);
+  padding: 8px var(--spacing-md);
+  background: linear-gradient(90deg, var(--accent-gold) 0%, #D4A853 100%);
+  color: var(--white);
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.prototypeIcon {
+  font-size: 14px;
+}
+
+.prototypeText {
+  letter-spacing: 0.02em;
+}
+
+/* ===== Logo ===== */
+.logo {
+  font-family: var(--font-english);
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--text-primary);
+  letter-spacing: 0.1em;
+  text-decoration: none;
+}
+
+/* ===== 페이지 헤더 ===== */
+.header {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+  padding: var(--spacing-lg) 0;
+}
+
+.sectionLabel {
+  display: inline-block;
+  font-family: var(--font-english);
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--accent-gold);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: var(--spacing-sm);
+}
+
+.title {
+  font-family: var(--font-serif);
+  font-size: clamp(32px, 5vw, 48px);
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 var(--spacing-sm) 0;
+  letter-spacing: -0.02em;
+}
+
+.subtitle {
+  font-family: var(--font-sans);
+  font-size: 18px;
+  color: var(--text-secondary);
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* ===== 콘텐츠 레이아웃 ===== */
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-xl);
+  align-items: start;
+}
+
+/* ===== 업로드 섹션 ===== */
+.uploadSection {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.uploadArea {
+  position: relative;
+  background-color: var(--white);
+  border: 2px dashed var(--border-light);
+  cursor: pointer;
+  transition: border-color var(--transition-fast), background-color var(--transition-fast);
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.uploadArea:hover {
+  border-color: var(--accent-gold);
+  background-color: var(--bg-secondary);
+}
+
+.uploadArea.dragging {
+  border-color: var(--accent-cta);
+  background-color: rgba(139, 0, 0, 0.05);
+}
+
+.uploadArea.hasImage {
+  border-style: solid;
+  cursor: default;
+}
+
+.fileInput {
+  display: none;
+}
+
+.uploadPlaceholder {
+  text-align: center;
+  padding: var(--spacing-xl);
+}
+
+.uploadIcon {
+  font-size: 64px;
+  margin-bottom: var(--spacing-md);
+}
+
+.uploadText {
+  font-size: 16px;
+  color: var(--text-primary);
+  margin: 0 0 var(--spacing-sm) 0;
+  line-height: 1.6;
+}
+
+.uploadHint {
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+/* 미리보기 */
+.previewContainer {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-md);
+}
+
+.previewImage {
+  max-width: 100%;
+  max-height: 380px;
+  object-fit: contain;
+}
+
+.changeButton {
+  position: absolute;
+  top: var(--spacing-sm);
+  right: var(--spacing-sm);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  background-color: rgba(0, 0, 0, 0.7);
+  color: var(--white);
+  border: none;
+  font-size: 12px;
+  cursor: pointer;
+  transition: background-color var(--transition-fast);
+}
+
+.changeButton:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+/* 옵션 그룹 */
+.optionGroup {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+}
+
+.optionLabel {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.select {
+  padding: var(--spacing-sm) var(--spacing-md);
+  border: 1px solid var(--border-light);
+  background-color: var(--white);
+  font-family: var(--font-sans);
+  font-size: 15px;
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: border-color var(--transition-fast);
+}
+
+.select:focus {
+  outline: none;
+  border-color: var(--accent-gold);
+}
+
+.select:disabled {
+  background-color: var(--bg-secondary);
+  cursor: not-allowed;
+}
+
+/* 에러 메시지 */
+.error {
+  padding: var(--spacing-sm) var(--spacing-md);
+  background-color: #fff5f5;
+  border: 1px solid #feb2b2;
+  color: var(--accent-cta);
+  font-size: 14px;
+}
+
+/* 분석 버튼 */
+.analyzeButton {
+  width: 100%;
+  margin-top: var(--spacing-sm);
+}
+
+/* ===== 결과 섹션 ===== */
+.resultSection {
+  min-height: 500px;
+}
+
+/* 로딩 상태 */
+.loadingState {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  background-color: var(--white);
+  border: 1px solid var(--border-light);
+}
+
+.loadingText {
+  margin-top: var(--spacing-md);
+  font-size: 16px;
+  color: var(--text-secondary);
+}
+
+/* 빈 상태 */
+.emptyState {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-light);
+  text-align: center;
+  padding: var(--spacing-xl);
+}
+
+.emptyIcon {
+  font-size: 64px;
+  margin-bottom: var(--spacing-md);
+  opacity: 0.6;
+}
+
+.emptyTitle {
+  font-family: var(--font-serif);
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 var(--spacing-sm) 0;
+}
+
+.emptyText {
+  font-size: 14px;
+  color: var(--text-muted);
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* ===== 결과 카드 ===== */
+.resultCard {
+  background-color: var(--white);
+  border: 1px solid var(--border-light);
+  padding: var(--spacing-lg);
+}
+
+/* 티어 섹션 */
+.tierSection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-md);
+  padding-bottom: var(--spacing-lg);
+  border-bottom: 1px solid var(--border-light);
+  margin-bottom: var(--spacing-lg);
+}
+
+.tierLabel {
+  font-size: 16px;
+  color: var(--text-secondary);
+}
+
+.tierValue {
+  font-family: var(--font-english);
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.tierS {
+  color: #FFD700;
+}
+
+.tierA {
+  color: var(--accent-cta);
+}
+
+.tierB {
+  color: var(--accent-gold);
+}
+
+.tierC {
+  color: var(--text-secondary);
+}
+
+/* 점수 섹션 */
+.scoresSection {
+  margin-bottom: var(--spacing-lg);
+}
+
+.sectionSubtitle {
+  font-family: var(--font-serif);
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 var(--spacing-md) 0;
+}
+
+.scoresList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+}
+
+.scoreItem {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+}
+
+.scoreUniv {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-primary);
+  min-width: 60px;
+}
+
+.scoreBar {
+  flex: 1;
+  height: 8px;
+  background-color: var(--bg-secondary);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.scoreFill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent-gold) 0%, var(--accent-cta) 100%);
+  border-radius: 4px;
+  transition: width 0.5s ease;
+}
+
+.scoreValue {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--accent-cta);
+  min-width: 40px;
+  text-align: right;
+}
+
+/* 4축 점수 */
+.axisSection {
+  margin-bottom: var(--spacing-lg);
+  padding-bottom: var(--spacing-lg);
+  border-bottom: 1px solid var(--border-light);
+}
+
+.axisGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--spacing-md);
+}
+
+.axisItem {
+  text-align: center;
+  padding: var(--spacing-sm);
+  background-color: var(--bg-secondary);
+}
+
+.axisLabel {
+  display: block;
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-bottom: var(--spacing-xs);
+}
+
+.axisValue {
+  font-family: var(--font-mono);
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+/* 피드백 섹션 */
+.feedbackSection {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
+}
+
+.feedbackGroup {
+  padding: var(--spacing-sm);
+}
+
+.feedbackTitle {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 var(--spacing-sm) 0;
+}
+
+.feedbackList {
+  margin: 0;
+  padding-left: var(--spacing-md);
+}
+
+.feedbackList li {
+  font-size: 13px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: var(--spacing-xs);
+}
+
+/* 리셋 버튼 */
+.resetButton {
+  width: 100%;
+  padding: var(--spacing-sm) var(--spacing-md);
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-light);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: background-color var(--transition-fast);
+}
+
+.resetButton:hover {
+  background-color: var(--border-light);
+}
+
+/* ===== 안내 문구 ===== */
+.notice {
+  margin-top: var(--spacing-xl);
+  padding: var(--spacing-md);
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-light);
+  text-align: center;
+}
+
+.notice p {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin: 0;
+  line-height: 1.6;
+}
+
+.notice strong {
+  color: var(--text-primary);
+}
+
+/* ===== 반응형 ===== */
+@media (max-width: 1024px) {
+  .content {
+    gap: var(--spacing-lg);
+  }
+
+  .axisGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .main {
+    padding-top: 110px;
+  }
+
+  .content {
+    grid-template-columns: 1fr;
+  }
+
+  .uploadArea {
+    min-height: 300px;
+  }
+
+  .previewContainer {
+    min-height: 300px;
+  }
+
+  .previewImage {
+    max-height: 280px;
+  }
+
+  .resultSection {
+    min-height: auto;
+  }
+
+  .loadingState,
+  .emptyState {
+    height: 300px;
+  }
+
+  .tierValue {
+    font-size: 36px;
+  }
+
+  .feedbackSection {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .prototypeBanner {
+    font-size: 11px;
+    padding: 6px var(--spacing-sm);
+  }
+
+  .main {
+    padding-top: 100px;
+  }
+
+  .container {
+    padding: var(--spacing-lg) var(--spacing-sm);
+  }
+
+  .header {
+    padding: var(--spacing-md) 0;
+  }
+
+  .title {
+    font-size: 28px;
+  }
+
+  .subtitle {
+    font-size: 16px;
+  }
+
+  .uploadArea {
+    min-height: 250px;
+  }
+
+  .uploadIcon,
+  .emptyIcon {
+    font-size: 48px;
+  }
+
+  .axisGrid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-sm);
+  }
+
+  .axisValue {
+    font-size: 20px;
+  }
+}

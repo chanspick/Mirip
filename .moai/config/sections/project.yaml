@@ -5,7 +5,7 @@ project:
   locale: 'ko-KR'
   created_at: '2026-01-17T19:16:59.228568Z'
   initialized: 'true'
-  current_phase: 'Phase A - ML Training'
-  progress: '70%'  # Phase 1 + Phase B 완료, Phase A 인프라 준비
+  current_phase: 'Phase A - ML Training (데이터 수집)'
+  progress: '80%'  # Phase 1 + Phase B + Phase 3 완료, Phase A 데이터 수집 대기
 github:
   profile_name: chanspick

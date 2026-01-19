@@ -164,12 +164,37 @@ Mirip/
 ├── my-app/                    # React Frontend
 │   ├── src/
 │   │   ├── components/        # UI 컴포넌트
+│   │   │   ├── common/        # 공통 컴포넌트 (Header, Footer, Button 등)
+│   │   │   ├── credential/    # 크레덴셜 컴포넌트 (Phase 3)
+│   │   │   │   ├── ActivityHeatmap/   # GitHub 잔디밭 스타일
+│   │   │   │   ├── ActivityTimeline/  # 활동 타임라인
+│   │   │   │   ├── StreakDisplay/     # 연속 활동 표시
+│   │   │   │   ├── ProfileCard/       # 프로필 카드
+│   │   │   │   ├── TierBadge/         # 등급 배지 (S/A/B/C)
+│   │   │   │   ├── AchievementList/   # 수상 내역
+│   │   │   │   └── Portfolio*/        # 포트폴리오 관련
+│   │   │   └── competitions/  # 공모전 컴포넌트
 │   │   ├── pages/             # 페이지 컴포넌트
 │   │   │   ├── Landing/       # 랜딩 페이지
 │   │   │   ├── competitions/  # 공모전 페이지들
-│   │   │   └── diagnosis/     # AI 진단 페이지
+│   │   │   ├── diagnosis/     # AI 진단 페이지
+│   │   │   ├── Profile/       # 마이페이지 (/profile)
+│   │   │   ├── PublicProfile/ # 공개 프로필 (/profile/:username)
+│   │   │   └── Portfolio/     # 포트폴리오 관리 (/portfolio)
 │   │   ├── hooks/             # 커스텀 훅
+│   │   │   ├── useUserProfile.js
+│   │   │   ├── useActivities.js
+│   │   │   ├── usePortfolios.js
+│   │   │   ├── useAwards.js
+│   │   │   └── useAuth.js
 │   │   ├── services/          # API 서비스
+│   │   │   ├── credentialService.js   # 사용자 프로필
+│   │   │   ├── activityService.js     # 활동 기록
+│   │   │   ├── portfolioService.js    # 포트폴리오
+│   │   │   ├── awardService.js        # 수상 내역
+│   │   │   └── integrationService.js  # 시스템 연동
+│   │   ├── types/             # 타입 정의
+│   │   ├── utils/             # 유틸리티
 │   │   └── config/            # 설정 파일
 │   └── public/
 │
@@ -255,10 +280,17 @@ python training/scripts/evaluate.py \
 - `.moai/specs/SPEC-BACKEND-001/` - Backend 셋업
 - `.moai/specs/SPEC-DATA-001/` - 데이터 파이프라인
 - `.moai/specs/SPEC-AI-001/` - AI 모델
+- `.moai/specs/SPEC-CRED-001/` - 크레덴셜 시스템 (마이페이지, 공개 프로필, 포트폴리오)
 
 ---
 
 ## 📜 커밋 히스토리
+
+### Phase 3 (완료)
+| 커밋 | 설명 | 날짜 |
+|------|------|------|
+| `170849f` | feat(credential): SPEC-CRED-001 크레덴셜 시스템 구현 | 2026-01-20 |
+| `dff0607` | docs: SPEC-CRED-001 완료 상태 업데이트 | 2026-01-20 |
 
 ### Phase A (진행중)
 | 커밋 | 설명 | 날짜 |
@@ -284,6 +316,38 @@ python training/scripts/evaluate.py \
 
 ---
 
-*문서 버전: 3.0.0*
+*문서 버전: 4.0.0*
 *작성자: MoAI-ADK*
-*마지막 업데이트: 2026-01-19*
+*마지막 업데이트: 2026-01-20*
+
+---
+
+## 🔄 다음 세션 이어하기
+
+### 현재 완료된 작업
+- ✅ Phase 1 (Foundation) - 6개 SPEC 완료
+- ✅ Phase B (Integration) - FE-BE 연동 완료
+- ✅ Phase 3 (Credential) - SPEC-CRED-001 완료 (83개 파일, 547+ 테스트)
+
+### 다음 우선순위 작업
+1. **Phase A-1: 데이터 수집** - 학습용 이미지 2,000개 수집
+   ```bash
+   # 이미지를 티어별 폴더에 정리 후:
+   cd backend
+   python training/scripts/prepare_data.py --input_dir data/images --output_csv data/metadata.csv --tier_mode directory
+   ```
+
+2. **Phase A-2: 모델 학습** - Pairwise Ranking 모델 학습
+   ```bash
+   python training/scripts/train.py --metadata_csv data/metadata.csv --output_dir checkpoints/ --epochs 100 --device cuda
+   ```
+
+### 로컬 개발 서버
+```bash
+cd my-app && npm start  # http://localhost:3000
+```
+
+### 새로 추가된 페이지
+- `/profile` - 마이페이지 (GitHub 잔디밭 스타일 활동 히트맵)
+- `/profile/:username` - 공개 프로필
+- `/portfolio` - 포트폴리오 관리

@@ -17,6 +17,7 @@ from fastapi.responses import JSONResponse
 from app.config import settings
 from app.models.response import DependencyStatus, ErrorResponse, HealthResponse
 from app.routers import compare, competition, credential, evaluate, history
+from app.services.inference import inference_service
 
 # ======================
 # 로깅 설정
@@ -47,13 +48,20 @@ logger = structlog.get_logger(__name__)
 # ======================
 @asynccontextmanager
 async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
-    """애플리케이션 수명주기 관리"""
+    """애플리케이션 생명주기 관리"""
     # Startup
     logger.info(
         "Starting MIRIP API Server",
         version=settings.PROJECT_VERSION,
         debug=settings.DEBUG,
     )
+    # Load ML models
+    try:
+        await inference_service.load_models()
+        logger.info("ML models loaded successfully")
+    except Exception as e:
+        logger.error("Failed to load ML models", error=str(e))
+        raise
     yield
     # Shutdown
     logger.info("Shutting down MIRIP API Server")
@@ -153,7 +161,7 @@ async def health_check() -> HealthResponse:
     """
     서버 상태 확인
 
-    서버가 정상적으로 동작하는지 확인합니다.
+    서버가 정상적으로 작동하는지 확인합니다.
     """
     return HealthResponse(
         status="healthy",

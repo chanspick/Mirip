@@ -1,6 +1,6 @@
 # MIRIP 개발 로드맵
 
-> 최종 업데이트: 2026-01-19
+> 최종 업데이트: 2026-01-19 (Phase A 준비)
 
 ---
 
@@ -9,7 +9,7 @@
 ```
 Phase 1 (Foundation)     ████████████████████ 100%  ✅ 완료
 Phase B (Integration)    ████████████████████ 100%  ✅ 완료
-Phase A (ML Training)    ░░░░░░░░░░░░░░░░░░░░   0%  ⏳ 대기
+Phase A (ML Training)    ████░░░░░░░░░░░░░░░░  20%  🔧 인프라 준비
 Phase C (Launch)         ░░░░░░░░░░░░░░░░░░░░   0%  ⏳ 대기
 ```
 
@@ -67,9 +67,20 @@ Phase C (Launch)         ░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## ⏳ Phase A: Multi-branch Model (로컬 학습)
+## 🔧 Phase A: Multi-branch Model (로컬 학습)
 
 > **전제조건**: RTX 4070 Ti Super 16GB GPU
+
+### A-0: 학습 인프라 (완료) ✅
+
+| 구성요소 | 상태 | 파일 |
+|---------|------|------|
+| 메인 학습 스크립트 | ✅ 완료 | `training/scripts/train.py` |
+| 평가 스크립트 | ✅ 완료 | `training/scripts/evaluate.py` |
+| 데이터 준비 스크립트 | ✅ 완료 | `training/scripts/prepare_data.py` |
+| PairwiseRankingModel | ✅ 완료 | `app/ml/ranking_model.py` |
+| Trainer (AdamW, 조기종료) | ✅ 완료 | `training/trainer.py` |
+| Evaluator | ✅ 완료 | `training/evaluator.py` |
 
 ### A-1: 데이터 수집
 
@@ -84,10 +95,10 @@ Phase C (Launch)         ░░░░░░░░░░░░░░░░░░�
 
 | 작업 | 상태 | 설명 |
 |------|------|------|
-| Pairwise 데이터 생성 | ⏳ 대기 | 티어 기반 쌍 생성 |
-| DINOv2 Projector 학습 | ⏳ 대기 | Backbone freeze, Projector만 학습 |
-| 검증 및 평가 | ⏳ 대기 | 목표: Pairwise Accuracy >= 60% |
-| 체크포인트 저장 | ⏳ 대기 | best model 저장 |
+| Pairwise 데이터 생성 | 🔧 준비됨 | `generate_pairs.py` 스크립트 완료 |
+| DINOv2 Projector 학습 | 🔧 준비됨 | `train.py` 스크립트 완료 |
+| 검증 및 평가 | 🔧 준비됨 | `evaluate.py` 스크립트 완료 |
+| 체크포인트 저장 | 🔧 준비됨 | Trainer에 구현됨 |
 
 ### A-3: 모델 배포
 
@@ -159,8 +170,45 @@ Mirip/
 ## 🎯 현재 우선순위
 
 1. **즉시**: Phase A-1 데이터 수집 (목표 2,000개)
+   - 이미지를 티어별(S/A/B/C) 폴더에 정리
+   - `python training/scripts/prepare_data.py --input_dir data/images --output_csv data/metadata.csv --tier_mode directory`
 2. **다음**: Phase A-2 모델 학습 (Pairwise Ranking)
+   - `python training/scripts/train.py --metadata_csv data/metadata.csv --output_dir checkpoints/ --epochs 100 --device cuda`
 3. **이후**: Phase A-3 모델 배포 및 Phase C 출시 준비
+
+---
+
+## 📖 학습 스크립트 사용법
+
+### 1. 데이터 준비
+```bash
+# 이미지 디렉토리 구조: data/images/{S,A,B,C}/*.jpg
+python training/scripts/prepare_data.py \
+    --input_dir data/images \
+    --output_csv data/metadata.csv \
+    --tier_mode directory \
+    --validate
+```
+
+### 2. 모델 학습
+```bash
+python training/scripts/train.py \
+    --metadata_csv data/metadata.csv \
+    --output_dir checkpoints/ \
+    --epochs 100 \
+    --batch_size 32 \
+    --lr 0.0001 \
+    --device cuda \
+    --wandb_project mirip-training
+```
+
+### 3. 모델 평가
+```bash
+python training/scripts/evaluate.py \
+    --checkpoint checkpoints/best_model.pt \
+    --test_csv checkpoints/test_metadata.csv \
+    --benchmark
+```
 
 ---
 

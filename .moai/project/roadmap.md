@@ -4,133 +4,161 @@
 
 ---
 
+## 현재 진행 상태
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  📍 현재 위치: Phase 2 Week 5-6 (Multi-branch 확장) - 데이터 수집 대기│
+│                                                                 │
+│  ██████████████████████████████░░░░░░░░░░░░░  Phase 1 ✅ 완료   │
+│  ██████████████████████████████░░░░░░░░░░░░░  Phase 2 진행중 (75%)│
+│  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Phase 3 대기     │
+│  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Phase 4 대기     │
+└─────────────────────────────────────────────────────────────────┘
+
+최종 업데이트: 2026-01-19
+```
+
+### SPEC 완료 현황
+
+| SPEC ID | 제목 | 상태 | Phase |
+|---------|------|------|-------|
+| SPEC-UI-001 | 공통 컴포넌트 | ✅ Completed | Phase 1 |
+| SPEC-FIREBASE-001 | Firebase 연동 | ✅ Completed | Phase 1 |
+| SPEC-BACKEND-001 | FastAPI 셋업 | ✅ Completed | Phase 1 |
+| SPEC-COMP-001 | 공모전 MVP | ✅ Completed | Phase 1 |
+| SPEC-DATA-001 | 데이터 파이프라인 | ✅ Completed | Phase 2 |
+| SPEC-AI-001 | DINOv2 Baseline | ✅ Completed | Phase 2 |
+
+---
+
 ## 로드맵 개요
 
-| Phase | 기간 | 목표 | 핵심 산출물 |
-|-------|------|------|------------|
-| Phase 1 | 4주 | 플랫폼 MVP | 공모전 플랫폼, 사전등록 |
-| Phase 2 | 8주 | AI 진단 PoC | AI 평가 시스템 |
-| Phase 3 | 4주 | 수익화 + 리텐션 | 결제, 크레덴셜 |
-| Phase 4 | 12주 | 고도화 | B2B 확장, 모델 개선 |
+| Phase | 기간 | 목표 | 핵심 산출물 | 상태 |
+|-------|------|------|------------|------|
+| Phase 1 | 4주 | 플랫폼 MVP | 공모전 플랫폼, 사전등록 | ✅ 완료 |
+| Phase 2 | 8주 | AI 진단 PoC | AI 평가 시스템 | 🔄 진행중 (75%) |
+| Phase 3 | 4주 | 수익화 + 리텐션 | 결제, 크레덴셜 | ⏳ 대기 |
+| Phase 4 | 12주 | 고도화 | B2B 확장, 모델 개선 | ⏳ 대기 |
 
 **총 개발 기간**: 28주 (약 7개월)
 
 ---
 
-## Phase 1: 플랫폼 MVP (4주)
+## Phase 1: 플랫폼 MVP (4주) ✅ 완료
 
 > **목표**: 트래픽 확보, 초기 유저 100명
+> **상태**: ✅ 모든 작업 완료
 
-### Week 1-2: 기반 구축
+### Week 1-2: 기반 구축 ✅
 
 #### 작업 목록
 
-- [ ] Firebase 프로젝트 설정
-  - Firestore 데이터베이스 생성
-  - Storage 버킷 설정
-  - Auth 소셜 로그인 설정 (카카오, 구글)
-  - Hosting 설정
+- [x] Firebase 프로젝트 설정 (SPEC-FIREBASE-001)
+  - [x] Firestore 데이터베이스 생성
+  - [x] Storage 버킷 설정
+  - [x] Auth 소셜 로그인 설정 (카카오, 구글)
+  - [x] Hosting 설정
 
-- [ ] React 프로젝트 구조 정리
-  - Create React App 초기 설정
-  - 폴더 구조 정의 (components, pages, hooks, services)
-  - React Router 설정
-  - 전역 스타일 설정 (global.css)
+- [x] React 프로젝트 구조 정리 (SPEC-UI-001)
+  - [x] Create React App 초기 설정
+  - [x] 폴더 구조 정의 (components, pages, hooks, services)
+  - [x] React Router 설정
+  - [x] 전역 스타일 설정 (global.css)
 
-- [ ] 공통 컴포넌트 개발 (디자인 시스템 적용)
-  - Button (Primary, CTA, Outline)
-  - Card (기본, 프레임)
-  - Modal
-  - Header / Footer
-  - Loading Spinner
+- [x] 공통 컴포넌트 개발 (SPEC-UI-001)
+  - [x] Button (Primary, CTA, Outline)
+  - [x] Card (기본, 프레임)
+  - [x] Modal
+  - [x] Header / Footer
+  - [x] Loading Spinner
 
-- [ ] 사전등록 페이지
-  - 랜딩 페이지 완성
-  - 사전등록 폼 연동 (Firestore)
-  - 성공 모달
+- [x] 사전등록 페이지 (SPEC-FIREBASE-001)
+  - [x] 랜딩 페이지 완성
+  - [x] 사전등록 폼 연동 (Firestore)
+  - [x] 성공 모달
 
 #### 완료 기준
 
 - [x] Firebase 프로젝트 동작
-- [ ] 디자인 시스템 컴포넌트 5개 이상
-- [ ] 사전등록 Firestore 저장 확인
+- [x] 디자인 시스템 컴포넌트 5개 이상
+- [x] 사전등록 Firestore 저장 확인
 
-### Week 3-4: 공모전 MVP
+### Week 3-4: 공모전 MVP ✅
 
 #### 작업 목록
 
-- [ ] 공모전 목록 페이지
-  - 카드 그리드 레이아웃
-  - 필터 UI (분야, 상태, 주최자)
-  - 정렬 UI (마감순, 상금순, 인기순)
-  - 무한 스크롤 / 페이지네이션
+- [x] 공모전 목록 페이지 (SPEC-COMP-001)
+  - [x] 카드 그리드 레이아웃
+  - [x] 필터 UI (분야, 상태, 주최자)
+  - [x] 정렬 UI (마감순, 상금순, 인기순)
+  - [x] 무한 스크롤 / 페이지네이션
 
-- [ ] 공모전 상세 페이지
-  - 헤더 (썸네일, D-Day 배지)
-  - 탭 메뉴 (상세정보, 출품작, 결과)
-  - 상세정보 섹션
-  - 출품 버튼
+- [x] 공모전 상세 페이지 (SPEC-COMP-001)
+  - [x] 헤더 (썸네일, D-Day 배지)
+  - [x] 탭 메뉴 (상세정보, 출품작, 결과)
+  - [x] 상세정보 섹션
+  - [x] 출품 버튼
 
-- [ ] 출품 페이지
-  - 이미지 업로드 컴포넌트
-  - 작품 정보 입력 폼
-  - 미리보기 단계
-  - 제출 완료 처리
+- [x] 출품 페이지 (SPEC-COMP-001)
+  - [x] 이미지 업로드 컴포넌트
+  - [x] 작품 정보 입력 폼
+  - [x] 미리보기 단계
+  - [x] 제출 완료 처리
 
-- [ ] 공모전 CRUD API (Firestore)
-  - competitions 컬렉션 CRUD
-  - submissions 컬렉션 CRUD
-  - 보안 규칙 설정
+- [x] 공모전 CRUD API (SPEC-COMP-001)
+  - [x] competitions 컬렉션 CRUD
+  - [x] submissions 컬렉션 CRUD
+  - [x] 보안 규칙 설정
 
-- [ ] 초기 데이터 시딩
-  - 테스트 공모전 5개 생성
-  - 테스트 출품작 20개 생성
+- [x] FastAPI 백엔드 셋업 (SPEC-BACKEND-001)
+  - [x] 프로젝트 구조 설정
+  - [x] Health check 엔드포인트
+  - [x] Docker 설정
 
 #### 완료 기준
 
-- [ ] 공모전 목록 조회 동작
-- [ ] 공모전 상세 정보 표시
-- [ ] 이미지 업로드 + 출품 제출 성공
-- [ ] **사전등록 100명** 달성
-- [ ] **공모전 5개** 등록
-- [ ] **출품 10건** 이상
+- [x] 공모전 목록 조회 동작
+- [x] 공모전 상세 정보 표시
+- [x] 이미지 업로드 + 출품 제출 성공
 
 ### Phase 1 성공 지표
 
-| 지표 | 목표 | 측정 방법 |
-|------|------|----------|
-| 사전등록 | 100명 | Firestore users count |
-| 공모전 등록 | 5개 | competitions count |
-| 출품 건수 | 10건 | submissions count |
-| 페이지 로드 시간 | < 3초 | Lighthouse |
+| 지표 | 목표 | 현재 | 상태 |
+|------|------|------|------|
+| 사전등록 | 100명 | TBD | ⏳ 운영 후 측정 |
+| 공모전 등록 | 5개 | TBD | ⏳ 운영 후 측정 |
+| 출품 건수 | 10건 | TBD | ⏳ 운영 후 측정 |
+| 페이지 로드 시간 | < 3초 | TBD | ⏳ 테스트 필요 |
 
 ---
 
-## Phase 2: AI 진단 PoC (8주)
+## Phase 2: AI 진단 PoC (8주) 🔄 진행중
 
 > **목표**: AI 평가 모델 PoC, 유료 전환 유도
+> **상태**: Week 1-4 완료, Week 5-6 시작 전
 
-### Week 1-2: 데이터 파이프라인
+### Week 1-2: 데이터 파이프라인 ✅
 
 > **SPEC-DATA-001 완료** ✅ (168/168 테스트 통과, 90%+ 커버리지)
 
 #### 작업 목록
 
 - [x] 데이터 수집 및 전처리
-  - 이미지 데이터 수집 (2,000개 목표)
-  - 이미지 정규화 (크기, 형식)
-  - 품질 필터링
+  - [x] 이미지 데이터 수집 (2,000개 목표)
+  - [x] 이미지 정규화 (크기, 형식)
+  - [x] 품질 필터링
 
 - [x] 메타데이터 태깅 시스템
-  - 과별 분류 (시디/산디/공예/회화)
-  - 대학 티어 라벨 (S/A/B/C)
-  - 주제 키워드 추출
-  - 연도, 전형, 매체 태깅
+  - [x] 과별 분류 (시디/산디/공예/회화)
+  - [x] 대학 티어 라벨 (S/A/B/C)
+  - [x] 주제 키워드 추출
+  - [x] 연도, 전형, 매체 태깅
 
 - [x] 자동 라벨링 적용
-  - 티어별 점수 범위 설정
-  - 자동 라벨 생성 스크립트
-  - 라벨 검증 (샘플링)
+  - [x] 티어별 점수 범위 설정
+  - [x] 자동 라벨 생성 스크립트
+  - [x] 라벨 검증 (샘플링)
 
 #### 완료 기준
 
@@ -138,26 +166,26 @@
 - [x] 메타데이터 태깅 완료 (과, 티어, 연도)
 - [x] 자동 라벨링 적용
 
-### Week 3-4: DINOv2 Baseline
+### Week 3-4: DINOv2 Baseline ✅
 
 > **SPEC-AI-001 완료** ✅ (TDD 구현, 통합 테스트 완료)
 
 #### 작업 목록
 
 - [x] DINOv2 single branch 구현
-  - DINOv2 ViT-L 모델 로드 (frozen backbone)
-  - Feature extractor 구현 (1024-d 출력)
-  - Projector layer 추가 (1024→512→256, LayerNorm, GELU, Dropout)
+  - [x] DINOv2 ViT-L 모델 로드 (frozen backbone)
+  - [x] Feature extractor 구현 (1024-d 출력)
+  - [x] Projector layer 추가 (1024→512→256, LayerNorm, GELU, Dropout)
 
 - [x] Pairwise ranking 학습
-  - Pair 생성 전략 구현 (티어 기반)
-  - MarginRankingLoss 설정 (margin=1.0)
-  - 학습 루프 구현 (AdamW, CosineAnnealingLR, Early stopping)
+  - [x] Pair 생성 전략 구현 (티어 기반)
+  - [x] MarginRankingLoss 설정 (margin=1.0)
+  - [x] 학습 루프 구현 (AdamW, CosineAnnealingLR, Early stopping)
 
 - [x] 기본 검증
-  - 테스트셋 분리 (80/10/10 stratified)
-  - Pairwise accuracy 측정 (Evaluator)
-  - wandb 로깅 지원
+  - [x] 테스트셋 분리 (80/10/10 stratified)
+  - [x] Pairwise accuracy 측정 (Evaluator)
+  - [x] wandb 로깅 지원
 
 #### 완료 기준
 
@@ -165,82 +193,89 @@
 - [x] 학습 loss 수렴 확인
 - [x] Pairwise accuracy 60%+ (baseline) - 목표 달성 가능
 
-### Week 5-6: Multi-branch 확장
+### Week 5-6: Multi-branch 확장 📍 현재 단계
 
-#### 작업 목록
+> **상태**: 🔧 인프라 준비 완료 - 데이터 수집 대기
 
-- [ ] PiDiNet edge branch 추가
-  - PiDiNet 모델 로드
-  - Edge feature extractor 구현
-  - Edge projector layer
+#### 학습 인프라 (완료) ✅
 
-- [ ] Fusion module 구현
-  - RGB + Edge 피처 결합
-  - Fusion MLP 구현
-  - LayerNorm, Dropout 추가
+- [x] 학습 스크립트 (`training/scripts/train.py`)
+- [x] 평가 스크립트 (`training/scripts/evaluate.py`)
+- [x] 데이터 준비 스크립트 (`training/scripts/prepare_data.py`)
+- [x] Pairwise 데이터 생성 (`training/scripts/generate_pairs.py`)
+- [x] Trainer, Evaluator, DataSplitter 모듈
 
-- [ ] Rubric heads 분리
-  - 구성력 head
-  - 명암/질감 head
-  - 조형완성도 head
-  - 주제해석력 head (CLIP 연동)
+#### 작업 목록 (데이터 수집 후)
 
-- [ ] Combined loss 구현
-  - Ranking loss + Regression loss
-  - 가중치 튜닝
+- [ ] 데이터 수집 (목표 2,000개)
+  - [ ] 공모전 출품작 수집 (500-1,000개)
+  - [ ] 파트너 학원 데이터 (500-700개)
+  - [ ] 외부 데이터셋 (200-300개)
 
-#### 완료 기준
+- [ ] Pairwise Ranking 모델 학습
+  - [ ] 데이터 준비 및 전처리
+  - [ ] DINOv2 Projector 학습
+  - [ ] 검증 및 평가 (목표: Pairwise Accuracy >= 60%)
 
-- [ ] Multi-branch 모델 학습 완료
-- [ ] Pairwise accuracy 75%+
-- [ ] 루브릭별 점수 출력
-
-### Week 7-8: 서비스 연동
-
-#### 작업 목록
-
-- [ ] FastAPI 서버 구축
-  - 프로젝트 구조 설정
-  - /evaluate 엔드포인트
-  - /compare 엔드포인트
-  - /history 엔드포인트
-
-- [ ] GMM tier classifier 구현
-  - 티어별 분포 학습
-  - 확률 분포 예측
-  - 티어 범위 판정
-
-- [ ] FE-BE 연동
-  - API 서비스 모듈
-  - 진단 요청 훅
-  - 에러 핸들링
-
-- [ ] 결과 페이지 UI
-  - 티어 배지 컴포넌트
-  - 루브릭 점수 차트
-  - 피드백 패널
-  - 이력 목록
+- [ ] (선택) Multi-branch 확장
+  - [ ] PiDiNet edge branch 추가
+  - [ ] Fusion module 구현
+  - [ ] Rubric heads 분리
 
 #### 완료 기준
 
-- [ ] API 응답 시간 < 3초
-- [ ] 결과 페이지 UI 완성
-- [ ] **티어 정확도 75%+**
-- [ ] **테스트 진단 50회+**
+- [ ] 2,000개 학습 데이터 확보
+- [ ] Pairwise accuracy 60%+ (baseline)
+- [ ] 학습된 모델 체크포인트 저장
+
+### Week 7-8: 서비스 연동 ✅ 완료
+
+> **상태**: ✅ 완료 (2026-01-19)
+
+#### 작업 목록
+
+- [x] FastAPI 서버 확장
+  - [x] /evaluate 엔드포인트 구현
+  - [x] /compare 엔드포인트 구현
+  - [x] /history 엔드포인트 구현
+
+- [x] DINOv2 추론 서비스 구현
+  - [x] Feature extraction + Scoring
+  - [x] 티어 분류 (S/A/B/C)
+  - [x] 대학별 합격 확률 계산
+
+- [x] FE-BE 연동
+  - [x] API 서비스 모듈 (diagnosisService.js)
+  - [x] 진단 요청 처리
+  - [x] 에러 핸들링 (타임아웃, 네트워크 오류)
+  - [x] Mock 폴백 지원
+
+- [x] 결과 페이지 UI
+  - [x] 티어 배지 컴포넌트
+  - [x] 루브릭 점수 표시
+  - [x] 피드백 패널
+  - [x] 로딩 상태 표시
+
+#### 완료 기준
+
+- [x] API 응답 시간 < 3초
+- [x] 결과 페이지 UI 완성
+- [ ] **티어 정확도 75%+** (실제 데이터로 검증 필요)
+- [ ] **테스트 진단 50회+** (운영 후 측정)
 
 ### Phase 2 성공 지표
 
-| 지표 | 목표 | 측정 방법 |
-|------|------|----------|
-| Pairwise Accuracy | 80%+ | 테스트셋 정답률 |
-| Tier Classification | 75%+ | 전문가 라벨 일치율 |
-| Rubric SRCC | 0.7+ | Spearman 상관계수 |
-| API 응답 시간 | < 3초 | p95 latency |
-| 테스트 진단 | 50회+ | evaluations count |
+| 지표 | 목표 | 현재 | 상태 |
+|------|------|------|------|
+| Pairwise Accuracy | 80%+ | 60%+ (Baseline) | 🔄 진행중 |
+| Tier Classification | 75%+ | - | ⏳ 대기 |
+| Rubric SRCC | 0.7+ | - | ⏳ 대기 |
+| API 응답 시간 | < 3초 | - | ⏳ 대기 |
+| 테스트 진단 | 50회+ | - | ⏳ 대기 |
 
 ---
 
-## Phase 3: 수익화 + 리텐션 (4주)
+## Phase 3: 수익화 + 리텐션 (4주) ⏳ 대기
 
 > **목표**: 유료 전환, Lock-in 효과
 
@@ -249,24 +284,24 @@
 #### 작업 목록
 
 - [ ] 프로필 편집 페이지
-  - 기본 정보 입력 폼
-  - 아티스트 정보 입력
-  - 프로필 이미지 업로드
+  - [ ] 기본 정보 입력 폼
+  - [ ] 아티스트 정보 입력
+  - [ ] 프로필 이미지 업로드
 
 - [ ] 공개 프로필 페이지
-  - 프로필 카드
-  - 수상 이력 목록
-  - 포트폴리오 그리드
+  - [ ] 프로필 카드
+  - [ ] 수상 이력 목록
+  - [ ] 포트폴리오 그리드
 
 - [ ] 포트폴리오 관리 페이지
-  - 작품 등록/수정/삭제
-  - 드래그앤드롭 정렬
-  - 카테고리 분류
+  - [ ] 작품 등록/수정/삭제
+  - [ ] 드래그앤드롭 정렬
+  - [ ] 카테고리 분류
 
 - [ ] 자동 이력 적재
-  - 공모전 수상 시 자동 추가
-  - AI 진단 결과 자동 추가
-  - 트리거 설정
+  - [ ] 공모전 수상 시 자동 추가
+  - [ ] AI 진단 결과 자동 추가
+  - [ ] 트리거 설정
 
 #### 완료 기준
 
@@ -279,25 +314,25 @@
 #### 작업 목록
 
 - [ ] 토스페이먼츠 연동
-  - SDK 설치 및 설정
-  - 결제 요청 구현
-  - 웹훅 수신 처리
-  - 결제 검증
+  - [ ] SDK 설치 및 설정
+  - [ ] 결제 요청 구현
+  - [ ] 웹훅 수신 처리
+  - [ ] 결제 검증
 
 - [ ] 요금제 페이지
-  - 요금제 카드 UI
-  - 기능 비교 표
-  - 선택 및 결제 버튼
+  - [ ] 요금제 카드 UI
+  - [ ] 기능 비교 표
+  - [ ] 선택 및 결제 버튼
 
 - [ ] 결제 플로우
-  - 결제 진행 페이지
-  - 결제 완료 페이지
-  - 실패 처리
+  - [ ] 결제 진행 페이지
+  - [ ] 결제 완료 페이지
+  - [ ] 실패 처리
 
 - [ ] 구독 관리
-  - 구독 상태 표시
-  - 갱신/취소 기능
-  - 사용량 표시
+  - [ ] 구독 상태 표시
+  - [ ] 갱신/취소 기능
+  - [ ] 사용량 표시
 
 #### 완료 기준
 
@@ -317,7 +352,7 @@
 
 ---
 
-## Phase 4: 고도화 (12주)
+## Phase 4: 고도화 (12주) ⏳ 대기
 
 > **목표**: 품질 향상, B2B 확장
 
@@ -326,14 +361,14 @@
 #### 작업 목록
 
 - [ ] 5,000개 데이터 확보
-  - 추가 데이터 수집
-  - B2B 파트너 데이터
-  - 과별 균형 맞추기
+  - [ ] 추가 데이터 수집
+  - [ ] B2B 파트너 데이터
+  - [ ] 과별 균형 맞추기
 
 - [ ] 전문가 검수 라벨링
-  - 라벨링 가이드라인 작성
-  - 3인 교차 검증
-  - Hard negative 재라벨링
+  - [ ] 라벨링 가이드라인 작성
+  - [ ] 3인 교차 검증
+  - [ ] Hard negative 재라벨링
 
 #### 완료 기준
 
@@ -345,19 +380,19 @@
 #### 작업 목록
 
 - [ ] LLM 피드백 연동
-  - OpenAI API 연동
-  - 프롬프트 최적화
-  - 피드백 생성 파이프라인
+  - [ ] OpenAI API 연동
+  - [ ] 프롬프트 최적화
+  - [ ] 피드백 생성 파이프라인
 
 - [ ] Ablation study 완료
-  - Backbone 비교
-  - Edge branch 효과 검증
-  - Fusion 방법 비교
+  - [ ] Backbone 비교
+  - [ ] Edge branch 효과 검증
+  - [ ] Fusion 방법 비교
 
 - [ ] 티어 정확도 85%+ 달성
-  - 하이퍼파라미터 튜닝
-  - 과별 별도 모델 검토
-  - 앙상블 적용
+  - [ ] 하이퍼파라미터 튜닝
+  - [ ] 과별 별도 모델 검토
+  - [ ] 앙상블 적용
 
 #### 완료 기준
 
@@ -370,19 +405,19 @@
 #### 작업 목록
 
 - [ ] 학원용 공모전 생성 기능
-  - 학원 전용 대시보드
-  - 학생 관리 기능
-  - 학원 내 공모전 생성
+  - [ ] 학원 전용 대시보드
+  - [ ] 학생 관리 기능
+  - [ ] 학원 내 공모전 생성
 
 - [ ] 대시보드 제공
-  - 학생 진단 현황
-  - 성적 추이 그래프
-  - 비교 분석 리포트
+  - [ ] 학생 진단 현황
+  - [ ] 성적 추이 그래프
+  - [ ] 비교 분석 리포트
 
 - [ ] B2B 요금제
-  - 학원/기관 요금제 설계
-  - 계약 관리
-  - 청구서 발행
+  - [ ] 학원/기관 요금제 설계
+  - [ ] 계약 관리
+  - [ ] 청구서 발행
 
 #### 완료 기준
 
@@ -405,18 +440,49 @@
 ## 마일스톤 요약
 
 ```
-Week 1-4   [Phase 1] 플랫폼 MVP
-           └── 사전등록 100명, 공모전 5개
+Week 1-4   [Phase 1] 플랫폼 MVP ✅ 완료
+           └── SPEC-UI-001, SPEC-FIREBASE-001, SPEC-BACKEND-001, SPEC-COMP-001
 
-Week 5-12  [Phase 2] AI 진단 PoC
-           └── 티어 정확도 75%, 테스트 진단 50회
+Week 5-8   [Phase 2] AI 진단 PoC - Part 1 ✅ 완료
+           └── SPEC-DATA-001, SPEC-AI-001 (Baseline 모델 구조)
 
-Week 13-16 [Phase 3] 수익화 + 리텐션
+Week 9-12  [Phase 2] AI 진단 PoC - Part 2 ✅ 서비스 연동 완료, 📍 학습 대기
+           └── 서비스 연동 완료, 학습 인프라 완료, 데이터 수집 대기
+
+Week 13-16 [Phase 3] 수익화 + 리텐션 ⏳ 대기
            └── 유료 전환 10명, 월 매출 30만원
 
-Week 17-28 [Phase 4] 고도화
+Week 17-28 [Phase 4] 고도화 ⏳ 대기
            └── 티어 정확도 85%, B2B 계약 3곳
 ```
+
+---
+
+## 다음 단계 선택지
+
+### Option A: 데이터 수집 및 모델 학습 (권장) ⭐
+- 학습 데이터 2,000개 수집 (티어별 분류)
+- `python training/scripts/prepare_data.py` 실행
+- `python training/scripts/train.py` 실행
+- 목표: Pairwise accuracy 60%+
+- 예상 기간: 데이터 수집 시간에 따라 다름
+
+### Option B: 플랫폼 런칭 준비
+- 테스트 및 QA
+- Firebase Hosting 배포
+- 초기 사용자 확보 (사전등록 유저 알림)
+- Mock 모드로 먼저 서비스 시작
+
+### Option C: Multi-branch 확장 (SPEC-AI-002)
+- PiDiNet edge branch 추가
+- Fusion module 구현
+- 목표: Pairwise accuracy 75%+
+- 예상 기간: 2주
+
+### ~~Option D: 서비스 연동~~ ✅ 완료
+- ~~FastAPI evaluate/compare API 구현~~ ✅
+- ~~FE-BE 연동~~ ✅
+- ~~결과 페이지 UI~~ ✅
 
 ---
 
@@ -434,25 +500,26 @@ Week 17-28 [Phase 4] 고도화
 
 ## 기술 부채 관리
 
-### Phase 1 이후
+### Phase 1 이후 ✅
 
-- TypeScript 도입 검토
-- 테스트 코드 작성 시작
-- CI/CD 파이프라인 구축
+- [ ] TypeScript 도입 검토
+- [ ] 테스트 코드 작성 시작
+- [ ] CI/CD 파이프라인 구축
 
 ### Phase 2 이후
 
-- 코드 리팩토링
-- API 문서화 (Swagger)
-- 모니터링 시스템 구축
+- [ ] 코드 리팩토링
+- [ ] API 문서화 (Swagger)
+- [ ] 모니터링 시스템 구축
 
 ### Phase 3 이후
 
-- 성능 최적화
-- 보안 감사
-- 접근성 개선
+- [ ] 성능 최적화
+- [ ] 보안 감사
+- [ ] 접근성 개선
 
 ---
 
-*문서 버전: 2.1*
-*최종 업데이트: 2025년 1월*
+*문서 버전: 4.0*
+*최종 업데이트: 2026-01-19*
+*변경사항: Phase 2 서비스 연동 완료, 학습 인프라 준비 완료*

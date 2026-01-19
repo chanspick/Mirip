@@ -13,6 +13,11 @@ import CompetitionDetail from "./pages/competitions/CompetitionDetail";
 import SubmitPage from "./pages/competitions/SubmitPage";
 // AI 진단 페이지
 import DiagnosisPage from "./pages/diagnosis/DiagnosisPage";
+// SPEC-CRED-001: 마이페이지 및 공개 프로필
+import { ProfilePage } from "./pages/Profile";
+import PublicProfilePage from "./pages/PublicProfile";
+// SPEC-CRED-001: M4 포트폴리오 관리
+import PortfolioPage from "./pages/Portfolio";
 // 기존 페이지 (추후 정리 예정)
 import MiripHome from "./pages/MiripHome";
 import MiripComp from "./pages/MiripComp";
@@ -46,6 +51,14 @@ function App() {
         title = "AI 진단 - MIRIP";
         metaDescription = "작품 이미지를 업로드하고 AI가 분석하는 대학별 합격 가능성을 확인하세요.";
         break;
+      case "/profile":
+        title = "마이페이지 - MIRIP";
+        metaDescription = "나의 활동 현황과 잔디밭을 확인하세요.";
+        break;
+      case "/portfolio":
+        title = "포트폴리오 - MIRIP";
+        metaDescription = "나의 작품들을 관리하고 공유하세요.";
+        break;
       case "/legacy/home":
         title = "MIRIP Home";
         metaDescription = "";
@@ -59,10 +72,13 @@ function App() {
         metaDescription = "";
         break;
       default:
-        // 동적 라우트 처리 (공모전 상세, 출품 페이지)
+        // 동적 라우트 처리 (공모전 상세, 출품 페이지, 공개 프로필)
         if (pathname.startsWith("/competitions/")) {
           title = "공모전 - MIRIP";
           metaDescription = "공모전 상세 정보를 확인하세요.";
+        } else if (pathname.startsWith("/profile/")) {
+          title = "프로필 - MIRIP";
+          metaDescription = "사용자의 공개 프로필을 확인하세요.";
         }
         break;
     }
@@ -91,6 +107,11 @@ function App() {
       <Route path="/competitions/:id/submit" element={<SubmitPage />} />
       {/* AI 진단 페이지 */}
       <Route path="/diagnosis" element={<DiagnosisPage />} />
+      {/* SPEC-CRED-001: 마이페이지 및 공개 프로필 */}
+      <Route path="/profile" element={<ProfilePage />} />
+      <Route path="/profile/:username" element={<PublicProfilePage />} />
+      {/* SPEC-CRED-001: M4 포트폴리오 관리 */}
+      <Route path="/portfolio" element={<PortfolioPage />} />
       {/* 기존 페이지 (legacy 경로로 이동) */}
       <Route path="/legacy/home" element={<MiripHome />} />
       <Route path="/mirip-comp" element={<MiripComp />} />

@@ -1,10 +1,13 @@
 // Landing 페이지 컴포넌트
 // MIRIP 프로토타입 버전 - 공모전 + AI 진단 연결
+// SPEC-CRED-001 M5: 로그인 사용자 CTA 추가
 // 5개 섹션: Hero, Problem, Solution, AI Preview, CTA (프로토타입)
 
 import React, { useCallback, useMemo } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { Header, Footer, Button } from '../../components/common';
+import { useAuth } from '../../hooks';
+import { CREDENTIAL_ROUTES, GUEST_NAV_ITEMS, LOGGED_IN_NAV_ITEMS } from '../../utils/navigation';
 import styles from './Landing.module.css';
 
 /**
@@ -50,16 +53,9 @@ const AI_SCORES = [
   { university: '국민대', score: 69 },
 ];
 
-/**
- * 네비게이션 아이템
- * @type {Array<{label: string, href: string}>}
- */
-const NAV_ITEMS = [
-  { label: '공모전', href: '/competitions' },
-  { label: 'AI 진단', href: '/diagnosis' },
-  { label: 'Why MIRIP', href: '#problem' },
-  { label: 'Solution', href: '#solution' },
-];
+// 네비게이션 아이템은 utils/navigation.js에서 가져옵니다
+// GUEST_NAV_ITEMS: 비로그인 사용자용
+// LOGGED_IN_NAV_ITEMS: 로그인 사용자용
 
 /**
  * Landing 페이지 컴포넌트
@@ -82,6 +78,8 @@ const FOOTER_LINKS = [
  */
 const Landing = () => {
   const navigate = useNavigate();
+  // SPEC-CRED-001 M5: 인증 상태 확인
+  const { user, profile, isAuthenticated } = useAuth();
 
   /**
    * AI 진단 페이지로 이동
@@ -92,13 +90,22 @@ const Landing = () => {
 
   /**
    * Header CTA 버튼 설정 (메모이제이션)
+   * 로그인 사용자는 CTA 버튼 대신 프로필 링크 사용
    */
   const ctaButtonConfig = useMemo(
-    () => ({
+    () => isAuthenticated ? null : ({
       label: 'AI 진단',
       onClick: goToDiagnosis,
     }),
-    [goToDiagnosis]
+    [goToDiagnosis, isAuthenticated]
+  );
+
+  /**
+   * 네비게이션 아이템 (로그인 여부에 따라 변경)
+   */
+  const navItems = useMemo(
+    () => isAuthenticated ? LOGGED_IN_NAV_ITEMS : GUEST_NAV_ITEMS,
+    [isAuthenticated]
   );
 
   return (
@@ -106,8 +113,9 @@ const Landing = () => {
       {/* Header */}
       <Header
         logo={<Link to="/" className={styles.logo}>MIRIP</Link>}
-        navItems={NAV_ITEMS}
+        navItems={navItems}
         ctaButton={ctaButtonConfig}
+        user={isAuthenticated ? { photoURL: profile?.profileImageUrl, displayName: profile?.displayName } : null}
       />
 
       {/* Hero Section */}
@@ -283,6 +291,31 @@ const Landing = () => {
                 </p>
                 <span className={styles.ctaCardLink}>진단받기 →</span>
               </Link>
+              {/* SPEC-CRED-001 M5: 로그인 사용자용 추가 CTA */}
+              {isAuthenticated && (
+                <>
+                  <Link to={CREDENTIAL_ROUTES.PROFILE} className={styles.ctaCard}>
+                    <div className={styles.ctaCardIcon}>👤</div>
+                    <h3 className={styles.ctaCardTitle}>마이페이지</h3>
+                    <p className={styles.ctaCardDesc}>
+                      나의 활동 현황과 잔디밭을
+                      <br />
+                      확인해보세요
+                    </p>
+                    <span className={styles.ctaCardLink}>보러가기 →</span>
+                  </Link>
+                  <Link to={CREDENTIAL_ROUTES.PORTFOLIO} className={styles.ctaCard}>
+                    <div className={styles.ctaCardIcon}>🎨</div>
+                    <h3 className={styles.ctaCardTitle}>포트폴리오</h3>
+                    <p className={styles.ctaCardDesc}>
+                      나의 작품들을 관리하고
+                      <br />
+                      공유해보세요
+                    </p>
+                    <span className={styles.ctaCardLink}>관리하기 →</span>
+                  </Link>
+                </>
+              )}
             </div>
             <p className={styles.ctaNotice}>
               프로토타입 버전입니다. 더 나은 서비스를 위해 피드백을 기다립니다.

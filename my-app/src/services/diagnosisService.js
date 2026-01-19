@@ -3,9 +3,12 @@
  *
  * Backend API (POST /api/v1/evaluate)와 통신하여 AI 작품 평가를 수행
  * SPEC-AI-001 요구사항에 따라 구현
+ * SPEC-CRED-001 M5: 활동 기록 연동 추가
  *
  * @module services/diagnosisService
  */
+
+import { recordDiagnosisActivity } from './integrationService';
 
 // API 기본 URL 설정
 const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000';
@@ -152,18 +155,32 @@ const mapApiResponseToUIFormat = (apiResponse) => {
  * @param {Object} options - 추가 옵션
  * @param {number} options.timeout - 타임아웃 (기본 30초)
  * @param {function} options.onProgress - 진행 상태 콜백
+ * @param {string} options.userId - 사용자 ID (활동 기록용, 선택사항)
+ * @param {string} options.imageUrl - 이미지 URL (활동 기록용, 선택사항)
  * @returns {Promise<Object>} UI 형식의 평가 결과
  * @throws {DiagnosisAPIError} API 오류
  * @throws {NetworkError} 네트워크 오류
  * @throws {TimeoutError} 타임아웃 오류
  */
 export const evaluateImage = async (imageFile, department, includeFeedback = true, options = {}) => {
-  const { timeout = DEFAULT_TIMEOUT, onProgress } = options;
+  const { timeout = DEFAULT_TIMEOUT, onProgress, userId, imageUrl } = options;
 
   // Mock 모드 체크
   if (USE_MOCK) {
     console.log('[DiagnosisService] Mock 모드로 실행됨');
-    return generateMockResult(department);
+    const mockResult = await generateMockResult(department);
+
+    // SPEC-CRED-001 M5: Mock 모드에서도 활동 기록 (userId가 제공된 경우)
+    if (userId) {
+      recordDiagnosisActivity(userId, {
+        ...mockResult,
+        imageUrl,
+      }).catch((err) => {
+        console.warn('[DiagnosisService] Mock 활동 기록 실패 (무시됨):', err);
+      });
+    }
+
+    return mockResult;
   }
 
   // 진행 상태: 업로드 시작
@@ -218,7 +235,20 @@ export const evaluateImage = async (imageFile, department, includeFeedback = tru
     onProgress?.('processing');
 
     const apiResponse = await response.json();
-    return mapApiResponseToUIFormat(apiResponse);
+    const result = mapApiResponseToUIFormat(apiResponse);
+
+    // SPEC-CRED-001 M5: 활동 기록 (userId가 제공된 경우)
+    // 실패해도 메인 플로우를 차단하지 않음 (non-blocking)
+    if (userId) {
+      recordDiagnosisActivity(userId, {
+        ...result,
+        imageUrl,
+      }).catch((err) => {
+        console.warn('[DiagnosisService] 활동 기록 실패 (무시됨):', err);
+      });
+    }
+
+    return result;
 
   } catch (error) {
     // 이미 변환된 에러는 그대로 throw

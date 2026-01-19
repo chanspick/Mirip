@@ -123,6 +123,47 @@
   background-color: var(--accent-cta-hover);
 }
 
+/* ===== 프로필 영역 (SPEC-CRED-001 M5) ===== */
+.profileContainer {
+  flex-shrink: 0;
+  margin-left: var(--spacing-md);
+}
+
+.profileLink {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: var(--text-primary);
+  padding: 6px 12px;
+  border-radius: 8px;
+  transition: all var(--transition-fast);
+}
+
+.profileLink:hover {
+  background-color: var(--surface-secondary, #f5f5f5);
+  color: var(--accent-gold);
+}
+
+.profileAvatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--border-light, #e0e0e0);
+  transition: border-color var(--transition-fast);
+}
+
+.profileLink:hover .profileAvatar {
+  border-color: var(--accent-gold);
+}
+
+.profileName {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 500;
+}
+
 /* ===== Responsive Styles ===== */
 
 /* 태블릿 (1024px 이하) */
@@ -161,6 +202,20 @@
 
   .logoContainer img {
     height: 32px;
+  }
+
+  /* 프로필 영역 모바일 */
+  .profileContainer {
+    margin-left: var(--spacing-sm);
+  }
+
+  .profileName {
+    display: none;
+  }
+
+  .profileAvatar {
+    width: 28px;
+    height: 28px;
   }
 }
 

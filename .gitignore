@@ -169,6 +169,7 @@ my-app/public/Lib/
 pyvenv.cfg
 
 # Windows artifacts
+nul
 my-app/nul
 
 # Firebase deploy artifacts

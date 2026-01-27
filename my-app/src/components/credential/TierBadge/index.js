@@ -1,0 +1,4 @@
+// TierBadge 컴포넌트 인덱스
+// SPEC-CRED-001: M3 공개 프로필
+
+export { default } from './TierBadge';

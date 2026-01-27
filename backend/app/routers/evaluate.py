@@ -1,57 +1,71 @@
-# Evaluate Router
-"""
-단일 이미지 평가 API
-SPEC-BACKEND-003에서 본격 구현 예정
-"""
-
+﻿# Evaluate Router
+import uuid
+from datetime import datetime
+import structlog
 from fastapi import APIRouter, File, Form, HTTPException, UploadFile, status
-
 from app.models.request import DepartmentType, LanguageType
-from app.models.response import ErrorResponse, EvaluateResponse
+from app.models.response import ErrorResponse, EvaluateResponse, Feedback, Probability, RubricScores
+from app.services.feedback import feedback_service
+from app.services.inference import inference_service
 
+logger = structlog.get_logger(__name__)
 router = APIRouter()
 
-
 @router.post(
-    "/evaluate",
+    '/evaluate',
     response_model=EvaluateResponse,
-    responses={
-        400: {"model": ErrorResponse, "description": "잘못된 요청"},
-        500: {"model": ErrorResponse, "description": "서버 오류"},
-    },
-    summary="단일 이미지 평가",
-    description="제출된 이미지를 AI가 분석하여 4축 루브릭 점수, 등급, 합격 확률을 반환합니다.",
+    responses={400: {'model': ErrorResponse}, 500: {'model': ErrorResponse}, 503: {'model': ErrorResponse}},
+    summary='Single image evaluation',
 )
 async def evaluate_image(
-    image: UploadFile = File(..., description="평가할 이미지"),
-    department: DepartmentType = Form(..., description="학과"),
-    theme: str | None = Form(None, description="주제"),
-    include_feedback: bool = Form(True, description="피드백 포함 여부"),
-    language: LanguageType = Form("ko", description="응답 언어"),
+    image: UploadFile = File(...),
+    department: DepartmentType = Form(...),
+    theme: str | None = Form(None),
+    include_feedback: bool = Form(True),
+    language: LanguageType = Form('ko'),
 ) -> EvaluateResponse:
-    """
-    단일 이미지 평가 API
-
-    - **image**: 평가할 이미지 파일 (JPEG, PNG)
-    - **department**: 학과 (visual_design, industrial_design, fine_art, craft)
-    - **theme**: 주제 (선택사항)
-    - **include_feedback**: 피드백 포함 여부
-    - **language**: 응답 언어 (ko, en)
-    """
-    # 이미지 형식 검증
-    if image.content_type not in ["image/jpeg", "image/png"]:
-        raise HTTPException(
-            status_code=status.HTTP_400_BAD_REQUEST,
-            detail="지원하지 않는 이미지 형식입니다. JPEG 또는 PNG만 지원합니다.",
+    evaluation_id = str(uuid.uuid4())
+    logger.info('Evaluate request', evaluation_id=evaluation_id, department=department)
+    if image.content_type not in ['image/jpeg', 'image/png']:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Unsupported image format.')
+    if not inference_service.is_loaded:
+        raise HTTPException(status_code=status.HTTP_503_SERVICE_UNAVAILABLE, detail='Model not loaded.')
+    try:
+        image_bytes = await image.read()
+        if len(image_bytes) == 0:
+            raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Empty image.')
+        if len(image_bytes) > 10 * 1024 * 1024:
+            raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Image too large.')
+        result = await inference_service.evaluate_image(image_bytes, department)
+        scores = RubricScores(
+            composition=result['scores']['composition'],
+            technique=result['scores']['technique'],
+            creativity=result['scores']['creativity'],
+            completeness=result['scores']['completeness'],
         )
-
-    # TODO: SPEC-BACKEND-003에서 구현
-    # 1. 이미지 전처리
-    # 2. ML 모델 추론
-    # 3. 피드백 생성 (OpenAI)
-    # 4. 결과 반환
-
-    raise HTTPException(
-        status_code=status.HTTP_501_NOT_IMPLEMENTED,
-        detail="이 기능은 SPEC-BACKEND-003에서 구현 예정입니다.",
-    )
+        probabilities = [
+            Probability(university=p['university'], department=p['department'], probability=p['probability'])
+            for p in result['probabilities']
+        ]
+        feedback = None
+        if include_feedback:
+            feedback_result = await feedback_service.generate_feedback(
+                scores=result['scores'], tier=result['tier'], department=department, theme=theme, language=language
+            )
+            if feedback_result:
+                feedback = Feedback(
+                    strengths=feedback_result['strengths'],
+                    improvements=feedback_result['improvements'],
+                    overall=feedback_result['overall'],
+                )
+        logger.info('Evaluation completed', evaluation_id=evaluation_id, tier=result['tier'])
+        return EvaluateResponse(
+            evaluation_id=evaluation_id, tier=result['tier'], scores=scores,
+            probabilities=probabilities, feedback=feedback, created_at=datetime.now(),
+        )
+    except ValueError as e:
+        logger.warning('Invalid image', error=str(e))
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
+    except Exception as e:
+        logger.error('Evaluation failed', error=str(e), exc_info=e)
+        raise HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail='Evaluation error.')

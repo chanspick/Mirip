@@ -8,7 +8,7 @@
 |------|------|
 | **SPEC ID** | SPEC-FIREBASE-001 |
 | **제목** | Firebase 연동 및 사전등록 페이지 구현 |
-| **상태** | Planned |
+| **상태** | Completed |
 | **우선순위** | High |
 | **Phase** | Phase 1 Week 2-3 |
 | **생성일** | 2025-01-17 |

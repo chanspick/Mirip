@@ -1,0 +1,475 @@
+/* PortfolioPage 스타일 */
+/* SPEC-CRED-001: M4 포트폴리오 관리 */
+
+/* 페이지 컨테이너 */
+.portfolioPage {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bg-primary, #f9fafb);
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--gray-800, #1f2937);
+  text-decoration: none;
+}
+
+/* 메인 컨텐츠 */
+.main {
+  flex: 1;
+  padding: var(--spacing-xl, 32px) 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-md, 16px);
+}
+
+/* 페이지 헤더 */
+.pageHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--spacing-lg, 24px);
+  flex-wrap: wrap;
+  gap: var(--spacing-md, 16px);
+}
+
+.titleSection {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md, 16px);
+  flex-wrap: wrap;
+}
+
+.pageTitle {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm, 8px);
+  margin: 0;
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--gray-900, #111827);
+}
+
+.titleIcon {
+  font-size: 32px;
+}
+
+.portfolioCount {
+  display: inline-block;
+  padding: 4px 12px;
+  background-color: var(--gray-100, #f3f4f6);
+  border-radius: 16px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--gray-600, #4b5563);
+}
+
+/* 액션 버튼 그룹 */
+.actions {
+  display: flex;
+  gap: var(--spacing-sm, 8px);
+  flex-wrap: wrap;
+}
+
+.filterButton,
+.sortButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 16px;
+  border: 1px solid var(--gray-300, #d1d5db);
+  border-radius: 8px;
+  background-color: var(--white, #ffffff);
+  color: var(--gray-700, #374151);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.filterButton:hover,
+.sortButton:hover {
+  background-color: var(--gray-50, #f9fafb);
+  border-color: var(--gray-400, #9ca3af);
+}
+
+.addButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background-color: var(--primary, #2563eb);
+  color: var(--white, #ffffff);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.addButton:hover {
+  background-color: #1d4ed8;
+}
+
+.addButton:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.3);
+}
+
+/* 에러 메시지 */
+.errorMessage {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm, 8px);
+  padding: var(--spacing-md, 16px);
+  margin-bottom: var(--spacing-lg, 24px);
+  background-color: #fef2f2;
+  border: 1px solid #fecaca;
+  border-radius: 8px;
+  color: #dc2626;
+  font-size: 14px;
+}
+
+.errorIcon {
+  font-size: 18px;
+}
+
+/* 더 보기 버튼 */
+.loadMoreContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--spacing-xl, 32px);
+}
+
+.loadMoreButton {
+  padding: 12px 32px;
+  border: 1px solid var(--gray-300, #d1d5db);
+  border-radius: 8px;
+  background-color: var(--white, #ffffff);
+  color: var(--gray-700, #374151);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.loadMoreButton:hover {
+  background-color: var(--gray-50, #f9fafb);
+  border-color: var(--gray-400, #9ca3af);
+}
+
+/* 모달 오버레이 */
+.modalOverlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-md, 16px);
+  background-color: rgba(0, 0, 0, 0.5);
+  animation: fadeIn 0.2s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* 모달 컨텐츠 */
+.modalContent {
+  width: 100%;
+  max-width: 600px;
+  max-height: 90vh;
+  background-color: var(--white, #ffffff);
+  border-radius: 16px;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  overflow: hidden;
+  animation: slideUp 0.3s ease;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.modalHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--spacing-lg, 24px);
+  border-bottom: 1px solid var(--gray-100, #f3f4f6);
+}
+
+.modalTitle {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--gray-900, #111827);
+}
+
+.modalCloseButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: none;
+  border-radius: 8px;
+  background-color: transparent;
+  color: var(--gray-500, #6b7280);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.modalCloseButton:hover {
+  background-color: var(--gray-100, #f3f4f6);
+  color: var(--gray-700, #374151);
+}
+
+/* 삭제 확인 모달 */
+.confirmModal {
+  width: 100%;
+  max-width: 400px;
+  padding: var(--spacing-xl, 32px);
+  background-color: var(--white, #ffffff);
+  border-radius: 16px;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  animation: slideUp 0.3s ease;
+}
+
+.confirmIcon {
+  font-size: 48px;
+  margin-bottom: var(--spacing-md, 16px);
+}
+
+.confirmTitle {
+  margin: 0 0 var(--spacing-sm, 8px) 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--gray-900, #111827);
+}
+
+.confirmMessage {
+  margin: 0 0 var(--spacing-lg, 24px) 0;
+  font-size: 14px;
+  color: var(--gray-600, #4b5563);
+  line-height: 1.6;
+}
+
+.confirmButtons {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing-sm, 8px);
+}
+
+.cancelButton {
+  padding: 10px 24px;
+  border: 1px solid var(--gray-300, #d1d5db);
+  border-radius: 8px;
+  background-color: var(--white, #ffffff);
+  color: var(--gray-700, #374151);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.cancelButton:hover {
+  background-color: var(--gray-50, #f9fafb);
+}
+
+.deleteButton {
+  padding: 10px 24px;
+  border: none;
+  border-radius: 8px;
+  background-color: #dc2626;
+  color: var(--white, #ffffff);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.deleteButton:hover:not(:disabled) {
+  background-color: #b91c1c;
+}
+
+.deleteButton:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* 로그인 필요 */
+.loginRequired {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-xxl, 64px);
+  text-align: center;
+}
+
+.loginIcon {
+  font-size: 48px;
+  margin-bottom: var(--spacing-md, 16px);
+}
+
+.loginRequired h2 {
+  margin: 0 0 8px 0;
+  font-size: 20px;
+  color: var(--gray-800, #1f2937);
+}
+
+.loginRequired p {
+  margin: 0 0 24px 0;
+  color: var(--gray-500, #6b7280);
+}
+
+.loginButton {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: var(--primary, #2563eb);
+  color: var(--white, #ffffff);
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.loginButton:hover {
+  background-color: #1d4ed8;
+}
+
+/* 반응형 스타일 */
+
+/* 태블릿 (1024px 이하) */
+@media (max-width: 1024px) {
+  .container {
+    max-width: 100%;
+  }
+
+  .pageTitle {
+    font-size: 24px;
+  }
+
+  .titleIcon {
+    font-size: 28px;
+  }
+}
+
+/* 모바일 (768px 이하) */
+@media (max-width: 768px) {
+  .main {
+    padding: var(--spacing-md, 16px) 0;
+  }
+
+  .pageHeader {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .titleSection {
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .pageTitle {
+    font-size: 22px;
+  }
+
+  .titleIcon {
+    font-size: 24px;
+  }
+
+  .actions {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .addButton {
+    flex: 1;
+    justify-content: center;
+  }
+
+  .modalContent {
+    max-width: 100%;
+    max-height: 100vh;
+    border-radius: 0;
+  }
+
+  .confirmModal {
+    margin: var(--spacing-md, 16px);
+    max-width: calc(100% - 32px);
+  }
+}
+
+/* 작은 모바일 (480px 이하) */
+@media (max-width: 480px) {
+  .container {
+    padding: 0 var(--spacing-sm, 8px);
+  }
+
+  .pageTitle {
+    font-size: 20px;
+  }
+
+  .titleIcon {
+    font-size: 22px;
+  }
+
+  .portfolioCount {
+    font-size: 12px;
+    padding: 3px 10px;
+  }
+
+  .filterButton,
+  .sortButton,
+  .addButton {
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+
+  .modalHeader {
+    padding: var(--spacing-md, 16px);
+  }
+
+  .modalTitle {
+    font-size: 18px;
+  }
+
+  .confirmModal {
+    padding: var(--spacing-lg, 24px);
+  }
+
+  .confirmIcon {
+    font-size: 40px;
+  }
+
+  .confirmTitle {
+    font-size: 18px;
+  }
+
+  .confirmMessage {
+    font-size: 13px;
+  }
+}

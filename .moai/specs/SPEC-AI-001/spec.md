@@ -5,7 +5,7 @@
 ```yaml
 spec_id: SPEC-AI-001
 title: DINOv2 Baseline AI 평가 모델
-status: Planned
+status: Completed
 priority: High
 created: 2025-01-18
 updated: 2025-01-18

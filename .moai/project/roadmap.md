@@ -2,6 +2,71 @@
 
 > 미립(MIRIP) 단계별 개발 계획
 
+## 현재 스프린트: AI 진단 MVP (6주)
+
+> **시작일**: 2026-01-27 | **목표**: 이미지 업로드 → AI 평가 → 4축 점수 + 티어 판정 MVP
+
+| Week | Phase | 목표 | 핵심 산출물 |
+|------|-------|------|------------|
+| Week 1 | 데이터 수집 | 크롤링 + 정제 | 3,700+ 합격작 데이터셋 |
+| Week 2 | Baseline 학습 | DINOv2 학습 60%+ | baseline_v1.pt 모델 |
+| Week 3 | Multi-Branch (1) | PiDiNet + Fusion | dual-branch 모델 |
+| Week 4 | Multi-Branch (2) | CLIP + 4축 루브릭 75%+ | fusion_v1.pt 모델 |
+| Week 5 | API 연결 | 추론 서비스 완성 | /evaluate, /compare API |
+| Week 6 | 프론트엔드 MVP | E2E 통합 | 서비스 가능한 MVP |
+
+### Phase 1: 데이터 수집 + 정제 (Week 1) ✅ DONE
+
+- [x] 크롤러 모듈 개발 (midaeipsi.com, EUC-KR, 광고 필터링)
+  - config.py, utils.py, parser.py, crawler.py
+- [x] 데이터 정제 모듈 개발 (정규화 + 중복 제거 + 통계)
+  - normalizer.py (정규식 기반 대학/학과 정규화)
+  - dedup.py (pHash + Union-Find 중복 제거)
+  - cleaner.py (5단계 정제 파이프라인)
+  - stats.py (통계 리포트 생성)
+- [x] 기존 파이프라인 연동 검증
+  - converter.py (크롤링 JSON → PairwiseDataset CSV 변환)
+  - Post-based stratified split (데이터 누수 방지)
+- [x] 단위 테스트 작성 (87개 테스트 통과)
+  - test_crawlers.py (normalizer, dedup, cleaner, stats, converter)
+  - 기존 168개 테스트와 호환성 검증 완료 (255/255 PASSED)
+- [ ] 샘플 검증 (6개 포스트 테스트) → Phase 2에서 실제 크롤링 시 수행
+- [ ] 전체 크롤링 실행 (no=194~3940) → Phase 2에서 수행
+
+### Phase 2: Baseline 학습 (Week 2) ⭐ NOW
+
+- [ ] 실제 크롤링 실행 (no=194~3940, 3,700+ 합격작)
+- [ ] 데이터 정제 실행 (중복 제거, 손상 필터링)
+- [ ] Pairwise 데이터셋 생성 (~10,000+ pairs)
+- [ ] DINOv2 Baseline 학습 (wandb 추적)
+- [ ] Mixed Precision 활성화
+- [ ] Gradient Accumulation 추가
+- [ ] 평가 분석 (티어별/과별 정확도)
+
+### Phase 3: Multi-Branch Fusion (Week 3-4)
+
+- [ ] PiDiNet Edge Branch 추가
+- [ ] Dual-Branch Fusion Layer 구현
+- [ ] CLIP 주제 해석 통합
+- [ ] 4축 루브릭 Head (구성력/명암·질감/조형완성도/주제해석력)
+- [ ] Multi-task Loss (Ranking + Regression)
+- [ ] 과별 가중치 적용
+
+### Phase 4: API 연결 (Week 5)
+
+- [ ] InferenceService 구현
+- [ ] GMM 티어 분류기
+- [ ] POST /evaluate, POST /compare 엔드포인트
+- [ ] FeedbackService (LLM 피드백)
+- [ ] ONNX 최적화 검토
+
+### Phase 5: 프론트엔드 MVP (Week 6)
+
+- [ ] 진단 UI (이미지 업로드 + 4축 레이더 차트)
+- [ ] Firebase Auth (Google/Kakao)
+- [ ] 평가 이력 저장 + 조회
+- [ ] E2E 통합 테스트
+
 ---
 
 ## 로드맵 개요
@@ -454,5 +519,5 @@ Week 17-28 [Phase 4] 고도화
 
 ---
 
-*문서 버전: 2.1*
-*최종 업데이트: 2025년 1월*
+*문서 버전: 3.0*
+*최종 업데이트: 2026년 1월*

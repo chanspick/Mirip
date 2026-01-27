@@ -8,9 +8,9 @@
  * @module pages/diagnosis/DiagnosisPage
  */
 
-import React, { useState, useCallback, useRef, useEffect } from 'react';
+import React, { useState, useCallback, useRef, useEffect, useMemo } from 'react';
 import { Link } from 'react-router-dom';
-import { Header, Footer, Button, Loading } from '../../../components/common';
+import { Header, Footer, Button, Loading, AuthModal } from '../../../components/common';
 import {
   evaluateImage,
   generateMockResult,
@@ -19,17 +19,9 @@ import {
   NetworkError,
   TimeoutError,
 } from '../../../services/diagnosisService';
+import { useAuth } from '../../../hooks';
+import { GUEST_NAV_ITEMS, LOGGED_IN_NAV_ITEMS } from '../../../utils/navigation';
 import styles from './DiagnosisPage.module.css';
-
-/**
- * 네비게이션 아이템
- */
-const NAV_ITEMS = [
-  { label: '공모전', href: '/competitions' },
-  { label: 'AI 진단', href: '/diagnosis' },
-  { label: 'Why MIRIP', href: '/#problem' },
-  { label: 'Solution', href: '/#solution' },
-];
 
 /**
  * Footer 링크
@@ -95,6 +87,26 @@ const getErrorMessage = (error) => {
  * AI 진단 페이지 컴포넌트
  */
 const DiagnosisPage = () => {
+  // 인증 상태
+  const { profile, isAuthenticated, signOut } = useAuth();
+  const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
+
+  // 네비게이션 아이템 (로그인 여부에 따라 변경)
+  const navItems = useMemo(
+    () => isAuthenticated ? LOGGED_IN_NAV_ITEMS : GUEST_NAV_ITEMS,
+    [isAuthenticated]
+  );
+
+  // 로그인/로그아웃 핸들러
+  const handleLoginClick = useCallback(() => setIsAuthModalOpen(true), []);
+  const handleLogout = useCallback(async () => {
+    try {
+      await signOut();
+    } catch (error) {
+      console.error('[DiagnosisPage] 로그아웃 실패:', error);
+    }
+  }, [signOut]);
+
   // 상태 관리
   const [selectedImage, setSelectedImage] = useState(null);
   const [previewUrl, setPreviewUrl] = useState(null);
@@ -266,11 +278,20 @@ const DiagnosisPage = () => {
       {/* 헤더 */}
       <Header
         logo={<Link to="/" className={styles.logo}>MIRIP</Link>}
-        navItems={NAV_ITEMS}
-        ctaButton={{
+        navItems={navItems}
+        ctaButton={!isAuthenticated ? {
           label: '공모전',
           onClick: () => window.location.href = '/competitions',
-        }}
+        } : null}
+        user={isAuthenticated ? { photoURL: profile?.profileImageUrl, displayName: profile?.displayName } : null}
+        onLoginClick={handleLoginClick}
+        onLogout={handleLogout}
+      />
+
+      {/* 로그인 모달 */}
+      <AuthModal
+        isOpen={isAuthModalOpen}
+        onClose={() => setIsAuthModalOpen(false)}
       />
 
       {/* 메인 콘텐츠 */}

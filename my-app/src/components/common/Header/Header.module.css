@@ -125,6 +125,7 @@
 
 /* ===== 프로필 영역 (SPEC-CRED-001 M5) ===== */
 .profileContainer {
+  position: relative;
   flex-shrink: 0;
   margin-left: var(--spacing-md);
 }
@@ -162,6 +163,111 @@
   font-family: var(--font-sans);
   font-size: 14px;
   font-weight: 500;
+}
+
+/* 프로필 버튼 (드롭다운 토글) */
+.profileButton {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px 12px;
+  border-radius: 8px;
+  color: var(--text-primary);
+  transition: all var(--transition-fast);
+}
+
+.profileButton:hover {
+  background-color: var(--surface-secondary, #f5f5f5);
+}
+
+.dropdownArrow {
+  transition: transform var(--transition-fast);
+}
+
+.dropdownArrow.open {
+  transform: rotate(180deg);
+}
+
+/* 드롭다운 메뉴 */
+.dropdown {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin-top: 8px;
+  background: var(--white);
+  border: 1px solid var(--border-light, #e0e0e0);
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+  min-width: 180px;
+  padding: 8px 0;
+  z-index: 1001;
+}
+
+.dropdownItem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 10px 16px;
+  background: none;
+  border: none;
+  text-align: left;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  color: var(--text-primary);
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color var(--transition-fast);
+}
+
+.dropdownItem:hover {
+  background-color: var(--surface-secondary, #f5f5f5);
+  color: var(--accent-gold);
+}
+
+.dropdownItem svg {
+  flex-shrink: 0;
+  color: var(--text-secondary, #666);
+}
+
+.dropdownItem:hover svg {
+  color: var(--accent-gold);
+}
+
+.dropdownDivider {
+  height: 1px;
+  background-color: var(--border-light, #e0e0e0);
+  margin: 6px 0;
+}
+
+/* ===== 로그인 버튼 영역 ===== */
+.authContainer {
+  flex-shrink: 0;
+  margin-left: var(--spacing-md);
+}
+
+.loginButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 24px;
+  background-color: transparent;
+  color: var(--accent-gold);
+  border: 1.5px solid var(--accent-gold);
+  border-radius: 6px;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.loginButton:hover {
+  background-color: var(--accent-gold);
+  color: var(--white);
 }
 
 /* ===== Responsive Styles ===== */
@@ -216,6 +322,25 @@
   .profileAvatar {
     width: 28px;
     height: 28px;
+  }
+
+  .dropdownArrow {
+    display: none;
+  }
+
+  .dropdown {
+    right: -8px;
+    min-width: 160px;
+  }
+
+  /* 로그인 버튼 모바일 */
+  .authContainer {
+    margin-left: var(--spacing-sm);
+  }
+
+  .loginButton {
+    padding: 8px 16px;
+    font-size: 13px;
   }
 }
 

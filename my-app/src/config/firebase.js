@@ -11,6 +11,8 @@
 
 import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
+import { getStorage } from 'firebase/storage';
+import { getAuth } from 'firebase/auth';
 
 /**
  * Firebase 환경 변수 유효성 검사
@@ -67,4 +69,16 @@ const app = initializeApp(firebaseConfig);
  */
 const db = getFirestore(app);
 
-export { app, db };
+/**
+ * Firebase Storage 인스턴스
+ * @type {FirebaseStorage}
+ */
+const storage = getStorage(app);
+
+/**
+ * Firebase Auth 인스턴스
+ * @type {Auth}
+ */
+const auth = getAuth(app);
+
+export { app, db, storage, auth };

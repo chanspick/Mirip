@@ -13,7 +13,7 @@ jest.mock('../../../hooks', () => ({
   useActivities: jest.fn(),
 }));
 
-import useActivities from '../../../hooks';
+import { useActivities } from '../../../hooks';
 
 // 테스트용 활동 데이터
 const mockActivities = [

@@ -4,20 +4,12 @@
 
 import React, { useState, useCallback, useMemo } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { Header, Footer } from '../../components/common';
+import { Header, Footer, AuthModal } from '../../components/common';
 import { PortfolioGrid, PortfolioUploadForm, PortfolioModal } from '../../components/credential';
-import { usePortfolios } from '../../hooks';
+import { usePortfolios, useAuth } from '../../hooks';
 import { auth } from '../../config/firebase';
+import { GUEST_NAV_ITEMS, LOGGED_IN_NAV_ITEMS } from '../../utils/navigation';
 import styles from './PortfolioPage.module.css';
-
-/**
- * 네비게이션 아이템
- */
-const NAV_ITEMS = [
-  { label: '공모전', href: '/competitions' },
-  { label: 'AI 진단', href: '/diagnosis' },
-  { label: '마이페이지', href: '/profile' },
-];
 
 /**
  * Footer 링크
@@ -38,6 +30,27 @@ const PortfolioPage = () => {
   const currentUser = auth.currentUser;
   const userId = currentUser?.uid;
 
+  // 인증 상태
+  const { profile, isAuthenticated, signOut } = useAuth();
+  const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
+
+  // 네비게이션 아이템 (로그인 여부에 따라 변경)
+  const navItems = useMemo(
+    () => isAuthenticated ? LOGGED_IN_NAV_ITEMS : GUEST_NAV_ITEMS,
+    [isAuthenticated]
+  );
+
+  // 로그인/로그아웃 핸들러
+  const handleLoginClick = useCallback(() => setIsAuthModalOpen(true), []);
+  const handleLogout = useCallback(async () => {
+    try {
+      await signOut();
+      navigate('/');
+    } catch (error) {
+      console.error('[PortfolioPage] 로그아웃 실패:', error);
+    }
+  }, [signOut, navigate]);
+
   // 포트폴리오 훅
   const {
     portfolios,
@@ -48,7 +61,6 @@ const PortfolioPage = () => {
     remove,
     loadMore,
     hasMore,
-    refresh,
   } = usePortfolios(userId);
 
   // UI 상태
@@ -72,14 +84,14 @@ const PortfolioPage = () => {
   }, [navigate]);
 
   /**
-   * Header CTA 버튼 설정
+   * Header CTA 버튼 설정 (비로그인 사용자만)
    */
   const ctaButtonConfig = useMemo(
-    () => ({
+    () => isAuthenticated ? null : ({
       label: 'AI 진단',
       onClick: goToDiagnosis,
     }),
-    [goToDiagnosis]
+    [goToDiagnosis, isAuthenticated]
   );
 
   /**
@@ -226,8 +238,13 @@ const PortfolioPage = () => {
       <div className={styles.portfolioPage}>
         <Header
           logo={<Link to="/" className={styles.logo}>MIRIP</Link>}
-          navItems={NAV_ITEMS}
+          navItems={navItems}
           ctaButton={ctaButtonConfig}
+          onLoginClick={handleLoginClick}
+        />
+        <AuthModal
+          isOpen={isAuthModalOpen}
+          onClose={() => setIsAuthModalOpen(false)}
         />
         <main className={styles.main}>
           <div className={styles.container}>
@@ -235,9 +252,13 @@ const PortfolioPage = () => {
               <span className={styles.loginIcon}>{'\uD83D\uDD12'}</span>
               <h2>로그인이 필요합니다</h2>
               <p>포트폴리오를 관리하려면 로그인해주세요.</p>
-              <Link to="/" className={styles.loginButton}>
-                홈으로 이동
-              </Link>
+              <button
+                type="button"
+                className={styles.loginButton}
+                onClick={handleLoginClick}
+              >
+                로그인하기
+              </button>
             </div>
           </div>
         </main>
@@ -253,8 +274,17 @@ const PortfolioPage = () => {
     <div className={styles.portfolioPage} data-testid="portfolio-page">
       <Header
         logo={<Link to="/" className={styles.logo}>MIRIP</Link>}
-        navItems={NAV_ITEMS}
+        navItems={navItems}
         ctaButton={ctaButtonConfig}
+        user={isAuthenticated ? { photoURL: profile?.profileImageUrl, displayName: profile?.displayName } : null}
+        onLoginClick={handleLoginClick}
+        onLogout={handleLogout}
+      />
+
+      {/* 로그인 모달 */}
+      <AuthModal
+        isOpen={isAuthModalOpen}
+        onClose={() => setIsAuthModalOpen(false)}
       />
 
       <main className={styles.main}>

@@ -12,3 +12,4 @@ export { default as Footer } from './Footer';
 
 // Overlay Components
 export { default as Modal } from './Modal';
+export { default as AuthModal } from './AuthModal';

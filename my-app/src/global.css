@@ -25,6 +25,54 @@ body {
   --accent-cta: #8B0000;
   --accent-cta-hover: #6B0000;
 
+  /* ==================== Credential System Colors ==================== */
+
+  /* Tier Badge Colors */
+  --tier-s: #FFD700;
+  --tier-s-gradient-start: #FFD700;
+  --tier-s-gradient-end: #FFA500;
+  --tier-a: #E8E8E8;
+  --tier-a-gradient-start: #E8E8E8;
+  --tier-a-gradient-end: #C0C0C0;
+  --tier-b: #CD7F32;
+  --tier-b-gradient-start: #CD7F32;
+  --tier-b-gradient-end: #8B4513;
+  --tier-c: #4169E1;
+  --tier-c-gradient-start: #4169E1;
+  --tier-c-gradient-end: #1E3A8A;
+  --tier-unranked: #A0A0A0;
+  --tier-unranked-gradient-start: #A0A0A0;
+  --tier-unranked-gradient-end: #808080;
+
+  /* Achievement Rank Colors */
+  --rank-grand-prize: #FFD700;
+  --rank-gold: #FFB800;
+  --rank-silver: #C0C0C0;
+  --rank-bronze: #CD7F32;
+  --rank-finalist: #4169E1;
+
+  /* Activity Heatmap Colors (GitHub-style) */
+  --activity-level-0: #ebedf0;
+  --activity-level-1: #9be9a8;
+  --activity-level-2: #40c463;
+  --activity-level-3: #30a14e;
+  --activity-level-4: #216e39;
+
+  /* Streak Highlight */
+  --streak-highlight-bg: #fff7ed;
+  --streak-highlight-border: #fed7aa;
+
+  /* Shadow Elevations */
+  --shadow-elevation-sm: 0 2px 4px rgba(0, 0, 0, 0.08);
+  --shadow-elevation-md: 0 4px 8px rgba(0, 0, 0, 0.12);
+  --shadow-elevation-lg: 0 8px 16px rgba(0, 0, 0, 0.15);
+
+  /* Border Radius */
+  --border-radius-sm: 4px;
+  --border-radius-md: 8px;
+  --border-radius-lg: 12px;
+  --border-radius-full: 9999px;
+
   /* 보더 (Border Colors) */
   --border-light: #D4CFC9;
   --border-medium: #BFBAB3;

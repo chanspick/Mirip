@@ -164,3 +164,15 @@ venv/
 my-app/Scripts/
 my-app/public/Lib/
 **/site-packages/
+
+# Python venv config
+pyvenv.cfg
+
+# Windows artifacts
+my-app/nul
+
+# Firebase deploy artifacts
+my-app/undefined/
+
+# Temp files
+backend/_temp_writer.py

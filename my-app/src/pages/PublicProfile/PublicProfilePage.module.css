@@ -10,9 +10,11 @@
 }
 
 .logo {
+  font-family: var(--font-english);
   font-size: 24px;
-  font-weight: 700;
-  color: var(--gray-800, #1f2937);
+  font-weight: 500;
+  color: var(--text-primary);
+  letter-spacing: 0.1em;
   text-decoration: none;
 }
 

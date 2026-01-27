@@ -4,7 +4,7 @@
 
 import React, { useState, useCallback, useMemo } from 'react';
 import PropTypes from 'prop-types';
-import useActivities from '../../../hooks';
+import { useActivities } from '../../../hooks';
 import styles from './ActivityTimeline.module.css';
 
 // 활동 타입별 설정

@@ -3,9 +3,9 @@
 // SPEC-CRED-001 M5: 로그인 사용자 CTA 추가
 // 5개 섹션: Hero, Problem, Solution, AI Preview, CTA (프로토타입)
 
-import React, { useCallback, useMemo } from 'react';
+import React, { useCallback, useMemo, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { Header, Footer, Button } from '../../components/common';
+import { Header, Footer, Button, AuthModal } from '../../components/common';
 import { useAuth } from '../../hooks';
 import { CREDENTIAL_ROUTES, GUEST_NAV_ITEMS, LOGGED_IN_NAV_ITEMS } from '../../utils/navigation';
 import styles from './Landing.module.css';
@@ -79,7 +79,9 @@ const FOOTER_LINKS = [
 const Landing = () => {
   const navigate = useNavigate();
   // SPEC-CRED-001 M5: 인증 상태 확인
-  const { user, profile, isAuthenticated } = useAuth();
+  const { profile, isAuthenticated, signOut } = useAuth();
+  // 로그인 모달 상태
+  const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
 
   /**
    * AI 진단 페이지로 이동
@@ -87,6 +89,33 @@ const Landing = () => {
   const goToDiagnosis = useCallback(() => {
     navigate('/diagnosis');
   }, [navigate]);
+
+  /**
+   * 로그인 모달 열기
+   */
+  const handleLoginClick = useCallback(() => {
+    setIsAuthModalOpen(true);
+  }, []);
+
+  /**
+   * 로그인 성공 핸들러
+   */
+  const handleLoginSuccess = useCallback((loggedInUser) => {
+    console.log('[Landing] 로그인 성공:', loggedInUser.displayName);
+    // 로그인 후 필요한 추가 작업 있으면 여기서 처리
+  }, []);
+
+  /**
+   * 로그아웃 핸들러
+   */
+  const handleLogout = useCallback(async () => {
+    try {
+      await signOut();
+      console.log('[Landing] 로그아웃 완료');
+    } catch (error) {
+      console.error('[Landing] 로그아웃 실패:', error);
+    }
+  }, [signOut]);
 
   /**
    * Header CTA 버튼 설정 (메모이제이션)
@@ -116,6 +145,15 @@ const Landing = () => {
         navItems={navItems}
         ctaButton={ctaButtonConfig}
         user={isAuthenticated ? { photoURL: profile?.profileImageUrl, displayName: profile?.displayName } : null}
+        onLoginClick={handleLoginClick}
+        onLogout={handleLogout}
+      />
+
+      {/* 로그인 모달 */}
+      <AuthModal
+        isOpen={isAuthModalOpen}
+        onClose={() => setIsAuthModalOpen(false)}
+        onSuccess={handleLoginSuccess}
       />
 
       {/* Hero Section */}

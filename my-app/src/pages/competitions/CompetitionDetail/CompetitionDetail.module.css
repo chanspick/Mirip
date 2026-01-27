@@ -1,0 +1,518 @@
+/* CompetitionDetail 페이지 스타일 */
+/* MIRIP Design System 적용 */
+
+/* ===== Page Container ===== */
+.container {
+  min-height: 100vh;
+  background: var(--bg-primary);
+}
+
+/* ===== 로딩 상태 ===== */
+.loadingContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+}
+
+/* ===== 에러 상태 ===== */
+.errorContainer {
+  text-align: center;
+  padding: var(--spacing-section) var(--spacing-lg);
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+.errorContainer p {
+  font-family: var(--font-sans);
+  color: var(--accent-cta);
+  margin-bottom: var(--spacing-lg);
+}
+
+.errorContainer button {
+  padding: var(--spacing-sm) var(--spacing-xl);
+  background: var(--accent-cta);
+  color: var(--white);
+  border: 1px solid var(--accent-cta);
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-size: 16px;
+  transition: var(--transition-fast);
+}
+
+.errorContainer button:hover {
+  background: var(--accent-cta-hover);
+  border-color: var(--accent-cta-hover);
+}
+
+/* ===== 404 상태 ===== */
+.notFound {
+  text-align: center;
+  padding: var(--spacing-section) var(--spacing-lg);
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+.notFound h2 {
+  font-family: var(--font-serif);
+  font-size: 24px;
+  color: var(--text-primary);
+  margin-bottom: var(--spacing-sm);
+}
+
+.notFound p {
+  font-family: var(--font-sans);
+  color: var(--text-muted);
+  margin-bottom: var(--spacing-lg);
+}
+
+.backLink {
+  display: inline-block;
+  padding: var(--spacing-sm) var(--spacing-xl);
+  background: var(--accent-gold);
+  color: var(--white);
+  text-decoration: none;
+  font-family: var(--font-sans);
+  font-size: 16px;
+  transition: var(--transition-fast);
+}
+
+.backLink:hover {
+  background: var(--accent-gold-hover);
+  transform: translateY(-2px);
+}
+
+/* ===== 히어로 섹션 ===== */
+.hero {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  padding: var(--spacing-section) var(--spacing-lg);
+  color: var(--white);
+}
+
+.heroContent {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* ===== 상태 배지 ===== */
+.status {
+  display: inline-block;
+  padding: 6px var(--spacing-md);
+  font-family: var(--font-english);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: var(--spacing-md);
+}
+
+.statusActive {
+  background: var(--accent-gold);
+}
+
+.statusUpcoming {
+  background: var(--text-secondary);
+}
+
+.statusClosed {
+  background: var(--text-muted);
+}
+
+/* ===== 제목 ===== */
+.title {
+  font-family: var(--font-serif);
+  font-size: clamp(28px, 5vw, 40px);
+  font-weight: 600;
+  margin: 0 0 var(--spacing-md) 0;
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+}
+
+/* ===== 태그 ===== */
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-lg);
+}
+
+.tag {
+  padding: var(--spacing-xs) var(--spacing-sm);
+  background: rgba(255, 255, 255, 0.2);
+  font-family: var(--font-english);
+  font-size: 12px;
+  letter-spacing: 0.05em;
+}
+
+/* ===== 메타 정보 ===== */
+.metaInfo {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-lg);
+  margin-bottom: var(--spacing-xl);
+}
+
+.metaItem {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  font-family: var(--font-sans);
+  font-size: 16px;
+}
+
+.metaIcon {
+  font-size: 20px;
+}
+
+/* ===== 참여 버튼 ===== */
+.submitButton {
+  display: inline-block;
+  padding: var(--spacing-md) var(--spacing-xl);
+  background: var(--white);
+  color: var(--accent-gold);
+  text-decoration: none;
+  font-family: var(--font-sans);
+  font-size: 18px;
+  font-weight: 600;
+  transition: var(--transition-fast);
+  border: 1px solid var(--white);
+}
+
+.submitButton:hover {
+  background: var(--bg-primary);
+  transform: translateY(-2px);
+}
+
+/* ===== 탭 네비게이션 ===== */
+.tabNav {
+  background: var(--white);
+  border-bottom: 1px solid var(--border-light);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.tabList {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-lg);
+  display: flex;
+  gap: var(--spacing-sm);
+  overflow-x: auto;
+}
+
+.tab {
+  padding: var(--spacing-md) var(--spacing-lg);
+  background: none;
+  border: none;
+  font-family: var(--font-sans);
+  font-size: 16px;
+  color: var(--text-muted);
+  cursor: pointer;
+  white-space: nowrap;
+  border-bottom: 2px solid transparent;
+  transition: var(--transition-fast);
+}
+
+.tab:hover {
+  color: var(--accent-gold);
+}
+
+.tabActive {
+  color: var(--accent-gold);
+  font-weight: 600;
+  border-bottom-color: var(--accent-gold);
+}
+
+/* ===== 콘텐츠 영역 ===== */
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--spacing-xl) var(--spacing-lg) var(--spacing-section);
+}
+
+.tabContent {
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ===== 섹션 ===== */
+.section {
+  background: var(--white);
+  padding: var(--spacing-xl);
+  margin-bottom: var(--spacing-lg);
+  box-shadow: var(--shadow-card);
+  border: 1px solid var(--border-light);
+}
+
+.sectionTitle {
+  font-family: var(--font-serif);
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 var(--spacing-md) 0;
+  padding-bottom: var(--spacing-sm);
+  border-bottom: 1px solid var(--border-light);
+}
+
+.description {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.8;
+  color: var(--text-secondary);
+  white-space: pre-wrap;
+}
+
+/* ===== 규칙 리스트 ===== */
+.rulesList ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.rulesList li {
+  position: relative;
+  padding: var(--spacing-sm) 0 var(--spacing-sm) 28px;
+  border-bottom: 1px solid var(--bg-secondary);
+  font-family: var(--font-sans);
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.rulesList li:last-child {
+  border-bottom: none;
+}
+
+.rulesList li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: var(--accent-gold);
+  font-size: 20px;
+}
+
+/* ===== 타임라인 ===== */
+.timeline {
+  position: relative;
+  padding-left: var(--spacing-lg);
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--border-light);
+}
+
+.timelineItem {
+  position: relative;
+  padding: 20px 0 20px var(--spacing-lg);
+}
+
+.timelineItem::before {
+  content: '';
+  position: absolute;
+  left: -29px;
+  top: 24px;
+  width: 12px;
+  height: 12px;
+  background: var(--accent-gold);
+  border-radius: 50%;
+  border: 2px solid var(--white);
+}
+
+.timelineDate {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--text-muted);
+  margin-bottom: var(--spacing-xs);
+}
+
+.timelineContent h3 {
+  font-family: var(--font-serif);
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 var(--spacing-xs) 0;
+}
+
+.timelineContent p {
+  font-family: var(--font-sans);
+  color: var(--text-muted);
+  margin: 0;
+}
+
+/* ===== 상금 리스트 ===== */
+.prizeList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.prizeItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px var(--spacing-lg);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-light);
+  transition: var(--transition-fast);
+}
+
+.prizeItem:hover {
+  transform: translateX(4px);
+  border-color: var(--accent-gold);
+}
+
+.prizeRank {
+  font-family: var(--font-serif);
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.prizeAmount {
+  font-family: var(--font-mono);
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--accent-gold);
+}
+
+/* ===== 하단 CTA ===== */
+.bottomCta {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: var(--white);
+  border-top: 1px solid var(--border-light);
+  padding: var(--spacing-md) var(--spacing-lg);
+  z-index: 100;
+}
+
+.ctaContent {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ctaInfo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+}
+
+.ctaDeadline {
+  font-family: var(--font-mono);
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--accent-cta);
+}
+
+.ctaParticipants {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.ctaButton {
+  padding: 14px var(--spacing-xl);
+  background: var(--accent-gold);
+  color: var(--white);
+  text-decoration: none;
+  font-family: var(--font-sans);
+  font-size: 16px;
+  font-weight: 600;
+  transition: var(--transition-fast);
+  border: 1px solid var(--accent-gold);
+}
+
+.ctaButton:hover {
+  background: var(--accent-gold-hover);
+  border-color: var(--accent-gold-hover);
+  transform: translateY(-2px);
+}
+
+/* ===== 반응형 ===== */
+@media (max-width: 768px) {
+  .hero {
+    padding: var(--spacing-xl) var(--spacing-md);
+  }
+
+  .title {
+    font-size: 28px;
+  }
+
+  .metaInfo {
+    flex-direction: column;
+    gap: var(--spacing-sm);
+  }
+
+  .submitButton {
+    display: block;
+    text-align: center;
+    padding: 14px var(--spacing-xl);
+    font-size: 16px;
+  }
+
+  .tabList {
+    padding: 0 var(--spacing-md);
+  }
+
+  .tab {
+    padding: var(--spacing-sm) var(--spacing-md);
+    font-size: 14px;
+  }
+
+  .content {
+    padding: var(--spacing-lg) var(--spacing-md) 100px;
+  }
+
+  .section {
+    padding: var(--spacing-lg) var(--spacing-md);
+  }
+
+  .ctaContent {
+    flex-direction: column;
+    gap: var(--spacing-sm);
+  }
+
+  .ctaInfo {
+    align-items: center;
+    text-align: center;
+  }
+
+  .ctaButton {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .title {
+    font-size: 24px;
+  }
+
+  .prizeItem {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--spacing-sm);
+  }
+}

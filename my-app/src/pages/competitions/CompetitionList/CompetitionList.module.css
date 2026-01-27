@@ -1,0 +1,224 @@
+/* CompetitionList 페이지 스타일 */
+/* MIRIP Design System 적용 */
+
+/* ===== Page Layout ===== */
+.page {
+  min-height: 100vh;
+  background-color: var(--bg-primary);
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1;
+  padding-top: 80px; /* Header 높이 */
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--spacing-xl) var(--spacing-md);
+}
+
+/* ===== Logo ===== */
+.logo {
+  font-family: var(--font-english);
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--text-primary);
+  letter-spacing: 0.1em;
+  text-decoration: none;
+}
+
+/* ===== 페이지 헤더 ===== */
+.header {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+  padding: var(--spacing-xl) 0;
+}
+
+.sectionLabel {
+  display: inline-block;
+  font-family: var(--font-english);
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--accent-gold);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: var(--spacing-sm);
+}
+
+.title {
+  font-family: var(--font-serif);
+  font-size: clamp(32px, 5vw, 48px);
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 var(--spacing-sm) 0;
+  letter-spacing: -0.02em;
+}
+
+.subtitle {
+  font-family: var(--font-sans);
+  font-size: 18px;
+  color: var(--text-secondary);
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* ===== 그리드 ===== */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--spacing-lg);
+}
+
+/* ===== 스켈레톤 카드 ===== */
+.skeletonCard {
+  background: var(--white);
+  overflow: hidden;
+  box-shadow: var(--shadow-card);
+}
+
+.skeletonThumbnail {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: linear-gradient(90deg, var(--bg-secondary) 25%, var(--bg-primary) 50%, var(--bg-secondary) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+.skeletonContent {
+  padding: var(--spacing-md);
+}
+
+.skeletonCategory {
+  width: 60px;
+  height: 20px;
+  background: var(--bg-secondary);
+  margin-bottom: var(--spacing-xs);
+}
+
+.skeletonTitle {
+  width: 100%;
+  height: 24px;
+  background: var(--bg-secondary);
+  margin-bottom: var(--spacing-xs);
+}
+
+.skeletonOrganizer {
+  width: 80%;
+  height: 16px;
+  background: var(--bg-secondary);
+  margin-bottom: var(--spacing-sm);
+}
+
+.skeletonFooter {
+  width: 100%;
+  height: 32px;
+  background: var(--bg-secondary);
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* ===== 에러 상태 ===== */
+.error {
+  text-align: center;
+  padding: var(--spacing-xl);
+  background: var(--white);
+  border: 1px solid var(--border-light);
+  margin-bottom: var(--spacing-lg);
+}
+
+.error p {
+  font-family: var(--font-sans);
+  color: var(--accent-cta);
+  margin: 0 0 var(--spacing-sm) 0;
+}
+
+.error button {
+  padding: var(--spacing-xs) var(--spacing-md);
+  background: var(--accent-cta);
+  color: var(--white);
+  border: 1px solid var(--accent-cta);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  cursor: pointer;
+  transition: var(--transition-fast);
+}
+
+.error button:hover {
+  background: var(--accent-cta-hover);
+  border-color: var(--accent-cta-hover);
+}
+
+/* ===== 빈 상태 ===== */
+.empty {
+  text-align: center;
+  padding: var(--spacing-section) var(--spacing-md);
+  color: var(--text-muted);
+  font-family: var(--font-sans);
+}
+
+/* ===== 더 불러오기 ===== */
+.loadMoreTrigger {
+  display: flex;
+  justify-content: center;
+  padding: var(--spacing-lg) 0;
+  min-height: 80px;
+}
+
+.endMessage {
+  text-align: center;
+  color: var(--text-muted);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  padding: var(--spacing-md) 0 var(--spacing-xl);
+}
+
+/* ===== 반응형 ===== */
+@media (max-width: 1024px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-md);
+  }
+}
+
+@media (max-width: 768px) {
+  .main {
+    padding-top: 70px;
+  }
+
+  .container {
+    padding: var(--spacing-lg) var(--spacing-sm);
+  }
+
+  .header {
+    padding: var(--spacing-lg) 0;
+  }
+
+  .title {
+    font-size: 28px;
+  }
+
+  .subtitle {
+    font-size: 16px;
+  }
+
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-sm);
+  }
+}
+
+@media (max-width: 480px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

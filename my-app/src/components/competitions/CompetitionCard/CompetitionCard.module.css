@@ -1,0 +1,151 @@
+/* CompetitionCard 스타일 */
+/* MIRIP Design System 적용 */
+
+/* ===== Card Container ===== */
+.card {
+  background: var(--white);
+  overflow: hidden;
+  box-shadow: var(--shadow-card);
+  cursor: pointer;
+  transition: var(--transition-normal);
+  border: 1px solid var(--border-light);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-card-hover);
+  border-color: var(--accent-gold);
+}
+
+/* ===== 썸네일 영역 ===== */
+.thumbnailWrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: var(--bg-secondary);
+}
+
+.thumbnail {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: var(--transition-normal);
+}
+
+.card:hover .thumbnail {
+  transform: scale(1.03);
+}
+
+/* ===== D-Day 배지 ===== */
+.badge {
+  position: absolute;
+  top: var(--spacing-sm);
+  right: var(--spacing-sm);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: var(--white);
+}
+
+.badgeNormal {
+  background-color: var(--text-secondary);
+}
+
+.badgeSoon {
+  background-color: var(--accent-gold);
+}
+
+.badgeUrgent {
+  background-color: var(--accent-cta);
+}
+
+.badgeEnded {
+  background-color: var(--text-muted);
+}
+
+/* ===== 콘텐츠 영역 ===== */
+.content {
+  padding: var(--spacing-md);
+}
+
+/* ===== 분야 태그 ===== */
+.category {
+  display: inline-block;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  background-color: var(--bg-secondary);
+  color: var(--accent-gold);
+  font-family: var(--font-english);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: var(--spacing-xs);
+}
+
+/* ===== 제목 ===== */
+.title {
+  margin: 0 0 var(--spacing-xs) 0;
+  font-family: var(--font-serif);
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  letter-spacing: -0.01em;
+}
+
+/* ===== 주최자 ===== */
+.organizer {
+  margin: 0 0 var(--spacing-sm) 0;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+/* ===== 하단 정보 ===== */
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: var(--spacing-sm);
+  border-top: 1px solid var(--border-light);
+}
+
+.prize,
+.participants {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.prize {
+  font-weight: 600;
+  color: var(--accent-gold);
+}
+
+/* ===== 반응형 ===== */
+@media (max-width: 768px) {
+  .content {
+    padding: var(--spacing-sm);
+  }
+
+  .title {
+    font-size: 14px;
+  }
+
+  .footer {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--spacing-xs);
+  }
+}

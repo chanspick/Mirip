@@ -1,0 +1,94 @@
+/* CompetitionFilter 스타일 */
+/* MIRIP Design System 적용 */
+
+/* ===== Filter Container ===== */
+.filterContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--spacing-md);
+  padding: var(--spacing-md) 0;
+  margin-bottom: var(--spacing-lg);
+  border-bottom: 1px solid var(--border-light);
+}
+
+/* ===== Filter Group ===== */
+.filterGroup {
+  display: flex;
+  gap: var(--spacing-sm);
+  flex-wrap: wrap;
+}
+
+/* ===== Sort Group ===== */
+.sortGroup {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+}
+
+.sortLabel {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+/* ===== Select Element ===== */
+.select {
+  padding: var(--spacing-sm) var(--spacing-xl) var(--spacing-sm) var(--spacing-sm);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  color: var(--text-primary);
+  background-color: var(--white);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3E%3Cpath stroke='%238a8a8a' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3E%3C/svg%3E");
+  background-position: right var(--spacing-sm) center;
+  background-repeat: no-repeat;
+  background-size: 16px;
+  border: 1px solid var(--border-light);
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  transition: var(--transition-fast);
+}
+
+.select:hover {
+  border-color: var(--text-muted);
+}
+
+.select:focus {
+  outline: none;
+  border-color: var(--accent-gold);
+  box-shadow: 0 0 0 3px rgba(184, 134, 11, 0.15);
+}
+
+/* ===== 반응형 ===== */
+@media (max-width: 768px) {
+  .filterContainer {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .filterGroup {
+    width: 100%;
+  }
+
+  .filterGroup .select {
+    flex: 1;
+  }
+
+  .sortGroup {
+    justify-content: flex-end;
+  }
+}
+
+@media (max-width: 480px) {
+  .filterGroup {
+    flex-direction: column;
+  }
+
+  .filterGroup .select {
+    width: 100%;
+  }
+}

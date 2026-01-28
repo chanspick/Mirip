@@ -1,0 +1,17 @@
+{
+  "post_no": 1862,
+  "year": "2020",
+  "admission_type": "정시",
+  "university": "중앙대",
+  "department": "패션디자인",
+  "department_raw": "패션디자인",
+  "tier": "A",
+  "academy": "아트포엠 미술학원",
+  "work_type": "재현작",
+  "interview_raw": "글제목 \n\n 미대입시닷컴 합격생 인터뷰 \n 2020학년도 (정시) 중앙대 패션디자인 합격!! 단국대 합격!! - 정시 2관왕!! \n 노0민() \n 대구 아트포엠 프리미엄 회원이 아니거나, 다른학원 홈에 노출이 안되게 해서 학원명을 user_add250 으로 옮김 미술학원 \n\n ● 중앙대 패션디자인 합격! \n\n ● 지원대학: 단국대 패션디자인과 합격 \n 단국대 합격!! - 정시 2관왕!!! \n -● 질문이랑 다른 글 입력시 상단 251 / 하단 252 - -● 학생부: $Body_data[user_add26] - \n\n Q. 학업성적(수능,내신)은 평소에 어떻게 준비했나요? 미대입시닷컴 midaeipsi.com \n 공부에 집중하던 시기에는 아침부터 밤까지 밥 시간과 중간에 잠깐 쉬는 타임 빼고는 계속 공부만 했어요. 특 별한 관리법보다는 공부던 미술이던 본인이 깨닫고 열 심히 하는 것이 가장 중요하다고 생각합니다. \n\n Q. 실기준비는 어떻게 했나요? 미대입시닷컴 midaeipsi.com 대구 아트포엠 \n 일단 제 그림이 가진 단점을 극복하는 것을 우선순위로 두고 실기 향상을 위해 노력하였고 입시를 하는동안 가 장 어려웠던 부분은 멘탈 관리였습니다. \n\n ★ 중앙대 패션디자인 합격생 재현작 ★ \n ★ 중앙대 패션디자인 합격생 재현작 ★\n\t\t\t\t\t\t-- 대구 아트포엠 미술학원 제공 \n\n 자료제공: 대구 아트포엠 미술학원 \n -● 질문이랑 다른 글 입력시 상단 251 / 하단 252 - \n\n Q. 합격의 주요인은 무엇이라고 생각하나요? 미대입시닷컴 midaeipsi.com \n 선생님들께서 제가 가지고 있는 장·단점 잘 캐치해주신 뒤 그걸 바탕으로 계속해서 가르쳐주셨던 점이 도움이 많이 되었 습니다. 그로 인해서 제가 가졌던 단점이 시간이 지날수록 좋아지는 게 제 눈에도 확실히 보여서 자신감도 얻을 수 있어 좋 았습니다! \n\n Q. 입시를 준비하는 후배들이 유의해야 할 점이 있다면 간략하게 적어주세요. \n 전 입시동안 진짜 열심히 했다고 생각했는데도 좀 더 열심히 할 걸 그랬나 후회가 되기도 하는데 진짜 다음에 후회할 일 없 게끔 입시할 때는 진짜 미친 듯이 하시고 그 후에 열심히 노세요! \n\n 미대입시닷컴 합격생 인터뷰에 응해주셔서 감사드립니다. 멋진 대학생활을 응원합니다!! \n 본문내용 \n\n 실기연재 그림크게보기 시작 --영도가--- \n\n 설문투표 ------ 프리미엄 링크 premium Link 삽입------- -\n [35] 학원명\t \n [41] 전화번호\t \n [42] 핸드폰\t\n [51] 연재\t\n [52] 설명회\t \n [53] 인터뷰뉴스\t\n [54] 키워드\t \n [60] 구분\t-- 홍대/강남/성북/노원/중랑/분당/부천/일산/천안/전주/여수/순천/업체/대학/수원/송파/서초/관악 \n [62] 페이스북\t\n [63] 인스타 \n -- - 카테고리 / 프리미엄 아니면 안보이게 \nif ( !($category==2) ) echo \" style='display:none;' \"; \n- \n\n 프리미엄 링크 premium Link ★대구 아트포엠 미술학원 \n TEL  053-743-4302 \n\n -&Direct=ok\n <a href='board.php?board=seminar&search=$user_add52&shwhere=subject|user_add12'>\n\n<a href=\"board.php?board=seminar&command=body&no=85&mode=app&start=1&oneone=1&Direct=ok\" id=\"b85\" >\n\n - \n\n 블로그 보이기 블로그 숨기기 td width=\"33.3%\" onclick=\"javascript:click()\" style=\" cursor:hand; cursor:pointer;\" onmouseover=\"this.style.background='#0068dd'\" onmouseout=\"this.style.background=''\" align=center> <a href=\"#\" class=\"button2\" id=\"close\" onclick=\"frameWarp.hide();\"><span style=\"font-family:nanum gothic; font-size:12px; font-weight:bold; color:#66ccff;\">창닫기</span></a> </td",
+  "images": [
+    "data/crawled/raw_images/1862_0.jpg"
+  ],
+  "crawled_at": "2026-01-27T14:21:38.336526+00:00",
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1862"
+}

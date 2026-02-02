@@ -39,6 +39,8 @@ class Settings(BaseSettings):
     # 모델 설정
     # ======================
     MODEL_WEIGHTS_PATH: str = "/app/weights"
+    MODEL_CHECKPOINT_PATH: Optional[str] = None  # None이면 기본 경로 사용
+    ANCHOR_PATH: Optional[str] = None  # None이면 기본 경로 사용
     DEVICE: str = "cuda"
 
     # ======================

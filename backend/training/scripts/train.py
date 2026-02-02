@@ -85,16 +85,18 @@ def load_metadata(csv_path):
     return df
 
 
+def pairwise_collate_fn(batch):
+    """DataLoader용 collate 함수 (모듈 레벨 - Windows 멀티프로세싱 호환)"""
+    i1, i2, l = zip(*batch)
+    return torch.stack(i1), torch.stack(i2), torch.tensor(l, dtype=torch.long)
+
+
 def create_loaders(train_df, val_df, image_dir, batch_size, num_workers):
-    train_ds = PairwiseDataset(metadata_df=train_df, image_dir=image_dir)
-    val_ds = PairwiseDataset(metadata_df=val_df, image_dir=image_dir)
-    
-    def collate(batch):
-        i1, i2, l = zip(*batch)
-        return torch.stack(i1), torch.stack(i2), torch.tensor(l, dtype=torch.long)
-    
-    train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True, num_workers=num_workers, pin_memory=True, collate_fn=collate)
-    val_loader = DataLoader(val_ds, batch_size=batch_size, shuffle=False, num_workers=num_workers, pin_memory=True, collate_fn=collate)
+    train_ds = PairwiseDataset(metadata_df=train_df, image_dir=image_dir, is_train=True)
+    val_ds = PairwiseDataset(metadata_df=val_df, image_dir=image_dir, is_train=False)
+
+    train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True, num_workers=num_workers, pin_memory=True, collate_fn=pairwise_collate_fn)
+    val_loader = DataLoader(val_ds, batch_size=batch_size, shuffle=False, num_workers=num_workers, pin_memory=True, collate_fn=pairwise_collate_fn)
     return train_loader, val_loader
 
 
@@ -120,14 +122,14 @@ def main():
         output_dir.mkdir(parents=True, exist_ok=True)
         
         df = load_metadata(args.metadata_csv)
-        splitter = DataSplitter(train_ratio=args.train_ratio, val_ratio=args.val_ratio, random_state=args.seed)
-        train_df, val_df, test_df = splitter.split(df)
+        splitter = DataSplitter(metadata_df=df, train_ratio=args.train_ratio, val_ratio=args.val_ratio, seed=args.seed)
+        train_df, val_df, test_df = splitter.split()
         logger.info("데이터 분할 완료", train=len(train_df), val=len(val_df), test=len(test_df))
         
         test_df.to_csv(output_dir / "test_metadata.csv", index=False)
         train_loader, val_loader = create_loaders(train_df, val_df, args.image_dir, args.batch_size, args.num_workers)
         
-        model = PairwiseRankingModel(backbone_name="dinov2_vitl14", freeze_backbone=True)
+        model = PairwiseRankingModel(feature_extractor_model="facebook/dinov2-large")
         config = TrainingConfig(
             learning_rate=args.lr, weight_decay=args.weight_decay, batch_size=args.batch_size,
             max_epochs=args.epochs, early_stopping_patience=args.patience,

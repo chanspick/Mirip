@@ -30,6 +30,11 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # 애플리케이션 코드 복사
 COPY app/ ./app/
+COPY training/ ./training/
+
+# 체크포인트 및 앵커 복사
+COPY checkpoints/ ./checkpoints/
+COPY anchors/ ./anchors/
 
 # 비루트 사용자 생성 (보안)
 RUN useradd --create-home --shell /bin/bash appuser && \

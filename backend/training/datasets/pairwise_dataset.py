@@ -27,6 +27,7 @@ Example:
 
 from __future__ import annotations
 
+import random
 from pathlib import Path
 from typing import Callable, List, Optional, Tuple, Union
 
@@ -74,8 +75,8 @@ class PairwiseDataset(Dataset):
         'C': 1
     }
 
-    # Default image size for DINOv2
-    DEFAULT_IMAGE_SIZE: int = 768
+    # Default image size for DINOv2 (448 for faster training)
+    DEFAULT_IMAGE_SIZE: int = 448
 
     # ImageNet normalization stats
     IMAGENET_MEAN: Tuple[float, float, float] = (0.485, 0.456, 0.406)
@@ -86,6 +87,10 @@ class PairwiseDataset(Dataset):
         metadata_df: pd.DataFrame,
         image_dir: Union[str, Path],
         transform: Optional[Callable] = None,
+        max_pairs: Optional[int] = 20000,
+        max_appearances_per_image: int = 10,
+        seed: int = 42,
+        is_train: bool = True,
     ) -> None:
         """
         Initialize PairwiseDataset.
@@ -94,12 +99,22 @@ class PairwiseDataset(Dataset):
             metadata_df: DataFrame with columns ['image_path', 'tier']
             image_dir: Directory containing the images
             transform: Optional transform to apply to images
+            max_pairs: Maximum number of pairs to generate (None for all pairs).
+                      Default 20,000 to prevent overfitting.
+            max_appearances_per_image: 각 이미지가 페어에 등장할 수 있는 최대 횟수.
+                      Default 10 to prevent same image being seen too many times.
+            seed: Random seed for reproducible pair sampling
+            is_train: True면 augmentation 포함, False면 기본 transform만
 
         Raises:
             ValueError: If metadata_df is empty
             ValueError: If only one tier exists
             KeyError: If required columns are missing
         """
+        self._max_pairs = max_pairs
+        self._max_appearances = max_appearances_per_image
+        self._seed = seed
+        self._is_train = is_train
         # Validate required columns
         required_columns = {'image_path', 'tier'}
         if not required_columns.issubset(metadata_df.columns):
@@ -119,66 +134,162 @@ class PairwiseDataset(Dataset):
 
         self._metadata_df = metadata_df.copy()
         self._image_dir = Path(image_dir)
-        self._transform = transform or self._get_default_transform()
+        self._transform = transform or self._get_default_transform(is_train)
 
         # Generate all valid pairs
         self._pairs = self._generate_pairs()
 
-    def _get_default_transform(self) -> Callable:
+    def _get_default_transform(self, is_train: bool = True) -> Callable:
         """
         Get default image transform.
 
+        Args:
+            is_train: True면 augmentation 포함, False면 기본 transform만
+
         Returns:
-            Composed transform with resize, to_tensor, and normalize
+            Composed transform
         """
-        return transforms.Compose([
-            transforms.Resize((self.DEFAULT_IMAGE_SIZE, self.DEFAULT_IMAGE_SIZE)),
-            transforms.ToTensor(),
-            transforms.Normalize(
-                mean=self.IMAGENET_MEAN,
-                std=self.IMAGENET_STD
-            )
-        ])
+        if is_train:
+            # Train: augmentation 적용
+            return transforms.Compose([
+                transforms.Resize((self.DEFAULT_IMAGE_SIZE + 32, self.DEFAULT_IMAGE_SIZE + 32)),
+                transforms.RandomCrop(self.DEFAULT_IMAGE_SIZE),
+                transforms.RandomHorizontalFlip(p=0.5),
+                transforms.RandomRotation(degrees=10),
+                transforms.ColorJitter(brightness=0.2, contrast=0.2, saturation=0.1),
+                transforms.ToTensor(),
+                transforms.Normalize(
+                    mean=self.IMAGENET_MEAN,
+                    std=self.IMAGENET_STD
+                )
+            ])
+        else:
+            # Val/Test: augmentation 없음
+            return transforms.Compose([
+                transforms.Resize((self.DEFAULT_IMAGE_SIZE, self.DEFAULT_IMAGE_SIZE)),
+                transforms.ToTensor(),
+                transforms.Normalize(
+                    mean=self.IMAGENET_MEAN,
+                    std=self.IMAGENET_STD
+                )
+            ])
 
     def _generate_pairs(self) -> List[Tuple[str, str, int]]:
         """
-        Generate all valid pairs from different tiers.
+        Generate valid pairs from different tiers with optional sampling.
 
         Returns:
             List of tuples (img1_path, img2_path, label)
             where label = 1 if tier(img1) > tier(img2), else -1
 
         Note:
-            Generates both orderings: (A, B) and (B, A) for each pair
+            If max_pairs is set, samples uniformly across tier combinations.
+            Generates both orderings: (A, B) and (B, A) for each pair.
         """
-        pairs = []
+        random.seed(self._seed)
 
         # Group images by tier
         tier_groups = self._metadata_df.groupby('tier')['image_path'].apply(list).to_dict()
-
-        # Get all tier combinations
         tiers = list(tier_groups.keys())
 
+        # Collect tier combination info
+        tier_combos = []
         for i, tier1 in enumerate(tiers):
             for tier2 in tiers[i + 1:]:
-                # Get images from each tier
                 images1 = tier_groups[tier1]
                 images2 = tier_groups[tier2]
-
-                # Calculate label based on tier values
                 tier1_value = self.TIER_VALUES.get(tier1, 0)
                 tier2_value = self.TIER_VALUES.get(tier2, 0)
+                # 양방향 쌍 생성을 위한 총 가능 쌍 수
+                total_possible = len(images1) * len(images2) * 2
+                tier_combos.append({
+                    'tier1': tier1, 'tier2': tier2,
+                    'images1': images1, 'images2': images2,
+                    'tier1_value': tier1_value, 'tier2_value': tier2_value,
+                    'total_possible': total_possible
+                })
 
-                # Generate pairs in both directions
-                for img1 in images1:
-                    for img2 in images2:
-                        # (tier1, tier2) pair
-                        label1 = 1 if tier1_value > tier2_value else -1
-                        pairs.append((img1, img2, label1))
+        # 전체 가능한 쌍 수 계산
+        total_all_pairs = sum(c['total_possible'] for c in tier_combos)
 
-                        # (tier2, tier1) pair (reversed)
-                        label2 = 1 if tier2_value > tier1_value else -1
-                        pairs.append((img2, img1, label2))
+        # max_pairs가 없거나 전체 쌍보다 크면 모든 쌍 생성
+        if self._max_pairs is None or total_all_pairs <= self._max_pairs:
+            return self._generate_all_pairs(tier_combos)
+
+        # 샘플링: 이미지당 등장 횟수 제한 적용
+        pairs = []
+        image_counts: dict[str, int] = {}  # 이미지별 등장 횟수 추적
+
+        # 모든 가능한 페어를 생성하고 셔플
+        all_candidate_pairs = []
+        for combo in tier_combos:
+            for img1 in combo['images1']:
+                for img2 in combo['images2']:
+                    label1 = 1 if combo['tier1_value'] > combo['tier2_value'] else -1
+                    all_candidate_pairs.append((img1, img2, label1))
+                    label2 = 1 if combo['tier2_value'] > combo['tier1_value'] else -1
+                    all_candidate_pairs.append((img2, img1, label2))
+
+        random.shuffle(all_candidate_pairs)
+
+        # 등장 횟수 제한을 적용하면서 페어 선택
+        for img1, img2, label in all_candidate_pairs:
+            count1 = image_counts.get(img1, 0)
+            count2 = image_counts.get(img2, 0)
+
+            # 두 이미지 모두 limit 이하인 경우만 추가
+            if count1 < self._max_appearances and count2 < self._max_appearances:
+                pairs.append((img1, img2, label))
+                image_counts[img1] = count1 + 1
+                image_counts[img2] = count2 + 1
+
+                if len(pairs) >= self._max_pairs:
+                    break
+
+        random.shuffle(pairs)
+        return pairs
+
+    def _generate_all_pairs(self, tier_combos: List[dict]) -> List[Tuple[str, str, int]]:
+        """Generate all pairs from tier combinations (원래 방식)."""
+        pairs = []
+        for combo in tier_combos:
+            for img1 in combo['images1']:
+                for img2 in combo['images2']:
+                    label1 = 1 if combo['tier1_value'] > combo['tier2_value'] else -1
+                    pairs.append((img1, img2, label1))
+                    label2 = 1 if combo['tier2_value'] > combo['tier1_value'] else -1
+                    pairs.append((img2, img1, label2))
+        return pairs
+
+    def _sample_pairs_from_combo(
+        self, combo: dict, n_samples: int
+    ) -> List[Tuple[str, str, int]]:
+        """Sample n_samples pairs from a single tier combination."""
+        images1 = combo['images1']
+        images2 = combo['images2']
+        tier1_value = combo['tier1_value']
+        tier2_value = combo['tier2_value']
+
+        pairs = []
+        max_possible = len(images1) * len(images2) * 2
+        n_samples = min(n_samples, max_possible)
+
+        # 각 방향별 샘플 수
+        n_per_direction = n_samples // 2
+
+        # (tier1 -> tier2) 방향 샘플링
+        label1 = 1 if tier1_value > tier2_value else -1
+        for _ in range(n_per_direction):
+            img1 = random.choice(images1)
+            img2 = random.choice(images2)
+            pairs.append((img1, img2, label1))
+
+        # (tier2 -> tier1) 방향 샘플링
+        label2 = 1 if tier2_value > tier1_value else -1
+        for _ in range(n_samples - n_per_direction):
+            img1 = random.choice(images2)
+            img2 = random.choice(images1)
+            pairs.append((img1, img2, label2))
 
         return pairs
 

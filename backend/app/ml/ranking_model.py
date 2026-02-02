@@ -67,14 +67,14 @@ class PairwiseRankingModel(nn.Module):
     # Configuration as class attributes
     DEFAULT_PROJECTOR_HIDDEN_DIM: int = 512
     DEFAULT_PROJECTOR_OUTPUT_DIM: int = 256
-    DEFAULT_MARGIN: float = 1.0
+    DEFAULT_MARGIN: float = 0.3
 
     def __init__(
         self,
         feature_extractor_model: str = "facebook/dinov2-large",
         projector_hidden_dim: int = DEFAULT_PROJECTOR_HIDDEN_DIM,
         projector_output_dim: int = DEFAULT_PROJECTOR_OUTPUT_DIM,
-        dropout: float = 0.1,
+        dropout: float = 0.3,
         margin: float = DEFAULT_MARGIN,
     ) -> None:
         """

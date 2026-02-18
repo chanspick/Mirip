@@ -11,7 +11,6 @@
 
 import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
-import { getStorage } from 'firebase/storage';
 import { getAuth } from 'firebase/auth';
 
 /**
@@ -70,15 +69,9 @@ const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
 /**
- * Firebase Storage 인스턴스
- * @type {FirebaseStorage}
- */
-const storage = getStorage(app);
-
-/**
- * Firebase Auth 인스턴스
+ * Firebase Authentication 인스턴스
  * @type {Auth}
  */
 const auth = getAuth(app);
 
-export { app, db, storage, auth };
+export { app, db, auth };

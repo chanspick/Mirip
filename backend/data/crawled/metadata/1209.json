@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1209_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:51:44.517542+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1209"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1209",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "문제를 받고 새롭게 풀어 나가지 않고 평소에 연습했던 구도에 맞추면서 그렸습니다 형태가 어려운 물체는 전체가 보이지 않게 부분만 보이도록크게 사용해서 그렸고 최대한 외각을 깔끔하게 할려고 신경썼습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "오늘 하루 그린 그림을 보면서 내일은 오늘 그린거 보다 더 잘그려야지 하는 마음으로 그렸고, 그림을 그릴때 이게 내 마지막 기회다, 인생을 좌우한다 라는 생각을 가지고 그렸습니다",
+    "teacher_feedback": null,
+    "ideation_process": "형태가 어려운 물체는 전체가 보이지 않게 부분만 보이도록크게 사용해서 그렸고 최대한 외각을 깔끔하게 할려고 신경썼습니다."
+  }
 }

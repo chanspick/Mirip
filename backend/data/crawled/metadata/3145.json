@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3145_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:18:27.178714+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3145"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3145",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "원시시대에서 불꽃놀이를 처음 본 원시인을 표현하라는 문제가 출제됐습니다. 처음 봤을 때는 조금 당황했지만 누가 불꽃을 왜, 어쩌다가 쏘게 됐을지를 따져보면 이야기를 입체적으로 표현할 수 있겠다는 생각이 들었습니다.",
+    "practice_years": 2.25,
+    "competition_ratio": 23.8,
+    "student_strength": "이야기의 원인과 결과를 개연성에 맞게 확실히 정해뒀으며, 그에 어울리는 그림체와 색감으로 표현해낸 것이 합격의 주요인이 됐다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라는 문제가 출제됐습니다. 처음 봤을 때는 조금 당황했지만 누가 불꽃을 왜, 어쩌다가 쏘게 됐을지를 따져보면 이야기를 입체적으로 표현할 수 있겠다는 생각이 들었습니다."
+  }
 }

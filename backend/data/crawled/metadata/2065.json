@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2065_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:30:30.661613+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2065"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2065",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "젊은 여성이 문제로 나왔으며 약간의 동세와 뾰로통한 표정을 가지고 있었스며 얼굴의 정면과 측면 사진이 제대로 주어지지 않았다. 학원에서 연습했던 것 처럼 사진을 그대로 읽기보단 사진 자체를 모델의 단서라고 생각하여 큰 느낌을 맞추려고 노력했다.",
+    "practice_years": 2.42,
+    "competition_ratio": 7.64,
+    "student_strength": "학원 선생님들께서 알려주시는 내용들을 100% 따라가기보단 하루에 하나씩이라도 배워가자는 마음으로 열심히 수업에 임했고, 학원 수업이 끝난 후 집에서 여러 모델들의 이미지와 특징을 분석하는 연습을 했던게 합격하는 데에 도움이 되지 않았나 싶다.",
+    "teacher_feedback": null,
+    "ideation_process": "학원에서 연습했던 것 처럼 사진을 그대로 읽기보단 사진 자체를 모델의 단서라고 생각하여 큰 느낌을 맞추려고 노력했다."
+  }
 }

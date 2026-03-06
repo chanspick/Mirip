@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1176_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:50:20.333715+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1176"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1176",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "처음 문제가 사진으로 나왔는데, 20대 여자 사진이였습니다: 평소 측면 닮기가 약했었고 마침 박쌤이 시험전에 측면부터 관찰하고 들어가라고 하셔서 더 신경쓰려고 했습니다. 그리고 전체적인 진행은 민지쌤이 전날 말씀하셨던대로 빨리 완성한 후 크게틀린부분이 없게 밀도를 올리며 전체적으로 완성하려고 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 12.9,
+    "student_strength": "끝까지 포기하지않고 자기단점을 고쳐나가려고 노력했던게 제일 큰 요인인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그리고 전체적인 진행은 민지쌤이 전날 말씀하셨던대로 빨리 완성한 후 크게틀린부분이 없게 밀도를 올리며 전체적으로 완성하려고 했습니다. 평소 작품에 많이 빠져드는 스타일인데 최대한 객관적으로 멀리서 어떻게 보이는지 확인하려고 노력했습니다."
+  }
 }

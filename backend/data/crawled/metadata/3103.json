@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3103_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:16:33.830539+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3103"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3103",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "딸기와 드릴 문제은행인만큼 화면을 절대 틀리지 않는다라는 생각으로 그렸고, 스케치를 최대한 빨리 정확하게 뜨기위해서 노력했습니다. 드릴은 구조가 정말 중요하니 물감을 칠할 때도 사물그리드에 맞추어서 정확한 톤으로 구조를 찾아가면서 발랐던 것이 시간단축도 하고 밀도도 올려는 데 좋았다고 생각이 듭니다.",
+    "practice_years": 2.25,
+    "competition_ratio": 8.07,
+    "student_strength": "선생님들의 모든 충고들을 하나도 빠짐없이 받아들이고 그림 일기에 적음으로써 발전해야할부분들을 만들었다는점이 가장 컸던것같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "드릴은 구조가 정말 중요하니 물감을 칠할 때도 사물그리드에 맞추어서 정확한 톤으로 구조를 찾아가면서 발랐던 것이 시간단축도 하고 밀도도 올려는 데 좋았다고 생각이 듭니다."
+  }
 }

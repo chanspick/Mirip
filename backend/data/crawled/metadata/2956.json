@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2956_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:09:57.709736+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2956"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2956",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "소재는 슬링키와 네임펜이 나왔습니다. 길고 큰 네임펜으로 공간감과 어두움을 잡아주고 앞으로 나오는 큰 슬링키 안에 있는 작은 슬링키를 네임펜으로 찍어 뚜껑이 날아가는 집중감 있는 주제부를 구성하였습니다.",
+    "practice_years": 1.92,
+    "competition_ratio": 11.08,
+    "student_strength": "선생님께서 해주시는 말씀들을 정리하여 내 것으로 만드는 것과 내 그림의 단점과 장점을 잘 아는 것이 중요합니다. 시험 치는 당일 머릿속에 이것들만 잘 정리되어 있다면 자주 하는 실수를 줄일 수 있을 것입니다.",
+    "teacher_feedback": "선생님의 말씀을 듣고 그림 전체의 어두움과 밝음의 흐름에 더욱 신경썼고 제 그림의 단점을 정리해서 하나씩 보완하려 했습니다..",
+    "ideation_process": "길고 큰 네임펜으로 공간감과 어두움을 잡아주고 앞으로 나오는 큰 슬링키 안에 있는 작은 슬링키를 네임펜으로 찍어 뚜껑이 날아가는 집중감 있는 주제부를 구성하였습니다."
+  }
 }

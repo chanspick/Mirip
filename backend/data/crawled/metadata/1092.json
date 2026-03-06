@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1092_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:46:40.806990+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1092"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1092",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "자주 출제되던 30~40대 남자가 나오지 않고 20대 여자가 출제되었다. 비교적 난이도가 쉽기 때문에 큰 양을 절대 틀리지 않아야겠다고 생각했고 밀도를 최대한 많이 올리려고 노력했다.",
+    "practice_years": 1.5,
+    "competition_ratio": 8.47,
+    "student_strength": "조소를 시작하고 하루도 학원에 빠지지 않고 열심히 실기를 했다.",
+    "teacher_feedback": null,
+    "ideation_process": "비교적 난이도가 쉽기 때문에 큰 양을 절대 틀리지 않아야겠다고 생각했고 밀도를 최대한 많이 올리려고 노력했다."
+  }
 }

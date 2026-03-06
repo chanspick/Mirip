@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2510_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:49:52.353506+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2510"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2510",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "스토리텔링이 있는 문제인 만큼 그림을 보자마자 어떤 상황을 연출한 것인지가 한눈에 들어오게 그려야 한다고 생각하였고 많은 수험생 사이에서 그림이 돋보일 수 있도록 보다 과감한 효과와 명암 대비를 활용하여서 한 눈에 들어올 수 있게끔 연출 하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 2.5,
+    "student_strength": "저만의 합격 노하우는 ‘자만하지 않는 것’과 ‘꾸준함’이라고 생각합니다. 실기 준비 과정 중 좋은 점수를 받고 좋은 평가를 받아도 그 순간에 안주하며 머무르지 않고 계속해서 스스로 부족하다고 느끼며 무엇을 하면 더 성장할 수 있을까에 대해 많은 고민을 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "과감한 효과와 명암 대비를 활용하여서 한 눈에 들어올 수 있게끔 연출 하였습니다."
+  }
 }

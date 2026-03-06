@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1046_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:44:33.892815+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1046"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1046",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "시험문제는 전구와 달걀껍질을 이용하여 확장과 축소를 표현하시오.였다. 문제를 받고 당황하긴 했지만 확장과축소를 어떻게 풀어나갈까 고민을 차분히 한뒤 전구의 굴절과 투명이라는 특징을 이용하여 확장과 축소를 표현하려 계획잡고 달걀껍질의 깨짐을 효과적으로 이용하려 노력했다",
+    "practice_years": 1.83,
+    "competition_ratio": 15.91,
+    "student_strength": "구도라고 생각한다, 학원에서 선생님께 충분히 피드백받은 구도에 물체의 특성과 주제를 잘 녹여 사용한점에서 합격을 할 수있었다 생각한다, 그리고 계란의 깨짐을 이용하여 계란을 적절히 겹친것에서 어둠의 군집이 생겨 그림에 집중이 잘 되었던것 같다. 또한 주제부에 계란과 전구,또 작은 전구를 중첩시켜 주제부의 역할을 잘하도록 짠점이 합격의 요인인것같다.",
+    "teacher_feedback": null,
+    "ideation_process": "풀어나갈까 고민을 차분히 한뒤 전구의 굴절과 투명이라는 특징을 이용하여 확장과 축소를 표현하려 계획잡고 달걀껍질의 깨짐을 효과적으로 이용하려 노력했다"
+  }
 }

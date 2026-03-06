@@ -13,5 +13,14 @@
     "data/crawled/raw_images/451_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:18:53.096851+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=451"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=451",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "상명대는 기출문제가 있었기 때문에 지원했던 다른 대학보다 쉽게 그림을 그릴 수 있었습니다.",
+    "practice_years": 1.08,
+    "competition_ratio": 11.41,
+    "student_strength": "선생님들께서 주제부를 크게 그리고, 붓터치를 적게하며, 어둠은 많이 적게 주기만 하면 괜찮은 그림이 나올 것이라고 하셔서 평소작을 그릴 때 그 점에 신경을 많이 쓰며 실력을 갈고닦았습니다. 실기고사를 볼 때도 이 때의 경험을 바탕으로 깔끔하게 그리려고 노력하고 중간점검을 계속하고 문제가 있는 부분을 빠르게 고치는 것이 합격 요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "쉽게 그림을 그릴 수 있었습니다. 하지만 기출문제를 풀었을때 만족스럽지 못했던 그림의 주제가 나오게 되었습니다."
+  }
 }

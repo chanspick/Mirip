@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2374_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:43:54.492751+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2374"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2374",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "제시물은 기타와 볼링핀, 제시어는 율동감이었습니다. 남서울대가 문제은행 방식이기 때문에 전임 선생님들을 믿고 외워간 대로 그렸습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 7.28,
+    "student_strength": "제가 그린 평소작 그림 한 장 한 장에 많은 선생님들이 관심 써주셨기 때문에 합격한 것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "남서울대가 문제은행 방식이기 때문에 전임 선생님들을 믿고 외워간 대로 그렸습니다."
+  }
 }

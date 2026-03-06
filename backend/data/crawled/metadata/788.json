@@ -13,5 +13,14 @@
     "data/crawled/raw_images/788_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:33:21.859340+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=788"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=788",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "이어폰, 휴지, 전자피아노, 악보가 나왔는데 보자마자 리듬감이 생각났고 평소 수업할 때 리듬감을 주제어로 수업했던 그림이 생각나서 거기에 맞춰서 풀이했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 27.63,
+    "student_strength": "스토리텔링을 좋아하는 학교라 분석해서그림에서 제 생각이나 스토리가 잘 보이게 그리려고 노력 한점이 합격의 주 요인이라 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

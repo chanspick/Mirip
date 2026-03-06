@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2977_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:10:54.432289+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2977"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2977",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 나비와 칫솔이 나왔고,학원에서 준비했던 타임테이블에 맞춰 스케치와 채색을 했고 최대한 시간을 벌어서 그림을 정리하는 시간을 늘리려고 노력했다",
+    "practice_years": 2.42,
+    "competition_ratio": 14.12,
+    "student_strength": "눈에 띄고 밀도 높은 주제부 구성이라고 생각한다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

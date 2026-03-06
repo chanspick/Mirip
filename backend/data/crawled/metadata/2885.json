@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2885_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:06:45.068113+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2885"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2885",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "문제를 받고 트리밍 후 형태를 정확하게 뜨려고 스케치 시간을 넉넉히 잡았습니다. 주제는 모래시계 탁구공 탁구채였는데 할거리가 생각보다",
+    "practice_years": 1.75,
+    "competition_ratio": 32.45,
+    "student_strength": "평소에 실수하던 문제들을 시험장에서도 하지 않으려고 감을 익히는 것이 중요했다고 생각하고 시험을 앞두고 너무 걱정하는 것보단 자신감을 가지고 시험을 보는게 훨씬 더 좋은 결과를 가져올수있었다고 생각합니다.",
+    "teacher_feedback": "선생님의 피드백을 토대로 개선하면 좋을 부분들을 최대한 빨리 수용해서 바꿔나가려고 노력했습니다.",
+    "ideation_process": "주제는 모래시계 탁구공 탁구채였는데 할거리가 생각보다 많지 않아서 명암 관계와 대비에 신경써서 그렸습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/398_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:16:41.076574+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=398"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=398",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "석가탑이라는 당황스러운 제시물에 처음에는 당황했지만 학원에서 많이 연습한 구도에 대입하며 주제가 잘 보이도록 노력하여 그렸습니다. 석가탑의 형태적인 특징과 주제에서 원하는 디자인적인 모습이 느껴지도록 구성하였습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 16.0,
+    "student_strength": "학원에서 단국대 유형을 준비하면서 선생님께서 지적해주시고 분석해주었던 것을 까먹지 않고 침착하게 문제를 풀어나간 것이 컷던것 같습니다. 늘 연습하던 구도와 표현방식에서 크게 벗지나지 않고 안정적으로 그린 것이 주요 원인이라 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "석가탑의 형태적인 특징과 주제에서 원하는 디자인적인 모습이 느껴지도록 구성하였습니다."
+  }
 }

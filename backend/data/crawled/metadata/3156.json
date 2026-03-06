@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3156_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:18:56.346495+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3156"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3156",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "당일 제시물은 다육이와 삼각자, 제시어는 대칭 이었으며 학원에서 연습했던 제시어가 나와 쉽게 하도를 짜고 , 시간을 단축할 수 있었던 것 같습니다.",
+    "practice_years": 1.75,
+    "competition_ratio": 9.52,
+    "student_strength": "그 대학에 맞는 그림을 계속 연구하고 연습한 것, 꾸준히 노력하고 의지를 갖고 나아가는 것이 제일 중요하다가 생각됩니다. 또한 선생님들의 시범을 보며 많은 노하우를 얻을 수 있었고, 선생님의 지시를 듣고 확실하게 앞으로 나아갈 수 있었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

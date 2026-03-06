@@ -13,5 +13,14 @@
     "data/crawled/raw_images/494_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:20:42.175857+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=494"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=494",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "제시된 이미지(비이커, 계량스푼, 티백)의 특성을 활용하여 자유롭게 구성하고 표현하시오. 평소처럼 진행했던거 같고, 소재들의 용도와 기능을 고려하며 화면의 조형성을 조절해나갔다.",
+    "practice_years": 2.0,
+    "competition_ratio": 5.0,
+    "student_strength": "나를 믿고 주위사람들의 안좋은 말에 신경쓰지않았다. 포기하지않고 ‘나는 할 수있다‘라는 자신감으로 준비했다 내가 표현하고쟈하는것이 무엇인지를 확실히 표현할 수있어서 합격할 수있었던것같다!",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 평소처럼 진행했던거 같고, 소재들의 용도와 기능을 고려하며 화면의 조형성을 조절해나갔다."
+  }
 }

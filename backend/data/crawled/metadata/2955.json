@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2955_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:09:55.134608+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2955"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2955",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "제시사물은 플라스틱 스프링 장난감과 모나미 네임펜이었습니다. 잉크를 따로 빼서 사용할수 없는 조건이었고, 장난감 스프링에서 네임펜들이 쏟아지는 것처럼 연출했습니다.",
+    "practice_years": 1.92,
+    "competition_ratio": 11.08,
+    "student_strength": "너무 과하지않게 개체를 배치했고 여백을 살려 주제부를 좀 더 강조 하였습니다. 개체간의 관계정리, 원경까지도 신경써서 채색하여 마무리한 것이 큰성과로 이어졌다고 생각합니다.",
+    "teacher_feedback": "피드백을 통해 자꾸 새로운 것을 그리기 보다 내 것으로 만들어나갔습니다..",
+    "ideation_process": "잉크를 따로 빼서 사용할수 없는 조건이었고, 장난감 스프링에서 네임펜들이 쏟아지는 것처럼 연출했습니다."
+  }
 }

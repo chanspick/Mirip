@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2737_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:00:04.784181+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2737"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2737",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "사탕과 제임스 와트의 증기기관을 이용해 손을 쓰지 않고 사탕을 먹을 수 있게 하는 장치를 만들라는것이 문제였다. 사탕을 먹을때의 불편했던 점들을 떠올리고 이것을 해결하는 이야기를 생각했으며, 이 점들을 화면 안에서 조형적으로 담는 방식으로 문제를 풀었다.",
+    "practice_years": 6.0,
+    "competition_ratio": 4.93,
+    "student_strength": "문제에서 요구한 조건에 지나치게 집중하다가 화면 전체의 조형,비례가 깨지는 일이 일어나지 않도록 주의를 기울였는데 이점이 큰 기여를 했다고 생각한다. 화면 안에서 가장 크게 볼거리를 만들어 제시한 점 또한 주요인이라고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "사탕을 먹을때의 불편했던 점들을 떠올리고 이것을 해결하는 이야기를 생각했으며, 이 점들을 화면 안에서 조형적으로 담는 방식으로 문제를 풀었다."
+  }
 }

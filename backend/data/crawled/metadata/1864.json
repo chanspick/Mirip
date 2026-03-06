@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1864_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:21:43.478849+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1864"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1864",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "석류 나무집게 자물쇠가 나왔으며 석류의 과즙, 알갱이 그리고 잎 등 여러 활용 요소와 나무집게의 집는 특성 그리고 자물쇠의 쇠의 질감을 최대한 잘 드러나게 그릴 수 있게 노력하였습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 27.5,
+    "student_strength": "석류의 알갱이를 떨어트려 표현하고 과즙을 튀기며 자물쇠를 석류에 꽂아 넣어 표현한 것이 합격 요인이라고 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

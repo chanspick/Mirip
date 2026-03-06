@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3368_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:28:48.380279+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3368"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3368",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "꽁치와 나무 볼 피라미드가 나왔습니다. 소묘 제시물을 보고 비닐 때문에 구의 양감을 놓칠 수 있겠다는 생각이 들어 사진에 나타난 것보다",
+    "practice_years": 3.0,
+    "competition_ratio": 44.43,
+    "student_strength": "특이한 컨셉 구성과 채도 높은 다채로운 색감으로 밝고 유쾌한 분위기를 만들어낸 것이 눈에 띄는 포인트가 되었다고 생각합니다.",
+    "teacher_feedback": "피드백을 메모해놓고 읽으면서 단점을 기억하고, 같은 실수를 반복하지 않도록 신경 썼습니다..",
+    "ideation_process": "소묘 제시물을 보고 비닐 때문에 구의 양감을 놓칠 수 있겠다는 생각이 들어 사진에 나타난 것보다 양감을 강조했습니다."
+  }
 }

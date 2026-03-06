@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2026_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:28:47.036994+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2026"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2026",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "머리가 높이 솟아오른 것처럼 보이고 고개를 살짝 숙인 20~30대 사이의 남성이었습니다. 초반에 열심히 관찰하고 중간중간 계속 확인을 해가며 모델과 닮게끔 빠짐없이 보고 만들어냈습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 10.0,
+    "student_strength": "자세한 관찰이라고 생각합니다. 평소보다 밀도가 나오지않았음에도 합격했던 것은 자세하고 자주 관찰하는 습관이 만들어준 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "초반에 열심히 관찰하고 중간중간 계속 확인을 해가며 모델과 닮게끔 빠짐없이 보고 만들어냈습니다. 모든 각도의 사진을 계속 볼 수 있는만큼 시간을 분배하여 그만큼 작품과 사진을 더욱 관찰하였고 손이 닿지 않는 곳이 없도록 모든 부분을 만져주었습니다."
+  }
 }

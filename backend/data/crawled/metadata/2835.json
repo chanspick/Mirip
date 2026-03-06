@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2835_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:04:30.928460+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2835"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2835",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "스프링 장난감 (슬링키 )을 소재로 하여 ‘긴장과 이완 ’을 입체와 평면으로 표현해야 하는 문제가 출제되었습니다 .",
+    "practice_years": null,
+    "competition_ratio": 6.41,
+    "student_strength": "우선 실기와 수능 두 마리의 토끼를 모두 잡기 위해 어느 것 하나 소홀히 하지 않았다는 점입니다 . “나는 공부를 잘 못하니까 , 혹은 실기를 잘 못하니까 다른 하나에만 집중해야겠다 .”라는 식으로 입시를 준비하는 자세는 곤란합니다 .",
+    "teacher_feedback": "피드백을 자주 가질 수 있었는데 , 아무리 사소한 질문이라도 친절하게 답변해주셨고 , 어느 특정한 답을 강요하기보다는 학생이 스스로 생각해보고 판단하여 행동할 수 있도록 지도해주셨기 때.",
+    "ideation_process": "표현하기 위하여 슬링키를 관찰하고 직접 움직여보았습니다 ."
+  }
 }

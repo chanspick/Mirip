@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3201_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:20:57.934912+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3201"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3201",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "낚시릴과 무지개색 오간자 리본이 나왔고 낚시릴에 낚싯줄 대신 리본을 감아 주제부를 연출했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 8.4,
+    "student_strength": "문제지에 낚싯줄 형태가 선명하지 않은 부분이 있었는데 최대한 보이는대로 소묘를 하려고 노력했고 주위 사람들에 비해 크게 그린 낚시릴과 낚시릴에 비친 리본색을 표현해준 것이 합격에 중요한 영향을 미친 것 같습니다.",
+    "teacher_feedback": "선생님께서 주신 예상기출문제도 그려봤습니다..",
+    "ideation_process": null
+  }
 }

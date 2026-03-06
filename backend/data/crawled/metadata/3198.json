@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3198_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:20:50.036779+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3198"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3198",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "청포도와 넥타이, 줄자가 나왔고 청포도에 줄자를 감아 주제부를 연출했습니다. 넥타이로 화면의 큰흐름을 잡으면서 문제를 풀어나갔습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 14.53,
+    "student_strength": "청포드를 크게 주제부에 넣고, 청포드를 감는 줄자를 표현했으며, 넥타이를 시원하게 화면을 잡았습니다. 그리고 청포도를 디테일하게 표현해준 것이 합격에 중요한 영향을 미친 것 같습니다.",
+    "teacher_feedback": "선생님께서 주신 예상기출문제도 그려봤습니다..",
+    "ideation_process": "넥타이로 화면의 큰흐름을 잡으면서 문제를 풀어나갔습니다."
+  }
 }

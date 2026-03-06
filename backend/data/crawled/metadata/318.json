@@ -13,5 +13,14 @@
     "data/crawled/raw_images/318_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:13:17.869751+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=318"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=318",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "등산복을 입은 사람과 등산 가방, 맨발의 여성이었습니다. 실기시험 얼마 전, 학원에서 연습해 본 복장이어서 더 자신감있게 그려나갈 수 있었던 것 같습니다.",
+    "practice_years": 2.17,
+    "competition_ratio": 10.43,
+    "student_strength": "어떠한 상황과 복장이 출제되더라도 정말 우주복 빼고는 다 연습했고 준비했기 때문에 형태를 가장 중요하게 생각했고, 또 그렇게 배웠기 때문에 조금의 어색한 부분이라도 생기지 않게 그리자고 생각하며 자주 뒤로 나가서 전체적인 화지와 대상을 보며 다듬었습니다.",
+    "teacher_feedback": "선생님의 지적을 메모하는 습관을 들였습니다.",
+    "ideation_process": "실기시험 얼마 전, 학원에서 연습해 본 복장이어서 더 자신감있게 그려나갈 수 있었던 것 같습니다. 모델이 입은 등산복이 디테일이 많지 않은 옷이라고 생각했기 때문에, 정말 사소한 부분의(예를 들면 바지의 재봉선같은) 묘사까지 신경쓰며 나름 그림의 깊이감을 높여 그려나갔습니다."
+  }
 }

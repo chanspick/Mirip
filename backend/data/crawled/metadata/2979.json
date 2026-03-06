@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2979_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:10:59.723051+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2979"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2979",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "시험으로는 마늘,편의점 커피,c형 클램프가 나왔었고, '율동과 해제'라는 키워드가 제시되었습니다. 다행히 제가 자신있는 주제물이 나와줘 그걸 중심으로 그려냈습니다.",
+    "practice_years": null,
+    "competition_ratio": 32.2,
+    "student_strength": "사실 이 학교를 지망하는게 아니다보니 오히려 긴장을 아예 안한채로 운좋게 자신있는 주제가 나와줘 당일에 최선을 다해 그릴수 있었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "다행히 제가 자신있는 주제물이 나와줘 그걸 중심으로 그려냈습니다."
+  }
 }

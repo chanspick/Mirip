@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1682_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:13:33.731028+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1682"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1682",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 20대 여자 사진이였습니다. 처음 모델사진을 보았을때 모델이 귀여운듯 하면서도 성숙한 이미지를 가지고 있었습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 9.54,
+    "student_strength": "시험 전날 선생님이 피드백하신것을 계속 떠올리려 노력히였고, 너무 긴장되지 않게 마음을 가볍게 준비 한것 때문에 제 실력이 잘 발휘 되지 않았나 생각이 듭니다.",
+    "teacher_feedback": null,
+    "ideation_process": "처음 모델사진을 보았을때 모델이 귀여운듯 하면서도 성숙한 이미지를 가지고 있었습니다. 그래서 모델의 이미지를 잡기 어려웠었습니다."
+  }
 }

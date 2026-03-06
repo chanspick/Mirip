@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1542_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:07:04.225379+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1542"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1542",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "처음 해보는 랍스터가 나와서 당황했지만, 소재 3개를 주제 부분에 한눈에 보일 수 있게 그리려고 했습니다. 그리고 율동감이 느껴지게 냄비 뚜껑을 점 요소로 활용하였습니다.",
+    "practice_years": 4.25,
+    "competition_ratio": 51.75,
+    "student_strength": "제시어가 ‘율동감’이라서 평소에 자주 쓰던 구도와 잘 맞았던 것 같고 잘 못그려도 ‘율동감’이라는 제시어를 꼭 지켜서 표현했던 것 같습니다.",
+    "teacher_feedback": "선생님들이 말하는 단점들을 고쳐 나가려고 노력했습니다..",
+    "ideation_process": "그리고 율동감이 느껴지게 냄비 뚜껑을 점 요소로 활용하였습니다."
+  }
 }

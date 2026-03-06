@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1241_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:53:11.503031+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1241"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1241",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "3절에 5시간 동안 시험을 보았습니다. 소재는 감자 칼, 국자, 빨대 3개가 나왔는데 처음에는 너무 당황했지만 일단 침착하려고 노력했고 배웠던 것 생각하면서, 문제 풀이에 좀 시간 많이 쓰고 하나하나 최대한 분석하고 문제를 풀었습니다.",
+    "practice_years": 1.67,
+    "competition_ratio": 29.11,
+    "student_strength": "똑같은 그림을 그린 학교가 단 1개의 학교도 없었습니다. 수시를 준비하면서 이 많은 학교실기시험을 어떻게 준비하나 너무 막막했는데, 요일도 나눠서 체계적으로 준비해주고 선생님의 피드백 같은 경우, 수업시간이외에도 질문하면 빨리 답변을 해주시셔서 너무 감사했습니다.",
+    "teacher_feedback": "선생님과 상의 후 요일별로 학교에 맞는 전공과목을 분류해서 준비했습니다.",
+    "ideation_process": "소재는 감자 칼, 국자, 빨대 3개가 나왔는데 처음에는 너무 당황했지만 일단 침착하려고 노력했고 배웠던 것 생각하면서, 문제 풀이에 좀 시간 많이 쓰고 하나하나 최대한 분석하고 문제를 풀었습니다. 그래서 5시간 중에 분석, 아이디어 스케치까지 2시간, 채색이 2시간 반, 그리고 마지막에 정리하는데 30분 정도 사용했습니다."
+  }
 }

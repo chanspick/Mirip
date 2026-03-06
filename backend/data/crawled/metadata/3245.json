@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3245_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:22:55.551043+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3245"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3245",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "물체 A,B,C,D,E의 재질과 형태 등 여러가지 조건을 주고 A+(B 또는 C)+(D 또는 E)의 조형물을 두개 만드는 것이었습니다. 또, 정해진 크기의 사각형을 그려 그 안은 자유로운 재료로 컬러채색 하라는 조건이 있었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 20.47,
+    "student_strength": "가,나군에서 기초조형을 준비한 학생들이 대부분 지원하다보니, 사각형 박스 안 컬러부분에 돌돌이나 프리즈마를 쓰는 학생이 많았는데, 저는 물감을 썼기 때문에 발색이나 사각형 밖 연필과의 재료대비에서 차별점이 생길 수 있었다고 생각합니다.",
+    "teacher_feedback": "선생님께서 고려대에서 요구하는 소묘와 건대 소묘의 다른 점을 설명해 주셔서, 고려대를 준비할 때의 느낌을 덜어내고 건대식 소묘를 익히기 위해 다양한 자료를 보고 의식적으로 그 느낌을 따라했습.",
+    "ideation_process": "또, 정해진 크기의 사각형을 그려 그 안은 자유로운 재료로 컬러채색 하라는 조건이 있었습니다. 처음에는 조건이 너무 길어 당황해 아이디어 스케치를 오래 할 각오를 하고 천천히 읽었습니다."
+  }
 }

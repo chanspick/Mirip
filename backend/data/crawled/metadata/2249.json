@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2249_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:38:26.584192+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2249"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2249",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "선생님들께서 항상 모델의 기본양부터 맞추고 묘사를 하던가 하라고 말씀 해 주셨었는데 실기고사 당일 머리양이 굉장히 많은 모델이 나왔고, 사진을 보자마자 선생님들의 말씀이 떠올라서 기본양 맞추는것에 집중하여 문제를 해결 해 나갔습니다~!",
+    "practice_years": 3.0,
+    "competition_ratio": 10.07,
+    "student_strength": "쌤들이 지가나면서 흘리듯이 하는말 을 흘려듣지말자",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3328_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:26:50.953077+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3328"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3328",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "손목 시계와 전화기로 블루투스 헤드폰을 기초디자인 하시오 였습니다. 주제가 블루투스 헤드폰이여서 헤드폰를 최대한 강조시켜 그렸습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 18.0,
+    "student_strength": "다른곳에 집중하지 않고, 주제를 잘 강조해서 보여줬던것이 교수님께 잘 보였던거 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "주제가 블루투스 헤드폰이여서 헤드폰를 최대한 강조시켜 그렸습니다."
+  }
 }

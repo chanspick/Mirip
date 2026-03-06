@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3355_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:28:08.986798+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3355"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3355",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "연령대가 있어보이는 노년의 여성이었고 측면사진에서 특징있는 동세가 눈에 띄었습니다. 또 얼굴 양이 앞쪽으로 몰려있었고 표정은 아주 살짝 미소를 띄고 있던 사진이었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 17.6,
+    "student_strength": "너무 마음 무겁게, 심각하게 생각하지 않고 편한마음으로 시험을 본게 큰것 같습니다. 그렇다고 대충했다는 것은 아니고 본인의 선에서 최선은 다하되 시험장 체험한번 하고 와야겠다 라는 마인드로 시험을 봐서 합격을 한 것 같습니다. 저도 정말 수시에서 입시가 끝날것이라고는 예상을 못했습니다.",
+    "teacher_feedback": "피드백을 받아들이고 혼자서 많이 고민해보고 다음 시험때 적용할려고 노력하면서 실기를 준비했었습니다.",
+    "ideation_process": "또 얼굴 양이 앞쪽으로 몰려있었고 표정은 아주 살짝 미소를 띄고 있던 사진이었습니다. 성신은 다섯시간 시험이어서 차분하게 모델파악을 하고 들어갔습니다."
+  }
 }

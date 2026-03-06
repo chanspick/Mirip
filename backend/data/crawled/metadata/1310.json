@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1310_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:56:13.747318+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1310"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1310",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "물컵을 들고 있는 손으로 자유표현이었습니다. 컵안에 든 물이라는 소재를 적극 활용하고 묘사에 신경을 써서 더욱 돋보이게 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 14.1,
+    "student_strength": "꾸준히 그림구도를 연구하고 선생님과 상담하며 저의 부족한 점을 개선해나간것이 합격의 이유인것 같습니다.",
+    "teacher_feedback": "선생님들께 꾸준히 구도를 검사받고, 타학원 연구작 또는 재현작, 상황표현등을 참고하여 내작품과 비교하며 부족한 점을 고쳐나갔습니다..",
+    "ideation_process": "컵안에 든 물이라는 소재를 적극 활용하고 묘사에 신경을 써서 더욱 돋보이게 했습니다."
+  }
 }

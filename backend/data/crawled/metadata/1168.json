@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1168_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:49:59.491725+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1168"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1168",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 14.79,
+    "student_strength": null,
+    "teacher_feedback": "선생님들과 의논하고 연구하여 작품을 만들어 나가며 저 자신을 성장 시킬 수 있었습니다..",
+    "ideation_process": null
+  }
 }

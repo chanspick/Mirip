@@ -13,5 +13,14 @@
     "data/crawled/raw_images/891_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:37:45.172222+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=891"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=891",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "청 미술학원에서는 많은 모의시험을 봐서 두렵지 않았다. 미술학원에서 하듯이만 하고 오자라는 마음이 제일 컸다.",
+    "practice_years": null,
+    "competition_ratio": 15.6,
+    "student_strength": null,
+    "teacher_feedback": "선생님과 원장님께 여쭤보면서 자신의 그림을 만들어 나가면 된다..",
+    "ideation_process": "미술학원에서 하듯이만 하고 오자라는 마음이 제일 컸다. 학원모의시험을 통해 기복없은 실력을 만들어야 시험장에서 실수하지 않는다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2392_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:44:40.856065+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2392"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2392",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "당일날 안경을 쓰고 머리를 땋아서 올린 고개를 숙인 20대 여성이 나왔습니다. 기물이 나와 당황했지만 문제지에 기물을 안만들면 감점될수있다",
+    "practice_years": 1.5,
+    "competition_ratio": 12.3,
+    "student_strength": "사진에 나온 모든것을 만들려고 한것과 최대한 전체적으로 만드려고 한것이 중요한것같다",
+    "teacher_feedback": "선생님들의 시범을 보여 부족한부분을 채워나갔습니다.",
+    "ideation_process": "기물이 나와 당황했지만 문제지에 기물을 안만들면 감점될수있다 적혀있어 최대한 기물들을 다"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2146_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:33:59.178012+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2146"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2146",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "제시물은 안경이고 주제어는 무거움이었다. 무거움을 나타내기위해 밧줄과 벽돌을 추가하였다.",
+    "practice_years": 2.0,
+    "competition_ratio": 9.53,
+    "student_strength": "선생님의 피드백을 바로바로 수정하려고 노력하였고 평소 주제어가 잘 보이는 그림을 그리려고 노력하였다. 추가 소재를 반복적으로 그려보아 추가 소재를 선택할 때 어려움을 줄일 수 있었다. 너무 추가 소재만 보이지 않게 그리려고 노력하였다.",
+    "teacher_feedback": "선생님들께 궁금한 점을 질문하면서 부족한점을 고쳤고 선생님의 피드백을 다음 그림에서 고치려고 노력했다.",
+    "ideation_process": "무거움을 나타내기위해 밧줄과 벽돌을 추가하였다. 벽돌을 쌓고 그 벽돌을 밧줄로 묶어서 무거움을 강조하려고 하였다."
+  }
 }

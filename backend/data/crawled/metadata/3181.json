@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3181_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:20:03.970364+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3181"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3181",
+  "normalized_dept": "sculpture",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.33,
+    "competition_ratio": 4.0,
+    "student_strength": "나만의 인물은 만들었다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

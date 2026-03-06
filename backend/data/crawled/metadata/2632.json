@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2632_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:55:18.489396+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2632"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2632",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "나무절구공이, 핀셋, 참치캔이 나왔고 소재의 조합이 재미없다는 생각이 들어 참치캔으로 한방을 만들어야겠다는 생각을 중점적으로 해서 문제를 풀었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.56,
+    "student_strength": "핸드폰 메모장에 선생님의 피드백을 적고 나아가서 내가 이 시험을 다시 한번 친다면 어떻게 시험을 쳐야할지 적어서 나만의 오답노트를 만들었던 것이 큰 도움이 되었습니다.",
+    "teacher_feedback": "선생님의 피드백을 다음 시험에 적용하려고 노력하였습니다..",
+    "ideation_process": null
+  }
 }

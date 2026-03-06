@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3845_0.png"
   ],
   "crawled_at": "2026-01-27T15:54:00.500286+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3845"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3845",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "막대 사탕이 담긴 유리병 등이 나왔구요. 저는 소묘로 시험을 봤어서 그냥 똑같이 따라 그리면 됐었습니다.",
+    "practice_years": 2.58,
+    "competition_ratio": 28.46,
+    "student_strength": "원래 소묘를 좋아해서 평소에 틈틈이 연습도 했고, 성신 문제처럼 주제를 만들어서 똑같이 그리려는 연습을 했습니다",
+    "teacher_feedback": null,
+    "ideation_process": "저는 소묘로 시험을 봤어서 그냥 똑같이 따라 그리면 됐었습니다."
+  }
 }

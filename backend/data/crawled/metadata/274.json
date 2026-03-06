@@ -13,5 +13,14 @@
     "data/crawled/raw_images/274_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:11:24.104754+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=274"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=274",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "14면체 전개도는와 집게를 이용하여 '조립과정'이라는 주제로 문제가 나왔는데 전개도 문제를 풀어본 경험이 있어 당황하지는 않았고, 14면체 전개도를 집게로 집어 조립, 완성시킨다는 연출로 그려나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 10.0,
+    "student_strength": "건국대학교를 치기에 적적한 성적과 게으름 없이 준비했던 실기, 1년 자취를 뒷바라지 해주신 부모님과, 학생보다 더 열시히 수업에 임하신 선생님들, 특히 문제지를 받고 당황하지 않았던 것이 가장 큰 요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

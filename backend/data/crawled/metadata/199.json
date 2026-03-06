@@ -14,5 +14,14 @@
     "data/crawled/raw_images/199_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:08:16.096835+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=199"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=199",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "'깃털을 이용하여 삶의 무게를 표현하시오.'였어요. 수원대가 시사적인 문제를 좋아하다보니 고령화사회의 문제를 병합해서 풀면 재미있겠다고 생각하고 풀어나갔어요.",
+    "practice_years": 3.0,
+    "competition_ratio": 31.5,
+    "student_strength": "저는 선생님을 만나 지도받은 것이 가장 큰 것같고요. 그리고 포기하지않고 그림을 그려나가는 것이요. 그림에는 정답이라는 게 없잖아요. 고사장에서 그냥 포기하고 짐싸고 나오시는 분들 많으시던데 포기하지마시고 뭐라도 그리고나오세요!",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오.'였어요. 수원대가 시사적인 문제를 좋아하다보니 고령화사회의 문제를 병합해서 풀면 재미있겠다고 생각하고 풀어나갔어요."
+  }
 }

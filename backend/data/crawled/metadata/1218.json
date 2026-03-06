@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1218_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:52:09.798760+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1218"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1218",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "이번 문제는 부조와 위에서 본 모습이라는 조건밖에 없었기 때문에 본인이 자신 있어하는 형상을 만들기에 유리한 문제였다고 생각합니다. 그래서 문제의 조건은 충족시키면서 한눈에 봤을 때 흥미로운 형상은 무엇일지를 고려하며 풀어나갔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 20.0,
+    "student_strength": "문제 자체를 꼬아서 보지 않고 문제에 충실하려고 했던 점과 내가 설정한 컨셉이 시각화했을 때 잘 드러났다는 점에서 좋은 결과를 얻을 수 있었던 것 같습니다.",
+    "teacher_feedback": "피드백을 받고 개선해나가는 방식으로 준비했습니다.",
+    "ideation_process": "그래서 문제의 조건은 충족시키면서 한눈에 봤을 때 흥미로운 형상은 무엇일지를 고려하며 풀어나갔습니다."
+  }
 }

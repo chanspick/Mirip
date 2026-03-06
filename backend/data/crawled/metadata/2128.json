@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2128_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:33:12.962415+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2128"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2128",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "금붕어와 코르크 마개와 와인 오프너가 나왔습니다 이미 한 번 그려봤던 소재였기 때문에 스케치 시간을 30분 이하로 잡았고, 학교를 준비하면서 들었던 선생님의 피드백을 기억하며 그렸습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 4.65,
+    "student_strength": "주제부 묘사를 열심히 한 것과 미술학원선생님의 말씀을 듣고 문제점을 고치려고 했던 것이 도움이 된 것 같습니다.",
+    "teacher_feedback": "선생님이 말씀해 주신 문제점들을 메모해 두고 고치려고 노력하였습니다.",
+    "ideation_process": "이미 한 번 그려봤던 소재였기 때문에 스케치 시간을 30분 이하로 잡았고, 학교를 준비하면서 들었던 선생님의 피드백을 기억하며 그렸습니다. 주제부에 금붕어를 두어 그림이 탁해보이지 않게 하였습니다."
+  }
 }

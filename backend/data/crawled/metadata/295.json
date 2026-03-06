@@ -13,5 +13,14 @@
     "data/crawled/raw_images/295_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:20.065591+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=295"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=295",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "정물이 출제되었을 때 준비를 많이 했던 정물들이라서 구성과 표현이 어렵지 않았다. 오히려 시간 내에 남들보다",
+    "practice_years": 2.0,
+    "competition_ratio": 3.67,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "오히려 시간 내에 남들보다 뒤지지 않는 밀도를 구현해내는데 집중했다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3696_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:45:59.380879+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3696"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3696",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "닌텐도게임기, 니트신발, 축구공/ 게임기와 축구공의 레터링이 복잡 했기때문에 학원에서 준비한 신발 구도에 맞춰 레터링이 잘 보이도록 구도를 짰습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 11.0,
+    "student_strength": "선생님이 주신 피드백을 기억해놨다가 다음 그림에는 같은 실수를 반복하지 않도록 그렸습니다.",
+    "teacher_feedback": "선생님이 주신 예상 문제들을 풀면서 공예과 문제에 익숙해지도록 준비했습니다.",
+    "ideation_process": null
+  }
 }

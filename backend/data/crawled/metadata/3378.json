@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3378_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:29:17.869555+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3378"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3378",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "폭염이 한겨울까지 지속되는 이상기후 1월 1일 새해 첫날 사람들은 무엇을 하고 있을까 어떤 관경이 펼쳐질지 상상하여 표현하시오. 내가 가장 잘 그릴수 있고 다른 친구들이 안 그릴거 같은 독특한 그림을 그려보자 라는 생각으로 고층빌딩에 있는 야외 수영장에서 일출을 보며 윳놀이 하는 걸 그렸습니다.",
+    "practice_years": 2.75,
+    "competition_ratio": 17.78,
+    "student_strength": "남들이 안 그리는 독특한 요소를 넣어서 합격했다고 봅니다",
+    "teacher_feedback": "피드백을 적어놓고 다음 시험전에 한번 보고 시작했습니다.",
+    "ideation_process": "표현하시오. 내가 가장 잘 그릴수 있고 다른 친구들이 안 그릴거 같은 독특한 그림을 그려보자 라는 생각으로 고층빌딩에 있는 야외 수영장에서 일출을 보며 윳놀이 하는 걸 그렸습니다."
+  }
 }

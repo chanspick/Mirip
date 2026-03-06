@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1322_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:56:46.740953+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1322"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1322",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "문제를 받았을 때 형태도 어렵지 않고 다양한 동사형이 나올 수 있다고 생각해서 주제가 쉽다고 생각했습니다. 그럴수록 마인드맵을 더 정확하게 1분이라도 시간을 더 들여서라도 흔하게 생각하지 말아야겠다고 생각했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 28.7,
+    "student_strength": "그림 한 장 한 장 대충 생각하지 않은 것과 부정적인 생각을 하지 않는 건강한 마인드와 성실함이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 주제가 쉽다고 생각했습니다. 그럴수록 마인드맵을 더 정확하게 1분이라도 시간을 더 들여서라도 흔하게 생각하지 말아야겠다고 생각했습니다."
+  }
 }

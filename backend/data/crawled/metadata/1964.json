@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1964_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:26:04.750526+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1964"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1964",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제를 받고 형 대비와 색대비 부분에서 실수하기 쉬운 문제라고 생각했고,학원에서 배웠던 메인 양재 선택과 631, 내가 보여주고자 하는 연출을 확실하게 정하지 않으면 그림이 애매하게 나올 거라고 판단했습니다. 그래서 스마트폰과 스마트 펜으로 주제부에서 형 대비를 주고, 휴지의 흰색과 핸드폰의 어두운 액정 색에서 대비가 잘 살도록 문제를 풀어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 3.92,
+    "student_strength": "시험을 볼 때마다 찍어두었던 과정작 사진들로 선생님께서 과정상에 있는 문제점을 한 명 한 명 짚어주셨던 브리핑이 많이 도움이 되었습니다. 꼭 내 그림이 아니더라도 다른 친구들의 문제점과 보완점을 듣는 것도 앞으로 내가 할 수도 있는 실수라고 생각하고 들었고 그게 많은 도움이 되었습니다.",
+    "teacher_feedback": "선생님들께 묘사 시범을 많이 요청했고, 선생님들께서도 제가 어려워하는 부분이 정확히 무엇인지 파악하며 그 해결 방법을 구체적으로 알려주셨습니다..",
+    "ideation_process": "그래서 스마트폰과 스마트 펜으로 주제부에서 형 대비를 주고, 휴지의 흰색과 핸드폰의 어두운 액정 색에서 대비가 잘 살도록 문제를 풀어나갔습니다."
+  }
 }

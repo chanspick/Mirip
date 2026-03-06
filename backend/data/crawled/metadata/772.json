@@ -14,5 +14,14 @@
     "data/crawled/raw_images/772_1.jpeg"
   ],
   "crawled_at": "2026-01-27T13:32:35.024835+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=772"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=772",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "여대 특성상 여자모델이 나왔습니다. 생각보다",
+    "practice_years": 2.0,
+    "competition_ratio": 12.25,
+    "student_strength": "학원 강사 선생님들께서 저에 부족한 부분과 잘하는 부분을 잘 알고 지원한 대학에 맞춰 짜주신 시간표대로 진행한 것이 학교을 합격할 수 있었던 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님에 피드백에 맞춰 순수한 양을 보도록 연습했습니다..",
+    "ideation_process": "생각보다 자신있는 특징을 가진 모델님이 나와 순조롭게 진행 할 수 있었습니다."
+  }
 }

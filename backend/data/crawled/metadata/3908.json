@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3908_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:57:19.948095+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3908"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3908",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "실기 시험에 계란과 자바라 조명이 주제로 나왔는데 전날 시험에서 메추리알과 헬멧을 주제로 시험을 치고 갔던 것이 도움이 되었습니다.자바라 조명과 계란껍질의 특징을 활용해 빛이 계란 껍질 사이로 새어나오는 장면을 연출했습니다.",
+    "practice_years": 1.83,
+    "competition_ratio": 35.78,
+    "student_strength": "평소 구도를 세 가지 이상 만들어 놓고 그 구도에 대입하며 선생님들의 피드백을 빠르게 수용할 수 있도록 노력했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

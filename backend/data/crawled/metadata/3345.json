@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3345_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:27:40.191195+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3345"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3345",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "맥가이버칼과 우산, 유리구슬이 나왔습니다. 소재가 3개이기 때문에 산만해지지 않도록 구성을 배치하여 풀어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 4.92,
+    "student_strength": "선생님께서 강평 해주셨던 내용을 떠올렸던 것이 도움이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "풀어나갔습니다. 맥가이버칼은 학원에서 연습했던 소재여서 구성이 쉽게 풀렸던 것 같습니다."
+  }
 }

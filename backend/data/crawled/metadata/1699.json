@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1699_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:14:23.400633+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1699"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1699",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "장갑, 벨트 그리고 손잡이가 있는 물병이 나와서 각 사물이 갖고있는 기능을 쓰는게 좋을 것 같아 장갑이 물병을 잡고 있는 연출을 해주었고 주제부가 잘 보일 수 있도록 주제부의 물체를 크게 그렸던 것 같습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 22.6,
+    "student_strength": "주제부를 최대한 크게 그리고 사물의 기능을 적극적으로 활용했다는 점이 컸다고 생각됩니다",
+    "teacher_feedback": "선생님께서 지적했던 부분을 고치려고 노력했고 부족했던 개체는 따로 연습을 하는 등 주어진 시간에 최선을 다했습니다..",
+    "ideation_process": null
+  }
 }

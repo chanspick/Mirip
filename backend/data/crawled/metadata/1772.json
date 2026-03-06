@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1772_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:17:44.962970+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1772"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1772",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "커피포트를 이용하여 공간감을 창의적으로 표현할려고 최대한 깔끔한 액체표현에 신경을 썼습니다. 그리고 커피포트 색상변경이 가능했기 때문에 난색인 레드계열과 한색인 인디고물감을 물조절로 표현하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 19.96,
+    "student_strength": "평소 수업시간에 열심히 보완 수정할려고 선생님들의 피드백을 많이 수용하였습니다. 그리고 수시에 올인하는 전략으로 평소에 마음가짐을 가졌었기 때문에 남들보다 일찍 학원에 오거나 쉬는 날에도 학원에 와서 안되는 부분 잘되는 부분들을 구분하여 반복 연습하였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그리고 커피포트 색상변경이 가능했기 때문에 난색인 레드계열과 한색인 인디고물감을 물조절로 표현하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2500_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:49:26.354664+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2500"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2500",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "개체는 가타,볼링핀이 나왔으며 제시어로는 율동감이 나왔기 때문에 구도는 기타를 정면에 크게 두고 볼링핀을 그 앞에 둠으로 비교적 색이 밝은 볼링핀이 눈에 잘 띄이도록 하였고 묘사적인 부분에선 기타선을 이용하여 제시에인 율동감을 표현했습니다.",
+    "practice_years": 2.92,
+    "competition_ratio": 8.04,
+    "student_strength": "학원에서 충분한 준비를 하였으며 선생님께서 잡아주신 구도를 집중적으로 연습했으며 무엇보다 시험을 즐겼기 때문이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

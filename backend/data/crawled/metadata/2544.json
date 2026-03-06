@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2544_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:51:22.060467+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2544"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2544",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "도토리와 나사못 .조개가 나왔습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 12.96,
+    "student_strength": "선생님들의 구체적인 피드백을 수용하며 내 그림의 문제점이 무엇인지 빠르게 인지하고 조언들을 잊지않으며 끝까지 해낼려고 한 것이 합격 주요인이라고 생각한다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

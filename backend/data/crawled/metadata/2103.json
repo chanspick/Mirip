@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2103_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:32:08.122556+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2103"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2103",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "나무줄넘기로 팽창을 표현하는 문제였다. 제시어가 있는 만큼 그림에서 무엇보다",
+    "practice_years": null,
+    "competition_ratio": 17.13,
+    "student_strength": "제시어를 잘 표현했다고 생각하고, 제시물을 적절하게 활용했다고 생각한다. 그리고 깔끔하게 칠하려고 했다.",
+    "teacher_feedback": "선생님들의 피드백을 기록해서 단점들을 없애려고 하고, 스스로의 실기력을 높이기 위해 선생님들이 주신 자료들을 많이 참고하고 다양하게 그리려고 노력했다..",
+    "ideation_process": "표현하는 문제였다. 제시어가 있는 만큼 그림에서 무엇보다"
+  }
 }

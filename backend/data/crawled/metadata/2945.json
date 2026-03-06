@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2945_0.png"
   ],
   "crawled_at": "2026-01-27T15:09:28.333581+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2945"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2945",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 휴지걸이와 하트 선글라스였고, 이전에 출제되었던 문제들보다 형태가 단순하지만 얇고 긴 사물들이어서 부피를 채우는 것과 재질을 표현하는 것에 집중했습니다.",
+    "practice_years": null,
+    "competition_ratio": 36.78,
+    "student_strength": "소묘가 비교적 간단한 것이긴 했지만 소홀히 하지 않고 채색과의 밸러스를 맞춘 것과, 채색에서는 사물의 재질이 잘 보이도록 연출 한 것이 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 것에 집중했습니다."
+  }
 }

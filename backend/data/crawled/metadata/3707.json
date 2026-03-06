@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3707_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:46:32.664157+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3707"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3707",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "야구공과 페인트붓이 나왔고 자유롭게 구성하라고 나왔습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 5.86,
+    "student_strength": "다양한 구도를 써보면서 저에게 잘 맞는 구도를 찾고 그 과정에서 담당 전임선생님이 많이 도와주시고 배우면서 그 구도를 제가 잘 활용하게 된 점이 합격한 주 요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

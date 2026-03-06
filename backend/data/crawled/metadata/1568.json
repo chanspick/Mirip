@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1568_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:08:15.575765+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1568"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1568",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "브로콜리와 끈으로 보색대비를 주었고 밝음과 어둠의 대비를 주려 노력했다. 한 색상이 한곳에 치중되어 있진 않은지도 계속 고민했고 최대한 원색을 사용하여 채도를 높였다.",
+    "practice_years": 2.0,
+    "competition_ratio": null,
+    "student_strength": "내 생각과 다른 피드백을 받으면 수용하지 않거나 고집을 피우는 경향이 강했는데 선생님이 하시는 말씀을 최대한 수용하려 노력했다. 합격작들을 정리해놔서 학원수업 시간외에 실기 공부했다. 성적에 집중하기 보단 실기를 올리기 위해서 남아서 그림을 그릴려고 노력했다.",
+    "teacher_feedback": null,
+    "ideation_process": "한 색상이 한곳에 치중되어 있진 않은지도 계속 고민했고 최대한 원색을 사용하여 채도를 높였다. 흰색 종이상자 안과 밖의 차이를 명확히 내줄려고 하였다."
+  }
 }

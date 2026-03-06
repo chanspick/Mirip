@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1386_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:59:50.213927+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1386"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1386",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "(주제: 사람이 펭귄이었다는 반전이다.) 열심히 고민하면서 풀어나갔습니다.",
+    "practice_years": 2.08,
+    "competition_ratio": 3.53,
+    "student_strength": "여태 노력끝에 된 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1929_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:24:33.114163+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1929"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1929",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "평소 학원에서 시험을 풀며 나름대로 문제풀이의 규칙이나 식을 만들어 놓았고 정시 기간에 다양한 분위기의 그림을 시도해보았기 때문에 문제를 보고 빠르게 해석하고 구상을 할 수 있었습니다. 또한 시간 분배에도 신경을 썼는데 저는 손이 느린 편이였기 때문에 소묘를 문제 해석에 맞는 범위 내에서 40분 정도를 투자하고 나머지 시간을 모두 전공 문제의 밀도를 높이는데 집중하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 12.25,
+    "student_strength": "후배들에게 해주고 싶은 말은: 저는 항상 현역으로 가고 싶은 마음이 컸었기 때문에 1월 이후부터는 휴식을 취한 날이 손에 꼽을 정도로 그림을 그리거나 공부를 하였습니다. 수능을 본 이후에도 결과가 어떻든 올해처럼은 못하겠다라는 생각이 들었습니다.",
+    "teacher_feedback": "선생님들이랑 정말 많은 대화를 나누고 저에 대해 알아가며 조금씩 개선해나갔습니다..",
+    "ideation_process": "구상을 할 수 있었습니다. 또한 시간 분배에도 신경을 썼는데 저는 손이 느린 편이였기 때문에 소묘를 문제 해석에 맞는 범위 내에서 40분 정도를 투자하고 나머지 시간을 모두 전공 문제의 밀도를 높이는데 집중하였습니다."
+  }
 }

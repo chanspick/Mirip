@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2136_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:33:33.476633+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2136"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2136",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "실기 문제는 현재 내가 살고 있는 마을의 100년 뒤에 존재할 법한 것을 자유롭게 디자인하라는 문제였고, 디자인할 수 있는 범위는 제한이 없어 자유도가 높은 문제였습니다. 우선 100년 뒤 미래의 예측가능한 요소 중 어떤 것을 컨셉으로 정할지 생각했고 지구온난화로 인해 해수면이 상승하고 있다는 사실이 떠올라 쓰나미나 폭우로 인한 해상 피해를 줄이기 위한 디자인으로 갈피를 잡았습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 10.0,
+    "student_strength": "가천대 유형 같은 경우 채색 도구가 연필과 플러스 펜뿐이기도 하고, 채색 같은 스킬의 숙련도를 보여주는 것도 플러스 요소가 되겠지만 아이디어를 전개하는 방식과 컨셉이 가장 중요하다고 판단했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "구상했습니다. 물을 차단하는 기능이나 또는 물을 이용할 수 있는 부력을 중점적으로 활용하였고, 그 결과 물이 차면 떠오르는 수표 차선, 해상 운전이 가능한 운송기기와 쓰나미가 올 때 이를 도로로부터 차단해주는 벽을 디자인할 수 있었습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3587_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:39:24.082434+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3587"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3587",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "정육면체 너트, 스프링 / 제시어: 역동성 제시어가 역동성이어서 스프링끼리 부딪혀 자유분방하게 흔들리는 모습을 표현했고, 그 사이에 너트를 끼워 조형감을 어필했습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 20.09,
+    "student_strength": "경쟁률이 높은 학교였기에 어떻게 하면 눈에 잘 띌까 고민하며 그림을 그린 것이 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님들이 강평 때 지적해주신 점들을 최대한 고치려고 노력했고, 어떻게 하면 제 장점을 잘 보여줄 수 있을지 고민하며 준비했습니다..",
+    "ideation_process": null
+  }
 }

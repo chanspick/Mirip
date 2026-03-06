@@ -13,5 +13,14 @@
     "data/crawled/raw_images/548_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:22:58.505608+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=548"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=548",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "실기고사 문제는 “바나필름으로 조형물을 만들어 이를 배경으로 크레욜라를 배치시키고, 가상적 확장성을 표현하시오.“였습니다, 문제에서 말하는 ”가상적 확장성“을 거울에 비친 가상의 공간의 확장이라고 풀이하여 해석하였스며 표현에 대한 욕심보다는 주제해석에 집중하기 위해 그에 걸맞는 구도와 해석을 하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 3.94,
+    "student_strength": "악으로 독기품고 했습니다. 낭떨어지에 길은 하나라고 생각하고 떨어지면 죽는다라는 각오로 한걸음씩 왔으며 결국 도착했습니다.",
+    "teacher_feedback": "선생님께서 알려주신 해결방안들을 적어가며 단점 및 중요포인트를 기억하고 고치려고 노력한 점이 큰 도움이 되었던 것 같습니다..",
+    "ideation_process": "표현하시오.“였습니다, 문제에서 말하는 ”가상적 확장성“을 거울에 비친 가상의 공간의 확장이라고 풀이하여 해석하였스며 표현에 대한 욕심보다는 주제해석에 집중하기 위해 그에 걸맞는 구도와 해석을 하였습니다."
+  }
 }

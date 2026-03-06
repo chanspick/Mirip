@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1501_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:05:11.464258+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1501"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1501",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 스테이플러를 처음 접한 사람에게 사용방법을 설명할 수 있는 그림을 그리는 것이였습니다. 문제를 받고 정보수용자가 도구를 처음 접한 사람이라는 점을 유의해서 문제풀이를 하였으며, 일반적인 시선이동을 고려한 나열식 배치와 도구의 작동원리를 3단계로 압축하여 이해하기 쉬운 그림을 그리려고 노력하였습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 3.65,
+    "student_strength": "평가요소(아이디어,전달력,설명력)를 고려하여 문제를 풀이하였기 때문이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "문제를 받고 정보수용자가 도구를 처음 접한 사람이라는 점을 유의해서 문제풀이를 하였으며, 일반적인 시선이동을 고려한 나열식 배치와 도구의 작동원리를 3단계로 압축하여 이해하기 쉬운 그림을 그리려고 노력하였습니다."
+  }
 }

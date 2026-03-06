@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1751_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:16:51.186463+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1751"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1751",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "미리 예상 개체가 나와있어서 여러조합을 해봤지만 이번에 나온 나무의자와 가위는 엮어보지 않았던 조합이라 조금 당황했으나 예전에 그려본 구도에 대입해서, 가위를 크게 뼈대로 쓰고 나무의자를 걸치고 둘의 물성을 보여주려했습니다.",
+    "practice_years": 4.75,
+    "competition_ratio": 14.3,
+    "student_strength": "주제부의 표정이 중요하다고 생각합니다. 또한 제시된 개체들과의 자연스러운 연동력도 중요하다고 생각합니다.",
+    "teacher_feedback": "선생님이 해주시는 말씀 하나하나를 기억해서 고쳐나가려했고 집에서도 혼자 많이 그려보거나 그림자료를 자주 찾아보고 써먹을 수 있는 건 전부 써보려고했습니다..",
+    "ideation_process": null
+  }
 }

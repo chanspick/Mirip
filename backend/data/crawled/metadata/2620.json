@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2620_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:45.136361+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2620"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2620",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "증기기관을 이용해 손을 사용하지 않고 츄파��스를 먹을 수 있는 장치를 그리시오. 라는 문제와 함께 증기기관과 츄파��스 사진이 나왔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.93,
+    "student_strength": "크게 까일 것 없는 그림을 그리는게 가장 중요하다고 선생님께서 말씀하셨던 것처럼 제 그림의 장점을 최대한 살리고, 단점은 감춘 것이라 생각합니다.",
+    "teacher_feedback": "선생님이 주신 주제를 풀이해 연습했습니다.",
+    "ideation_process": "라는 문제와 함께 증기기관과 츄파��스 사진이 나왔습니다. 손을 사용하지 않는다는 것이 편리함을 위한 장치라고 생각했기 때문에 츄파��스를 깔 때 가장 복잡한 부분인 사탕을 까는 것에 보다"
+  }
 }

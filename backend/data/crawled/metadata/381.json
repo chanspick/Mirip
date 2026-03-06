@@ -13,5 +13,14 @@
     "data/crawled/raw_images/381_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:15:56.656367+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=381"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=381",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "출제주제는 잠자리였으며, 처음에는 당혹스럽긴 했지만, 평소 곤충을 좋아하는 편이라 관찰과 특징파악을 자신있게 할 수 있었습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 13.0,
+    "student_strength": "정신적으로 힘든시기에 선생님의 관심과 그 관심에 부흥하기 위해 노력했던 스스로의 모습들이, 돌이켜보면 가장 큰 원동력이었던 것 같습니다. 다시 한번 학원 선생님께 감사의 말씀을 드리고 싶습니다.",
+    "teacher_feedback": "선생님이 주시는 자료를 분석하는 시간을 가짐으로서 부족한 부분을 보완하였습니다.",
+    "ideation_process": null
+  }
 }

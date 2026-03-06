@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1532_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:06:36.291403+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1532"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1532",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제 은행이어서,, 침착하게 내가 미리 짜 놨던 구도를 생각하면서 그렸습니다. 선생님께서 시험 전날에 내가 그린 마늘 색이 칙칙하다는 지적을 하셨어서 마늘을 밝고 산뜻하게 그리려고 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.56,
+    "student_strength": "문제은행의 문제 하나하나를 놓치지 않으려 했고 시험 직전까지 체크리스트를 확인하면서 내가 알고 있는 문제점들은 절대 놓치지 않겠다는 생각으로 그렸습니다.",
+    "teacher_feedback": "선생님 말씀 하나하나를 되새기며 실기 준비에 전념했습니다..",
+    "ideation_process": "선생님께서 시험 전날에 내가 그린 마늘 색이 칙칙하다는 지적을 하셨어서 마늘을 밝고 산뜻하게 그리려고 노력했습니다. 그리고 연필은 최대한 깔끔하게 칠하고 제시 사물의 묘사할 수 있는 부분은 전부 그리려고 노력했습니다."
+  }
 }

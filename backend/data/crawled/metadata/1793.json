@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1793_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:18:39.802927+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1793"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1793",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "유리구슬/광목천/대나무 처음에 먼저 들었던 생각은 예전에 한번 그려봤던 대나무 구성을 어떻게 써먹느냐 였다. 그리고 가장 어울렸던 구성과 합쳐서 짰던 것 같다.",
+    "practice_years": 1.67,
+    "competition_ratio": 23.06,
+    "student_strength": "사실 내가 그걸 딱 정할 수 있는 건 아니지만 합격작들과 비교했을 때의 공통점은 유리가 투명하게 진행됐다는 거였다. 나는 개체수도 그리 많이 않았기 때문에 밀도를 올릴 시간도 있었으며 무엇보다 정말 깔끔하게 그리기위해 노력했다.",
+    "teacher_feedback": "선생님이 지도해주신대로 했던 것 같다.",
+    "ideation_process": "그리고 가장 어울렸던 구성과 합쳐서 짰던 것 같다. 그리고 당연하게 여겼던 건 바로 유리구슬의 불투명도였는데, 우리 학원 그림 스타일은 대체적으로 맑고 그림이 산뜻하기 때문에 당연히 유리구슬 뒤에 비치는 물체를 넣고 아예 투명하게 가야한다고 생각했다."
+  }
 }

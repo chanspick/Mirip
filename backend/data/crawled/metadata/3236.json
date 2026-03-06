@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3236_0.png"
   ],
   "crawled_at": "2026-01-27T15:22:30.939145+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3236"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3236",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "문제가 당황스럽긴 했지만 마음을 다잡고 평소대로 그리자는 생각을 갖고 차분히 그려나갔습니다. 또 색종이를 사용하면서 소묘에 투자하는 시간이 계획했던 바보다",
+    "practice_years": null,
+    "competition_ratio": 6.0,
+    "student_strength": "선생님께 : 항상 그림에 대해 같이 고민해주시고 많은 조언들을 해주셔서 정말 감사합니다! 선생님들 덕분에 많이 성장할 수 있었습니다. 학원 좋은 점 : 많고 다양한 그림을 볼 수 있다는 점과 획일화된 화풍이 아닌 각자의 개성을 살려 그림을 좋은 방향으로 발전시킬 수 있게 도움을 주시는 선생님들이 계셔서 좋았습니다.",
+    "teacher_feedback": "선생님들께서 해주셨던 조언을 토대로 그림에서 지적받았던 부분을 개선하기 위해 다양한 시도들을 하였고, 자주 그리는 소재 말고 다른 여러 소재들을 그려보는 연습을 해서 시험장에서 무엇이 나오든.",
+    "ideation_process": "또 색종이를 사용하면서 소묘에 투자하는 시간이 계획했던 바보다 길어졌지만, 시험장에서의 변수 중 하나라고 생각하고 융통성을 갖고 그렸습니다."
+  }
 }

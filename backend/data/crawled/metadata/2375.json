@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2375_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:43:57.062457+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2375"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2375",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "거울,망치,장미가 나왔고, 꽃이 나왔으니 화사한 분위기를 조성하려 했다.",
+    "practice_years": 4.0,
+    "competition_ratio": 25.35,
+    "student_strength": "그림을 깔끔하게 완결지었고 남들과 달라보이는 포인트를 찾으려했다.",
+    "teacher_feedback": "선생님의 피드백을 노트에 받아적어 시험 당일날까지 정독했다.",
+    "ideation_process": null
+  }
 }

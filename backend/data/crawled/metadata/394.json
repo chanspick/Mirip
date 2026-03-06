@@ -13,5 +13,14 @@
     "data/crawled/raw_images/394_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:16:30.286528+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=394"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=394",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 흡착행거,은박접시,포장용리본이 나왔으며 이 제시물들을 가지고 \"인장력\"이라는 제시어를 표현하는 것이 주제였습니다. 제시물들을 가지고 제시어를 푸는것이 1순위라 생각하고 주제부에 크게 은박접시에 흡착행거가 붙어서 당기는 힘을 보여주는 것에 초점을 맞춰 진행하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 72.95,
+    "student_strength": "건국대학교에 합격하기 위해 우선 합격 재현작과 수사장들을 비교하며 건대 유형의 특징들을 파악하려고 노력하였습니다. 분석을 토대로 그림을 그릴 때 항상 주제부에서 연출을 크게 잡도록 선생님들의 권유에 따라 노력하였고, 또한 구도를 짤 때는 제시어의 특성을 주제부 연출에서 확실히 보여주는 연습을 하였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 것이 주제였습니다. 제시물들을 가지고 제시어를 푸는것이 1순위라 생각하고 주제부에 크게 은박접시에 흡착행거가 붙어서 당기는 힘을 보여주는 것에 초점을 맞춰 진행하였습니다."
+  }
 }

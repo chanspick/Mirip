@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2148_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:34:04.188030+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2148"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2148",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "꽃무늬 모자와 커피머신, 그리고 동전이 나왔습니다. 커피머신은 안쪽이 잘보이는 시점으로 그렸고 동전은 여러 개를 그리되 예전에 각도를 비슷하게 그려서 지적받았었기에 시험장에서는 최대한 다양한 각도로 그릴려고 했었던게 기억납니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 6.7,
+    "student_strength": "포기하지 않았던 것",
+    "teacher_feedback": "선생님께서 해주신 피드백을 적고 그림의 문제점을 고치려 노력했습니다.그리고 집에와서는 합격작과 완성작들을 인터넷에서 찾아보고 참고를 많이 했습니다.",
+    "ideation_process": "커피머신은 안쪽이 잘보이는 시점으로 그렸고 동전은 여러 개를 그리되 예전에 각도를 비슷하게 그려서 지적받았었기에 시험장에서는 최대한 다양한 각도로 그릴려고 했었던게 기억납니다. 그리고 소재중에 곡선이 없어서 커피액체를 사용하였고 커피머신안에있는 커피가 밖으로 빠져나가는 게 좀 자연스러 보였으면 해서 동전이 떨어져 커피가 튀기는것처럼 연출했었던것같습니다."
+  }
 }

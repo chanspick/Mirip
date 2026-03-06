@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2971_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:10:37.367734+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2971"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2971",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "“부조(relief)의 형태로 즐거움을 표현하시오“ 라는 주제가 나왔습니다. 개인적으로 자신 있었던 감정 표현이 주제로 나왔지만 흥분하지 않고 부조에 대해 천천히 생각해 보니 실기 대회를 준비하면서 부조를 연습했던 것이 생각났습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 14.5,
+    "student_strength": "입시를 하면서 다른 학생들의 실기도 함께 보는데 이때 질감 표현 방법, 문제 해석 능력 등 배울 점들을 많이 얻었습니다. 준비하는 과정에서 작가적인 성향이 강하다는 말을 자주 들었는데 시험장에서도 저만의 확고한 생각이 잘 드러난 것 같습니다. 또한 간절함에서 나오는 실기력이 원인인 것 같습니다.",
+    "teacher_feedback": "선생님께서 준비해 주신 문제를 계속해서 곱씹으며 실기를 진행했습니다.",
+    "ideation_process": "표현하시오“ 라는 주제가 나왔습니다. 개인적으로 자신 있었던 감정 표현이 주제로 나왔지만 흥분하지 않고 부조에 대해 천천히 생각해 보니 실기 대회를 준비하면서 부조를 연습했던 것이 생각났습니다."
+  }
 }

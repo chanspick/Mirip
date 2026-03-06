@@ -14,5 +14,14 @@
     "data/crawled/raw_images/761_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:32:04.075003+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=761"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=761",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "20대 머리를 묶은 여성을 모델링하여 만드는 것이었고, 처음 모델이 들어왔을때의 첫인상과 특징을 끝날때까지 잊지않으려고했고 순수하게 모델과 똑같이 만들려고 노력했다. 관찰이 제일 중요하다고 생각한다.",
+    "practice_years": 2.25,
+    "competition_ratio": 12.25,
+    "student_strength": "힘들고 어려운 상황에서도 학원친구들과 강사선생님들에 대한 신뢰도가 높아서 믿고 의지하며 잘 견뎌낼 수 있었다.",
+    "teacher_feedback": "선생님들의 꼼꼼한 피드백과 구체적인 개선방안을 잘 잡아주신 덕에 더욱더 신뢰감을 갖고 열심히 노력하였다..",
+    "ideation_process": "관찰이 제일 중요하다고 생각한다."
+  }
 }

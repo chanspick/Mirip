@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1895_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:23:03.556252+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1895"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1895",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "구강스프레이, 병따개, 머리집게 제일 처음 생각한 것은 머리집게의 형태를 멋있게 그려내는 것이었습니다. 그 다음으로는 구강 스프레이의 색상 선정, 병따개의 금속 재질감의 표현을 생각해서 그렸습니다.",
+    "practice_years": 3.33,
+    "competition_ratio": 8.25,
+    "student_strength": "색으로 떨어지는 깔끔한 마감, 머리집게의 형태",
+    "teacher_feedback": null,
+    "ideation_process": "그 다음으로는 구강 스프레이의 색상 선정, 병따개의 금속 재질감의 표현을 생각해서 그렸습니다."
+  }
 }

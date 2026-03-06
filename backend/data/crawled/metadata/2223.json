@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2223_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:37:19.345305+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2223"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2223",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "방독면을 활용하여 자유롭게 구성하고 표현하는 문제가 나왔는데, 평소에 쓰던 구도에 넣고 분리될수있는 부분을 찾아서 작은 요소들을 포인트로 사용했습니다",
+    "practice_years": null,
+    "competition_ratio": 6.4,
+    "student_strength": "주변사람들 다 아무것도 아니고 내가 최고다 이 생각을 하면서 긴장하지말고 항상 학원에서 시험치던대로, 평소 하던대로 할려했던 마인트컨트롤이 합격의 주요인이 아닐까 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 문제가 나왔는데, 평소에 쓰던 구도에 넣고 분리될수있는 부분을 찾아서 작은 요소들을 포인트로 사용했습니다"
+  }
 }

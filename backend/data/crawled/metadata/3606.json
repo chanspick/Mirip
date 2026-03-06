@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3606_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:40:30.846481+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3606"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3606",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "노리개와 홀로그램 유리컵으로 화면을 구성하는 문제가 나왔고, 처음에는 홀로그램 유리컵의 그림자가 무지개빛으로 예쁜점을 활용하는 평면구성을 하려고 했으나, 학교 특성상 평면구성의 메리트가 없다고 판단했고 근경에 유리컵을 크게 쓰면서 굴절을 보여주고 노리개의 엽전을 주제부로 하고, 선재와 주제부와 직각으로 배치되는 부주제부를 통해 주제부로 의 집중감을 강조하는 무난한 기초디자인 주제부 구성을 하였습니다",
+    "practice_years": 2.67,
+    "competition_ratio": 7.95,
+    "student_strength": "첫번째는 처음 구상한 아이디어 스케치를 화지에 옮기기 시작하고, 고사시간 50분정도가 지난 상황에서 아이디어 스케치가 메리트가 없다고 깨달은 순간 과감하게 지우고 다시 아이디어 스케치에 들어가서 다시 제대로 그리기 시작한 점 입니다.",
+    "teacher_feedback": "피드백을 듣고 똑같은 문제점이 다음 그림에는 나오지 않도록 신경썼고, 남는 시간에 틈틈이 인스타로 다른 여러 그림을 보면서 머릿속의 자료를 늘리고, 활용하는 식으로 준비했습니다..",
+    "ideation_process": null
+  }
 }

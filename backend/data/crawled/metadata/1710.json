@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1710_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:14:55.363140+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1710"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1710",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "커피포트가 나왔고 자유롭게 표현하라 하였습니다. 조건에 “관련 개체 추가 가능”을 보고 주머니를 추가하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 19.93,
+    "student_strength": "출제문제가 외형이 쉽거나 단순한 물체가 나왔을 때 는 연출 싸움이라고 생각하고 그 부분에 집중했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라 하였습니다. 조건에 “관련 개체 추가 가능”을 보고 주머니를 추가하였습니다."
+  }
 }

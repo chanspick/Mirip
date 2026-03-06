@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3187_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:20:20.158459+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3187"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3187",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "1교시 4절(소묘) 주어진 그림을 안정된 조형으로 표현하시오 2교시 2절(수채화) 주어진 그림을 활용하여 미래, 인간, 도시를 표현하시오",
+    "practice_years": null,
+    "competition_ratio": 4.1,
+    "student_strength": "솔직히 입시 미술을 오래 배운 것도 아니고 그렇게 잘 그린다고 느껴지지도 않아서 성적 반영 비율이 더 높은 학교들만 지망하였습니다. 그런데 결과를 막상 보니 성적보단 실기 덕분에 대학에 갈 수 있게 되어서 굉장히 얼떨떨했습니다. 그러면서 느낀 것이 얼마나 오래 배웠는지 보다 얼마나 노력하는 지가 중요한 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오 2교시 2절(수채화) 주어진 그림을 활용하여 미래, 인간, 도시를 표현하시오"
+  }
 }

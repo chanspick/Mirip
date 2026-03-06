@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2310_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:41:07.280182+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2310"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2310",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "처음 문제를 받았을 때 만년필, 종이, 스탠드 등으로 디자이너의 다이내믹한 삶이 느껴지는 화면구성이라는 주제어와 함께 받고 조금 당황하였지만, 결국 기본적인 거만 보여주자는 생각으로 주제어가 잘 느껴질 수 있도록 아이디어에 조금 더 집중하였고 나머지는 기본기에 맞게 진행한 거 같다.",
+    "practice_years": 1.58,
+    "competition_ratio": 26.79,
+    "student_strength": "학원에서 시험을 치면서 선생님이 지적해 주신 부분, 또는 팁 같을 것들을 잘 생각하면서 내가 그리는 그림과 비교하면서 그렸고 주제, 부주제, 배경 등을 적절하게 빼면서 깨끗하게 정리하였다. 시험 전날 내 그림을 분석하고 보완하고 정리하고 다른 합격작 등을 찾아 내 그림과 비교하고 공부하였기에 합격에 큰 영향을 미친 거 같다.",
+    "teacher_feedback": "선생님, 보조 선생님들께서 말해주시던 부족한 부분 잘한 부분 등을 메모하고 시험 친 그림을 가지고 고쳐 본다든지 다음 그림을 그릴 때 신경 써서 그린 다든지 하면서 나의 부족한 점을 조금.",
+    "ideation_process": null
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1623_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:10:50.813870+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1623"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1623",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "특기자 수상전형으로 지원했습니다. 실기고사는 보지않았습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 5.5,
+    "student_strength": "매일 다른 친구들의 그림을 보고 나보다 잘한점을 찾아서 내그림에 가져오려했고 저만의 라이벌을 정해서 승부욕을 만들었습니다.",
+    "teacher_feedback": "피드백 받은것을 토대로 단점을 하나씩 고쳐나가려했고 학교에 특성에 맞는 연출에 신경을 썼습니다..",
+    "ideation_process": "실기고사는 보지않았습니다."
+  }
 }

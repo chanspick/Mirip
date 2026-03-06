@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3202_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:21:00.538329+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3202"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3202",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "바이올린과 스케일 눈금자, 파란색 유리컵이 나왔습니다. 처음엔 한번도 그려본적 없는 바이올린이 나와서 당황했는데 다행히 컵같은 소재는 학원에서 그려본 적이 많았어서 컵을 a,바이올린을 b로 사용해 컵 앞에서 자로 바이올린을 연주하는 듯한 느낌이 나도록 풀었습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 7.0,
+    "student_strength": "사실 나오면서 주변 친구들 그림을 쭉 봤었는데 다들 바이올린을 a로 해서 문제를 풀이 했더라구요..아마 저 혼자 바이올린을 b로 풀이해서 다른 그림들보단 좀 잘 보이긴했나,,? 싶었습니다..",
+    "teacher_feedback": "선생님들께 모르는 부분 질문하고 또 집에서 시간 남으면 집에서도 연습하는 식으로 준비하였습니다.",
+    "ideation_process": "표현하였습니다.(다른 부분은 모두 출제된 문제색상 그대로 사용함)"
+  }
 }

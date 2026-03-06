@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2842_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:04:49.317640+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2842"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2842",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "스프링 장난감을 이용하여 ‘긴장과 이완’을 표현하라는 문제가 출제되었습니다. 평소에 학원에서 연습했던 것을 기반으로 기하도형 베이스의 규칙적이고 깔끔한 그림을 그릴 수 있도록 아이디어를 짜고 그려나갔습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 6.41,
+    "student_strength": "학업을 놓지 않고 열심히 했던 것과, 실기에서는 학원 선생님들의 피드백을 수용하며 부족한 부분을 채워나갔던 부분이 합격의 주요인이라고 생각합니다. 개인적으로 시각디자인 영역에 대한 경험이 적어 어려움을 겪었는데 그 부분에 대해 다양한 조형원리, 조형언어 등 기초부터 차근차근 가르쳐주셨습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라는 문제가 출제되었습니다. 평소에 학원에서 연습했던 것을 기반으로 기하도형 베이스의 규칙적이고 깔끔한 그림을 그릴 수 있도록 아이디어를 짜고 그려나갔습니다."
+  }
 }

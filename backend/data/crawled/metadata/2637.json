@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2637_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:55:31.839774+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2637"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2637",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "초록색 피망, 은박접시, 검은색 줄이어폰을 이용한 기초디자인이었습니다. 문제는 컬러 사진으로 주어졌지만 색상은 자유, 한가지 이상 개체를 연필 소묘로 처리해야 했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 13.6,
+    "student_strength": "같은 반 다른 친구들의 그림에서 배울 점을 찾으려 많이 관찰한 것 같습니다.",
+    "teacher_feedback": "선생님이 날카롭게 지적해주시는 문제점을 새겨듣고 고치는 방향으로 점차 그림 실력을 발전시킬 수 있었습니다.",
+    "ideation_process": "문제는 컬러 사진으로 주어졌지만 색상은 자유, 한가지 이상 개체를 연필 소묘로 처리해야 했습니다. 운이 좋게도 시험 직전 연습했던 은박 접시와 평소 자신있던 과채류가 제시되어 개체에는 만족했으나, 소묘 문제는 전혀 예상치 못했습니다."
+  }
 }

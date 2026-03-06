@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3863_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:55:02.491261+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3863"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3863",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "파마 머리를 한 건장한 체격의 20대 남성이 모델로 출제되었으며, 평소 가지고 있는 습관들이 안 나오기 위해 사진을 정말 많이 들고 나오며 최대한 모델 이미지를 빼기 위해 노력했습니다.",
+    "practice_years": 3.58,
+    "competition_ratio": 14.04,
+    "student_strength": "그 날 한 실기의 피드백을 모두 받아적고 다음 날 실기하기 전에 다시 한번 읽어보며 \"오늘 이건 무조건 고친다\"라는 정확한 목표를 설정하고 실기에 임했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3784_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:50:42.459906+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3784"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3784",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "평소에도 표현력 대비 사고력이 부족하다는 평가를 많이 받았어서 기발한 구도를 생각하기보다는 눈송이의 자연물적인 특성을 살리고, 눈송이의 묘사와 완성도에 집중하여 문제를 풀어나갔습니다.",
+    "practice_years": null,
+    "competition_ratio": 1.19,
+    "student_strength": "제시된 문제를 풀때 저의 장점과 단점을 잘 파악하고 있는것이라고 생각합니다. 저는 평소에 표현력이 좋다는 소리는 많이 들었지만 구성에서 너무 단순하다는 평을 많이 들어, 문제를 풀 때에도 항상 장점을 최대한 부각시킬 수 있는 방법을 생각하며 구성을 짰습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

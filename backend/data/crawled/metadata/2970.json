@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2970_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:10:34.593557+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2970"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2970",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "20대로 추정되는 남자의 사진 8장을 보고 두상을 제작하는 것이었습니다. 양이 많고 동세가 있는 모델이었기에 멀리서도 시원하게 느껴질 수 있도록 동세를 설정했고, 주변 두상과 비교했을 때 작아지지 않도록 작품의 크기를 설정했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 24.45,
+    "student_strength": "시험 당시 평소에 내가 부족하다고 느끼던 것들을 보완하려 하고 잊지 않으려 했으며, 가장 중요한 것은 모델과의 닮기라고 생각했기 때문에 그 점에 초점을 맞추어 실기한 것이 가장 큰 영향을 끼쳤다고 생각합니다. 또한 시험장에서 주어진 작은 사진을 보지 않았기에 사소한 것에 빠지지 않고 내 계획과 페이스에 맞출 수 있었다고 생각합니다.",
+    "teacher_feedback": "선생님들과 의견을 나누며 진도와 학습내용을 맞췄조, 무리하지 않도록 페이스를 맞추며 준비히였습니다.",
+    "ideation_process": "양이 많고 동세가 있는 모델이었기에 멀리서도 시원하게 느껴질 수 있도록 동세를 설정했고, 주변 두상과 비교했을 때 작아지지 않도록 작품의 크기를 설정했습니다. 또한 주어진 사진과 최대한 같은 각도와 같은 시선으로 맞추며 두상을 만들었습니다."
+  }
 }

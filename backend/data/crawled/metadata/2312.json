@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2312_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:41:12.449897+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2312"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2312",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 금붕어와 블록이 나왔고 블록은 끼워 맞춰서 건축물같이 만들수있는 특징이있기때문에 건축물을 쌓아올린것처럼 표현했고 금붕어가 잘보이게 하기위해서 크게 넣었던것같습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 7.88,
+    "student_strength": "부족한부분을 선생님들이 지적해주고 그 부족한걸 줄이면서 주제를 알아볼수있게 크게 그린것도 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

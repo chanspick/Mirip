@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2377_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:44:02.244202+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2377"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2377",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "도토리, 조개, 못이 출제되었습니다. 문제은행이라 침착하게 학원에서 그렸던 그림을 떠올리며 풀어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 12.96,
+    "student_strength": "시험시간 10분 전 그림이 단단해야 한다는 선생님 말씀이 떠올라 마카로 덩어리를 보완하는 데 집중했습니다. 이 점이 합격에 도움이 된 것 같습니다.",
+    "teacher_feedback": "선생님들이 지적해주신 부분을 메모하고 다음 그림에서 고칠 수 있도록 노력했고 문제은행이므로 집에서도 부족한 부분을 계속 연습했습니다..",
+    "ideation_process": "문제은행이라 침착하게 학원에서 그렸던 그림을 떠올리며 풀어나갔습니다."
+  }
 }

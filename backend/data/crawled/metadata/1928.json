@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1928_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:24:30.552735+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1928"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1928",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "축약해서 ‘한여름 바다 여행을 갔는데 바닷물이 사라져있었다’였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 7.2,
+    "student_strength": "남들과는 차별화되는 독특한 소재를 사용한 스토리 풀이가 주가 됐을 거라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "여행을 갔는데 바닷물이 사라져있었다’였습니다. 문제를 받고 바다와 연관된 모든 키워드들을 나열해 놓다보니, 남반구 산타클로스는 여름에 활동한다는 것이 떠올라 이를 중점으로 풀어나갔습니다."
+  }
 }

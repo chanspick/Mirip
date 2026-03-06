@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2097_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:31:52.748816+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2097"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2097",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "1번 문제의 경우 이음관에서 설비나 기계 장치처럼 구조적인 형태를 연상했고, 또 파이프라는 소재에서 사이로 지나다니는 통로가 떠올랐습니다. 이런 특징을 반영해 어린이 놀이기구 느낌의 입체물을 디자인하면 재밌겠다는 생각이 들었습니다.",
+    "practice_years": null,
+    "competition_ratio": 8.57,
+    "student_strength": "안정적인 성적과 간결한 그림이라고 생각합니다. 성적이 상위권이라면 실기 때 문제에서 요구하는 것만 간결하게 그리고 면접에서 큰 실수만 안 하면 높은 확률로 합격하는 것 같습니다.",
+    "teacher_feedback": "선생님께서 말씀하신 내용을 정리했습니다.",
+    "ideation_process": "이런 특징을 반영해 어린이 놀이기구 느낌의 입체물을 디자인하면 재밌겠다는 생각이 들었습니다. 2번 문제 해결을 위해 이음관을 관찰했을 때, 3구 이음관의 실루엣이 가장 아름답다고 느꼈습니다."
+  }
 }

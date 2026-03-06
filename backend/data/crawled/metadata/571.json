@@ -13,5 +13,14 @@
     "data/crawled/raw_images/571_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:23:57.155433+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=571"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=571",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "주어진 제작도구를 이용하여 반사필름을 자유롭게 변형 및 조합하고, 이것을 배경으로 크레욜라를 창의적으로 배치한 후, ‘ 실물크레욜라’와 ‘반사필름에 투영된 이미지;를 관찰하고 묘사하시오. ------------------------------------------------------------------- ◈조건 및 주의사항>: 1.",
+    "practice_years": 2.0,
+    "competition_ratio": 3.78,
+    "student_strength": "목표를 확실하게 정하는 것입니다. 저는 국민대학교 공간디자인학과 19학번 박찬미라고 적힌 메모지를 방 곳곳에 붙였습니다. 처음에는 볼때마다 민망하고 떨어지면 쪽팔릴까봐 걱정도 됐는데, 그만큼 붙고 싶은 마음이 간절해져서, 합격할 수 있는 자기 자신을 만들게 되는 것 같습니다.",
+    "teacher_feedback": "선생님이 지적해주신 부분이나 고치면 더 나을 점, 좋은 점, 내 생각 등으로 오답노트를 정리했습니다.",
+    "ideation_process": "표현하지 마시오. 3."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2913_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:08:01.594824+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2913"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2913",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "50대 중반 남성 사진모델링 이었으며 모델 파악과 사진파악을 신중히 한 후 들어갔습니다 정면사진과 다른각도 사진들의 차이가 커서 당황했지만 정면에 중점을 잡아 만들어나갔습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 11.33,
+    "student_strength": "멘탈이라고 생각합니다 실기가 잘 안될때마다 힘들지만 다시 마음가짐을 다 잡고 차근차근 해내려고 노력했습니다 이성적으로 생각해 어느 부분이 안돼서 실기가 부족한지 생각했고 초반과정에서 시야가 좁아지지않게 노력했습니다",
+    "teacher_feedback": null,
+    "ideation_process": "정면사진과 다른각도 사진들의 차이가 커서 당황했지만 정면에 중점을 잡아 만들어나갔습니다 특징이 많은 모델이었기 때문에 내가 생각한 모델의 특징들을 다"
+  }
 }

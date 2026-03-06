@@ -13,5 +13,14 @@
     "data/crawled/raw_images/340_0.png"
   ],
   "crawled_at": "2026-01-27T13:14:13.537724+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=340"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=340",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "주전자를 이용하여 부드러움(매끄럽고 유연한)을 표현하시오.” 가 주제였습니다.평소에 해왔던 대로 레이아웃을 잡았고,주전자에서 액체가 흘러나오는 모습을 통해 부드러움을 연출하였습니다.무리한 발상으로 주제에서 벗어나기보다는 덩어리 기반의 완성도와 색연필로 마무리된 정리도에 집중했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.65,
+    "student_strength": "수능에 있어서는영어와 한국사를 소홀히 하지 않아 감점을 줄인 것이 도움이 됐습니다. 실기 면에서는 첫번째로 지각과 결석을 하지 않는 것입니다.다음으로는 선생님의 말씀에서 벗어나 자신의 사고로 오판하지 않는 것입니다.선생님들의 말씀을 기반으로 하나씩 고쳐 나가려는 자세로 실기에 임하는 것이 시험장에서의 실수를 줄이는 것에 직결된다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "발상으로 주제에서 벗어나기보다는 덩어리 기반의 완성도와 색연필로 마무리된 정리도에 집중했습니다."
+  }
 }

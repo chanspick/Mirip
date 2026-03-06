@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1708_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:14:49.609414+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1708"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1708",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "당일 출제문제는 커피포트이며, 주제와 어울린다고 생각하는 다른 사물을 허용한다고 했습니다. 따라서 전기를 이용한다는 커피포트의 특징으로 전선을 떠올렸고, 물을 뜨겁게 끓일 수 있다는 특징을 살리고자 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 20.32,
+    "student_strength": "주제부의 표현과 공간감 연출이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "따라서 전기를 이용한다는 커피포트의 특징으로 전선을 떠올렸고, 물을 뜨겁게 끓일 수 있다는 특징을 살리고자 했습니다."
+  }
 }

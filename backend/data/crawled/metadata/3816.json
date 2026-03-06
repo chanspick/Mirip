@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3816_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:52:26.903153+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3816"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3816",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "1번은 ‘속도와 탄성’을 시각화하는 문제였고, 2번은’ 희망과 치유’를 주제로 조형물을 디자인하는 것이었습니다. 추상적인 주제였기에 명확한 정답이 없을 것이고 주제 해석을 완벽하게 해내는 사람도 적을 것이라고 생각하여 문제 해석도 중요하지만 정확한 투시와 밀도에 더욱 중점을 두고 그림을 그렸습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 6.66,
+    "student_strength": "고사실에서 가장 명암이 강하고 선명한 그림을 그렸다고 생각합니다. 평소 크게 그리는 것이 강점이었는데 실기장에서도 최대한 크게 그리려고 노력했습니다. 또한 성적이 뒷받침해 주지 않았을까 생각합니다.",
+    "teacher_feedback": "선생님과 주변 잘 그리는 친구들에게 질문을 하며 부족한 점을 채워나갔습니다..",
+    "ideation_process": "추상적인 주제였기에 명확한 정답이 없을 것이고 주제 해석을 완벽하게 해내는 사람도 적을 것이라고 생각하여 문제 해석도 중요하지만 정확한 투시와 밀도에 더욱 중점을 두고 그림을 그렸습니다."
+  }
 }

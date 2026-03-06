@@ -13,5 +13,14 @@
     "data/crawled/raw_images/824_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:34:54.758579+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=824"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=824",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "유리병 + 코르크마개, 나비, 공업용 줄자가 나왔습니다. 어려운 문제가 나올 것 같아서 긴장을 많이 하고 있었는데 엄청 어려운 소재는 아니어서 더 침착하게 문제를 풀었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 44.8,
+    "student_strength": "우선 학원 입시반의 시스템이 정말 체계적이고 선생님들께서도 너무나 적극적으로 가르쳐주셔서 수업에 더욱 집중 할 수 있었습니다. 또한 똑같은 수업이 아닌 학생에게 맞는 수업을 개별적으로 해주셔서 더 빠르게 그림이 성장할 수 있었습니다. 그래서 더욱 자신감을 가질 수 있었고 긍정적으로 입시를 마칠 수 있었던 것 같습니다.",
+    "teacher_feedback": "원장님께서 각 학교마다 합격작 브리핑을 해주셨는데 그 학교가 추구하고 원하는 그림이 무엇인지를 알 수 있었고, 다른 학원과 달리 수업이 체계적으로 구조화 되어있어서 더 발전할 수 있는 그림을.",
+    "ideation_process": "어려운 문제가 나올 것 같아서 긴장을 많이 하고 있었는데 엄청 어려운 소재는 아니어서 더 침착하게 문제를 풀었습니다. 소재가 무언가를 부시고 깨는 것 보다"
+  }
 }

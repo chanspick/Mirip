@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3114_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:17:03.576160+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3114"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3114",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "1번은 휴지와 비누를 포갠 모습/일부 휴지가 젖은 모습을 소묘하는것이었고, 2번은 두개의 특성을 활용해 주전자를 디자인하는 문제 소묘는 이전의 관찰을 기반으로 문제풀이를 했고, 디자인은 이전에 두루마리휴지가 나왔을때 쌤께서 두루마리 휴지는 풀리는게 특징적이고 재밌다!라고 하셨던게 생각나서 풀리는 형태적 특성을 사용하려했어요. 그걸 기능과 이어서 길이 조절이 가능하게 만들었습니다.",
+    "practice_years": 3.17,
+    "competition_ratio": 5.18,
+    "student_strength": "저는 소묘집중수업이 상당히 도움이 됐었어요! 톤 보는 눈이 부족하고 마무리/디테일 묘사가 부족했던 저에게는 보는 눈을 키워주는 수업이었습니다! 그리고 문풀집중수업이었던 것 같아요ㅎㅎ 다양한 문제를 풀어보면서 사고를 확장시키고 제가 생각하지 못한 부분들에 대해 배울 수 있었고, 빠른 문풀을 통해 그림에서 반복적으로 생기는 실수에 대해서도 캐치할 수 있어서 좋.",
+    "teacher_feedback": null,
+    "ideation_process": "그걸 기능과 이어서 길이 조절이 가능하게 만들었습니다. 비누의 미끌거림은 보여주기도 어려울 것 같고 그게 유용할까?에도 의문이 들어 형태적 특징만 따 와 일부분 장식적으로 활용해줬습니다."
+  }
 }

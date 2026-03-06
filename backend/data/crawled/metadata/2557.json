@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2557_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:51:58.131926+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2557"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2557",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "문제지 뒤편만 보고 전구가 나온 줄 알고 그걸로 동사형 생각하고 있었는데, 돌리니까 거품기가 나와서 당황했어요. 거품기가 나오고 에너지가 제시어였는데 에너지를 힘이나 회전, 속도감 같은 다른 유사어로 해석해서 문제를 풀었습니다.",
+    "practice_years": 5.17,
+    "competition_ratio": 18.38,
+    "student_strength": "그냥 열심히만 해서는 작년과 같은 결과를 얻었을거라고 생각해요. 정확한 기준을 갖고 계속해서 그림을 고쳐나가고 장점은 살릴 수 있었기에 합격할 수 있었다고 생각합니다.. 그냥 뛰기만 해서는 엉뚱한 곳으로 도착할 수도 있는데 선생님들께서 합격을 향한 정확한 방향을 잘 잡아주셔서 빠르게 달리면서도 길을 잃지 않을 수 있었어요.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하기에는 액체를 돌리는 것이 최선이라고 생각했고, 또한 허공간이 많이 나올 걸 대비해 양적인 점재 체리를 넣어서 조형을 보완해 주었습니다. 체리와 반대되는 컬러인 그린컬러의 액체를 돌려서 에너지 음료가 돌아가며 거품이 튀는 듯한 연출을 하였고, 다"
+  }
 }

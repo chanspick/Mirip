@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2695_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:58:08.193665+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2695"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2695",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "귤, 니퍼 주어진 물체들을 활용하여 자유롭게 구성하고 표현하시오 귤에서 사용할 수 있는 모든 것을 활용하고 니퍼의 쓰임세를 찾는 게 좋을 것 같다고 생각했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.88,
+    "student_strength": "귤에서 줄기나 가지, 물 등 활용할 수 있는 모든 것을 활용한 것일 것 같습니다.",
+    "teacher_feedback": "선생님들과 피드백을 통해서 더 나은 방향으로 바꿀 수 있었습니다.",
+    "ideation_process": "생각했습니다."
+  }
 }

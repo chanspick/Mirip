@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2823_0.png"
   ],
   "crawled_at": "2026-01-27T15:03:58.529838+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2823"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2823",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "상명대 문제은행을 최소 한 번이상씩은 해봐서 기억나는 대로 최선을 다 했습니다.",
+    "practice_years": 1.83,
+    "competition_ratio": 7.73,
+    "student_strength": "학원 선생님들이 열심히 가르쳐 주셨습니다. 그리고 전 학원을 최대한 안 빠지고 성실하게 열심히 갔습니다 .",
+    "teacher_feedback": "선생님들 믿고 착실하게 열심히 하였습니다.",
+    "ideation_process": "했습니다."
+  }
 }

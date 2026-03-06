@@ -13,5 +13,14 @@
     "data/crawled/raw_images/697_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:29:18.465270+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=697"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=697",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "얼음이 없는 남극을 표현하시오 라는 주제가 나왔습니다. 지구온난화와 연관된 주제라고 생각하고 배경에는 환경오염이 된 모습을 그리고 주제부에는 얼음이 녹고있어 힘들어하는 동물과 사람들을 그려서 주제를 풀었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 14.55,
+    "student_strength": "미리 주제가 나와있기 때문에 사전에 철저하게 준비하면 가능하다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오 라는 주제가 나왔습니다. 지구온난화와 연관된 주제라고 생각하고 배경에는 환경오염이 된 모습을 그리고 주제부에는 얼음이 녹고있어 힘들어하는 동물과 사람들을 그려서 주제를 풀었습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1150_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:49:11.485134+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1150"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1150",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "벽시계와 바인더 스프링으로 시간여행을 표현하라고 해서 스프링으로 공간을 만들어서 벽시계가 그 공간을 타고 넘어오는 듯하게 구성하였습니다.",
+    "practice_years": 2.25,
+    "competition_ratio": 10.06,
+    "student_strength": "제시어에 대한 해석과 완성도였다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라고 해서 스프링으로 공간을 만들어서 벽시계가 그 공간을 타고 넘어오는 듯하게 구성하였습니다."
+  }
 }

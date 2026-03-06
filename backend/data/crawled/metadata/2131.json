@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2131_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:33:20.578535+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2131"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2131",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "가구 하나 없는 방, tv가 켜져 있는 모습을 빛과 음영의 관계로 지하 방 같은 느낌으로 표현 하였다.",
+    "practice_years": 2.5,
+    "competition_ratio": 7.15,
+    "student_strength": "평소 다양한 디자인 자료를 찾아본것이 도움이 된것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

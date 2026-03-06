@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2619_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:42.517758+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2619"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2619",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "시계, 알약, 펜을 사용하여 메타버스의 세상을 표현하시오. 우선, 메타버스 세상을 표현하기 위해서 핸드폰을 배치한 후, 패턴 내 응용 가능한 부분을 문제의 제시물을 사용하여 집처럼 표현했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 13.8,
+    "student_strength": "주제에 어긋나지 않게 풀이했던 것이 합격에 영향을 주었지 않았을까 싶다. 평소 실기 준비를 철저히 하는 것이 방법인 듯하다.",
+    "teacher_feedback": "피드백 내용을 다음 그림에 바로 적용하면서 그림을 점점 발전시켰다..",
+    "ideation_process": "표현하시오. 우선, 메타버스 세상을 표현하기 위해서 핸드폰을 배치한 후, 패턴 내 응용 가능한 부분을 문제의 제시물을 사용하여 집처럼 표현했다."
+  }
 }

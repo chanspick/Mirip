@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3455_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:32:59.938330+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3455"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3455",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "우산, 만능칼, 유리구슬이였습니다. 칼은 우산을 자를수있고, 우산은 구슬을 담을수 있으니까 칼로 우산을 찢고 유리구슬을 빈곳에 던지면 될 것같다라고 생각했습니다.",
+    "practice_years": 1.58,
+    "competition_ratio": 5.5,
+    "student_strength": "구도 몇개를 구상하고 거기에 맞춘것이라고 생각합니다. 아이디어스케치 시간이 1분 이내였기에 시간을 아낄수 있었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 만능칼의 칼을 제외한 것들도 있음을 보여주기 위해 십자 드라이버로 유리구슬을 깼습니다."
+  }
 }

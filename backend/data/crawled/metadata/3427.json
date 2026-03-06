@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3427_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:31:39.160996+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3427"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3427",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "당근, 바이스 플라이어, 삽 바이스 플라이어가 어떤 용도로 사용되는지 생각하고 그 용도에 맞는 상황을 그렸다. 그리고 당근이 붉은색이기 때문에 삽의 색을 변경하여 다채로워 보이게 하였다.",
+    "practice_years": 2.5,
+    "competition_ratio": 21.56,
+    "student_strength": "출제된 물체의 용도에 맞는 상황 연출과 쨍한 채도 그리고 밀도 있는 묘사라고 생각합니다.",
+    "teacher_feedback": "선생님의 피드백을 메모하여 다음 그림에서는 고치도록 노력했습니다.",
+    "ideation_process": "표현하기 위해 당근 껍질을 이용해서 방사형의 형태를 만들어 주었고 비대칭은 바이스 플라이어를 기준으로 양옆 당근의 상황을 다르게 표현했다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1175_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:50:17.595251+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1175"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1175",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "문제는 '권투중에 상대편에게 강펀치를 맞아 고개가 돌아간 40대 중년남자를 쇄골 부분까지 만드시오' 문제를 읽고 직접 맞아 고개가 돌아간 것처럼 포즈를 지어보고 그대로 진행했습니다. 펀치에 얼굴이 눌린것을 표현할까 말까 고민을 하였는데 더 강한 주제표현이 될것같아 마스크 위로 얼굴을 더듬어 보며 얼굴이 눌려서 눈이 감긴 찡그린 표정을 만들었습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 66.0,
+    "student_strength": "기본 해부학을 철저히 지키려고 노력하고 작은 부분에 빠져서 큰 것을 놓치지 않게 멀리서 자주 보면서 외곽과 해부학같은 중요한 부분을 틀리지 않는것이라고 생각합니다. 또한 나의 틀린점들을 알기 위해서 선생님들의 시범과 우수작품들을 많이 보며 눈을 높인것이 도움이 된 것 같습니다.",
+    "teacher_feedback": "선생님의 시범 전후를 사진찍어 문제점을 파악하기 위해 노력했습니다..",
+    "ideation_process": "펀치에 얼굴이 눌린것을 표현할까 말까 고민을 하였는데 더 강한 주제표현이 될것같아 마스크 위로 얼굴을 더듬어 보며 얼굴이 눌려서 눈이 감긴 찡그린 표정을 만들었습니다. 흙이 부족할것 같아 얼굴과 목가슴의 크기를 크게 하고 어깨는 쇄골까지만 표현했습니다."
+  }
 }

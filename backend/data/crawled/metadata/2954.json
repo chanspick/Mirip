@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2954_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:09:52.550329+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2954"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2954",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "소재는 볼링공,볼링핀,폭죽이 나왔습니다. 앞쪽에 볼링핀을 크게 배치하고 소재에 맞게 뒷쪽에는 볼링공으로 볼링핀을 쳐서 쓰러지게 표현 했습 니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 6.81,
+    "student_strength": "평소에 그림을 많이 찾아보면서 도움이되는 부분은 한번씩 그려보았습니다.그리고 학원합격작이나 학원 친구들의 그림도 필요한 부분은 사진을 찍고 보면서 실기력을 올렸고 선생님이 하시는 말씀 중에 꼭 지켜야 하는것들이나 자주 실수하는 부분은 놓치지 않고 메모 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "앞쪽에 볼링핀을 크게 배치하고 소재에 맞게 뒷쪽에는 볼링공으로 볼링핀을 쳐서 쓰러지게 표현 했습 니다. 그리고 중요한 부분에 시선이 가도록 선을 모아주고 볼링공의 구멍에서 폭죽이 나오는 것을 표현했습니다."
+  }
 }

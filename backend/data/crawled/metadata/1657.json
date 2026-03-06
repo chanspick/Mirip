@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1657_0.jpeg"
   ],
   "crawled_at": "2026-01-27T14:12:23.394203+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1657"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1657",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "실타래 줄자가 나왔다 줄자는 직선적인 선재로 사용해서 쭉 뻗어나가는 느낌을 살려주었고 실타래는 곡선적인 부드러움을 강조하였다",
+    "practice_years": 2.0,
+    "competition_ratio": 10.17,
+    "student_strength": "전임선생님의 가르침 원장선생님의 강평 보조선생님들의 도움 그리고시험보는 4시간내내 배웠던 이론을 계속 생각하면서 빠르게 움직였고 이번에도 떨어지면 다시는 미술 안할생각으로 열심히했다",
+    "teacher_feedback": null,
+    "ideation_process": "줄자는 직선적인 선재로 사용해서 쭉 뻗어나가는 느낌을 살려주었고 실타래는 곡선적인 부드러움을 강조하였다 실타래에 같이 꽂혀있던바늘을 뒷부분에 배치하여 공간감을 주었다"
+  }
 }

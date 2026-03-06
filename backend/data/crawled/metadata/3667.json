@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3667_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:44:05.570413+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3667"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3667",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "중앙대에서는 착즙기(쥬시스퀴저), 포스트잇, 스테이플러를 주고 조형적 특성을 활용하여 화면을 구성하고 표현하시오라는 조건을 달고 문제를 출제하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 7.8,
+    "student_strength": "시즌별 수업방식이 도움이 많이 되었던것같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오라는 조건을 달고 문제를 출제하였습니다."
+  }
 }

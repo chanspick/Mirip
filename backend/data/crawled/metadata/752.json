@@ -13,5 +13,14 @@
     "data/crawled/raw_images/752_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:31:41.468421+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=752"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=752",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "출제된 문제는 카메라와 수면양말이었는데, 카메라는 개인적으로 자신이 없는 사물이었고 수면양말은 이미지상에서 정확한 형태를 알아보기가 어려워 조금 당황했지만 일단 카메라소묘부터 신속하게 진행하며 스케치에 대한 고민을 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 58.0,
+    "student_strength": "운이 좋았던 덕분도 있지만 소묘와 기초디자인의 밸런스를 맞춰가며 연습을 한 것이 도움이 되었던 것 같습니다. 또한 기초디자인에서는 세로 종이에 맞춘 재밌는 구도와 아이디어가 돋보이도록, 또는 디테일한 묘사가 가능한 부분은 과감한 사이즈로 넣어 눈에 잘 들어오도록 그리기 위해 노력한 것도 도움이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

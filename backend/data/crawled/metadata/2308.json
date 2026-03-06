@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2308_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:41:01.921857+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2308"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2308",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 만년필, 종이, 사무용 전등이었다. 만년필을 과투시로 넣어 전등을 만년필에 비추는 표현을 통해 주제부를 강조하고, 종이에 잉크를 튀기는 표현을 통하여 디자이너의 다이나믹한 삶을 표현하였다.",
+    "practice_years": 2.25,
+    "competition_ratio": 26.79,
+    "student_strength": "수원대 실기대회를 통하여 실기시험 현장의 분위기 등에 적응해 보고 실제 시험에서 긴장을 많이 안 하고 편하게 치른 것이 합격에 도움이 된 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "만년필을 과투시로 넣어 전등을 만년필에 비추는 표현을 통해 주제부를 강조하고, 종이에 잉크를 튀기는 표현을 통하여 디자이너의 다이나믹한 삶을 표현하였다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1034_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:43:59.228783+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1034"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1034",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 14.3,
+    "student_strength": "항상 실기 선생님과 깊은 대화를 할 수 있는 점이 좋았고 큰 도움이 되었다. 그냥 입시 그림이 아닌 내가 좋아하는 스타일로 그림을 완성할 수 있게 도와주셨고 사고 과정에서 막힐 때마다 같이 고민해주시고 좋은 그림들을 많이 보여주셔서 너무 좋았다.",
+    "teacher_feedback": "선생님이 항상 시간을 재서 그리도록 시키는 편이셨다.",
+    "ideation_process": null
+  }
 }

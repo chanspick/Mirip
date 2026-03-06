@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1450_0.png"
   ],
   "crawled_at": "2026-01-27T14:02:53.251499+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1450"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1450",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "엄청 어려운 소재가 나온건 아니라 소재에 대한 어려움은 크게 없었지만 학원에서 계속 지적받았던 부분을 최대한 생각하면서 그렸습니다. 그리고 컴퍼스나, 원형 자는 사용을 못하는데 원이 들어가는 소재가 많이 나와서 최대한 형태는 틀리지말자는 생각으로 그렸습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 30.0,
+    "student_strength": "쉬운도구로 그렸기때문에 시간이 전혀 부족하지않았고 물이나, 조각같은 부요소를 그렸던 점이 합격 노하우라고 생각합니다. 학원에서 배울땐 다들 관련된 소재가 나오면 자연스럽게 넣는데 고사장에서는 생각보다 그런 요소를 그리는 사람이 별로 없었기 때문에 다른 그림들에 비해서 눈에 띌 수 있었다고 생각합니다.",
+    "teacher_feedback": "선생님이 가르쳐주는대로 최대한 따라하고, 그것을 까먹지 않으려고 노력했습니다.",
+    "ideation_process": "그리고 컴퍼스나, 원형 자는 사용을 못하는데 원이 들어가는 소재가 많이 나와서 최대한 형태는 틀리지말자는 생각으로 그렸습니다. 시작하고 나눠주는 사진에 어떻게 구도를 짤지 5분에서 10분정도는 차분하게 생각하고 그렸습니다."
+  }
 }

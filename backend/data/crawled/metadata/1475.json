@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1475_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:03:59.665278+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1475"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1475",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "오이. 목도리.",
+    "practice_years": 5.0,
+    "competition_ratio": 7.35,
+    "student_strength": "평소작을 활용할수 있는 문제가 나와 운이 좋았던것 같습니다. 하지만 그 운을 만들수 있었던건 평소 수업때 면분할과 같은 요소들을 자주 고민하고 선생님의 피드백이 큰 도움이 되었던것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "목도리. 거울이 나왔으며."
+  }
 }

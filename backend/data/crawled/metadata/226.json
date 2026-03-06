@@ -13,5 +13,14 @@
     "data/crawled/raw_images/226_0.png"
   ],
   "crawled_at": "2026-01-27T13:09:24.088487+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=226"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=226",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "우비입은 여자 사진과 과일(한라봉), 콜라병 등이 주제로 제시되었으며, 인물과 정물간의 서로 상호보완적인 공간 연출관계로 구도를 침착하게 구성하였고, 건식재료와 수채화 기법을 적절히 섞어가며 표현하였습니다.",
+    "practice_years": 2.17,
+    "competition_ratio": 11.76,
+    "student_strength": "평소 인물묘사를 즐겨하되 , 다양한 재료사용을 시도해 보았던 것이 주효했던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

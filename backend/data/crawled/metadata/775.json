@@ -13,5 +13,14 @@
     "data/crawled/raw_images/775_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:32:47.461051+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=775"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=775",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "실기 문제는 \"곤충의 시점에서 본 먹거리 장터의 풍경\"이었다 전에 곤충을 그려본 적이 있긴 하지만 그래도 막상 문제를 받으니 당황스러웠다",
+    "practice_years": 3.0,
+    "competition_ratio": 25.5,
+    "student_strength": "선생님께서 실기시험 전날에 말씀해주신 유의사항을 최대한 반영하려고 했다",
+    "teacher_feedback": "선생님들이 하시던 조언을 새겨들었다.",
+    "ideation_process": "구상을 했다 먹거리 장터의 풍경은 한 번도 그려본 적이 없기 때문에 대신 곤충을 혐오스러워하거나 무신경해하는 사람들과 그걸 당하는 곤충의 감정에 집중해서 그렸다"
+  }
 }

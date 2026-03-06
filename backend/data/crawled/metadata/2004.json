@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2004_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:27:48.450782+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2004"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2004",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "\"수원대는 대나무, 광목천, 유리구슬이 나왔다. 을지대는 돋보기, 털실이 나왔다.",
+    "practice_years": 3.33,
+    "competition_ratio": 23.32,
+    "student_strength": "초반부터 꾸준하게 나와서 그림을 그리려고 한 점이 합격을 할 수 있었던 이유같다. 꾸준한 연습으로 나의 장점을 더욱 살리고 단점을 고쳐나가면서 완성도가 높아지지 않았나 생각한다.",
+    "teacher_feedback": "선생님께서 그림을 평가를 해주시면 따로 정리해서 내가 고쳐 나가야 할 점을 인지할려고 했다..",
+    "ideation_process": "을지대는 돋보기, 털실이 나왔다. 협성대는 나무의자, 가위가 나왔다.\" 당일 문제를 받고나서 각 개체마다"
+  }
 }

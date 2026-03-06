@@ -13,5 +13,14 @@
     "data/crawled/raw_images/401_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:16:48.291938+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=401"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=401",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "한번씩은 그려본 물체들이여서 학원에서 많이 연습한 구도로 배치하여 완성하였습니다. 사물에 사실적이고 역동적인 모습이 보여지도록 노력하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 49.43,
+    "student_strength": "미리 준비하고 제시물의 특성이 잘 느껴지도록 잘 그려내는 것이 중요한 포인트 같습니다. 상명대는 주제가 미리 나와있어서 완성도가 많이 높아야 할 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "사물에 사실적이고 역동적인 모습이 보여지도록 노력하였습니다."
+  }
 }

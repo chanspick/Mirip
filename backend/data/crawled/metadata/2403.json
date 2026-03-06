@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2403_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:45:11.231712+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2403"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2403",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "\"짜장면과 스파게티를 이용해 아름다움을 표현하시오.(그릇 표현 금지)\" 종이에 구상을 3개쯤 하고 가장 괜찮다고 생각한 것으로 만들기 시작했다. 주변에는 다",
+    "practice_years": 2.5,
+    "competition_ratio": 7.82,
+    "student_strength": "곁을 보니 다들 손과,발, 면을 만들고 있었는데 남과 같은 식상한 것을 만들지 않았기 때문인 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오.(그릇 표현 금지)\" 종이에 구상을 3개쯤 하고 가장 괜찮다고 생각한 것으로 만들기 시작했다. 주변에는 다"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3861_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:54:56.741242+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3861"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3861",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "하이힐,때수건,공깃돌이 나왔습니다. 학원에서 계속 연습했던 주제부강조형으로 구성을 했고 포인트에 집중시키기위해서 공깃돌이 날아와서 때수건을 누르고 그 부분에서 공깃돌과 물이 튀어나가도록 했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 33.0,
+    "student_strength": "학원수업에 열심히 임했고 시험장에선 평소작만큼의 퀄리티로 완성하려고 노력했습니다.",
+    "teacher_feedback": "선생님이 기본기,명도,정리 등을 강조하셨기때문에 그부분을 더 집중해서 그리려고 노력했습니다.",
+    "ideation_process": "학원에서 계속 연습했던 주제부강조형으로 구성을 했고 포인트에 집중시키기위해서 공깃돌이 날아와서 때수건을 누르고 그 부분에서 공깃돌과 물이 튀어나가도록 했습니다. 또 원경으로 구두 발자국이 빠지게 그렸습니다."
+  }
 }

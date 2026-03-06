@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3870_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:55:29.284341+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3870"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3870",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "노리개, 바람개비, 테이프를 활용해 조형적 특성과 기능을 활용하여 자유롭게 표현하라는 문제였습니다. 제시어가 없는 문제였기에 ‘집중과 확산’이라는 키워드를 설정해 스케치를 진행했습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 25.0,
+    "student_strength": "세 제시물 중 노리개를 주제부로 선택해 타 수험생들과 차별점을 준 점과 바람개비의 유동적인 특징을 명확히 표현한 점이 가산점이 되었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라는 문제였습니다. 제시어가 없는 문제였기에 ‘집중과 확산’이라는 키워드를 설정해 스케치를 진행했습니다."
+  }
 }

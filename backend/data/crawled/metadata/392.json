@@ -13,5 +13,14 @@
     "data/crawled/raw_images/392_0.png"
   ],
   "crawled_at": "2026-01-27T13:16:25.246670+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=392"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=392",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "살이 매우 많은 20대 정도로 보이는 여자가 나왔습니다. 보통 만들던 모델과는 전혀 다른 특징을 가지고 있었습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 4.75,
+    "student_strength": "반수를 하면서 인스타그램에 사진을 올리기 시작했습니다. 사진을 올리게 되니 그 날 더 잘해서 올리고 싶어지게 되고, 더 잘 완성하려고 노력하게 되었습니다. 완성을 하려고 노력하다보니 자연스럽게 속도도 빨라진 것 같습니다. 남들이 올리는 사진도 보면서 좋은 점들을 배우려고 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "보통 만들던 모델과는 전혀 다른 특징을 가지고 있었습니다. 시작 전 흙을 주무르면서 나누어 주는 작은 사진을 보고 미리 틀릴 것 같은 것들 몇 가지와 평소 자주 틀리던 것을 생각하며 처음부터 완성까지 머릿속으로 이미지 트레이닝을 해보고 들어갔습니다."
+  }
 }

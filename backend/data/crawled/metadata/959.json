@@ -13,5 +13,14 @@
     "data/crawled/raw_images/959_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:40:41.754973+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=959"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=959",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "생수병 손전등이 나왔고 기존에 출제되어있는 문제여서 그대로 풀어나갔던 것 같습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 9.38,
+    "student_strength": "선생님이 알려주시는대로 따라가는것이 정답인 것 같습니다",
+    "teacher_feedback": "선생님이 알려주시는대로 꾸준히 한계단 한계단 올라가며 따라갔던 것 같습니다.",
+    "ideation_process": null
+  }
 }

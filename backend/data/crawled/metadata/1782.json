@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1782_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:18:11.365833+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1782"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1782",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "각종 레고와 LED 전구 등 기계장치를 이용해 놀이터에 있는 어린이용 놀이기구를 제작하는 것이 문제였다. 문제지를 받았을 때 우선 놀이터의 정의부터 생각하려 했고 모두가 생각할 수 있는 진부한 모래사장의 놀이터만이 놀이터가 아니라 수영장에서 볼 수 있는 물이 들어간 어린이 풀장도 해당 주제에 충족될 수 있을 것이라 생각했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 23.0,
+    "student_strength": "새로 바뀐 유형이라 자료가 많이 없었는데, 특히 특강 동안 선생님들이 트랜드를 분석해주시고 전문적이고 다양한 예상 문제를 제작해주셨다.",
+    "teacher_feedback": "선생님들께서 올해 바뀐 과기대의 입시 유형을 주로 분석해주셨고 매시간 반복되는 시험과 피드백을 통해 스스로 보완할 점을 메모하고 학원 이외의 시간에서도 계속 보완할 점을 생각했었다.",
+    "ideation_process": "문제지를 받았을 때 우선 놀이터의 정의부터 생각하려 했고 모두가 생각할 수 있는 진부한 모래사장의 놀이터만이 놀이터가 아니라 수영장에서 볼 수 있는 물이 들어간 어린이 풀장도 해당 주제에 충족될 수 있을 것이라 생각했다. 그렇게 수영장에서도 안전하게 놀 수 있는 놀이기구를 주제로 삼고 전체적인 문제를 풀이했다."
+  }
 }

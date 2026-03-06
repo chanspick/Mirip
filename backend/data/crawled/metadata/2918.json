@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2918_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:08:15.609880+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2918"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2918",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "중년 남성이었고 조그만한 것들보다 무조건 큰 형태를 맞추자는 생각으로 시험장 사진 모델 여백 부분을 내 작품 여백과 비교하면서 최대한 큰것을 맞추려고했다",
+    "practice_years": 1.33,
+    "competition_ratio": 11.33,
+    "student_strength": "멘탈. 시험 보면서 초반에 수없이 포기할까 생각을 했지만 최선을 다해 완성까지만 하자는 생각으로 끝냈다",
+    "teacher_feedback": null,
+    "ideation_process": "무조건 큰 형태를 맞추자는 생각으로 시험장 사진 모델 여백 부분을 내 작품 여백과 비교하면서 최대한 큰것을 맞추려고했다"
+  }
 }

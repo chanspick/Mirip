@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1047_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:44:36.412525+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1047"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1047",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "입시생이라면 아주 익숙할 전구와 조금은 생소한 달걀 껍데기였다. 두 가지 기물로 확장과 축소를 표현하라는 문제였다.",
+    "practice_years": 2.0,
+    "competition_ratio": 15.91,
+    "student_strength": "선생님의 열정과 내가 들인 노력이라고 생각한다. 그림의 테크닉적인 부분은 꾸준함과 시간이 해결해준다. 나의 부족한 점을 계속 찾는게 중요하다. 내가 어떤 부분을 잘하고, 어떤 부분에 자신이 없는지 알고 발전해 나가는 것이다. 그림을 그리다 보면 언젠가 나 자신을 뛰어넘어야 할 때가 온다. 너무 힘들더라도 끈기를 가지고 노력한다면 이겨낼 수 있다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라는 문제였다. 문제지를 받고 아주 고민했다."
+  }
 }

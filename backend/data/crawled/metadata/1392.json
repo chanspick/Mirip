@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1392_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:00:07.290456+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1392"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1392",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "주황색 플라스틱통이랑 뚜껑,글루건심 건국대에서는 문제받자마자 이건 그냥 기초디자인 해야하는거다 하고 사실 구도도 안짜고 바로 스케치떴었다.",
+    "practice_years": 5.0,
+    "competition_ratio": 5.82,
+    "student_strength": "학원 수업시간에 선생님 말 잘 듣고 고치라고 말씀해주시는 부분을 집중적으로 연습했다",
+    "teacher_feedback": null,
+    "ideation_process": "하고 사실 구도도 안짜고 바로 스케치떴었다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/928_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:39:21.279419+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=928"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=928",
+  "normalized_dept": "sculpture",
+  "interview_parsed": {
+    "exam_topic": "시립대 시험은 젊은 남자 모델 만들기로 모델과 많이 비교하며 나와보는것을 가장 위주로 생각했고 국민대 주제두상시험에서는 힙합잡지촬영중의 20대 혼혈여성모델을 만드는것이 문제로 나왔다. 이전에 만들어보았던 모델 장윤주를 떠올리며 동세와 표정에서 주제와 부합하도록 만들어나갔다.",
+    "practice_years": 2.25,
+    "competition_ratio": 5.9,
+    "student_strength": "시험 시간에 떨지 않고 자신의 페이스를 유지했던 것이 합격의 주 요인이라고 생각한다. 평소 학원 선생님들과 함께 만들어온 나의 페이스와 단계를 놓치지 않으려 노력했던것이 큰 도움이 되었다.",
+    "teacher_feedback": null,
+    "ideation_process": "이전에 만들어보았던 모델 장윤주를 떠올리며 동세와 표정에서 주제와 부합하도록 만들어나갔다. 가천대 시험에서는 문제에 충실하게 손, 그물망, 붕어를 조형적으로 잘 만드는 것에 집중했다."
+  }
 }

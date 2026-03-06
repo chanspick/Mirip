@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1986_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:27:01.752506+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1986"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1986",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "소재 : 플라스틱 지퍼 소묘주제 : 제시된 이미지에서 지퍼를 열었을 때 상황을 묘사하시오. 디자인주제 : 제시된 이미지의 특성을 이용하여 스피커 디자인을 하시오.",
+    "practice_years": 1.33,
+    "competition_ratio": 15.8,
+    "student_strength": "제가 미술학원을 다니면서 가장 노력한 부분은 선생님이 말씀하시는 것을 제가 실현할 수 있게 노력하는것이였습니다. 선생님께서 입시미술 경력도 오래되셨기 때문에 선생님께서 하시는 말씀을 경청하고 믿고 잘 따라갔더니 좋은 결과가 있었습니다.",
+    "teacher_feedback": "선생님이 하시던 말씀을 귀담아들었어요.",
+    "ideation_process": "디자인주제 : 제시된 이미지의 특성을 이용하여 스피커 디자인을 하시오. 소묘에 '열린다'라는 개연성을 전체 흐름에 가져가려고 노력했고, 디자인에서는 열리고 닫히는 지퍼의 특성을 이용해서 디자인했고 디자인 의도에서도 저만의 생각을 잘 보여주려고 했습니다."
+  }
 }

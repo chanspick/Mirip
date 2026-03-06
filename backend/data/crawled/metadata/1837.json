@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1837_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:20:34.134891+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1837"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1837",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "핸드폰,전화기,안경이였고 버튼을 사용하는 사람들이 없는것 같아 버튼을 활용해서 연출을 했고, 주제부 색감이 부족할것같아서 전화기 색깔은 그대로 하되, 배경화면을 채도 높게 들어가서 시선을 집중시키려했다",
+    "practice_years": 1.25,
+    "competition_ratio": 18.31,
+    "student_strength": "평소에 시험을 많이봐서 차분하게 임했던 것과 받았던 피드백을 떠올리며 그림을 그린 것, 제시물을 보고 형태를 보려는 느낌이 들어서 스케치 시간을 평소보다 더 늘려서 확실하게 맞추고 들어간게 좋게 작용하지 않았나싶다",
+    "teacher_feedback": "피드백을 그림에 적어놓고 사진을 찍어서 틈날 때마다 많이 보려고 했다.",
+    "ideation_process": null
+  }
 }

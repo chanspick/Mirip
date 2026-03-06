@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1215_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:52:01.339036+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1215"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1215",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "트위스트 전구, 애플 워치, 깃털이 출제 개체였고 색변화가 자유였지만 무작정 다채로운 색상을 쓰기보단 효과적으로 주제부를 보여줄 수 있는 색상을 선택하여 문제를 풀어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 40.0,
+    "student_strength": "앞에서 말했듯이 개체마다의 비례와 형태를 생각하여 꼼꼼히 스케치를 뜬 것이 가장 큰 요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

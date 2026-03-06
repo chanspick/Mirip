@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2614_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:29.142693+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2614"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2614",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "13개의 물건 중 8개를 선택하여 주어진 풍경에 자유롭게 배치하여 그리시오. 학원에서 푼 모의 시험처럼 풀었다.",
+    "practice_years": null,
+    "competition_ratio": 1.7,
+    "student_strength": "학원에서하는 모의시험에 성실히 임한다.",
+    "teacher_feedback": "선생님들께서 시키는대로 성실히 하면 됩니다..",
+    "ideation_process": "학원에서 푼 모의 시험처럼 풀었다."
+  }
 }

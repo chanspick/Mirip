@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1442_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:02:30.534198+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1442"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1442",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "국민대 - 주제는 키워드가 여러개였는데, 요약하자면 ‘ 대학합격, 고구마먹으면서 ‘달다~’하고있음, 20대초반여성’ 였습니다. 다양한 표정이 허용될 것 같은 주제라서, 저는 대학합격이라는 키워드에 중점을 두고 활짝 웃는 여성을 만들었습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "처음부터 묘사 퀄리티 올리기에 급급하기보다 외곽같은 큰 형태등을 놓치지 않으려 신경쓴 것이 도움이 된 것 같습니다. 이렇게 큰 형태를 맞추고, 묘사같은 세부적인 것들은 정시특강때부터 본격적으로 선생님들께서 알려주시는걸 최대한 흡수하려고 노력하며 올려나갔습니다.",
+    "teacher_feedback": "피드백, 그날그날 잘한 친구와 나와의 차이점 등을 비교하면서 지금 나의 실기위치는 어디고 어느 방향으로 가야할지 파악하려고 했어요.",
+    "ideation_process": "다양한 표정이 허용될 것 같은 주제라서, 저는 대학합격이라는 키워드에 중점을 두고 활짝 웃는 여성을 만들었습니다. 경희대 - 주제는 ‘ 강에 빠진 직후 숨을 쉬기 위해 물 ��으로 고개를 내민 30대 남성’ 였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/709_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:29:49.493500+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=709"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=709",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "문제를 읽고 ‘도구로 전락해버린 자연’을 떠올리며 자연물을 톱니바퀴로 변형하여 그렸습니다. 최대한 제시 소재만 이용하려고 노력했습니다.",
+    "practice_years": 1.33,
+    "competition_ratio": 12.29,
+    "student_strength": "학원 선생님들께서 해주셨던 조언과 평가들을 필기노트에 정리하고, 매일 복습하며 그림 그릴 때마다 고쳐나가려 했던 것이 좋은 결과를 가져온 것 같습니다.",
+    "teacher_feedback": "선생님께서 감평해주신 내용은 필기를 하며 매일 되새겼습니다..",
+    "ideation_process": "최대한 제시 소재만 이용하려고 노력했습니다."
+  }
 }

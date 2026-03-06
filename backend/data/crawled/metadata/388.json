@@ -14,5 +14,14 @@
     "data/crawled/raw_images/388_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:16:14.494210+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=388"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=388",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "소묘는 옥수수를 잡은 양 손이 출제되었고, 크기와 형태, 구도에 유의하여 그렸습니다. 수채화는 스테인레스볼, 장미, 오렌지, 키친타올, 브로콜리, 북어, 소화기, 무늬 천이 출제되어서 스테인레스볼, 장미, 오렌지를 주제로 삼았고, 주제 부분을 집중적으로 성실하게 그렸습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 2.0,
+    "student_strength": "그림에서는 안정감있는 완성도와 안정적인 성적이 중요한 것 같습니다.",
+    "teacher_feedback": "선생님의 지적사항을 바로 고치려고 노력했습니다 시험기간중에도 왠만하면 미술학원 수업시간은 엄수했습니다..",
+    "ideation_process": "수채화는 스테인레스볼, 장미, 오렌지, 키친타올, 브로콜리, 북어, 소화기, 무늬 천이 출제되어서 스테인레스볼, 장미, 오렌지를 주제로 삼았고, 주제 부분을 집중적으로 성실하게 그렸습니다."
+  }
 }

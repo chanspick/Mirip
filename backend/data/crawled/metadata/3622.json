@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3622_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:41:19.748852+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3622"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3622",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "주제가 무난하다고 생각했습니다. 휴대용 개인 액체 보관용기 라는 목적어의 단어가 큰 힌트가 된다",
+    "practice_years": 5.0,
+    "competition_ratio": 5.58,
+    "student_strength": "그림일기 시스템을 활용하여 매일 일기를 쓰면서 하루하루 되돌아보기도 하고 다짐을 하게 되면서, 하루도 허투루 쓰지 않고 일정하게 꾸준히 노력하게 되었다는게 이전 입시와의 가장 큰 차이점이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 휴대용 개인 액체 보관용기 라는 목적어의 단어가 큰 힌트가 된다"
+  }
 }

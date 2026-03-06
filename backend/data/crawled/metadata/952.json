@@ -13,5 +13,14 @@
     "data/crawled/raw_images/952_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:40:23.563514+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=952"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=952",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "물안경과 수건, 나침반, 롱노우즈로 공간을 구성하는 문제였으며 사물이 많아 무엇을 메인으로 설정할지 고민을 많이 했으며 독창적인 구도를 만들려고 노력했습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 13.0,
+    "student_strength": "기복 없이 안정적으로 나올만큼의 실기력을 만들어 두었던 것이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

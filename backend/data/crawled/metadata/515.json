@@ -13,5 +13,14 @@
     "data/crawled/raw_images/515_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:21:35.430072+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=515"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=515",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "귤, 클립- 처음에 주제 받고 너무 좋았어요. 그전에 귤 때문에 혼난 적이 있어서 채색법도 외워놨었고 클립도 해본 사물이었기 때문에 처음부터 자신감 있게 들어갔어요.",
+    "practice_years": 4.0,
+    "competition_ratio": 20.73,
+    "student_strength": "무엇보다 수시에 더 집중할 수 있는 수시반이 따로 준비되어 있던 것이 첫 번째 이유인 것 같습니다. 또한 유형별로 나눠서 집중케어를 해주셨기 때문에 내가 부족한 점을 정확히 고칠 수 있는 수업을 받은 것이 가장 큰 합격이유가 된 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그전에 귤 때문에 혼난 적이 있어서 채색법도 외워놨었고 클립도 해본 사물이었기 때문에 처음부터 자신감 있게 들어갔어요. 그리고 클립의 확대축소로 크기대비를 주려고 했고 최대한 적극적으로 연출하려고 했습니다."
+  }
 }

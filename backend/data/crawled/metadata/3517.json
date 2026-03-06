@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3517_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:35:59.379239+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3517"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3517",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "실기 고사 당일 문제는 오토바이(스쿠터)와 도넛, 고무밴드가 출제되었고, 오토바이의 달리는 특성과 고무밴드의 탄성, 도넛의 부드러움을 살려 풀어냈다.",
+    "practice_years": null,
+    "competition_ratio": 4.98,
+    "student_strength": "각 주제들의 특성을 살려 구도를 짜고,주제들이 반복되는 구도를 사용하여 거리감이 잘 느껴지게 그렸던 것이 합격의 주 요인이라 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

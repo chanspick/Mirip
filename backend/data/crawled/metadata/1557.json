@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1557_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:07:44.882713+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1557"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1557",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "단국대 : 바로 떠오르는 사물끼리의 연관성이 없기 때문에 마인드맵이 오래 걸렸는데 그냥 배치만 했다가는 차별점이 없을 것 같아서 어떻게든 연출을 하려고 노력했던 것 같고 비슷한 크기와 형태의 사물들이라서 확대 축소가 잘 보이는 동시에 축이 강한 화면을 선택했습니다. 그래서 다양한 유채색이 들어있고 양재성이 강한 연필깎이를 주제부로 선택하고 나머지 사물을 크게 확대해서 축으로 사용하였습니다.",
+    "practice_years": 1.67,
+    "competition_ratio": 7.2,
+    "student_strength": "사실 정시 특강을 시작하면서 제가 주력하던 유형에서 다른 유형으로 방향을 틀게 되었음에도 어느 정도 따라잡을 수 있었던 것은 예비반 때부터 다져온 기본기와 입시반 초반부터 모든 유형에 적용할 수 있는 다양한 이론수업과 브리핑으로 베이스를 다져놓은 상황에서 준비했기 때문이었던 것 같습니다.",
+    "teacher_feedback": "피드백을 함께 들을 수 있는 평가 시간과 카테고리별로 우수작을 모으는 것(?)에 집착을 했던 것 같습니다..",
+    "ideation_process": "그래서 다양한 유채색이 들어있고 양재성이 강한 연필깎이를 주제부로 선택하고 나머지 사물을 크게 확대해서 축으로 사용하였습니다. 연출은 네거티브가 좋은 가위로 연필깎이의 입구 부분을 찍어서 금이 가게하고 버퍼로 기스를 내는 것을 큰 축의 동사로 반복해 주었습니다."
+  }
 }

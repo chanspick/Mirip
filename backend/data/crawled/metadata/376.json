@@ -14,5 +14,14 @@
     "data/crawled/raw_images/376_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:15:43.984884+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=376"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=376",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "주제는 마네킹, 빨대, 손수건, 옷핀이 나왔으며, 제시엉가 달리 없어서 '리듬감'을 바탕으로 수업시간에 사물을 이용해 연상되는 이미지, 해먹 위에 사람이 올라간 것 처럼 연상되는 구성을 해보았습니다. 평상시에 이미지 연상 수업을 통한 구성 연습이 큰 도움이 된 것 같습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 14.92,
+    "student_strength": "사물의 적극적인 활용이 주요 요인이었던 것 같습니다. (특히 손수건의 연출) 그리고 빨대에서의 색 조합이 선택이 나름대로 메리트 였던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "평상시에 이미지 연상 수업을 통한 구성 연습이 큰 도움이 된 것 같습니다."
+  }
 }

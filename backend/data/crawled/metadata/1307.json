@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1307_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:56:06.114277+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1307"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1307",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "실기고사당일문제는 스타벅스 캔 커피였다 내가평소연습하던캔커피는 레쓰비였지만 다른캔커피가나와서 초반에 상당히고민했지만 자유롭게 변형하라는 제시어가있었기에 레쓰비 캔커피도 넣어서 그렸다",
+    "practice_years": 2.83,
+    "competition_ratio": 7.22,
+    "student_strength": "합격의주요인은 과감하게 기존의것을변형한것이라고생각한다",
+    "teacher_feedback": null,
+    "ideation_process": "내가평소연습하던캔커피는 레쓰비였지만 다른캔커피가나와서 초반에 상당히고민했지만 자유롭게 변형하라는 제시어가있었기에 레쓰비 캔커피도 넣어서 그렸다"
+  }
 }

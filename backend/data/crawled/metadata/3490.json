@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3490_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:34:41.372799+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3490"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3490",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "귤, 페인트롤러, 톱 / 미리 정했던 구도에 맞춰 문제를 풀었습니다. 귤의 채도와 귤락 묘사가 어색해 보이지 않도록 하는 것에 집중했습니다.",
+    "practice_years": null,
+    "competition_ratio": 8.14,
+    "student_strength": "학원에서 구도를 자주 연습한 것이 스케치 시간을 많이 줄여 주었습니다.",
+    "teacher_feedback": "선생님께 피드백을 받으며 수정 과정을 거쳤습니다..",
+    "ideation_process": "귤의 채도와 귤락 묘사가 어색해 보이지 않도록 하는 것에 집중했습니다."
+  }
 }

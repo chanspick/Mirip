@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3592_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:39:43.041214+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3592"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3592",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "물안경, 팽이, 필름통과 필름지가 나왔고 제시어는 긴장감이 출제됐습니다. 형태력을 보여줄 수 있는 부분이 물안경이라고 판단되어서 물안경의 형태가 정확하게 나올 수 있도록 신경을 썼고 팽이에 있는 무늬를 최대한 성실하게 그렸습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 7.2,
+    "student_strength": "정확하게 형태를 보여준 점과 전체적인 밸런스, 타학원에 비해 뛰어난 발색력이 합격까지 이끌었다고 생각합니다.",
+    "teacher_feedback": "선생님이 분석하신 내용을 중심으로 실기 방향을 잡았고 지난 합격생들의 수능성적과 실기그림을 비교하며 실기력을 끌어올렸습니다..",
+    "ideation_process": "형태력을 보여줄 수 있는 부분이 물안경이라고 판단되어서 물안경의 형태가 정확하게 나올 수 있도록 신경을 썼고 팽이에 있는 무늬를 최대한 성실하게 그렸습니다. 3절 5시간에 다군 학교인만큼 밀도와 완성도에서 밀리지 않도록 노력했습니다."
+  }
 }

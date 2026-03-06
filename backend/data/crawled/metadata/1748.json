@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1748_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:16:42.739238+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1748"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1748",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "나무도마와 오렌지, 리본이 출제 되었습니다. 쉬운 주제라 모두가 무난하게 완성할 것 같아 밀도와 채도에서 밀리지 않아야겠다",
+    "practice_years": 3.58,
+    "competition_ratio": 25.78,
+    "student_strength": "선생님께서 좋은 자료들을 많이 주셔서 좋은 그림이 뭔지 잘 알수있게 해주신 점과, 다양한 주제들의 조합으로 시험을 많이 봤기 때문에 시험장에서 당황하지 않을 수 있었던 것과, 어떤 주제든 비슷한 퀄리티의 그림이 나올 수 있도록 연습하고 노력한 점이 아닐까 생각합니다.",
+    "teacher_feedback": "선생님께서 말씀해주신 고쳐야할점들을 정리해둔 메모를 자주 읽었습니다.",
+    "ideation_process": "쉬운 주제라 모두가 무난하게 완성할 것 같아 밀도와 채도에서 밀리지 않아야겠다 생각하며 구성했습니다."
+  }
 }

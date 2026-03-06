@@ -14,5 +14,14 @@
     "data/crawled/raw_images/197_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:08:10.836051+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=197"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=197",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 출제문제는 나무로된 몸체에 금속으로 된 스피커와 레고블럭이었습니다. 문제를 보자마자 제가 가장 자신있는 질감이었기에 구도에 집중을 하였고 평소 자신있는 구도에 대입을 하여서 그림을 그려나갔습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 45.9,
+    "student_strength": "합격의 주요 요인은 부모님과 학원 선생님입니다. 부모님의 아낌없는 신뢰와 지원. 그리고 선생님의 수없이 많은 가르침이 저의 합격을 만들어주었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "문제를 보자마자 제가 가장 자신있는 질감이었기에 구도에 집중을 하였고 평소 자신있는 구도에 대입을 하여서 그림을 그려나갔습니다. 다른대학과 다르게 4시간 3절 시험이어서 실수를 줄이기 위해서 최대한 집중하였고 그 결과 시간이 부족하지 않고 그림을 완성할 수 있었습니다."
+  }
 }

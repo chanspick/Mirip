@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1985_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:26:59.224508+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1985"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1985",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "머리핀(실물) , 단면이 원형인 입체도형 3가지를 만들어서 화면에 율동감이 느껴지게 배치하시오 /문제를 받고 처음에 머리핀이라는 약간 생소한 사물과 단면이 원형인 입체 도형이면서 원뿔과 원기둥을 사용하지 않고 3가지나 만들라는 조건, 그리고 율동감이라는 주제어까지 문제가 너무 복잡해서 너무너무 당황했지만 학원에서 배운 축, 면적 분할, 반복 등등 기본기를 무조건 지키려고 노력하면서 아이디어 스케치를 5개정도 짜고 마지막까지 고민에 고민을 거듭하여 문제를 풀었습니다.",
+    "practice_years": 2.58,
+    "competition_ratio": 9.42,
+    "student_strength": "학원의 화면 응용 수업을 들었을 때 도움이 많이 되었습니다. 사실 처음에는 이해가 잘 안갔지만 원장선생님께서 계속 반복적으로 직접 설명해주셔서 이해가 잘 되었습니다. 화면 응용에 대한 설명을 들으니 화면에 제시어를 설정 할때도 더 자유롭고 쉽게 제시어를 표현할 수 있었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그 뒤로는 자신이 그린 아이디어 스케치를 믿고 끝까지 잘 완성 하라는 선생님의 말씀을 기억하며 최대한 깔끔하고 밀도 높게 완성하려고 노력하면서 그렸습니다."
+  }
 }

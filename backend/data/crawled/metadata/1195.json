@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1195_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:51:09.570644+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1195"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1195",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "긴장한 느낌보다는 오히려 마음을 편하게 하고 최선을 다하자 다짐을 가지고 시험에 임했습니다. 선생님께 조언 받은것들을 계속 생각하면서 제 그림에 집중했고 잘해야겠다는 생각보다",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "선생님께 조언 받은것들을 계속 생각하면서 제 그림에 집중했고 잘해야겠다는 생각보다 실수를 하지 말아야겠다는 생각이 좀 더 강하게 들었던것 같습니다."
+  }
 }

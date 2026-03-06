@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1158_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:49:31.711529+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1158"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1158",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "고양이가 직원 손에 잡히지 않으려고 뛰어다니는 것을 그리고 고양이를 잡으려고 애쓰는 당황한 직원을 그리고 뒤에 그것을 흥미진진하게 지켜보는 손님을 그렸다.",
+    "practice_years": 1.67,
+    "competition_ratio": 21.72,
+    "student_strength": "배경을 모노톤으로 해서 주제부와 근경이 잘 보이도록 한게 아닐까 생각됨",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

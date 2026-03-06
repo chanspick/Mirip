@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2416_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:45:45.234427+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2416"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2416",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "'지나가버린 중심의힘' 이었다 나는 문제의 문장을 조각내어 지나가버린-(과거형)상황이 끝난상태 중심의힘-균형 지나가버린 중심의힘-균형이 무너진 상태 여기서 무언가가 무너진 느낌을 받았고 도미노가 s 자형태로 쓰러져있는 형태를 만들었다.",
+    "practice_years": 2.0,
+    "competition_ratio": 9.62,
+    "student_strength": "문제 발상을 거의 1시간동안 생각했다. 평가하는 사람으로 하여금 문제와 내가한 실기가 최대한 일치하다고 납득할수있는 도안을 3개정도 구상한뒤에 가장 좋은 도안을 택해 실기시간이 끝날때까지 나의발상이 문제에서 벗어나지 않도록 계속 생각 하며 실기한것이 가장 컷다고 생각한다.",
+    "teacher_feedback": "선생님의 피드백을 받아 적은후 시간이 날�� 다른 공책에 옮겨 정리하며 선생님 피드백을 다시 이해했다..",
+    "ideation_process": "나는 문제의 문장을 조각내어 지나가버린-(과거형)상황이 끝난상태 중심의힘-균형 지나가버린 중심의힘-균형이 무너진 상태 여기서 무언가가 무너진 느낌을 받았고 도미노가 s 자형태로 쓰러져있는 형태를 만들었다."
+  }
 }

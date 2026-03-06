@@ -13,5 +13,14 @@
     "data/crawled/raw_images/728_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:30:39.438742+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=728"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=728",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "제시문은 은유, 그리고 그것과 관련된 사람들의 뇌에 관한 것이었고, 제시어는 자물쇠와 열쇠였습니다. 문제를 받고, 제시문을 이해하기 위해 여러번 읽고 정리했습니다.",
+    "practice_years": 1.67,
+    "competition_ratio": 13.57,
+    "student_strength": "저에게 과기대 수업을 해주셨던 선생님께서 남과 다른 생각을 하고, 그것을 그림으로 알맞게 표현하는것이 중요하다고 가르쳐주셨고, 수업시간에 수업내용에서 더 확장된 내용을 알려주셨는데, 그것을 메모해 두었다가 자세히 알아보고 기억해 둔 것이 실기고사 시험장에서 큰 도움이 되었습니다.",
+    "teacher_feedback": "선생님께 수업을 따로 들었습니다..",
+    "ideation_process": "문제를 받고, 제시문을 이해하기 위해 여러번 읽고 정리했습니다. 그리고 공부해서 알고 있던 지식들과 연관시켰습니다."
+  }
 }

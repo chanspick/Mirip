@@ -14,5 +14,14 @@
     "data/crawled/raw_images/938_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:39:46.536274+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=938"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=938",
+  "normalized_dept": "sculpture",
+  "interview_parsed": {
+    "exam_topic": "국민대학교의 출제문제는 슈퍼모델 선발대회에 나온 수려한 외모를 지닌 젊은 태국 혼혈 여성이었다. 모델로서 특징을 드러내기 위해 여성이지만 볼 살을 적게 하여 날렵한 이미지로 표현하였으며, 표정에서는 최대한 시크하고 세련된 느낌을 자아내도록 무표정에 가까운 표정에 시선처리는 고개를 돌린 쪽으로 바라보도록 하였다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "입시가 끝나갈수록 장점이 생긴 만큼 단점이 생겨 밑 빠진 독에 물 붓기 하고 있는 것은 아닐까 하는 고민이 생길 수도 있다. 단점이 생겼을 때 최대한 빨리 단점을 없애면서도 갖고 있는 장점을 잃지 않으려고 계속해서 감을 잡는 연습에 익숙해져야 한다. 또한 실기노트에 기록하는게 중요하다.",
+    "teacher_feedback": "선생님들께서 계획 해 놓으신 수업 방향을 토대로 성실히 따라가려고 노력했다.",
+    "ideation_process": "표현하였으며, 표정에서는 최대한 시크하고 세련된 느낌을 자아내도록 무표정에 가까운 표정에 시선처리는 고개를 돌린 쪽으로 바라보도록 하였다."
+  }
 }

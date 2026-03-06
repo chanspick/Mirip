@@ -13,5 +13,14 @@
     "data/crawled/raw_images/325_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:13:35.652268+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=325"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=325",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "채움과 비움, 풀이방법 : 일단 처음 문제를 보았을 때 학원에서 계속 연습했던 대비어가 주제로 나왔다는 것에 조금이나마 안도했다. 주제를 한 눈에 알아볼 수 있게 하되 그 안에서의 발상도 중요하다고 생각해서 반반으로 나뉘어진 구도 안에서 채움과 비움에 대한 발상을 넣어 그렸다.",
+    "practice_years": 1.5,
+    "competition_ratio": 5.65,
+    "student_strength": "계속 연습했었던 대비어가 주제로 나온것과 대비어와 주제가 잘 느껴지게도록 구도와 색상을 연출해서 그린 점이 합격의 주요인인 것 같다.",
+    "teacher_feedback": "선생님들의 지도아래 열심히 실기준비를 했고 강평노트를 만들어 집에가서 고쳐야할 점을 체크해 고쳐나가려 노력했다.",
+    "ideation_process": "발상도 중요하다고 생각해서 반반으로 나뉘어진 구도 안에서 채움과 비움에 대한 발상을 넣어 그렸다. 발상을 할 때에는 수업시간에 연습했던 마인드맵 방식을 활용해 빠른 시간안에 발상할 수 있었다."
+  }
 }

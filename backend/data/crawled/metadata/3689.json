@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3689_0.png"
   ],
   "crawled_at": "2026-01-27T15:45:36.967609+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3689"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3689",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "중앙대 시험에서는 마이크, 넥타이, 압정이 나왔습니다. 넥타이를 선으로 마이크와 압정을 면으로 설정해서 문제를 풀었습니다.",
+    "practice_years": 2.33,
+    "competition_ratio": 8.67,
+    "student_strength": "어려운 문제가 나와도 나만 어려운 것이 아니라, 다른 학생들도 어려워 할거란 생각을 가지도록 했습니다. 긴장을 풀며 그림에 임한 것이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님의 시범을 최대한 가까이에서 보려고 노력했습니다.",
+    "ideation_process": "넥타이를 선으로 마이크와 압정을 면으로 설정해서 문제를 풀었습니다. 중앙대 실기가 끝난 후 선생님께서 마이크 개체 시범을 보여주셨습니다."
+  }
 }

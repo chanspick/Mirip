@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1586_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:09:06.494242+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1586"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1586",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "참치캔, 종이노끈, 사각 건전지가 출제되었고, 내가 가진 구도 내에서 최대한 소재간의 연관성과 스토리가 필요하다고 생각해서 그것이 잘 보이도록 그렸다. 그리고 질감 디테일로 신경써서 그렸다.",
+    "practice_years": 5.0,
+    "competition_ratio": 6.41,
+    "student_strength": "덩어리감이 느껴지도록 깔끔하게 칠한 것이 눈에 잘 들어왔다는 생각이 들고 종이 노끈의 표현을 일반 노끈처럼 하지 않은 부분에서 점수를 얻은 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 그것이 잘 보이도록 그렸다. 그리고 질감 디테일로 신경써서 그렸다."
+  }
 }

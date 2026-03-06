@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1376_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:59:21.181483+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1376"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1376",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "두가지 문제 중 상대적으로 객관적이었던 문제는 그냥 문제를 보자마자 생각나는 그대로 그렸고.. 두번째 문제에서 어떻게 해야 내 장점을 부각시킬 수 있을지 고민하다가, 어중간하게 하기보다는 뭐라도 파격적인 것을 보여줘야겠다는 생각으로 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "평소에 쌓은 그림의 기본기? 라고 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": "두번째 문제에서 어떻게 해야 내 장점을 부각시킬 수 있을지 고민하다가, 어중간하게 하기보다는 뭐라도 파격적인 것을 보여줘야겠다는 생각으로 그렸습니다."
+  }
 }

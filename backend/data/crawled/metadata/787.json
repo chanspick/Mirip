@@ -13,5 +13,14 @@
     "data/crawled/raw_images/787_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:33:19.369469+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=787"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=787",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "사물은 투명한 버블빨대와 빨간색 빨대였고, 이미지로 도로표지판 9가지가 제시되었습니다. 도로표지판은 자유롭게 사용할 수 있는 문제였는데, 제가 다양하게 풀어본 구성 중에 평면 사물의 구성을 제일 자신있어 했어서 평면으로 풀어가는 것을 택했습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 10.21,
+    "student_strength": "문제를 준비하면서 어려웠던 것도 많았고 잘 안되는 것도 많았지만 선생님이 다양하게 지도해 주시면서 제가 가장 잘 할 수 있는 구성과 방향을 찾을 수 있게 도와주신 것이 가장 도움이 되었던 것 같습니다.",
+    "teacher_feedback": "선생님께서 지난해 동안 출제되었던 문제들의 유형과 학과별 특징을 분석해 주시고 문제풀이와 표현에 세부적인 부분들은 실시간으로 시범을 해 주셔서 큰 어려움 없이 연습할 수 있었습니다.",
+    "ideation_process": "도로표지판은 자유롭게 사용할 수 있는 문제였는데, 제가 다양하게 풀어본 구성 중에 평면 사물의 구성을 제일 자신있어 했어서 평면으로 풀어가는 것을 택했습니다. 선과 면, 컬러의 사용에 설명을 들었던 것을 생각하면서 여러 스케치를 잡아가고 진행했습니다."
+  }
 }

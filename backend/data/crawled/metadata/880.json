@@ -13,5 +13,14 @@
     "data/crawled/raw_images/880_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:37:17.352285+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=880"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=880",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "아령으로 생활스포츠를 표현하는 것이었고 생활스포츠 와 아령의 형태에 중점을 두어 다양한 이야기를 재미있게 그리고자 하였습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 27.0,
+    "student_strength": "아령으로 생각할수있는 1차원적인 이야기에서 조금 더 발전된 이야기를 풀어나간 것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 것이었고 생활스포츠 와 아령의 형태에 중점을 두어 다양한 이야기를 재미있게 그리고자 하였습니다."
+  }
 }

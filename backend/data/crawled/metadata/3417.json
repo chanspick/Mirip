@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3417_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:31:10.778949+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3417"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3417",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "백석예대는 자유주제였어서 제일 많이 연습하고 손에 익었던 구도와 색감을 사용했어요.",
+    "practice_years": 3.0,
+    "competition_ratio": 11.58,
+    "student_strength": "자신감이라고 생각해요. 난 여기에 분명 붙을 거라는 생각을 안고 계속 했던 거 같아요. 학원은 대학이라는 불확실성에 가장 가능성이 높은 투자를 하는거잖아요. 그래서 스킬적이 면에서는 걱정이 없지만 멘탈은 스스로 관리해야해요. 근자감이라고하죠 근거없는 자신감, 또는 배짱. 선생님의 말씀을 인용하자면 “난 내 개성대로 그릴테니까 너희가 잘 선택해.",
+    "teacher_feedback": "선생님께서 내주시는 숙제들을 꾸준히 전부 하다보니 자연스럽게 실기력이 올라간 것 같아요..",
+    "ideation_process": null
+  }
 }

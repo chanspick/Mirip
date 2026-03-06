@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1758_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:17:09.720595+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1758"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1758",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "압정,가재가 나왔습니다.제시어가 부드러움이였기에 가재가 자연스럽게 누워있도록 표현했고 주제부에 재미를 주기 위해 물 표현과 압정을 가재가 잡고 있는 듯한 모습을 그렸습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 5.02,
+    "student_strength": "여러 제시물로 각각의 특성을 이용해서 주제부를 돋보이게 하는 화도를 연습했고 채색에 있어서는 깔끔하고 선명하게 보이도록 노력했습니다. 이걸 바탕으로 시험장에서 시간인에 부족함 없이 성실하게 그리고 나왔기에 좋은 결과가 나온 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

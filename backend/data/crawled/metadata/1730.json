@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1730_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:15:51.845969+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1730"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1730",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "주제는 '우리나라 축구 국가대표팀이 일본팀과 경기중이다. 5분이 남았는데, 동점인 상황에 처한 관객과 선수들의 반응을 표현하시오.",
+    "practice_years": 3.0,
+    "competition_ratio": 9.45,
+    "student_strength": "역동적인 구도와 표정",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. ' 였다."
+  }
 }

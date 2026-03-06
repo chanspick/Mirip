@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1065_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:45:27.483095+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1065"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1065",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "여자 인물은 선묘드로잉 하고, 남자 인물은 명암만으로 채색하시오.",
+    "practice_years": 4.0,
+    "competition_ratio": 4.41,
+    "student_strength": "형태, 양감, 묘사 같은 기본적인 요소를 잘 지켰기 때문이라고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

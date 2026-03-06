@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2726_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:59:34.250355+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2726"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2726",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 3.0,
+    "competition_ratio": 23.07,
+    "student_strength": "입시가 끝날 때까지 처음 다짐했던 마음가짐으로 끝까지 달려왔습니다 고3이 되고 월화수목금토일 하루도 쉰 날이 없습니다 간절함과 의지만 있다면 실기력은 욱재쌤께서 충분히 만들어줄 수 있다고 생각합니다 그리고 저희 학원만에 독창성과 욱제쌤께서 잡고 끌어왔기 때문에 합격할 수 있었던 거 같습니다",
+    "teacher_feedback": "선생님께서 동기부여가 되는 말들을 해주시는데 그럴 때마다 더 끓고 더 열정적으로 할 수 있었습니다 가장 기억 남는 멘트가 미대 입시에서 재능이란 실기장에서 지금까지 준비해왔던 것을 써먹을 수.",
+    "ideation_process": null
+  }
 }

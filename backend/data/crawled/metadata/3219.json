@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3219_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:21:46.318677+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3219"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3219",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "양배추, 그물망, 네임펜 학원에서 양배추를 그려봐서 그때 지적받았던것들을 생각하며 스케치를 뜨고 그물망에 있는 그물을 선재로 사용하여 주제부에 네임펜과 함께 포인트로 강조했습니다. 색상이 자유라서 그물망의 실을 주제부와 뜯어나기 쉽게 검정실로 설정하였고, 양배추의 초록색 부분과 흰색 부분에 대한 명도차이를 잘 나타내려고 노력했습니다.",
+    "practice_years": null,
+    "competition_ratio": 6.71,
+    "student_strength": "완성도와 최대한 깔끔하기 그리려고 노력한 것이 주요인이러고 생각합니다.",
+    "teacher_feedback": "선생님들이 강평때 해주신 말들을 듣고 단점을 최대한 고치려고 했고 다른 친구들이나 재수생분들의 그림들을 보면서 장점들을 내것으로 만들려고 노력했다..",
+    "ideation_process": "색상이 자유라서 그물망의 실을 주제부와 뜯어나기 쉽게 검정실로 설정하였고, 양배추의 초록색 부분과 흰색 부분에 대한 명도차이를 잘 나타내려고 노력했습니다."
+  }
 }

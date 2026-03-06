@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1599_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:09:43.989861+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1599"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1599",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "문제 조건에 다리미의 특성을 고려하여라는 말이 계속 눈에 들어왔던 것 같습니다 동사형에 대한 수업을 지속적으로 받아와서 “뜨거운 다리미가 선을 눌러 녹아내린다”라는 동사형을 잡고, 축이나 허공간등의 기본적인 부분에서 틀리지 않으려고 체크리스트를 확인하고 또 확인했던 것 같습니다",
+    "practice_years": 5.0,
+    "competition_ratio": 9.93,
+    "student_strength": "기본에 엇나가지 않고, 다른 그림에 비해 의도가 보였을거라 생각이 듭니다",
+    "teacher_feedback": null,
+    "ideation_process": "동사형에 대한 수업을 지속적으로 받아와서 “뜨거운 다리미가 선을 눌러 녹아내린다”라는 동사형을 잡고, 축이나 허공간등의 기본적인 부분에서 틀리지 않으려고 체크리스트를 확인하고 또 확인했던 것 같습니다 또한 진행하는 동안에도 수시로 내려 놓고 제 그림을 보시는 교수님이 내 의도를 봐주실까? 라는 생각을 하며 임했던 것 같습니다"
+  }
 }

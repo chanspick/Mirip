@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3702_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:46:16.834063+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3702"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3702",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "블루투스 마이크와 솔방울이 나왔습니다. 화면구성은 심플하게 크기 대비만 주어 주제부 마이크를 크게 넣고 포인트로 마이크가 솔방울을 부수는 연출을 하고 솔방울 조각들이 튀어나가는 모습들을 그려 긴장감과 밀도감을 높였습니다.",
+    "practice_years": 2.58,
+    "competition_ratio": 11.55,
+    "student_strength": "짧은 시간안에 완성도를 최대한 높이기위해 집중한거와 자별화된 칼라 선택이 아니였나 싶습니다.",
+    "teacher_feedback": "선생님의 피드백을 통해 제 그림의 단점들을 고쳐가려고 노력했고, 합격작이나 다양한 자료들을 많이 접했습니다.",
+    "ideation_process": "화면구성은 심플하게 크기 대비만 주어 주제부 마이크를 크게 넣고 포인트로 마이크가 솔방울을 부수는 연출을 하고 솔방울 조각들이 튀어나가는 모습들을 그려 긴장감과 밀도감을 높였습니다. 특히 마이크 칼라에서 고민을 많이 했는데 원래 제시된 마이크 칼라를 사용해 그릴지 아님 차별성을 두고 그릴지 고민하다가 블루칼라로 칼라 대비를 이용해 그렸습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/833_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:35:17.367491+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=833"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=833",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "이번에 백석대에서는 “적양파와 삼각자”가 출제되었습니다. 주어진 문제인 적양파와 삼각자를 마인드맵 하여 양파를 다양하게 연출해야겠다는 생각과 삼각자의 형태가 잘 드러날 수 있도록 해야겠다는 생각을 했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 18.53,
+    "student_strength": "수시 반이다 보니 재수, 삼수생 언니들이 많았습니다. 처음에는 언니들이 잘 하고, 내 그림이 밀리는 것에 대해 당연하다고 생각했었는데 그림도 잘 늘지 않고 보는 눈만 높아져서 힘들었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "주어진 문제인 적양파와 삼각자를 마인드맵 하여 양파를 다양하게 연출해야겠다는 생각과 삼각자의 형태가 잘 드러날 수 있도록 해야겠다는 생각을 했습니다. 그리고 제가 연출하고 싶은 느낌이 교수님께 잘 전달되어 합격할 수 있도록 평소에 연습했던 구도 중에 가장 적합한 화면을 활용하여 문제를 풀어나갔습니다."
+  }
 }

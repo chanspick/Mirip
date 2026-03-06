@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3449_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:32:42.986421+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3449"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3449",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "제시 사물로 박스 테이프와 택배 박스가 나왔는데 이전에 학원에서 풀었던 문제들과 매우 유사해 과거에 풀었던 문제들을 떠올리며 신중히 풀이해나갔습니다. 시험 전 날 원장 선생님께서 사물의 유일무이한 특징을 떠올리라고 강조하셔서 박스 테이프의 투명함과 원의 형태를 강조 + 택배 박스의 단면 무늬를 시각화하여 디자인에 적용시켰습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 16.87,
+    "student_strength": "금속공예과 특성에 맞게 제시 사물의 물성과 질감을 잘 활용해서 호감 가는 톤과 양감으로 깔끔하게 시계를 디자인했기 때문에 합격할 수 있었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "시험 전 날 원장 선생님께서 사물의 유일무이한 특징을 떠올리라고 강조하셔서 박스 테이프의 투명함과 원의 형태를 강조 + 택배 박스의 단면 무늬를 시각화하여 디자인에 적용시켰습니다."
+  }
 }

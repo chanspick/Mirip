@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3465_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:33:28.543481+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3465"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3465",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "드릴과 향수병과 망원경 이었으며 드릴을 주제부 로 공간감이 느껴지게 그렸습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 23.0,
+    "student_strength": "매일 학원에서 올린 실기력과 대학교에 관한 목적 의식이 뚜렷한 것이 주요인 이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/930_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:39:26.251686+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=930"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=930",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "나비,돌,물을 통해 바람의 이미지를 표현하여 공간감을 나타내라고 하였다. 물을 이용해 바람이 불 때 날리는 모습을 표현해주었고 돌에 잔상을 넣어 흔들림 또한 표현하였다.",
+    "practice_years": 3.0,
+    "competition_ratio": 15.15,
+    "student_strength": "완성도와 다른 물체들을 얼마나 많이 그려보았는지가 주된 요인이라 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하여 공간감을 나타내라고 하였다. 물을 이용해 바람이 불 때 날리는 모습을 표현해주었고 돌에 잔상을 넣어 흔들림 또한 표현하였다."
+  }
 }

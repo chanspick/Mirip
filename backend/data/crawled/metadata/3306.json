@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3306_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:25:47.176067+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3306"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3306",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "주제에 담긴 의미를 해석하여 스토리를 구성하고 학원에서 그렸던 수업작들을 응용하여 그려나갔습니다",
+    "practice_years": 1.0,
+    "competition_ratio": 14.08,
+    "student_strength": "매일 내 그림의 부족한 부분을 분석하고 선생님의 피드백을 참고하며 부족한 부분을 채워나간 것이 많은 도움이 되었습니다",
+    "teacher_feedback": "선생님께서 피드백 해주신 것들을 토대로 부족한 부분을 연습했습니다.",
+    "ideation_process": null
+  }
 }

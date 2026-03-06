@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2957_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:10:00.373840+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2957"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2957",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "소재는 자물쇠와 나비넥타이, 운동화끈이였습니다. 자물쇠와 나비넥타이로는 보여줄수 있는게 한정적이라고 생각하여 운동화 끈으로 전체적인 공간감이 조화로워 보이는것을 가장 중요시하며 구성하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.91,
+    "student_strength": "운동화 끈이라는 선재를 다양하게 활용한 점이 큰 도움이 되었다고 생각합니다. 그 중에서도 원경에서부터 오는 운동화끈이 진출감 있는 그림을 완성 시키는데에 큰 역할을하여 눈에 띄었다고 생각합니다.",
+    "teacher_feedback": "선생님들께서 말씀해주시는 피드백도 잊지 않고 바로 바로 고칠수 있도록 항상 상기시키며 내 그림의 장점을 더욱 적극적으로 보여주고자 노력 하였습니다..",
+    "ideation_process": "자물쇠와 나비넥타이로는 보여줄수 있는게 한정적이라고 생각하여 운동화 끈으로 전체적인 공간감이 조화로워 보이는것을 가장 중요시하며 구성하였습니다."
+  }
 }

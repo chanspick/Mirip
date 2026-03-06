@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3353_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:28:03.205068+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3353"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3353",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 문제는 전구와 아보카도였고, 이 시험 전날에 스케치를 많이 떴었는데 그때 아보카도와 전구를 떠봐서 문제 풀이는 어렵지 않게 했습니다",
+    "practice_years": 1.33,
+    "competition_ratio": 13.28,
+    "student_strength": "일단 가장 합격에 기여를 가장 많이 했다고 느껴지는 것은 구도라고 생각합니다 아보카도와 전구를 하나씩만 써서는 안 될 것 같다고 느꼈기 때문에 화지에 최대한 풍부하게 개체를 넣어서 보는 사람이 차음 느꼈을 때 비어 보이지 않아 보이는 것이 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

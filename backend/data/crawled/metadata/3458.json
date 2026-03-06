@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3458_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:33:08.428780+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3458"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3458",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "신용카드, 고무줄, 실뭉치가 나왔고 학원에서 실뭉치를 그렸던 그림의 구도를 활용하여 그렸다.",
+    "practice_years": 3.0,
+    "competition_ratio": 38.39,
+    "student_strength": "포기하지않는게 중요하다고 생각한다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

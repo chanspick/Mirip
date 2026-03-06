@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1350_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:58:08.196915+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1350"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1350",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "주제어를 보고 연상해서 관련된 단어들을 최대한 적어 내려갔습니다. 제시어가 명확히 보이도록 주제부 구상을 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 9.35,
+    "student_strength": "학원에서 했던 많은 문제풀이로 인해 도움을 받았습니다. 리소쌤이 만들어주신 문제풀이 자료가 실제 시험장 문제와 매우 유사해서 합격할 수 있었던 것 같습니다. ♥리소쌤 사랑해욥♥ ♥밍도쌤♥",
+    "teacher_feedback": "선생님께 많은 질문과 평가를 통해 극복해 나갔습니다.",
+    "ideation_process": "구상을 했습니다. 주변 친구들이 그림을 바로 들어갔지만 서두르지않고 제 페이스대로 진행했습니다."
+  }
 }

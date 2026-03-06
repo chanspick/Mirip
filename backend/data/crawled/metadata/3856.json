@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3856_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:54:42.164322+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3856"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3856",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "실기시험 당일 제시된 주제는 계산기와 주사기였습니다. 저는 계산기를 주제부로 구성하는 것이 더 자신 있었기 때문에 계산기를 중심으로 배치하고, 주사기가 계산기 버튼을 눌러 숫자가 입력되는 내용으로 풀이하였습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 12.33,
+    "student_strength": "합격의 주요 요인은 평소 학원에서 다양한 개체 조합 연습을 꾸준히 한 것과, 선생님들의 피드백을 적극적으로 받아들이며 제 그림의 장단점을 스스로 확인하고 고치는 연습을 했던 것이 큰 도움이 된 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "저는 계산기를 주제부로 구성하는 것이 더 자신 있었기 때문에 계산기를 중심으로 배치하고, 주사기가 계산기 버튼을 눌러 숫자가 입력되는 내용으로 풀이하였습니다. 또한 선생님께서 강조하신 색 조합을 계속 염두에 두며 진행했습니다."
+  }
 }

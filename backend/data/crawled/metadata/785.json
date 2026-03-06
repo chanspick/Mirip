@@ -13,5 +13,14 @@
     "data/crawled/raw_images/785_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:33:14.293486+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=785"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=785",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "누워있는 사람이 2명이 나와서 많이 당황했습니다. 남들도 다",
+    "practice_years": 3.0,
+    "competition_ratio": 21.71,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "표현하고자 하는 그림을 만들고자 했습니다."
+  }
 }

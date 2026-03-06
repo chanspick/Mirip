@@ -13,5 +13,14 @@
     "data/crawled/raw_images/314_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:13:07.841070+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=314"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=314",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "인쇄물로 제공된 '청포도, 가위, 줄자'의 조형적 특성을 활용하여 자유롭게 구성 및 디자인해야 하는 문제가 나왔으며, 겨울방학 정시특강 때 예상문제들을 통해 연습을 해봤어서 당황하지 않았습니다. 구도를 짜는데 선생님들께서 많이 도와주셨던 덕분에 시험장에서 어렵지 않게 주제를 풀어나갈 수 있었고 무엇보다",
+    "practice_years": 3.0,
+    "competition_ratio": 7.28,
+    "student_strength": "사실 수시에 빨리 학교를 가고 싶긴 했지만 워낙 경쟁률이 높아서 기대를 많이 한 건 아니었습니다. 그래도 막상 결과가 좋지 않으니 멘탈붕괴가 오긴 하더라고요 수시 실패, 그리고 예상보다 더 떨어진 정시 성적으로 인해 좌절하는 시간도 분명히 있긴 했지만 그래도 끝까지 포기하지 않고 도전할 수 있었던 것은 아이엠 선생님들 있었기 때문이었습니다.",
+    "teacher_feedback": "선생님과 상담을 하며 제가 보완해야 될 점들에 대해 이야기하며 고쳐나가려고 노력했고, 평소 부족한 부분은 항상 수업이 끝나도 학원에 남아서 마무리를 하고 가려고 노력했습니다.",
+    "ideation_process": "풀어나갈 수 있었고 무엇보다 선생님의 노하우를 전수받은 게 실전에서 좋은 영향을 미쳤다고 생각합니다."
+  }
 }

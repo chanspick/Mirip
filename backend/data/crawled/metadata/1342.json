@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1342_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:57:43.714381+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1342"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1342",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "시험문제로는 귤과딸기가 나왔고, 귤껍질을 이용해서 공간을만들고 그 공간 안에서 구성을 했습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 6.6,
+    "student_strength": "수능준비와 실기준비를 함께 병행해 나가면서 꾸준히 해서 가능했던것 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

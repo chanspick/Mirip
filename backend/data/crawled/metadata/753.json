@@ -13,5 +13,14 @@
     "data/crawled/raw_images/753_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:31:43.977713+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=753"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=753",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "축구화가 나왔는데 축구화 하나 가지고 어떻게 삼육대스럽게 구성을 하지 생각을 하다가 축구화의 특성을 살려서 운동장 위에서 공을 차는 축구화라는 느낌으로 그렸습니다.",
+    "practice_years": 1.08,
+    "competition_ratio": 22.64,
+    "student_strength": "선생님의 제시어 풀이나 설명에서 많이 깨달았으며, 이런 다양한 수업이 구성을 하는데 있어서 사고를 유연하게 만들어 준 것 같아 정말 감사드립니다.",
+    "teacher_feedback": "선생님께서 알려주신 부분과 문제점을 개선할 수 있도록 노력하였습니다.",
+    "ideation_process": null
+  }
 }

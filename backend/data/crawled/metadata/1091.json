@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1091_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:46:38.175959+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1091"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1091",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "원래는 인체 드로잉, 정물 드로잉을 보는 학교이지만 입시는 예상외의 것이 나올수도 있다고 생각해 인체 소묘까지 준비해갔다. 예상대로 시험장에서 인체를 소묘하라는 문제가 나왔고 완성도 높게 잘 소묘해 나갔습니다.",
+    "practice_years": 0.83,
+    "competition_ratio": 9.47,
+    "student_strength": "정시지원을 할때 자신있는 실기유형을 선택한것입니다 그리고 시간이 날때마다 좋은작품들을 찾아보고, 전시회를 자주 보려고 노력한것이 합격에 좋은 영향을 끼쳤습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "예상대로 시험장에서 인체를 소묘하라는 문제가 나왔고 완성도 높게 잘 소묘해 나갔습니다."
+  }
 }

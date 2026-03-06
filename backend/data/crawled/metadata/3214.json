@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3214_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:21:33.444826+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3214"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3214",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 쌍안경, 물감, 회중시계, 레고블럭이었고 수원대가 좋아하는 스타일로 쌍안경을 주제부로 넣었습니다. 웜톤이 잘 보일 것 같아서 주제부 주변은 웜톤으로 하고 화려한 효과를 주기 위해서 쌍안경 렌즈 한쪽에 빛을 비추었습니다.",
+    "practice_years": null,
+    "competition_ratio": 15.4,
+    "student_strength": "주제부를 쌍안경으로 한 것이 주요인이라고 생각됩니다.",
+    "teacher_feedback": "선생님이 피드백 해주시는 부분 잘 기억하고 다음날 고치려고 노력했고 일요일도 거의 매일나가서 제가 부족한 부분을 고치려고 했습니다.",
+    "ideation_process": "웜톤이 잘 보일 것 같아서 주제부 주변은 웜톤으로 하고 화려한 효과를 주기 위해서 쌍안경 렌즈 한쪽에 빛을 비추었습니다. 물감으로 물튀기는 연출도 해주었습니다."
+  }
 }

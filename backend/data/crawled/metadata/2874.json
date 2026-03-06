@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2874_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:06:15.123595+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2874"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2874",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "곰 형과 쇠사슬, 크래커가 나왔는데 학원 선생님께서 생물은 나오면 어려워할 수 있다며 연습을 많이 해본 게 곰 인형을 그리는 데 도움이 된 것 같았습니다.",
+    "practice_years": 1.83,
+    "competition_ratio": 39.6,
+    "student_strength": "선생님들이 과외 급으로 한명한명씩 잘 봐주신 것이 정말 큰 도움이 됐습니다. 학원을 다니며 드로잉 실력이 많이 늘었는데 선생님들께서 적당한 과제를 내주시고 열심히 해서 많이 늘었던 것 갔습니다. 선생님들이 커리큘럼을 잘 짜주셨기 때문에 믿고 따라가 좋은 결과를 얻은 것 같습니다.",
+    "teacher_feedback": "선생님들과 크리틱을 하면서 부족한 부분을 찾고 고쳐나갔습니다..",
+    "ideation_process": null
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3675_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:44:38.877236+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3675"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3675",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "머리를 푼 여성분이라 두상 무게중심이 너무 뒤로 가지 않게 조심했습니다. 그리고 측면 관계의 특징이 강한 모델이라 측면 선을 무조건 맞추려고 노력했고 얼굴의 양과 이미지를 뽑아내면서 밀도를 최대한 많이 올렸습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.6,
+    "student_strength": "현역 때는 너무 긴장해서 실기장에서 기량만큼 나오지 않았습니다. 그래서 재수 때는 시험장에서 긴장하지만 말자고 다짐했던 거 같습니다.",
+    "teacher_feedback": "선생님들의 피드백을 반영하여 문제점을 고치려고 노력했고 저는 경직되고 긴장하면 두상이 딱딱하게 나와서 즐기고 편하게 실기하려고 노력했습니다..",
+    "ideation_process": "그리고 측면 관계의 특징이 강한 모델이라 측면 선을 무조건 맞추려고 노력했고 얼굴의 양과 이미지를 뽑아내면서 밀도를 최대한 많이 올렸습니다."
+  }
 }

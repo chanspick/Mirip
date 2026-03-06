@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2764_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:01:18.759964+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2764"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2764",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "주제가 아이스크림인 것을 보자마자 흘러내리는 연출을 할지, 형태가 고정되어있는 아이스크림을 그릴지 고민을 하였습니다. 흘러내리는 연출을 하는게 사물다움을 드러내기에 좋았을 것 같지만 액체를 워낙 못했기 때문에 동사형에 힘을 주자 라는 생각으로 문제를 풀었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 10.45,
+    "student_strength": "확실한 연출, 그리고 그 연출을 도와주는 여러 작은 요소들이 있어서 보여주고자 하는 것을 잘 보여주었고, 아이스크림 하나를 주제부로 매우 크게 배치한 그림이 주변에 없었어서 그 부분도 눈에 띄게 된 이유 중 하나일 것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "흘러내리는 연출을 하는게 사물다움을 드러내기에 좋았을 것 같지만 액체를 워낙 못했기 때문에 동사형에 힘을 주자 라는 생각으로 문제를 풀었습니다. 털장갑을 털 느낌이 나도록 실밥을 많이 그렸고 푹신한 느낌을 주었습니다."
+  }
 }

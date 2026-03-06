@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2329_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:41:57.460514+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2329"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2329",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "양이 좀 있는 남자가 나왔습니다!",
+    "practice_years": 1.0,
+    "competition_ratio": 8.88,
+    "student_strength": "저는 학원이라고 생각합니다 아무리 재능이있어도 학원을 잘못가서 조소에 대해 흥미를 잃거나 실기를 제대로 배우지 못했다면 대학에 합격할 수 없다고 생각합니다! 저는 저희 학원과 잘 맞고 학원이 좋아서 더 성실히 다닌 것 같습니다!",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

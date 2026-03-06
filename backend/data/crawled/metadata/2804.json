@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2804_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:03:06.461023+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2804"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2804",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "드론, 드론조종기, 와인오프너, 노란색 파우치, 애플워치, 볼펜이 주제로 나왔습니다. 평소 하던것보다",
+    "practice_years": 3.0,
+    "competition_ratio": 11.0,
+    "student_strength": "표현이나 묘사에 치중하지 않고 오직 조형적으로 다가간게 컸던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "평소 하던것보다 제시한 사물이 많아서 처음엔 당황했지만 차근차근 조형적으로 구성하다"
+  }
 }

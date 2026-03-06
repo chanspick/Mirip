@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3492_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:34:47.113708+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3492"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3492",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "머그컵과, 그릇, 쇠 숟가락과 젓가락이 나왔습니다. 머그컵을 양재로 설정하고 나머지 사물들의 조형을 하나하나 설정한 후 그려나갔습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 45.52,
+    "student_strength": "합격을 전혀 예상하지 못했지만 저의 부족한 부분이나 제가 받은 피드백을 계속 계속 생각하며 고쳐나갔기 때문에 합격할 수 있지 않았나 생각합니다.",
+    "teacher_feedback": "선생님께서 해주신 피드백을 다 적어두고 계속 확인하면서 제 부족한 부분을 고쳐나갔습니다..",
+    "ideation_process": "머그컵을 양재로 설정하고 나머지 사물들의 조형을 하나하나 설정한 후 그려나갔습니다. 적극성을 강조하는 게 목표였기 때문에 포크의 기능을 살려서 메인 연출을 잡았습니다."
+  }
 }

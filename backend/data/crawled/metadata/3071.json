@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3071_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:15:08.864670+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3071"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3071",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "대본의 일부가 지문으로 나왔었습니다. 대본의 내용은 노인 두 명이 정원에 앉아서 대화하는 상황이였습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 4.0,
+    "student_strength": "믿는 것 입니다. 믿는다는것은 자신이 실기고사를위해 배워온 것들을 믿고, 그 시간동안 스스로가 쏟은 노력을 믿고, 또 시험장에 가서는 본인의 판단을 믿는 것입니다. 그 믿음이 저에게는 많은 도움이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "대본의 내용은 노인 두 명이 정원에 앉아서 대화하는 상황이였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3421_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:31:21.869294+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3421"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3421",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "제시물은 털실, 쪽가위 , 청소용 솔 이였고, 제시어는 시간과 반복이었다. 제시물의 물성을 활용하고 유기적인 그림을 그리려 하였고, 실타래가 헌것에서 새것처럼 바뀌어가는 시간의 흐름을 나타내려고 했다.",
+    "practice_years": 1.75,
+    "competition_ratio": 22.46,
+    "student_strength": "색채 대비, 명도 대비를 활용한 정리감과 높은 밀도라고 생각한다.",
+    "teacher_feedback": "피드백 받았던 점들을 고쳐나가고 묘사나 연출이 우선이 되면 기본으로 다시 돌아가 기초를 탄탄히 다졌다..",
+    "ideation_process": "제시물의 물성을 활용하고 유기적인 그림을 그리려 하였고, 실타래가 헌것에서 새것처럼 바뀌어가는 시간의 흐름을 나타내려고 했다."
+  }
 }

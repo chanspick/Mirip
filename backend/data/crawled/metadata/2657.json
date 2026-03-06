@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2657_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:56:26.182326+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2657"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2657",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "털실, 가위, 다양한 손동작(이미지 없이 글씨로 나옴) 이 나왔습니다. 다양한 손동작이라고 써져있어서 다양하게 손동작을 보여주려고 했고 가위, 손 등 형태가 중요한 물체들은 잘 그릴 수 있는 방향과 포즈로 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 14.26,
+    "student_strength": "끝까지 포기하지 않고 최선을 다해 그린 것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "다양한 손동작이라고 써져있어서 다양하게 손동작을 보여주려고 했고 가위, 손 등 형태가 중요한 물체들은 잘 그릴 수 있는 방향과 포즈로 그렸습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1823_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:19:57.100141+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1823"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1823",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "휴가철 해변가의 모습을 표현하는 것이 주제였으며, 학원에서 자신있게 준비한 주제였기에 침착하게 평소 했던대로 진행했습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 17.17,
+    "student_strength": "자신 있는 주제가 나오기도 했고, 평소 선생님들의 말씀과 조언들이 힘이 되어준 것 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 것이 주제였으며, 학원에서 자신있게 준비한 주제였기에 침착하게 평소 했던대로 진행했습니다"
+  }
 }

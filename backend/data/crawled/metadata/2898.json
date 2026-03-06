@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2898_0.png"
   ],
   "crawled_at": "2026-01-27T15:07:20.557719+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2898"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2898",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "하트안경과 휴지걸이가 나왔으며 안경이 잘보이게 배치하고 그안에 휴지걸이를 배치해서 색안경이긴 하지만 투명하다는걸 보여주고 배경에는 안경의 정면모습을 배치하고 그림자를 떨어트려서 하트안경의 모습을 그림자로 설명해주었습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 36.78,
+    "student_strength": "많은 그림들을 보고 가고 싶은 대학의 합격작을 분석하는 게 중요하다고 생각합니다 어떤 제시물이 나올지 모르니 다양한 제시물을 접해보면서 눈에 익히고 합격작들을 보면서 합격한 그림들의 공통점을 찾아서 모의연합시험 때 적용해 보면서 연습했던 게 가장 많이 도움이 됐던 거 같습니다",
+    "teacher_feedback": "선생님이 주신 여러가지 팁들을 이용해서 빨리 적응하려고 했던 거 같습니다.",
+    "ideation_process": null
+  }
 }

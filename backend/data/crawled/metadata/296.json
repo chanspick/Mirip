@@ -13,5 +13,14 @@
     "data/crawled/raw_images/296_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:22.589642+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=296"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=296",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "'산악 로프, 꽃, 물이 담긴 유리컵'의 특성을 활용하여 구성 및 디자인해야 하는 문제가 나왔으며, 학원 예상문제를 통해 연습해 본 적이 있는 소재였기에 당황하지 않고 침착하게 그려나갔습니다. 그리고 선생님께서 가르쳐 주셨던 내용을 되새기면서 풀어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 27.29,
+    "student_strength": "학원에서 매일 시험을 보며 실전을 연습했고 시험을 본 후에도 남아서 선생님께 질문하며 해답을 찾아갔습니다. 저는 선생님이 피드백해주시는 것을 기억하고 고쳐나가는 것을 제일 중요하게 여겼거든요. 아무래도 이것이 합격할 수 있었던 주요인이라고 생각합니다. 그리고 특히 홍대아이엠 선생님의 예상문제는 정말 도움이 많이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그리고 선생님께서 가르쳐 주셨던 내용을 되새기면서 풀어나갔습니다."
+  }
 }

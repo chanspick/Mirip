@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3848_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:54:11.498701+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3848"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3848",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "주제는 '왜곡된 중심의 힘' 이었고 주제를 받자마자 뒷면에 주제를 어떻게 풀어나갈 건지 계속 생각하고 스케치하며 5분 동안 주제에 정말 맞는 조형을 만들겠다고 생각했습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 7.28,
+    "student_strength": "간절함과 노력이라고 생각합니다.",
+    "teacher_feedback": "선생님에게 최대한 저의 단점을 물어보고 보완했던 거 같습니다..",
+    "ideation_process": "생각했습니다."
+  }
 }

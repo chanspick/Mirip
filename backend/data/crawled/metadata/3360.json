@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3360_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:28:24.265947+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3360"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3360",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "주제: 해적들의 배에 고대의 유령 군단이 쳐들어와 한바탕 소동이 벌어졌다. 이 상황을 표현하세요.",
+    "practice_years": 2.0,
+    "competition_ratio": 15.22,
+    "student_strength": "선생님의 피드백을 기록한 노트를 활용해, 제가 자주 실수하는 부분이나 주의해야 할 점을 요약하여 노트 뒷면 표지에 정리했습니다. 또한, 실기 시험을 보기 전에 추가로 선생님께 피드백을 받아 이를 노트에 적어, 시험 직전까지 볼 수 있는 저만의 요약 노트를 만들었습니다.",
+    "teacher_feedback": "선생님의 피드백을 적은 공책을 따로 만들어서 매일 보면서 고쳐야할 부분을 고쳤고, 선생님의 시범이나 개인적으로 자주 사용하는 물체나 레이어를 묘사해 놓은 노트를 만들어서 시험에 그려 놓은.",
+    "ideation_process": "표현하세요. 주제를 받고 약 2분 정도 콘티를 그리며 생각을 정리했습니다."
+  }
 }

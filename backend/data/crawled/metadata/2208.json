@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2208_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:36:40.533534+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2208"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2208",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "주제는 ‘바닷속 여행 혹은 우주여행 중 하나를 택하여 이야기를 만드시오’ 였고 마침 며칠 전 학원에서 예상주제로 해본 것과 거의 비슷해서 고민없이 빠르게 완성했습니다.",
+    "practice_years": null,
+    "competition_ratio": 5.5,
+    "student_strength": "무엇보다 학원선택이 제일 중요하고 좋은 선생님을 만난 것도 주요인이구요. 만화학원에서 선생님들이 예상 주제들을 뽑아서 많은 연습을 시켜주신게 크게 도움이됐던 것 같습니다",
+    "teacher_feedback": "피드백, 연출, 구성, 인체, 이미지보드, 전국 연합시험 참여 등등 열시미히하고 커리큘럼 외에도 드로잉 연습을 게을리 하지 않으려 노력했습니다..",
+    "ideation_process": null
+  }
 }

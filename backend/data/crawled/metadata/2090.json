@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2090_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:31:34.805724+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2090"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2090",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "단면의 모양이 원(circle)인 입체도형 3종류를 제시물과 함께 활용하여 율동감을 주제로 화면에 연출하고 표현하시오. 기본적으로 출제된 문제의 구체적인 조건과 요소를 놓치지 않고 화면에 넣는 것이 가장 중요하다고 생각했습니다.",
+    "practice_years": 2.08,
+    "competition_ratio": 9.42,
+    "student_strength": "아무리 그림이 마음에 들지 않게 나와도 다시 그릴 수 없는 상황이라면, 포기하지 않고 더 나은 그림이 될 수 있도록 수습하는 끈기가 중요했던 것 같습니다.",
+    "teacher_feedback": "선생님께서 주시는 피드백을 바로 수용하고자 했습니다.",
+    "ideation_process": "생각했습니다. 건국대 준비를 하며 전임선생님께서 만드신 예상문제풀이와 이론수업하셨던 내용을 바탕으로 아이디어를 전개했습니다."
+  }
 }

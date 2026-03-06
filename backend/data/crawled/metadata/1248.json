@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1248_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:53:29.106156+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1248"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1248",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "돌도끼를 사용하여 도구의 양면성을 표현하는것이었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 11.93,
+    "student_strength": "특이한 구성과 아이디어였던 것 같습니다. 실기에서 당연히 실기 능력도 중요하지만 특이한 구성이 먼저 시선을 끌게되고, 그 후로 제 아이디어가 읽히게 되는것이니까요.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

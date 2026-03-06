@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1196_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:51:12.034556+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1196"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1196",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "분위기가 어수선하고 긴장되었지만, 조급해하지않고 차분하게 그림을 그렸다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": null,
+    "teacher_feedback": "선생님들께서 다양한 방향을 제시해 주셔서 큰 도움이 되었다.",
+    "ideation_process": null
+  }
 }

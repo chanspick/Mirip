@@ -13,5 +13,14 @@
     "data/crawled/raw_images/233_0.png"
   ],
   "crawled_at": "2026-01-27T13:09:41.475227+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=233"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=233",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "머리묶고, 흰색 목폴라에 청바지를 입은 여성. 비닐 우산을 들고있고, 상반신만 그릴 것.",
+    "practice_years": 4.0,
+    "competition_ratio": 5.38,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "비닐 우산을 들고있고, 상반신만 그릴 것. 상반신만 그리는 조건이 있었지만 전신과 크게 다르지 않다고 생각했다."
+  }
 }

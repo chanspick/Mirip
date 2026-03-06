@@ -14,5 +14,14 @@
     "data/crawled/raw_images/771_1.jpeg"
   ],
   "crawled_at": "2026-01-27T13:32:30.518848+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=771"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=771",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "이번 경희대 실기 시험문제는 ‘치아가 보이도록 웃고 있는 20대 여자' 였습니다. 평소에 학원에서 주제를 병행 하였기 때문에 당황하지 않고 진행 할 수 있었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 21.33,
+    "student_strength": "학원 강사 선생님들께서 저에 부족한 부분과 잘하는 부분을 잘 알고 지원한 대학에 맞춰 짜주신 시간표대로 진행한 것과 선생님의 완성도 높은 시범과 피드백주신 중요한 말을 메모하며 그것을 목표로 연습하고 연습했던게 좋은결과를 가져온거 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "평소에 학원에서 주제를 병행 하였기 때문에 당황하지 않고 진행 할 수 있었습니다. 초반 과정에서는 표정이 있다는 것에 중점을 두지 않고 전체적인 양을 보며 맞추려고 했습니다."
+  }
 }

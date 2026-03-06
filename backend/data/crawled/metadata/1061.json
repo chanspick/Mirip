@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1061_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:45:13.913780+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1061"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1061",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "히게라는 석고상과 레몬, 파, 작은 화분, 책이 나왔고 2절에 5시간이었다. 정물화의 기본적인 형태들을 신경 쓰는 것은 당연했다.",
+    "practice_years": 7.0,
+    "competition_ratio": 4.95,
+    "student_strength": "주변을 잘 보지는 못했지만, 다들 까맣거나 푸른 배경의 석고 정물수채화를 그렸다. 그에 반해 나는 정물들이 놓인 상황을 그리려고 했기 때문에 차별화가 되지 않았나 싶다.",
+    "teacher_feedback": null,
+    "ideation_process": "정물화의 기본적인 형태들을 신경 쓰는 것은 당연했다. 게다가 정물들을 그냥 늘어 놓는 것이 아니라, 상황을 그리려고 노력했다."
+  }
 }

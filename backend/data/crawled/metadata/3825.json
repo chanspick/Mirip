@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3825_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:52:57.091169+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3825"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3825",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "특별히 무리한 선택을 하지 않고 면접준비를 생각하며 납득이 가능한 소재들로만 구성하려고 노력했다. 평소 나의 성향을 알고있기에 잘하는것을 잘 보여주기위해 6시간 중 4시간을 소묘에 투자했다.",
+    "practice_years": null,
+    "competition_ratio": 5.27,
+    "student_strength": "선생님께: 여러 자료들을 다양하게보여주시고 저의 취향을 고려해서 조언해주셔서 감사합니다. 덕분에 전혀 생각해보지 못했던 부분들에 대해 새로운 시선을 갖게되었어요.",
+    "teacher_feedback": null,
+    "ideation_process": "평소 나의 성향을 알고있기에 잘하는것을 잘 보여주기위해 6시간 중 4시간을 소묘에 투자했다."
+  }
 }

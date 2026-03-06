@@ -13,5 +13,14 @@
     "data/crawled/raw_images/330_0.png"
   ],
   "crawled_at": "2026-01-27T13:13:48.183641+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=330"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=330",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "성신여대 동양화과 시험에서 '선으로만 그리시오' 라는 키워드가 출제되었는데 키워드에 충실하게 선으로만 표현하였고 단조로워 지지않게 다양한 선의 종류와 굵기를 표현하기 위해 노력했다.중앙대학교 한국화과는 정물이 발표나기 때문에 큰 어려움없이 출제된 소재의 디테일에 신경 써서 완성하였다.",
+    "practice_years": 1.5,
+    "competition_ratio": 19.0,
+    "student_strength": null,
+    "teacher_feedback": "선생님들이 많이 계셔서 어떤문제가 나와도 당황하지 않을 수 있게끔 다방면으로 시험에 대비하는 준비를 할 수 있었다.",
+    "ideation_process": "표현하였고 단조로워 지지않게 다양한 선의 종류와 굵기를 표현하기 위해 노력했다.중앙대학교 한국화과는 정물이 발표나기 때문에 큰 어려움없이 출제된 소재의 디테일에 신경 써서 완성하였다."
+  }
 }

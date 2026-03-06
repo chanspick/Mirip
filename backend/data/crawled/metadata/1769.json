@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1769_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:17:37.471259+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1769"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1769",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "한성대학교 주제는 우정과 전구였는데, 이 역시 쉬운 주제가 나와 주제를 받고 발상 시간 없이 바로 그림을 그릴 수 있었습니다",
+    "practice_years": 6.0,
+    "competition_ratio": 7.0,
+    "student_strength": "실기는 실기대로 연습을 많이 하고 학교 성적은 성적대로 준비해갔던 것이 도움이 �營윱求�. 무엇보다 한성대는 주제 해석능력이 중요하였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "발상 시간 없이 바로 그림을 그릴 수 있었습니다"
+  }
 }

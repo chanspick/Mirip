@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1938_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:24:57.230098+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1938"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1938",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "도시에서 정체모를 괴물(좀비)에게 �i기다 골목에 가로막혀 도망치기 힘들어졌다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "절 이끌어준 선생님 덕분에 순조롭게 입시를 보게되었고, 같이 입시를 한 동기들에게 힘을 얻었습니다.",
+    "teacher_feedback": "원장님이 문을 열어주어서 고3 9월부터 이른 시간에 학원에 가서 주말평일 시험을 보았고 단점을 보완했습니다.",
+    "ideation_process": "생각했습니다 그리고 그 물건으로 인해 마무리가 우스꽝스럽게 되게 하였습니다."
+  }
 }

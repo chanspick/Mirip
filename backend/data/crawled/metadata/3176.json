@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3176_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:19:50.276210+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3176"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3176",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 양배추, 그물, 네임펜 이였고 그리는 형식은 자유롭게 표현하시오 였습니다. 문제를 받고 그물을 이용하여 양배추를 담고 선제로 뽑아서 쓰는 등 그물을 이용하여 꾸며주는 요소로 사용해야겠다고 생각 했습니다.",
+    "practice_years": 1.08,
+    "competition_ratio": 7.5,
+    "student_strength": "물체의 특성을 최대한 활용하여 화면을 짜임새 있게 구성하고 밀도를 최대한 올리는게 중요하다고 생각됩니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오 였습니다. 문제를 받고 그물을 이용하여 양배추를 담고 선제로 뽑아서 쓰는 등 그물을 이용하여 꾸며주는 요소로 사용해야겠다고 생각 했습니다."
+  }
 }

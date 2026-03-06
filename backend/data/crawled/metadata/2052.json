@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2052_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:29:56.046960+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2052"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2052",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "생수병, 크레욜라, 짚게, 연필깎이 중 생수병 포함 세 가지 개체를 랩 내부에 배치하고 나머지 하나는 랩 외부에 배치하여 창의적으로 구성할 것. 조형관 사진을 바닥 배경으로 사용할 수 있는게 출제 되었다.",
+    "practice_years": 2.42,
+    "competition_ratio": 3.25,
+    "student_strength": "힘들어도 포기하지 않는 마음가짐이라고 생각한다. 성적관리도 해야 하고 실기도 준비하느라 스트레스도 받고 원하는 결과가 나오지 않을 때는 그만하고 싶다는 생각이 들 수도 있지만 그럼에도 포기하지 않는 것이 중요하다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "구상에 시간 투자를 좀 더 하라고 하셨던 말을 기억하고 아이디어 스케치를 침착하게 한 후 그리기 시작했다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3037_0.png"
   ],
   "crawled_at": "2026-01-27T15:13:33.478394+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3037"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3037",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "엔틱 선풍기와 빨간색 노끈이 출제되었습니다. 선풍기 구조가 어렵다고 판단하여 선풍기를 크게 배치하고 노끈을 활용하여 그림을 표현하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 29.25,
+    "student_strength": "플라워미술학원 선생님들께서 저를 올바른 길로 이끌어주셔서 좋은 결과가 나왔다고 생각합니다.",
+    "teacher_feedback": "선생님들께서 저를 올바른 길로 이끌어주신 점이 가장 크다고 생각합니다.",
+    "ideation_process": "선풍기 구조가 어렵다고 판단하여 선풍기를 크게 배치하고 노끈을 활용하여 그림을 표현하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3810_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:52:09.071291+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3810"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3810",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 자석, 종이, 거울을 활용해 구성하는 문제였습니다. 거울을 좀 더 재미있게 활용하기 위하여 바닥에 까는 연출을 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 20.91,
+    "student_strength": "기본기를 강조할 수 있는 문제풀이와 또 평균에 들어갈 수 있는 성적도 합격에 중요한 요인들이라 생각합니다.",
+    "teacher_feedback": "원장님과 함께 준비하였고, 이런 연습이 그림적 측면 뿐만이 아니라 문제에 대한 생각방식, 갑작스러운 주제에 대한 멘탈관리에도 큰 도움이 되었습니다.",
+    "ideation_process": "거울을 좀 더 재미있게 활용하기 위하여 바닥에 까는 연출을 했습니다. 전체 공간의 투시와 부분의 형태를 틀리지않기 위해 시험 내내 확인과 수정을 반복했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/652_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:27:24.356804+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=652"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=652",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "건축의 이미지라는 주제어가 나왔기 때문에 평소 주제어가 나오면 그 주제를 적극적으로 그림에 표현하라는 선생님의 말씀이 떠올라서 주어진 소재로 터널이나 다리와같은 건축물을 표현하였다.",
+    "practice_years": 2.5,
+    "competition_ratio": 10.56,
+    "student_strength": "아무래도 주제어를 재미있게 적극적으로 표현한 그림이 뽑힐수 있었던것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라는 선생님의 말씀이 떠올라서 주어진 소재로 터널이나 다리와같은 건축물을 표현하였다."
+  }
 }

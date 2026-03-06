@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1643_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:11:45.318641+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1643"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1643",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "제시물1은 뜰채, 제시물2는 바느질세트가 나왔습니다. 제시물1은 연필로 소묘하는 것이며 제시물1과 제시물2를 통한 디자인을 하라는 문제가 출제되었습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 54.58,
+    "student_strength": "소묘에서는 밝음과 어둠의 대비를 적절하게 보여주고, 채 구멍을 촘촘하게 파내 뜰채의 느낌을 살리면서도 앞에서 뒤로 빠지는 공간감을 내려고 했습니다.",
+    "teacher_feedback": "선생님들께 피드백을 받아 장점은 강하게 살리고 단점은 최소화하여 고치는 방식으로 실기를 준비했습니다..",
+    "ideation_process": "제시물1은 연필로 소묘하는 것이며 제시물1과 제시물2를 통한 디자인을 하라는 문제가 출제되었습니다. 제시물1의 소묘는 뜰채의 구멍을 묘사하는데 신경 썼고, 비교적 제시물2에 사물의 개수가 많았기 때문에 적어도 사물의 하나 이상은 보여주려 노력했습니다."
+  }
 }

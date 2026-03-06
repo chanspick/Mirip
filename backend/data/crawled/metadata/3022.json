@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3022_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:12:54.207579+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3022"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3022",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "수박과 스패너 패너가 수박을 집어 즙이 튀기는 모습으로 동사형을 집중하여 생각하면서 구도를 잡고 그렸습니다.",
+    "practice_years": 1.42,
+    "competition_ratio": 6.66,
+    "student_strength": "화면 구성에 어려움을 많이 느꼈었는데, 화면 구성 수업이 따로 있어 사물들을 어떻게 배치해야 사물의 특징에 맞게 화면을 구성할 수 있었습니다. 계속 평가받고 보완해 나가면서 제 그림이 시험장에서 눈에 띌 수 있었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

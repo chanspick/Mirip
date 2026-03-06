@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3611_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:40:47.348355+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3611"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3611",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "수경, 팽이, 그리고 필름을 활용하여 긴장감을 표현하라는 문제가 출제되었습니다. 처음에는 평소 사용하던 구도를 적용하는 데 어려움을 겪어 조금 시간이 걸렸는데, 팽이를 밑에서 본 각도로 사용하여 주제부에 크게 넣고 색을 빨간색으로 변경하여 시선을 집중시키려 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 7.2,
+    "student_strength": "주제부 팽이의 시점 설정과 색 설정에서 다른 학생들과 차별점이 있었던 것 같습니다. 시험을 보는 내내 평소의 반도 하지 못한 것 같아 불안하고 초조했는데, 마지막 기회였기에 끝까지 최선을 다해서 정리하고 마무리한 덕분에 합격할 수 있었습니다.",
+    "teacher_feedback": "선생님들께서 조언해 주시는 것들을 전부 메모장에 적어놓고 틈틈이 읽으며 해결 방안을 생각했습니다.",
+    "ideation_process": "표현하라는 문제가 출제되었습니다. 처음에는 평소 사용하던 구도를 적용하는 데 어려움을 겪어 조금 시간이 걸렸는데, 팽이를 밑에서 본 각도로 사용하여 주제부에 크게 넣고 색을 빨간색으로 변경하여 시선을 집중시키려 했습니다."
+  }
 }

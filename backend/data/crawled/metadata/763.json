@@ -13,5 +13,14 @@
     "data/crawled/raw_images/763_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:32:09.505359+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=763"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=763",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "중앙대 시험 문제는 가장의 짐을 지고 있는 50대 남성이었다. 주제의 감정이 애매모호 하고 단순히 한 가지 감정만 있다고 생각하지 않았다.",
+    "practice_years": 1.58,
+    "competition_ratio": 14.0,
+    "student_strength": "단점 극복이라고 생각한다. 이 단점을 극복하기 위해서 선생님의 지적을 받아들일 수 있어야 한다. 고3 입시 땐 기본기가 흔들려 불합격 했다. 그리고 그 이유를 올해 박샘 다비드 선생님들이 함께 찾고 선생님들께서 극복할 방향을 제시해 주셨다.",
+    "teacher_feedback": "선생님들이 반복되는 지적과 문제점이 있으면 집고 넘어 갈 수 있게 수업을 진행하는 것 뿐 만 아니라 학원 외의 개인적인 시간에 문제를 해결할 수 있는 방법을 제시해주시고 그 방법들을 따라가며.",
+    "ideation_process": "표현하기 좋게 포니테일로 만들었다. 성신여대는 실물 모델링으로 시험 진행을 계획하고 흔들리지 않도록 진행하며 모델을 끊임없이 관찰했다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3855_0.png"
   ],
   "crawled_at": "2026-01-27T15:54:39.304688+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3855"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3855",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "당일 문제로는 물병과 쇠사슬이 출제되었습니다. 물병의 형태적 특징과 물병안 수면의 디테일을 강조하고 싶었기때문에 물병을 주제개체로 사용하였고 쇠사슬을 사용하여 물병에서 뿜어져나오는 듯한 연출을 표현했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 12.0,
+    "student_strength": "주변 학생들은 물병이나 쇠사슬의 색상을 제시된 그대로 사용한 반면 적극적으로 색상을 적절히 활용한 것이 조금 더 눈길을 끌 수 있었던 이유라고 생각합니다. 또한 자칫 단조로울 수 있는 면들도 또박또박 확실한 모양을 가진 묘사와 질감표현을 추가하여 강조될 만한 밀도를 정확히 올려낸 것이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "물병의 형태적 특징과 물병안 수면의 디테일을 강조하고 싶었기때문에 물병을 주제개체로 사용하였고 쇠사슬을 사용하여 물병에서 뿜어져나오는 듯한 연출을 표현했습니다. 연출의 과감함을 보여주기위해 병뚜껑과 물방울을 적극적으로 활용했고 대중소의 다양한 크기로 쇠사슬을 적절히 배치해 밀도를 올려줌과 동시에 포인트가 되는 쇠사슬엔 잔상을 활용하여 한번 더 강조해주었습니다."
+  }
 }

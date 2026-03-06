@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2236_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:37:53.071453+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2236"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2236",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 드론과 포커카드로 자유롭게 구성하는 문제였습니다. 드론을 주제로 배치하고 드론 주위로 포커 카드들이 날리는 모습을 상상하며 그렸습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 10.0,
+    "student_strength": "드론 하나만 잘 그리 자라는 마음으로 산만하게 배치하지 않고 주제부에만 집중해서 완성 했던게 나름 괜찮았다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "드론을 주제로 배치하고 드론 주위로 포커 카드들이 날리는 모습을 상상하며 그렸습니다."
+  }
 }

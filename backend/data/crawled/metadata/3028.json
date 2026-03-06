@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3028_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:13:09.898327+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3028"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3028",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "알람시계, 해바라기 평소에 제시어가 없어도 제시어를 만들어서 해보라고 하셨는데 알람시계가 진동이나 파동 이런 제시어들을 나타내기가 가장 적합할 것 같아서 파동을 나타낼 수 있는 선제가 없을까 생각하다가 제시물에 해바라기의 줄기를 보고서 이걸 선제로 활용하면 파동느낌을 내면서 알람시계의 진동(파동)느낌을 낼수 있겠다 싶어서 제시어 위주로 파동을 만들어 문제풀이를 했습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 5.82,
+    "student_strength": "제시어의 주제해석이 아니었을까 싶습니다.굴절이라는 제시어를 충실히 보여주려고 노력했기 때문입니다. 또한 초중벌 트레이닝과 아스스케치 트레이닝이 제일 힘들었지만 힘들었던만큼 실기가 많이 늘을수 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "싶어서 제시어 위주로 파동을 만들어 문제풀이를 했습니다."
+  }
 }

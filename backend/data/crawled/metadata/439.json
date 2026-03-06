@@ -13,5 +13,14 @@
     "data/crawled/raw_images/439_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:18:22.676264+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=439"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=439",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 “한국지폐 5만원권, 미국지폐 5달러, 10원 동전을 이용해서 ”속도감을 표현하라“ 였으며, 기발한 발상이 생각나지 않아서 아쉬웠지만 그만큼 채색과 소묘부분에서 보완하려 노력하였습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 32.45,
+    "student_strength": "소묘부분이 가장 큰 역할을 한 것이라고 생각했습니다. 채색을 할 당시 소재의 특성 상 주제부에 큰 어둠이 없어서 다른 학생들의 그림에 비해 밀릴 수 있겠다는 생각을 했는데 합격소식을 듣고 굉장히 놀랐습니다. 실기시험을 볼 때 주저하거나 망설이지 않고 소신대로 밀고 나간 것이 합격의 주요인 이었던 것 같습니다.",
+    "teacher_feedback": "선생님의 조언을 토대로 자신의 장점이 잘 보일 수 있는 스타일을 찾으려 노력했습니다.",
+    "ideation_process": "발상이 생각나지 않아서 아쉬웠지만 그만큼 채색과 소묘부분에서 보완하려 노력하였습니다."
+  }
 }

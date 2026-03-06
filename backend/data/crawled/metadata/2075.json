@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2075_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:30:56.265328+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2075"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2075",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "실기당일 출제 문제는 금붕어, 와인오프너, 끈으로 묶인 종이상자 였으며 상명대는 문제은행이었기 때문에 항상쓰던 구도에 재빠르게 대입하여 스케치 시간을 줄였다. 종이상자와 와인오프너가 무채색 계열이었기 때문에 금붕어를 크게 배치했다.",
+    "practice_years": 3.42,
+    "competition_ratio": 5.37,
+    "student_strength": "금붕어를 주제부에 크게 그린것과 흑백으로 제시된 종이상자와 끈을 같은 그레이 톤으로 채색하지 않고 차이를 주려고 한것이라고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "종이상자와 와인오프너가 무채색 계열이었기 때문에 금붕어를 크게 배치했다."
+  }
 }

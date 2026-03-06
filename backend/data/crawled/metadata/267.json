@@ -13,5 +13,14 @@
     "data/crawled/raw_images/267_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:11:06.324308+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=267"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=267",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "시험보러가기전에 학교별 중점사항을 선생님께서 분석해서 강조해 주셔서 시험장에서 적극적으로 그림을 그릴 수 있었어요.",
+    "practice_years": 3.0,
+    "competition_ratio": 21.0,
+    "student_strength": "당연히 학원선생님 덕분이죠.. 저의 그림에 많은 관심을 가져 주셨고, 격려를 많이 해 주셔서 스스로를 다잡고 그림에 매진할 수 있었던것 같아요.",
+    "teacher_feedback": "선생님께서 구도에 대한 제가 부족한 부분은 하나하나 봐주시며 어떻게 고치면 좋을지 충고해 주셨습니다.",
+    "ideation_process": null
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3669_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:44:12.059050+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3669"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3669",
+  "normalized_dept": "sculpture",
+  "interview_parsed": {
+    "exam_topic": "항공 최연소 부기장이되어서 제복을 입고 TV프로그램에 나가서 밝게 인터뷰하는 20대 남성.",
+    "practice_years": 4.0,
+    "competition_ratio": 10.92,
+    "student_strength": "눈에 띄여야된다고 생각해서 밀도 높고,호감도있는 생김새의작품을 만들고 중간중간 객관적으로 보기 위해 거리를 두고 많이 관찰했습니다.",
+    "teacher_feedback": "선생님들이 평가해주신 단점들을 고치려했고,장점을 최대한 살리려고노력했습니다..",
+    "ideation_process": null
+  }
 }

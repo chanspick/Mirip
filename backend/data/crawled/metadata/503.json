@@ -13,5 +13,14 @@
     "data/crawled/raw_images/503_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:21:04.917683+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=503"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=503",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "이번 국민대 실기고사문제는 다행히도 작년이랑 비슷한 유형이었지만 작년보다 까다로운 문제같아요.",
+    "practice_years": 2.0,
+    "competition_ratio": 5.7,
+    "student_strength": "합격을 위해서는 우선 성실하게 꾸준히 실기연습해서 실기력을 키우는게 중요한것같습니다! 선생님 말씀 잘듣고요.",
+    "teacher_feedback": "선생님이 시키는대로 묵묵히하다보면 대학 갈거에요 !!.",
+    "ideation_process": "까다로운 문제같아요. 가위와 테이프를 활용해서 반사필름을 재미있게 조형하고 그것을 배경으로 크레욜라를 창의적으로 배치하라는 문제였는데요."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2568_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:52:27.098431+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2568"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2568",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "삼육대 특성상 창의적인 그림들을 뽑는데 가위랑 종이가 나와서 어릴때 종이를 가지고 놀던 동심을 모티브로 가위로 무당벌레를 만들었습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 13.65,
+    "student_strength": "그냥 좋은 그림을 외워서 그리는게 아니라 좋은 그림이 있다면 그게 왜 좋은 그림인지 어떻게 하면 그렇게 그릴 수 있는지 생각하고 공부한게 도움이 된 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

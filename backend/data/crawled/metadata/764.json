@@ -13,5 +13,14 @@
     "data/crawled/raw_images/764_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:32:12.104705+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=764"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=764",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "머리묶은 여자두상 만들기 학원에서 연습했던 과정을 생각하고 모델의 첫인상과 특징을 계속 보려고 했으며 그 과정에서 너무 빠져들어서 잘못됨을 감지하고 멀리 나가서 비교를 계속 하였다.",
+    "practice_years": 3.0,
+    "competition_ratio": 12.25,
+    "student_strength": "학원에서 짜여진 커리큘럼이 여러가지가 있었고 나에게 맞는 방법을 찾아가거나 선생님께서 방향을제시해주셨으며 이야기를 많이 해주셨다̆̈. 그리고 과정하나하나를 쪼개면서 짚어주셨다 그런점이 합격의 요인이다.",
+    "teacher_feedback": "선생님께서 기본기를 중요하다고 해줘서 기본기를 탄탄히 잡는 것 부터 시작해서 단계를 천천히 밟았다̆̈.",
+    "ideation_process": null
+  }
 }

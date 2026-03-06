@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3179_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:19:58.126729+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3179"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3179",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "혼돈의 기쁨을 표현하시오. 혼돈과 기쁨이 동시에 작품하나로 느껴지게하도록 노력했고 혼돈스러울 정도의 갑작스러운 기쁨을 생각하며 풀어나갔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 13.0,
+    "student_strength": "보이지 않을 수 있는 부분까지 열심히 묘사해주려고 노력했고 빛 받는 부분들을 고려하여 묘사의 굵기와 그림자를 활용해서 주제를 더 부각시킬 수 있게 배치했기 때문이라고 노력했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "풀어나갔습니다. 그래서 깔끔한 평온속에서 불어닥치는 혼돈이지만 시원한 물살을 통해 기쁨을 동시에 표현했습니다."
+  }
 }

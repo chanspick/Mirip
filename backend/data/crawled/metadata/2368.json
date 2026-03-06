@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2368_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:43:38.717338+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2368"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2368",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "주제 : 인기 웹툰 작가에게서 어시 의뢰 메일이 왔다. 그런데 그 웹툰 작가는 AI였다.",
+    "practice_years": null,
+    "competition_ratio": 15.4,
+    "student_strength": "죽어라 노력했습니다. 제 나름대로도 더 좋은 그림을 위해서 연구해보고 선생님께 물어보기도 했어요. 다른 합격비결이 있다면 제가 믿고 따를 수 있는 능력 있는 선생님을 만났다는 거예요. 선생님을 믿고 따라가는 것도 능력입니다.",
+    "teacher_feedback": "선생님께서 잡아주신 방향대로 성실하게 실기를 준비한것 같습니다.",
+    "ideation_process": "표현하시오 선생님도 늘 말씀해주셨던 건데, 말하고 싶은 바가 확실한 그림을 그리라는 거에요. 내가 확실하게 주제를 받고 제가 말하고 싶은 걸 그림으로 그려냈어요."
+  }
 }

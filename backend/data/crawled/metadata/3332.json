@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3332_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:27:02.605413+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3332"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3332",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "물의 흐름을 30대 여성으로 표현하라는 주제가 나왔습니다.잠수하는 여자를 만들어 머리카락에 으로도 물의 흐름이 느껴질수있도록 만들었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 29.33,
+    "student_strength": "아이디어와 남들보다 한번더 생각한것이 좋게 작용했고 , 무엇보다 같이 준비하는 선생님들의 도움이 컸던거 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라는 주제가 나왔습니다.잠수하는 여자를 만들어 머리카락에 으로도 물의 흐름이 느껴질수있도록 만들었습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1147_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:49:03.942614+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1147"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1147",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "줄자와 스프링 추?였다.제시어가 힘이라고 나와서 그 제시어를 보여주기 위해서 내가 생각한 힘인 충돌을 중심으로 풀어나가려고 했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 21.36,
+    "student_strength": "전날 건대 글로컬 준비하면서 시험 볼때 그림 분량과 주제부에 적절한 크기를 여러번 강조하셨는데 그게 머릿속에 박혀서 시험날 생각나서 그림 분량과 주제부 크기를 조절 할 수 있었고 그게 도움이 된 것 같다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

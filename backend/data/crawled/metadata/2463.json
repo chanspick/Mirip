@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2463_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:47:48.434335+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2463"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2463",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "새우와 소방호스였습니다, 어떻게든 주제를 연관시켜서 재밌게 풀어보고자 했습니다 보여줄수있는 묘사부분을 섬세히 표현하고자 했습니다",
+    "practice_years": null,
+    "competition_ratio": 8.16,
+    "student_strength": "주제 표현력과 구성의 재미인것 같습니다.",
+    "teacher_feedback": "피드백 받으면서 실기 실력을 늘렸습니다..",
+    "ideation_process": "보여줄수있는 묘사부분을 섬세히 표현하고자 했습니다"
+  }
 }

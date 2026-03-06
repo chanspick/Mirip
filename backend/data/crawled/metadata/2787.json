@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2787_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:02:21.094049+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2787"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2787",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "제공된 사물과 이미지들의 조형적 특성과 물성을 활용하여 움직임을 주제로 화면에 연출하고 표현하시오. 제공된 사물: 마쉬멜로우, 털실 제공된 이미지: 플라스틱 튜브, 긴 풍선, 스펀지 조건을 어기지 않는 것을 최우선으로 그리는 도중에도 계속 확인하면서 진행하였고 주어진 소재들끼리 연관성을 주며 움직임을 나타낼 수 있도록 엮고, 묶고, 그것에 의해 풍선이 터지는 이미지를 표현했습니다.",
+    "practice_years": 7.0,
+    "competition_ratio": 11.38,
+    "student_strength": "그림이 잘 나와도 안주하지 않고 계속 발전하기 위해 노력한 점이 합격의 주요인인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 제공된 사물: 마쉬멜로우, 털실 제공된 이미지: 플라스틱 튜브, 긴 풍선, 스펀지 조건을 어기지 않는 것을 최우선으로 그리는 도중에도 계속 확인하면서 진행하였고 주어진 소재들끼리 연관성을 주며 움직임을 나타낼 수 있도록 엮고, 묶고, 그것에 의해 풍선이 터지는 이미지를 표현했습니다."
+  }
 }

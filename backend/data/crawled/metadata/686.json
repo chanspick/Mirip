@@ -13,5 +13,14 @@
     "data/crawled/raw_images/686_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:28:50.904876+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=686"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=686",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "얼음과 축구공으로 공간감을 표현하는 것이었는데 소재가 쉬워서 표현력보단 공간감이 잘 느껴지는 구성을 하는 것이 우선이라고 생각했습니다. 용인대를 준비할때 선생님께서 제시어 풀이를 해주신 것을 토대로 구성을 하려고 노력하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 17.48,
+    "student_strength": "시험장에서 문제를 보고 당황했지만 그림을 객관적으로 보며 끝까지 집중하여 완성시킨 것이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 용인대를 준비할때 선생님께서 제시어 풀이를 해주신 것을 토대로 구성을 하려고 노력하였습니다."
+  }
 }

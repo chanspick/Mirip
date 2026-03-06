@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3110_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:16:53.158543+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3110"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3110",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "소재 _ 의자, 마카롱 소묘 : 의자를 눕히거나 뒤집은 상황을 표현하시오. 디자인 : 의자, 마카롱으로 응급환자를 이송할 수 있는 운송수단을 디자인하시오.",
+    "practice_years": 1.75,
+    "competition_ratio": 16.7,
+    "student_strength": "저는 운이 매우 좋게 시험 전날 그렸던 그림과 시험장 들어가기 직전에 보고 있던 의자 디자인들이 당일 나온 문제를 푸는데 큰 도움을 주었습니다. 그리고 연합시험을 통해 저는 평소 실력이 있어도 긴장하는 순간 그림을 망친다는 것을 알게 되었습니다. 그래서 평소에는 실력을 키우고 평정심을 가지는데 집중했고 시험 전주부터 분위기를 이겨내는 연습을 했습니다.",
+    "teacher_feedback": "선생님께서 “야!.",
+    "ideation_process": "표현하시오. 디자인 : 의자, 마카롱으로 응급환자를 이송할 수 있는 운송수단을 디자인하시오."
+  }
 }

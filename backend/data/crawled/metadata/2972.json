@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2972_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:10:40.096920+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2972"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2972",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "모델링으로 중년 남성이 나왔었는데 얼굴도 인상이 강했지만 목, 가슴 판도 엄청 특징이 강했던 모델이어서 전체가 무너지면 모델의 분위기가 나오기가 어려울 것 같다는 생각이 들었습니다. 그래서 시간을 계속 끊어가면서 전체와 모델의 덩어리 분위기를 계속해서 잡아주려고 노력했습니다.",
+    "practice_years": 1.25,
+    "competition_ratio": 11.33,
+    "student_strength": "시험 전날에 선생님들께서 하던 만큼 꾸준하게 단단한 마음을 가지고 시험장에서도 열심히 배우던걸 다 보여주고 나오라고 해주셨는데 그 마음과 열정을 그대로 가져가서 정말 후회 없이 다 보여주고 나왔기 때문에 합격한 것이 아닐까라는 생각이 듭니다.",
+    "teacher_feedback": "선생님들이 시범을 보여주실 때 무얼 보고 어느 부분을 만지시는지, 마감하실 때 손에 힘 조절을 어떤 식으로 하시는지 작은 거 하나하나 계속 욕심내고 따라 했었고 필기 노트에 기본적인 것 하나.",
+    "ideation_process": "풀어나갔는지도 계속 확인했습니다."
+  }
 }

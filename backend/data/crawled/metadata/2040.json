@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2040_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:29:24.737098+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2040"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2040",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "변수 없이 평소처럼 그리는 것에 집중했습니다. 당황하지않고 침착하게 문제를 풀며 기초적인 실수가 없도록 주의하면서 자신감과 확신을 가지고 그릴 수 있도록 마인드 컨트롤을 했습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": null,
+    "teacher_feedback": "선생님께서 섬세하게 신경써 주셔서 편하게 실기를 할 수 있었습니다.",
+    "ideation_process": "당황하지않고 침착하게 문제를 풀며 기초적인 실수가 없도록 주의하면서 자신감과 확신을 가지고 그릴 수 있도록 마인드 컨트롤을 했습니다."
+  }
 }

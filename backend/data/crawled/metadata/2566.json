@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2566_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:52:21.897445+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2566"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2566",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "중앙대 산업디자인과의 경우 디퓨져 , 요요 , 먼지털이 가 주제로 나왔습니다.",
+    "practice_years": 3.83,
+    "competition_ratio": 25.8,
+    "student_strength": "첫번째는 형태력, 두번째는 채도조절, 세번째는 깔끔한 완성도라고 생각합니다. 이전까지 제일 기본적인 부분을 못해서 항상 문제였는데 입시 후반부로 갈수록 그 문제들을 고쳐나가면서 좋은 결과를 얻었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 그리고 사물마다의 조형요소를 생각하면서 배치했습니다."
+  }
 }

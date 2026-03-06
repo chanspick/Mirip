@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3826_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:52:59.911564+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3826"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3826",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "문제를 받고 나서, 그림에 저라는 사람의 특징을 담아내기 위해 차분하게 고민했습니다. 평소처럼만 그리자는 생각으로 시간을 수시로 확인하며 그려나갔습니다.",
+    "practice_years": null,
+    "competition_ratio": 5.27,
+    "student_strength": "고민이 많아 답답할 때 따끔한 조언과 자신감을 동시에 주신 덕분에 마음을 다잡고 마무리할 수 있었던 것 같습니다.",
+    "teacher_feedback": "선생님들의 피드백을 되새기면서 저만의 특징이 무엇인지 끊임없이 탐구하려 했습니다..",
+    "ideation_process": "평소처럼만 그리자는 생각으로 시간을 수시로 확인하며 그려나갔습니다."
+  }
 }

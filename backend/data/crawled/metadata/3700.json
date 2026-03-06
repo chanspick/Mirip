@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3700_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:46:11.008281+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3700"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3700",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "[닌텐도 게임기, 니트신발, 축구공] 니트부츠 아래에 축구공을 배치해 안정감을 주려 노력했고 부츠를 향해 날아온 공에 맞아 닌텐도가 살짝 깨진 모습을 연출하려 했습니다. 주제부를 제외한 나머지 닌텐도는 접혀있도록 설정해 주제부의 닌텐도가 눈에 띄게 하기 위해 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 11.0,
+    "student_strength": "제시물 각각의 특징들을 살려 보여주려 노력했던 점이 도움이 되었다고 생각합니다. 보여주고자 하는 것이 무엇인지 한 눈에 파악할 수 있도록 그리려 했던 점 또한 도움이 되었던 것 같습니다.",
+    "teacher_feedback": "선생님께 피드백을 받았습니다.",
+    "ideation_process": "주제부를 제외한 나머지 닌텐도는 접혀있도록 설정해 주제부의 닌텐도가 눈에 띄게 하기 위해 노력했습니다."
+  }
 }

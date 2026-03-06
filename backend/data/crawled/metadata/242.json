@@ -13,5 +13,14 @@
     "data/crawled/raw_images/242_0.png"
   ],
   "crawled_at": "2026-01-27T13:10:04.265952+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=242"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=242",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "골격이 세고 측면특징이 강한 사진이 나와서 측면을 놓치지 말아야 겠다 생각을 하고 측면을 열심히 맞췄고 대칭과 균형을 놓치지 않으려고 신경을 많이 썼다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.8,
+    "student_strength": "대칭을 평소 잘 못맞춰서 대칭을 처음부터 끝까지 신경 쓰면서 시험을 봤고 이미지를 놓치지 않으려고 측면과 정면을 많이 봤다. 시험장에서 떨지 않고 평소처럼 했다.",
+    "teacher_feedback": "선생님들이 지적해주시는 항상 틀리는 문제를 필기노트에 적어 항상 신경 쓰려 했고 시간을 단축시키려고 노력했다 ..",
+    "ideation_process": "생각을 하고 측면을 열심히 맞췄고 대칭과 균형을 놓치지 않으려고 신경을 많이 썼다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1254_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:53:45.008346+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1254"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1254",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "실기고사 날짜가 10월 31일이었어서 그런지 스펀지와 물감을 제시물로 '할로윈데이'를 표현하라는 문제가 나왔다. 문제자체가 어렵다는 생각은 들지않았기에, 제시물을 어떻게 활용하여 풀이할지 고민했다.",
+    "practice_years": 1.58,
+    "competition_ratio": 11.4,
+    "student_strength": "사실 시간이 촉박했던만큼 퀄리티가 완벽하게 나오지 않아 아쉬움이 컸다. 그럼에도 합격을 한 걸 보면 우리 학원 특유의 그림 분위기와, 실기고사 제시물의 활용도가 좋았다고 생각한다. 시간이 부족해도 소묘와 채색을 따로 평가하는걸 신경써서 소묘를 최대한 깔끔하고 정리된 느낌을 낼 수 있도록 노력한게 빛을 발했다는 생각이 든다.",
+    "teacher_feedback": "선생님들과 많은 대화를 했고, 다음 시험에도 적용할 수 있도록 되새겼다.",
+    "ideation_process": "표현하라는 문제가 나왔다. 문제자체가 어렵다는 생각은 들지않았기에, 제시물을 어떻게 활용하여 풀이할지 고민했다."
+  }
 }

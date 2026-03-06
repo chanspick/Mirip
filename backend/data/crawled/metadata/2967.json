@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2967_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:10:26.872331+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2967"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2967",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "파란색으로 산 구름 그리고 오두막집이 그려진 하얀 컵과꽃으로 추정되는 무늬의 뚜껑 마지막으로 접시가 나왔습니다. 다행히 드로잉이 어려운 소재가 아닌데다가 색상 자유여서 평소 제가 좋아하고 즐겨 사용하던 파란색 계열을 다영하게 쓰려 했습니다.",
+    "practice_years": 2.25,
+    "competition_ratio": 16.4,
+    "student_strength": "제가 생각하기에 소묘를 준비한 만큼 잘 해내진 못했기에 디자인 부분에서 아까 말한 결합과 해체부분을 표현한 것과 컵만 사용하는 것이 아닌 컵과 연관되는 물을 적극적으로 사용 한 것이 점수를 받은 요인이 아닐까 추측합니다",
+    "teacher_feedback": null,
+    "ideation_process": "다행히 드로잉이 어려운 소재가 아닌데다가 색상 자유여서 평소 제가 좋아하고 즐겨 사용하던 파란색 계열을 다영하게 쓰려 했습니다. 포인트 부분에 한난 대비로 노랑과 빨강을 써주었고 같은 물이어도 지루하지 않게 최대한 다른 부분을 보여주려 했습니다(흐르는 물의 두께 부분이나 물결표현 등) 소재가 하나만 나오는 경우 무조건 결합과 해체 부분을 보여줘야 한다는 수업을 들었는데 그 부분을 시험장에서 나름 잘 표현해내지 않았나 생각합니다"
+  }
 }

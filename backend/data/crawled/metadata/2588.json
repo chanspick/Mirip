@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2588_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:53:20.859947+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2588"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2588",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "박남수의 아침이미지 를 읽고 감정 을 주제로 , 상상하여 분위기와 이미지를 표현하시오 . 사전에 발표됐던 예시 문제와 유사하게 나와서 전에 연습했던 평소작을 제시된 문제에 맞게 재구성한 뒤 그림을 완성하는 데 집중했다",
+    "practice_years": 3.0,
+    "competition_ratio": 5.55,
+    "student_strength": "손이 느린 단점을 극복하기 위해 매번 스케치까지의 과정을 최대한 빨리 끝내고 그림 내 중요한 부분의 명시성과 완성도를 더 높이려고 했다 .",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오 . 사전에 발표됐던 예시 문제와 유사하게 나와서 전에 연습했던 평소작을 제시된 문제에 맞게 재구성한 뒤 그림을 완성하는 데 집중했다"
+  }
 }

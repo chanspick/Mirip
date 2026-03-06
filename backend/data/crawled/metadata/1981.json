@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1981_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:26:48.786688+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1981"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1981",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "동세와 표정이 있는 살집있는 20대 여자가 문제로 출제되었습니다. 문제를 받았을 때 표정도 있고 동세도 있고 게다가 정면 측면 사진도 제대로 찍혀있지 않아 난이도가 있어보여서 순간 당황했지만 사진에 보이는 대로만 그대로 만들자는 생각으로 초반에 차분히 모델파악을 하고 만들어 들어갔습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 8.0,
+    "student_strength": "실기를 할때 항상 지적받는 것들을 실기노트에 적어놓고 다음 시험때는 틀리지 않으려고 노력했습니다. 그리고 단점이 없고 깔게 없는 실기를 하자는 마음가짐으로 실기를 했던게 도움이 되었습니다. 또한 선생님들 께서 항상 열심히 가르쳐주시고 저의 문제점을 잘 파악하시고 고치게 도와주셨던게 합격의 주요인 이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "문제를 받았을 때 표정도 있고 동세도 있고 게다가 정면 측면 사진도 제대로 찍혀있지 않아 난이도가 있어보여서 순간 당황했지만 사진에 보이는 대로만 그대로 만들자는 생각으로 초반에 차분히 모델파악을 하고 만들어 들어갔습니다. 진행하면서 제 작품을 사진문제와 주변 학생들의 작품과도 비교하면서 뭐가 문제인지 어떻게 해야 모델의 분위기가 나올지 최대한 객관적으로 파악하면서 만들어 나갔습니다."
+  }
 }

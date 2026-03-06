@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2710_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:58:50.368220+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2710"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2710",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "주어진 제시물 7개 중 3개 이상 선택하여 트로피칼을 주제로 공간감을 살려 화면을 구성하라는 문제가 나왔습니다. 제시된 소재 모두 트로피칼과 관련있는 소재였기에 7개의 소재를 전부 활용하였고 트로피칼을 살리기 위해 최대한 다양한 종류의 원색을 사용하려 노력하였습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 17.0,
+    "student_strength": "자신있는 문제가 나와서 재밌게 시험을 봤기에 결과도 좋았다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "제시된 소재 모두 트로피칼과 관련있는 소재였기에 7개의 소재를 전부 활용하였고 트로피칼을 살리기 위해 최대한 다양한 종류의 원색을 사용하려 노력하였습니다. 시험을 보는 내내 지구 어딘가 있을 열대지방의 휴양지를 생각하며 그렸습니다."
+  }
 }

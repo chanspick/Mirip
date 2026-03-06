@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1298_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:55:43.261473+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1298"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1298",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "메인보드와 와이어로프를 출제 문제로 받았습니다. 먼저 포인트 부분을 생각해봤을 때, 메인보드 부품 중 구멍이 연속적으로 나 있는 육면체 모양의 부품이 있었는데 그 부품을 와이어로프로 연결하면 전기가 생산되는 그런 스토리가 연출되게끔 스케치하였습니다.",
+    "practice_years": 1.25,
+    "competition_ratio": 5.74,
+    "student_strength": "주제의 물성과 특성을 잘 알아보는 것이 가장 중요다고 생각합니다. 출제된 주제가 어떻게 쓰이고 사용할 수 있는지, 또 어떤 성질이 있는지에 대해 많이 알고 그것을 잘 활용하여 그려내는 것이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님께서 주제를 주시면 그 주제의 물성과 특성을 생각해 보며 그림을 그렸습니다.",
+    "ideation_process": "먼저 포인트 부분을 생각해봤을 때, 메인보드 부품 중 구멍이 연속적으로 나 있는 육면체 모양의 부품이 있었는데 그 부품을 와이어로프로 연결하면 전기가 생산되는 그런 스토리가 연출되게끔 스케치하였습니다. 나머지는 크기를 다르게 하여 반복하도록 풀어나갔습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3488_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:34:35.166880+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3488"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3488",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "신용카드, 고무줄, 실뭉치로 조형적 특징을 이용하여 화면을 구성하라는 주제가 나왔습니다. 학생들이 많아서 처음엔 약간 북적였긴하지만 시험시작시간이 다가올수록 조용해지면서 다들 진지하고 긴장하는듯 보였습니다.",
+    "practice_years": null,
+    "competition_ratio": 38.39,
+    "student_strength": "제시된 제시물들의 특성을 잘 살렸다는 점과 과하지않은 적절한 표현력이 플러스점수가 된 것 같습니다. 그리고 끈기와 노력, 긍정적인 사고방식도 중요하다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "학생들이 많아서 처음엔 약간 북적였긴하지만 시험시작시간이 다가올수록 조용해지면서 다들 진지하고 긴장하는듯 보였습니다."
+  }
 }

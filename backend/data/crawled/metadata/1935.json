@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1935_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:24:49.104146+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1935"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1935",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "실기시험의 주제는 연관성이 있는 생명체와 비생명체를 생각해 표현하는 것이었어요. 처음에는 생명체와 비생명체가 비슷한 형상을 띄고 있으면 그 차이를 더 잘 드러낼 수 있을거란 생각이 들었고 거기서 부터 생각을 해 나가기 시작했어요.",
+    "practice_years": 3.0,
+    "competition_ratio": 18.78,
+    "student_strength": "학원 생활이 정말 좋았습니다. 학생을 존중해준다는 느낌을 많이 받았고 이 학원 만큼 자신의 개성을 잘 키울 수 있는 곳도 없을 거에요. 가장 크게 얻었던 것은 역시 소조력인 것 같아요. 입체에 다니면서 선생님께서 많이 지적해주신 덕분에 고3 때 제가 얼마나 부족했는지 많이 알게 됐어요.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 것이었어요. 처음에는 생명체와 비생명체가 비슷한 형상을 띄고 있으면 그 차이를 더 잘 드러낼 수 있을거란 생각이 들었고 거기서 부터 생각을 해 나가기 시작했어요."
+  }
 }

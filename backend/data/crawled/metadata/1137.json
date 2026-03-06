@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1137_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:38.729815+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1137"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1137",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "망치와 땅콩이 출제되었고 디자인의 원리를 표현하라고 하였는데, 평소에 하던대로 규칙을 만들어서 강조시키는 구성을 하여서 풀어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 20.87,
+    "student_strength": "평소에 쌤이 강조하셨던 내용을 떠올렸던 게 도움이 �榮鳴� 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라고 하였는데, 평소에 하던대로 규칙을 만들어서 강조시키는 구성을 하여서 풀어나갔습니다."
+  }
 }

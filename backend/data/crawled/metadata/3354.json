@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3354_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:28:06.074016+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3354"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3354",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "협성대 가구디자인과에 나온 문제는 샤프. 줄자 였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.61,
+    "student_strength": "전날에 스케치를 떠봤던게 도움이 된거같고 물감을 쨍하고 이쁘게 사용하는 법을 배워 주변사람들보다 그림이 잘 보였던게 좋았던거같습니다.",
+    "teacher_feedback": "선생님이 말씀해 주시는 잘못한 점, 잘한 점..",
+    "ideation_process": "줄자 였습니다. 전날 학원에서 선생님이 협성대 문제 샤프와 줄자로 스케치를 떠보라 해서 떠본 스케치가 생각이나 바로 스케치를 시작했고 선생님한테 스케치 피드백 받은 내용이 생각나 피드백을 적용해서 스케치를 떴습니다."
+  }
 }

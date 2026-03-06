@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2107_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:32:18.602191+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2107"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2107",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "학원에서 매일 시험을 봤기 때문에 긴장은 전혀 안됐던 것 같습니다. 평소처럼 그리자고 생각하며 차분히 완성했습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "선생님께: 질문을 드리면 항상 적극적으로 알려주시고 격려도 많이해주셔서 입시하는 동안 정말 도움이 많이됐어요! 감사합니다.. 청 짱",
+    "teacher_feedback": null,
+    "ideation_process": "평소처럼 그리자고 생각하며 차분히 완성했습니다. 어이없는 실수가 없도록 문제지를 꼼꼼히 읽는 것도 중요하다고 생각합니다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2734_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:59:55.633921+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2734"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2734",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "산 정산에 올라 “야~호”를 외치는 20대 남성을 만드시오. (기물금지) 동세는 최대한 시원하게 잡아 공간감을 많이 주려고 노력했으며 나이에 맞게 굵직한 큰 뼈대와 말랑한 덩어리, 사람다운 양감 잡는 것에 신경썼습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 8.67,
+    "student_strength": "선생님들과의 실기 소통과 충분한 수면입니다. 자신의 실기 고민이 무엇인지, 자신의 상황이 어떤 상태인지 객관적인 위치를 시험과 대화, 평가를 통해 확인 받고 피드백을 수용하는 과정이 정말 중요하다고 생각합니다. 마찬가지로 공부를 하기 위해서는 체력이 좋아야 합니다.",
+    "teacher_feedback": "선생님의 시범 작품을 보기도 했습니다.",
+    "ideation_process": "(기물금지) 동세는 최대한 시원하게 잡아 공간감을 많이 주려고 노력했으며 나이에 맞게 굵직한 큰 뼈대와 말랑한 덩어리, 사람다운 양감 잡는 것에 신경썼습니다. 표정에서는 “야~”,“호~” 둘 중 어떤 것을 골라야 효과적으로 연출할 수 있을 지에 대한 고민이 컸습니다."
+  }
 }

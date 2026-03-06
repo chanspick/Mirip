@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3267_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:23:57.951931+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3267"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3267",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "선인장과 동전과 보리가 나왔고, 다행히도 바로 그 전날에 시험을 봤던 주제여서 들었던 피드백을 토대로 25분 안에 스케치를 다 뜬 후에, 채색에 바로 들어갔습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 7.06,
+    "student_strength": "단점이 거의 없는 그림을 만든 것이라고 생각합니다. 입시그림에서 가장 중요한 것은 화려한 묘사도 예쁜 색감이 아니라 기초라고 생각합니다. XYZ축, 투시, 비율, 어두움 등 기초적인 것에만 집중하여도 높은 점수를 받을 수 있다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하였습니다. 보리는 선인장과는 반대로 오렌지 느낌이 많이 나는 옐로우를 주로 써주었고, 어두움을 세게 잡으려 노력하였습니다."
+  }
 }

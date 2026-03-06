@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1822_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:19:54.575518+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1822"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1822",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "전염병 위기로 도시 한복판에서 탈출하는 상황이였는데 수인캐릭터를 앞세워 야생의 폭력적인 모습으로 돌아가게 되는 전염병으로 아수라장이 된 도시를 전염병연구원들의 도움으로 탈출한다는 이야기로 풀이했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 13.49,
+    "student_strength": "학원에서 선생님의 지도에 따라 열심히 실기 준비를 했던 점인거 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

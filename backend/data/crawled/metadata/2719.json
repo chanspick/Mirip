@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2719_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:59:15.196737+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2719"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2719",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "스탠드 조명, 귤, 털장갑 문제를 받자마자 기존에 학원에서 장갑을 활용하여 구성한 그림이 떠올랐습니다. 그 연출을 밑바탕으로 손 모양의 장갑 형태와 귤의 껍질 활용, 스탠드 조명의 비춰짐을 화면 안에 최대한 어우러지게 연출해보았습니다.",
+    "practice_years": 1.75,
+    "competition_ratio": 9.11,
+    "student_strength": "출제 제시물들의 형태적인 특성, 물성을 잘 활용하여 제한된 화면 안에 나름대로 스토리를 만들고 연출한 점이 좋은 점수를 받은 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그 연출을 밑바탕으로 손 모양의 장갑 형태와 귤의 껍질 활용, 스탠드 조명의 비춰짐을 화면 안에 최대한 어우러지게 연출해보았습니다."
+  }
 }

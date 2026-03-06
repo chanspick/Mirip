@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1889_0.png"
   ],
   "crawled_at": "2026-01-27T14:22:48.076988+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1889"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1889",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "오렌지, 나무도마, 파란색 리본이 나왔고, 일부분이 소묘로 표현되어야 한다는 조건을 고려해 평소에 연습했던 구도를 사용해 그렸습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 25.78,
+    "student_strength": "학원에서 계속 시험을 봐서 시험장에 가서 당황하지 않고 그릴 수 있던 점이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

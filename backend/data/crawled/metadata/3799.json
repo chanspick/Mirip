@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3799_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:51:30.016987+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3799"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3799",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "테이프, 나무블럭, 형광펜, 삼색볼펜, 송곳 개체가 5개나 나와서 그림이 복잡해 보일 거 같아 가장 잘 표현할 수 있는 소재를 주제부 메인으로 잡고 나머지는 꾸며주는 요소로 스케치하였다.",
+    "practice_years": 3.0,
+    "competition_ratio": 11.0,
+    "student_strength": "깔끔하고 주제부가 크게 잘 보여서 붙었다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

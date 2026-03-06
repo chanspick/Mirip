@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1870_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:21:58.989545+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1870"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1870",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "제시물은 카메라와 스카치테이프로 다소 빈번하게 출제되었고 평소에 해보았던 평범한 소재로 다들 완성도가 나올거라 예상했기때문에 스카치테이프를 곡선과 직선의 대비를 활용히여 굉장히 적극적으로 선재로 사용하고 카메라 렌즈는 다양한 색감으로 밀도를 높여 선명하고 눈에 띄는 그림을 그리도록 풀어나갔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 25.85,
+    "student_strength": "아이디어 스케치를 신중하고 꼼꼼하게 풀어나갔으며 중요한 부분은 확실히 보이게 하고 다양한 디자인요소들을 접목시켜 밀도를 높인 것이 주요인인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

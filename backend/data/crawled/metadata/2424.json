@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2424_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:46:06.186204+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2424"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2424",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "- 생수병, 테니스라켓, 깃발, 점수판, 다목적가위를 이용하여 자유롭게 구성하고 표현하시오‘ 라고 문제가 나왔고 테니스라켓이 생수병을 쳐서 점수판을 치면서 날아가는 것처럼 표현했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 39.39,
+    "student_strength": "- 깔끔하고 첫인상이 좋았던 것 같습니다. 평소 시험 봤을 때 보다 시간이 남아서 더 깔끔하고 선명하게 그리고 나온것 같습니다.",
+    "teacher_feedback": "선생님께서 말씀하신 부분을 메모장에 기록해놓고 다음 그림을 그릴 땐 지적받은 부분 등을 고치면서 그리려고 노력했습니다.",
+    "ideation_process": "표현하시오‘ 라고 문제가 나왔고 테니스라켓이 생수병을 쳐서 점수판을 치면서 날아가는 것처럼 표현했습니다."
+  }
 }

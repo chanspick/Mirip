@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1084_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:46:17.582707+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1084"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1084",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "다시점양식의 시험문제를 처음 받고 한 행동은 정확하게 정독하는 것이었습니다. 학원에서 국민대 실기대회 문제나 수업중에 문제풀이를 통해 기초조형에서의 중요한 부분을 배웠고 기억하는대로 기초조형의 조형성에 맞춰 기본기를 보여드리려 노력했습니다.",
+    "practice_years": 2.17,
+    "competition_ratio": 5.81,
+    "student_strength": "현역때 형태와 소묘력에 대한 중요성을 뼈저리게 느끼게 되었고, 그 후 선생님께 수업을 받으며 빛과 형태에 대한 이해를 하면 거의 모든 물체를 원리에 입각해 그릴 수 있다는것을 알게 되었습니다. 기초조형에 약했던 현역때는 어려운 물체가 나오면 당황하고 무서웠는데 원리를 깨달은 후에는 오히려 어렵고 복잡한 물체가 기회가 될 수 있다고 느꼈습니다.",
+    "teacher_feedback": "선생님께서 매일 구를 하나씩 소묘하라는 숙제를 내주시기도 했고, 공부를 병행하다가도 쉬는시간에 간단하게라도 주변사물을 보면서 형태를 관찰하고 질감의 특징도 파악하려 많은 연습을 했습니다.",
+    "ideation_process": "학원에서 국민대 실기대회 문제나 수업중에 문제풀이를 통해 기초조형에서의 중요한 부분을 배웠고 기억하는대로 기초조형의 조형성에 맞춰 기본기를 보여드리려 노력했습니다."
+  }
 }

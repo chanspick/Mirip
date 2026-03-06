@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1459_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:03:17.426946+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1459"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1459",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "참치캔, 사각건전지,종이노끈 주제부에 힘을 실어주어 강하게 눈에 띄도록 했다. 전체적인 공간뿐만아니라 개체 하나 안에서도 강약을 주는 것을 가 장 신경썼다.",
+    "practice_years": 2.5,
+    "competition_ratio": 7.83,
+    "student_strength": "느리더라도 꾸준히 지적받은 단점을 고치고 장점을 살려 그린 것이 가장 영향을 끼쳤다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "전체적인 공간뿐만아니라 개체 하나 안에서도 강약을 주는 것을 가 장 신경썼다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2041_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:29:27.344734+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2041"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2041",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "지원한 울산대학교는 사전에 시험 주제를 공개했기 때문에 미리 연습하고 시험장에 들어갈 수 있었습니다. 공개된 주제들 중 저는 정지와 움직임을 선택했습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 3.0,
+    "student_strength": "합격의 성패는 선생님의 피드백을 얼마나 그림에 잘 반영하느냐인 것 같습니다. 저는 메모를 해둔 것을 바탕으로 모의시험을 볼 때마다 최대한 피드백 받은 것 그대로 그리려고 노력했습니다. 또한, 실기 합격에 있어 인내와 끈기도 매우 중요한 것 같습니다.",
+    "teacher_feedback": "선생님께서 피드백해주신 내용들을 따로 메모해두어 계속해서 곱씹고 되뇌이면서 스스로 마인드 컨트롤을 하려고 노력했습니다.",
+    "ideation_process": "공개된 주제들 중 저는 정지와 움직임을 선택했습니다. 사전 공지된 주제들을 전부 다"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1408_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:00:51.169246+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1408"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1408",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "역시 우리 태순쌤덕이 가장 크다고 생각합니다 ㅎㅎ 상담도 잘 해주시고 저희에게 도움 되는 이야기들, 자극 될 말한 이야기들을 자주 해주셔서 도움이 많이 되었고, 같은 반에 그림을 잘 그리는 친구들의 그림들이 도움이 많이 되었다고 생각합니다.",
+    "practice_years": 1.0,
+    "competition_ratio": null,
+    "student_strength": "미대가 어디가 유명한지 어느 학교에 미대가 있고, 그 미대들의 입시전형들을 정확하게 알 수 있었고, 다른 학원과는 다른 방식의 그림들 패턴들을 익힐 수 있었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "ㅎㅎ 상담도 잘 해주시고 저희에게 도움 되는 이야기들, 자극 될 말한 이야기들을 자주 해주셔서 도움이 많이 되었고, 같은 반에 그림을 잘 그리는 친구들의 그림들이 도움이 많이 되었다고 생각합니다."
+  }
 }

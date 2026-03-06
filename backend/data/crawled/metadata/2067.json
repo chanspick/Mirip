@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2067_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:30:35.890175+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2067"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2067",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "커피머신, 핀란드 동전, 캡모자가 나왔습니다. \"시험에서 자신의 부족한부분보다",
+    "practice_years": 3.0,
+    "competition_ratio": 6.7,
+    "student_strength": "저에게 취약한 부분이 무엇인지, 또 다른 친구들에 비해 자신있는 부분이 무엇인지 정확히 인지하고 단점을 숨기고 장점을 부각시킨 점이 합격에 큰 도움이 되었다고 생각합니다.",
+    "teacher_feedback": "선생님께서 제일 중요하게 피드백해주시는 부분을 보완하려고 했고,도움을 받거나 시범을 볼때 집중했고 시험을 볼땐 그걸 비슷하게라도 하려고 노력했습니다.",
+    "ideation_process": "\"시험에서 자신의 부족한부분보다 더 잘하는걸 많이보여주는게 좋다\"라고 항상 쌤이 말씀해주셔서 늘 제가 잘하는 표현력과 완성도에 신경을 많이 썼습니다.소재 자체의 형태가 어렵지 않아 자신있게 스케치를 빨리 끝내는게 도움이 될거라 생각해 스케치를 빠르게 뜨고 남들보다"
+  }
 }

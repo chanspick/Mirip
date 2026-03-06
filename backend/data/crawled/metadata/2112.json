@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2112_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:32:31.432427+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2112"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2112",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험장에서 평소 그려왔던 소재들을 계속 떠올리며 시험 문제를 풀었고 선생님들께서 해주셨던 피드백을 생각하며 차분히 그리고 나왔습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "정말 저를 포기하지 않고 끝까지 저를 위해 노력해주셨던 모든 선생님들께 감사의 말씀을 드리고 싶습니다. 정말 제가 청미술학원이 아니였다면 이대 합격은 꿈꾸지도 못했을 겁니다.",
+    "teacher_feedback": "선생님들께서 해주시는 피드백을 바탕으로 그림을 계속해서 개선하려 노력했고 남들보다 부족한 만큼 더욱 열심히 했던 것 같습니다..",
+    "ideation_process": null
+  }
 }

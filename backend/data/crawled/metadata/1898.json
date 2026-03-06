@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1898_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:23:11.445347+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1898"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1898",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "스피너와 깃털로 되어있는 고양이 장난감이 나왔는데 시험장에서 준 사진이 정확히 어떤물건인지 알아보기 어렵게 나와서 동사형을 어떻게 보여줘야될까 고민을 하다가 스피너 가장자리가 날 비슷하게 생긴 걸 보고 ‘스피너가 멀리서부터 회전하며 날아와서 깃털이 잘리고 깃털들이 사방으로 퍼진다’를 동사형으로 정하고 스케치를 들어갔습니다. 색변경이 가능하다고 써있었는데 사진에 있는 레드와 블루로 해도 색대비가 잘 될거라는 판단을 해서 색변경 없이 채색을 했고 스피너의 금속재질, 깃털이 비치는 모습을 그려서 묘사거리들을 찾아서 밀도를 올려줬습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 24.27,
+    "student_strength": "문제풀이연습을 학원에서 많이 한 게 합격한 제일 큰 이유인 것 같습니다. 초반에는 사물분석이나 기능분석을 잘 못 했는데 어려운 사물부터 단순한 사물들까지 문제풀이를 많이 해보니까 단순한 사물끼리 나왔을 때도 동사형을 만드는 법을 알게 됐습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "색변경이 가능하다고 써있었는데 사진에 있는 레드와 블루로 해도 색대비가 잘 될거라는 판단을 해서 색변경 없이 채색을 했고 스피너의 금속재질, 깃털이 비치는 모습을 그려서 묘사거리들을 찾아서 밀도를 올려줬습니다."
+  }
 }

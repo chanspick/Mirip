@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1537_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:06:50.044728+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1537"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1537",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "선생님께서 전에 비슷한 주제로 수업하시면서 ‘곰인형으로 엄청난 연출을 하는 것보다는 그 자체의 모습을 귀엽고 예쁘게 잘 그리는 것이 가장 곰인형답게 보인다’고 말씀하셨던 게 떠올라서 곰인형이 들고 있는 작은 호박을 가위가 자르면서 씨가 튕겨져 나오는 동사형을 설정했습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 3.83,
+    "student_strength": "두 학교 모두 제가 엄청 잘 그려서 붙었다기보단, 끝까지 포기하지 않고 내가 할 수 있는 한 최대한 완결도를 올리자고 생각하면서 그렸습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "학교에서 나눠준 이미지에는 곰인형과 곰인형이 입은 옷 모두 붉은 기가 많이 도는 색이었고 호박 껍질도 주황색과 초록색이 섞인 이미지였어서, 그림이 전체적으로 너무 붉어 보이지 않게 곰인형은 노란색, 곰인형의 옷은 붉은색, 호박 겉껍질은 초록색, 호박 속 과육은 주황색으로 설정하여 색이 겹치지 않도록 했습니다. 그리고 곰인형과 호박의 채도가 높았기 때문에 가위는 무겁게 칠했고 가위의 특성을 이용해서 가위의 표면에 곰인형이 비치는 모습을 그렸습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1357_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:58:27.787674+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1357"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1357",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "첫 번째 문제는 제시된 이미지(거친 질감의 하얀 공)의 조형적 특성을 반영한 주전자 세 개를 디자인하여 화지 왼쪽에 연필로만 간단히 그리는 것이었다. 제시된 사진 속 물체의 동그란 형태와 오돌토돌한 질감을 조형적 특징으로 잡고 주전자를 디자인했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.0,
+    "student_strength": "열심히 했고 선생님께서 잘 가르쳐주셨다.",
+    "teacher_feedback": "선생님께 그림 평가를 받았다.",
+    "ideation_process": "제시된 사진 속 물체의 동그란 형태와 오돌토돌한 질감을 조형적 특징으로 잡고 주전자를 디자인했다. 주전자 디자인을 할 때에는 명암 대비, 질감 등을 고려했고, 주전자들의 형태, 질감, 무늬 등이 서로 너무 비슷하지 않도록 디자인했다."
+  }
 }

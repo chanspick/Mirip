@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2921_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:08:23.552242+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2921"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2921",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "사진모델링이 나왔고 사진 그대로 만드려고 노력하였다.",
+    "practice_years": 1.0,
+    "competition_ratio": 11.33,
+    "student_strength": "학원 선생님께 배운점이 많았고 필기노트가 가장 도움이 많이되었다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

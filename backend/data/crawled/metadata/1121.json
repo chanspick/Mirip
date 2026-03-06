@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1121_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:47:57.831447+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1121"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1121",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "제시어 - 돌도끼 판도라의 상자의 신화내용에 인간에 의해 만들어진 문화가 인간이 만든 화에 의해 무너진다는 내용의 제시문이 나왔습니다. 문제를 받고 나서 배운대로 시간을 미리 배분해서 디자인의 의도, 소묘, 디자인을 순서대로 진행하였고 글을 쓸때는 제시문의 내용과 멀어지지 않도록 주제에 집중하여 주의하며 쓰려고 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 11.93,
+    "student_strength": "친언니도 저희 학원에서 먼저 합격을 했었기에 선생님과 같은 충고를 해줬고, 수업시간에 귀를 열고 최선을 다하려고 배운대로 기본에 충실하면서 응용하려고 했습니다. 그리고 시험장에 일찍 도착해서 배운것들을 순서대로 떠올리며 이미지 트레이닝을 해봤던게 도움이 된 것 같습니다.",
+    "teacher_feedback": "선생님께서 준비해주신 과거 출제 문제들을 풀어보며 준비했습니다..",
+    "ideation_process": "문제를 받고 나서 배운대로 시간을 미리 배분해서 디자인의 의도, 소묘, 디자인을 순서대로 진행하였고 글을 쓸때는 제시문의 내용과 멀어지지 않도록 주제에 집중하여 주의하며 쓰려고 했습니다."
+  }
 }

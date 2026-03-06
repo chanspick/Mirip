@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2059_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:30:14.614077+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2059"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2059",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "테니스공, 청진기, 전기소켓이 나왔었는데 학원에서 테니스공과 쇠질감은 무조건 밀도다!라고 배워서 무조건 미친듯이 밀도 올리고, 쇠질감은 반짝반짝하게해서 다른 그림들보다 눈에 띄어야지라는 생각으로 그린 것 같습니다.",
+    "practice_years": 2.83,
+    "competition_ratio": 7.64,
+    "student_strength": "최대한 밀도 높게 그린 것이 합격한 이유라고 생각합니다. 합격을 하려면 많은 그림 중에서 눈에 띄어야하고 그럴려면 다른 사람들보다는 무언가를 좀 더 했다라는 느낌을 주는게 중요하다고 생각해서 밀도를 많이 높였고 그 점이 합격한 이유라고 생각합니다ㅎㅎ",
+    "teacher_feedback": "선생님께서 항상 정시 특강하면 무조건 실력 오른다, 힘들게 입시했는데 다른데 가서 기죽고오면 아깝지 않냐고 말씀해주셔서 아직 미친 듯이 그려 본 적도 없고 말씀대로 누구보다 힘들게 입시 했는.",
+    "ideation_process": "눈에 띄어야지라는 생각으로 그린 것 같습니다."
+  }
 }

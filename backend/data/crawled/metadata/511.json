@@ -13,5 +13,14 @@
     "data/crawled/raw_images/511_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:21:25.266630+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=511"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=511",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험 입실전엔 너무 떨렸는데 막상 입실하고나니 시험장 분위기는 학원같이 편안했다. 이번 경희대 한국화과 시험에서는 '지구온난화'에 관련된 내용이 출제되었었다.",
+    "practice_years": 3.0,
+    "competition_ratio": 15.6,
+    "student_strength": null,
+    "teacher_feedback": "선생님들께서 큰 도움이 되주셨다.",
+    "ideation_process": "이번 경희대 한국화과 시험에서는 '지구온난화'에 관련된 내용이 출제되었었다. 평소 학원에서 이뤄지는 여러번의 모의시험을 통해 익숙해져던터라 문제를 받아도 당황하지않고 이전 배움을 바탕으로 문제에 접근할 수 있었다."
+  }
 }

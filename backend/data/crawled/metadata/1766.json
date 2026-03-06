@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1766_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:17:29.793530+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1766"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1766",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "인하대는 공사장헬멧,밧줄,손전등,망치,프리즘이 출제를 하였습니다. 주제가 출제가 되었을 때는 헬멧에 뭔가 담긴 것들이 안에서 나오는 느낌으로 하고 부주제에서는 최대한 공간감을 살리는 구성으로 할려 했습니다",
+    "practice_years": 2.33,
+    "competition_ratio": 41.33,
+    "student_strength": "합격 전날의 합격작들을 스크랩해놓고 저만의 구도가 아닌 해당학교의 A권작 구도들을 최대한 따라하고 저의 스타일을 약간 첨가하는 방식으로 해서 합격을 했다고 생각하고 있습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "주제가 출제가 되었을 때는 헬멧에 뭔가 담긴 것들이 안에서 나오는 느낌으로 하고 부주제에서는 최대한 공간감을 살리는 구성으로 할려 했습니다"
+  }
 }

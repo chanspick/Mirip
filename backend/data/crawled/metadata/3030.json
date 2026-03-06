@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3030_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:13:15.101002+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3030"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3030",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "버섯과 아크릴 촛대가 나왔다. 버섯을 소묘로 사실묘사와 버섯과 아크릴 촛대로 기초디자인을 해야했다.",
+    "practice_years": 4.0,
+    "competition_ratio": 52.14,
+    "student_strength": "물론 시험장에서 긴장하는건 당연하지만 반복적인 노력으로 실력을 쌓고 선생님께 계속 질문하면서 그 실력이 자신감이 되면 앞으로 나아갈 힘이 생긴다. 그렇게 새워진 자신감은 어려울 때 많은 힘이 되었다",
+    "teacher_feedback": "피드백도 얻을 수 있고 무엇보다 그림 그릴 때 근육이 효율적인 방식을 기억하면서 빠르게 표현할 수 있는 기회가 생긴다..",
+    "ideation_process": "발상보다는 소묘의 기본기, 디자인은 어느정도 사물간의 상호작용을 보여주는 조형을 해야했다. 버섯과 촛대가 할 수 있는 제일 눈에 띌 만한 상호작용을 생각하다보니 버섯이 촛대의 불에 구워지는 형상에 이르렀다."
+  }
 }

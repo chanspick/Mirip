@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1152_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:49:16.585003+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1152"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1152",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "앵무조개와 공책, 파란색 못이 출제되었고 학원에서 한번씩 시험보고 그려봤던 것들이었기 때문에 시험장에서도 그대로 풀어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.96,
+    "student_strength": "중간에 포기하지 않고 끝까지 최선을 다해 그려서 합격한것같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1369_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:59:01.364493+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1369"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1369",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "캠코더가 소묘소재로 출제가 되었고, 디자인에서는 선물포장용 리본끈이 각각 출제 되었다. 소묘는 최대한 형태가 틀리지 않으려고 시간을 좀 더 투자했고, 디자인은 시간이 부족해서 최대한 완성하고 정리하는데 집중했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 43.4,
+    "student_strength": "힘들 땐 그림을 오히려 쉬어가면서 그렸고, 공부든 실기든 둘 다 자신이 할 수 있는 정도 까지는 최선을 다해 열심히 했던게 합격의 요인이 되었던것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "소묘는 최대한 형태가 틀리지 않으려고 시간을 좀 더 투자했고, 디자인은 시간이 부족해서 최대한 완성하고 정리하는데 집중했다."
+  }
 }

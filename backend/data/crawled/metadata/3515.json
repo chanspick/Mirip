@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3515_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:35:54.008470+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3515"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3515",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "나비, 유리병, 나침반 스케치 40분, �譯� 1시간, 묘사 1시간 20분, 화이트 블랙 1시간을 계획한 대로 실행하여 안정적으로 시험을 마무리했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 26.0,
+    "student_strength": "조화와 안정감이 그림에서 가장 중요하다고 생각하는 부분입니다. 그래서 묘사가 전체적으로 조화롭게 된 부분과, 안정감 있는 구도가 합격에 많은 영향을 주었을 것이라 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

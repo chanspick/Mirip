@@ -13,5 +13,14 @@
     "data/crawled/raw_images/280_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:11:39.811529+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=280"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=280",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "카메라 렌즈와 투명한 반구 그릇과 나무 포크가 나왔다. 기대했던 면재가 안나와서 엄청 당황했었고 하도 뜨기 시작하고 나서도 너무 불안 했었다.",
+    "practice_years": 2.58,
+    "competition_ratio": 8.59,
+    "student_strength": "‘잘 그린 그림’이라는 기준을 엄청 높게 잡았다. 나의 못 그린 그림은 정말 못 그린 그림으로 생각했고 잘 그린 그림이라고 많이 뿌듯해 하지는 않았다. 입시는 전국적으로 엄청 많은 그림을 상대로 준비하는 것이기 때문에 넓은 시야를 가지려고 노력했다. 다른 사람의 장점을 찾고 나의 단점을 찾아 비교하는 걸 자주 했다.",
+    "teacher_feedback": null,
+    "ideation_process": "기대했던 면재가 안나와서 엄청 당황했었고 하도 뜨기 시작하고 나서도 너무 불안 했었다. 그래도 배워왔던 대로 하려고 했고 마음 잡고 완성시켰다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3033_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:13:22.929426+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3033"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3033",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "수박, 몽키스패너 수박을 메인 양재로 활용하고 스패너가 수박 과육을 뽑아가면서 스패너로 수박을 때려서 과즙과 과육이 튀는 동사형을 정했고, 이에 맞는 구도를 활용해서 화면을 구성했습니다. 스패너가 금속류, 무거운 이미지이기 때문에 수박을 깰 수 있겠다고 생각해서 위와 같이 동사형을 정했습니다.",
+    "practice_years": 2.92,
+    "competition_ratio": 5.44,
+    "student_strength": "과정별로 시간을 정해서 그리며 손을 더 빨리 움직일 수 있게 하는 트레이님 수업이 합격에 도움이 많이 되었습니다. 트레이닝을 하면 시간 안에 완성을 해야 하다보니 손이 무조건 빨라지게 되고 실전에서도 적용을 하면서 빠르고 정확하게 그림을 그릴 수 있었습니다. 이렇게 체계적인 구조속에서 그림을 그리다 보니 실기력이 저절로 늘었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 위와 같이 동사형을 정했습니다. 다만 깨는 것보다는 잘라서 먹는 것처럼 조각을 내어 좋아보이게 디자인했습니다."
+  }
 }

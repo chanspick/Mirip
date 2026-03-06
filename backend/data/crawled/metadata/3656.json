@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3656_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:43:26.482947+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3656"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3656",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "돋보기와 완두콩이 나오고 제시어는 대비였습니다. 돋보기의 특성을 활용하여 완두콩을 확대해서 크기 대비가 명확하게 보이도록 표현하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 21.61,
+    "student_strength": "제시어를 잘 보여주려고 했다는 점과 평소처럼 그림을 밀도 있게 완성했다는 점 같습니다.",
+    "teacher_feedback": "선생님들의 피드백을 받으며 다음 그림에 부족한 부분을 채우려 노력했습니다..",
+    "ideation_process": "돋보기의 특성을 활용하여 완두콩을 확대해서 크기 대비가 명확하게 보이도록 표현하였습니다."
+  }
 }

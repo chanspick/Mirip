@@ -13,5 +13,14 @@
     "data/crawled/raw_images/551_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:23:06.047849+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=551"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=551",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "주제는 패턴지, 수정테이프가 나왔으며, 평소 선생님께서 강조해 주신대로 크고 시원시원한 구성을 하면서 그리고 나왔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.35,
+    "student_strength": "선생님께서 정말 잘 가르쳐 주셨기에 합격을 했다고 생각합니다. 선생님 감사합니다.",
+    "teacher_feedback": "선생님께서 시험 후 강평해주실 때 고쳐야 할 점을 항상 말씀해 주셨는데, 그 다음그림 부터는 적어도 말씀해 주신 단점을 고친 그림을 그리기 위해 많은 노력을 했던 것 같습니다..",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1637_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:11:31.498657+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1637"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1637",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "양파와 머플러 였습니다. 양파는 통으로 나와서 단면을 보여주면 다양한 연출이 나오지 않을까 싶어서 단면을 보여줬고, 양파로 조형적인 요소를 넣어보려했습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 40.36,
+    "student_strength": null,
+    "teacher_feedback": "선생님들이 고치라고 자주, 반복적으로 지적해주시는 것 들은 꼭 고치려했고, 구성 지적받은 날엔 집에가서 꼭 구성을 다시 여러개 만들어 봤습니다..",
+    "ideation_process": "양파는 통으로 나와서 단면을 보여주면 다양한 연출이 나오지 않을까 싶어서 단면을 보여줬고, 양파로 조형적인 요소를 넣어보려했습니다. 머플러는 평소 선생님이 머플러 같은 제시물 쓸 때 주의하라 하셨던 점을 생각하며 사용하려했습니다."
+  }
 }

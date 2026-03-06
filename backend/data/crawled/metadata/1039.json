@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1039_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:44:13.694166+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1039"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1039",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "와인 오프너, 트라이앵글, 색종이가 나왔습니다. 평소 연습하던 구도에 개체들을 더 추가하여 완성했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.57,
+    "student_strength": "멘탈 관리가 정말 중요하다고 생각합니다. 남들과 비교하게 될 때, 원하는 만큼을 이루지 못 했을 때 등 미대 입시를 하면서 정말 많은 스트레스와 걱정을 하게 됐었습니다.",
+    "teacher_feedback": "선생님들의 그림에 대한 피드백을 기억하고 충고에 대해서는 다음 그림에서 보완하려고 노력했습니다.",
+    "ideation_process": "표현하기 위하여 날아가는 연출을 하였습니다. 색종이는 면으로써 개체들의 아래에 추가 배치하였고, 트라이 앵글을 크게 그려 와인 오프너가 통과 하게끔 하였습니다."
+  }
 }

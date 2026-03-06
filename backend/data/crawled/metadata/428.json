@@ -13,5 +13,14 @@
     "data/crawled/raw_images/428_0.png"
   ],
   "crawled_at": "2026-01-27T13:17:57.016659+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=428"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=428",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "브러쉬사진에 과거와 미래를 표현하시오! 문제를 받고 다행이 미술학원에서 비슷한 주제로 연습을 많이 해서 생각보다",
+    "practice_years": null,
+    "competition_ratio": 21.15,
+    "student_strength": "주제(과거와 미래)에 맞게 두 상황이 잘 드러날 수 있도록 색상 대비를 크게 두었습니다. 소묘는 돌아가는 원기둥 물체의 특징을 잘 파악하고 그렸습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오! 문제를 받고 다행이 미술학원에서 비슷한 주제로 연습을 많이 해서 생각보다"
+  }
 }

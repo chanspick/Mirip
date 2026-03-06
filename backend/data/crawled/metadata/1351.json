@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1351_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:58:10.971718+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1351"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1351",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "거울로 목도리에 감겨진 오이를 부러뜨리고 그 거울에 거울의 특성인 비침을 나타내기 위해서 그 위에 썰려진 오이들을 위에 놓았다. 오이의 다양한 모습을 나타내려고 했고 거울의 특성을 최대한 이용하려고 하였으며 목도리의 짜임 묘사에 취약하여 묘사가 잘 보이게 하려고 노력하였다.",
+    "practice_years": 2.5,
+    "competition_ratio": 7.7,
+    "student_strength": "본인의 평소 시험작을 스크랩하는 습관과 질문하는 습관이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "오이의 다양한 모습을 나타내려고 했고 거울의 특성을 최대한 이용하려고 하였으며 목도리의 짜임 묘사에 취약하여 묘사가 잘 보이게 하려고 노력하였다. 항상 주제부 외에 부주제가 빈약하거나 성의가 없어보여서 부주제가 부족해 보이지 않게 하려고 하였다."
+  }
 }

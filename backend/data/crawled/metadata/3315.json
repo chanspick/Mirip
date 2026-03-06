@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3315_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:26:13.011136+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3315"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3315",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "숟가락,포크,컵,접시 입니다. 공예과인 만큼 유리 질감, 금속 질감의 차이를 돋보이게 스케치하였습니다.",
+    "practice_years": 6.0,
+    "competition_ratio": 45.52,
+    "student_strength": "단순히 화면을 구성하는 것이 아니라, 공예과의 특성을 생각하며 화면을 구성한 것이 합격에 영향을 중 것 같습니다. 물체의 질감, 헝태, 쓰임등을 생각하며 구성했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "공예과인 만큼 유리 질감, 금속 질감의 차이를 돋보이게 스케치하였습니다. 유리로 된 물체 중에서도 불투명한 유리, 반투명한 색유리로 나뉘었기 때문에 질감의 차이를 강조시켰습니다."
+  }
 }

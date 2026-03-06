@@ -14,5 +14,14 @@
     "data/crawled/raw_images/535_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:22:25.668853+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=535"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=535",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "1번문제는 인체전신과 육면체를 구성하는 문제였는데 주어진 인물사진을 참고하여 내가 자신있는 인체 포즈에 육면체를 집어넣어 자연스러운 상황을 표현하였다. 2번문제는 여러가지 석고 도형을 주고 사람의 전신이나 일부를 표현해야하는 약간은 생소한 문제가 나왔다.",
+    "practice_years": 5.0,
+    "competition_ratio": 4.53,
+    "student_strength": "묘사를 해야하는부분에는 묘사를 확실히 보여주고, 다양한 질감 표현을 한점이 플러스가 된것같다.",
+    "teacher_feedback": "선생님이 주시는 기출문제를 연습해보고 매일 매일 모의 시험도 보았다.",
+    "ideation_process": "표현하였다. 2번문제는 여러가지 석고 도형을 주고 사람의 전신이나 일부를 표현해야하는 약간은 생소한 문제가 나왔다."
+  }
 }

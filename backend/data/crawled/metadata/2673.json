@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2673_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:57:09.427468+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2673"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2673",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 귤과 니퍼 였습니다. 아무래도 묘사할게 많은 문제들이다",
+    "practice_years": 2.0,
+    "competition_ratio": 8.07,
+    "student_strength": "시험을 통해 틀린 부분을 바로 바로 피드백 해주신 선생님들 덕분인 것 같습니다. 선생님들의 시범과 섬세한 피드백이 합격에 도움이 된 것 같습니다.",
+    "teacher_feedback": "선생님들의 피드백을 듣고 바로 고치려고 노력하였으며, 집에서도 스케치 연습, 타원 연습 등을 하여 부족한 점을 고치려 노력하였습니다..",
+    "ideation_process": "아무래도 묘사할게 많은 문제들이다 보니 물체들의 특성을 활용 하려고 했으며, 남들보다"
+  }
 }

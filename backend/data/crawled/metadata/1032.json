@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1032_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:43:52.909142+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1032"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1032",
+  "normalized_dept": "other",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 1.5,
+    "competition_ratio": 4.0,
+    "student_strength": "개성. 아무래도 눈에 띄어야 하니 주목성이 가장 우선적으로 중요하다고 생각한다. 그런데 나는 이걸 개성을 통해 주목을 받고자 했다. 디자인에 대한 이해와 열의를 보여주는 것도 중요한 것 같다. 서울대 준비를 하면서 겸하여 SAD I준비는 짧게 했지만 결국 서울대 준비를 하며 쌓아왔던 기본기가 가장 큰 역할을 했다는 생각을 하게됐다.",
+    "teacher_feedback": "선생님이 내 그림을 알아보실 수 있음 좋겠다’ 라고 목표를 설정해서 주목성을 얻기위해 노렸 했는데, 이런 목표들이 개성있는 나를 만드는데 도움이 된 것 같다..",
+    "ideation_process": null
+  }
 }

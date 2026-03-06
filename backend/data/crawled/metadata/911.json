@@ -13,5 +13,14 @@
     "data/crawled/raw_images/911_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:38:36.249168+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=911"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=911",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "물과 관련된 주제가나와서 물의 표현과 화면에서의 흐름이 잘 표현될 수 있도록 적극적으로 표현하였다.",
+    "practice_years": 5.0,
+    "competition_ratio": 7.13,
+    "student_strength": "주제에 맞춰서 이미지발상보다는 자신있는 조형적짜임새와 디테일의 강약을 준것이 좋았던 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

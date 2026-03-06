@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3263_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:23:46.936414+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3263"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3263",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 캠핑용 랜턴, 에어팟(+에어팟케이스), 라이터가 출제되었으며 문제를 받았을때 어떻게 서로의 연관성을 보여줄지 고민했습니다. 선생님께서 평소 강조하셨던 주제부의 크기를 신경쓰며 스케치를 떴고 에어팟선 안에 있는 전기줄까지 꺼내어 물성을 보여줬습니다.",
+    "practice_years": 2.75,
+    "competition_ratio": 21.17,
+    "student_strength": "시험당일에 떨지않고 편안한 마음으로 저의 강점을 살린 그림을 그리고 왔는데 이 점이 작용하여 합격한것같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "선생님께서 평소 강조하셨던 주제부의 크기를 신경쓰며 스케치를 떴고 에어팟선 안에 있는 전기줄까지 꺼내어 물성을 보여줬습니다."
+  }
 }

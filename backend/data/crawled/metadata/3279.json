@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3279_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:24:31.085045+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3279"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3279",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "낚시릴과 무지개색 리본이 출제되었는데 낚시찌로 리본을 낚은 느낌을 주려 하였으며 또한 리본을 얇게 꼬아 낚시줄이 회전하는 이미지를 보여주려 하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.55,
+    "student_strength": "주변 환경에 휘둘리지 않고 할 수 있는 최대한을 시험장에서 보여주고 온 것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

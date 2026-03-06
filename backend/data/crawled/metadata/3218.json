@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3218_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:21:43.730505+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3218"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3218",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "헤드폰, 마카, 주사위를 이용하여 역동성을 표현하시오라는 문제가 나왔습니다 역동성이란 제시어를 풀기위해서 헤드폰의 소리와 관련된 리듬감을 소재로 풀어가려고 노력했습니다.",
+    "practice_years": null,
+    "competition_ratio": 12.3,
+    "student_strength": "평소 제가 들었던 단점들을 보완하여 그렸고 화려함보단 깔끔하게 그리려고 노력한 점이 주요인이었다고 생각합니다.",
+    "teacher_feedback": "피드백 받은 부분을 꼭 고치려고 노력했습니다..",
+    "ideation_process": "표현하시오라는 문제가 나왔습니다 역동성이란 제시어를 풀기위해서 헤드폰의 소리와 관련된 리듬감을 소재로 풀어가려고 노력했습니다."
+  }
 }

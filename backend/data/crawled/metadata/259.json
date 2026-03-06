@@ -13,5 +13,14 @@
     "data/crawled/raw_images/259_0.png"
   ],
   "crawled_at": "2026-01-27T13:10:46.456984+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=259"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=259",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "랩을 씌운 발이 나왔다. 왜 랩을 씌운 발이 나왔을까 생각하며 문제지와 조건을 꼼꼼하게 읽었다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.12,
+    "student_strength": "정시 때 모든 연락을 끊고 학원을 성실히 다닌 것.",
+    "teacher_feedback": null,
+    "ideation_process": "왜 랩을 씌운 발이 나왔을까 생각하며 문제지와 조건을 꼼꼼하게 읽었다. 랩과 피부차이를 주기위해 피부표현은 보송하게 물감과 건식위주로 그렸고, 랩은 아크릴 물감 화이트로 빛나는 느낌을 마지막에 그렸다."
+  }
 }

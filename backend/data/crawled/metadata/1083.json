@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1083_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:46:15.089383+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1083"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1083",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "시험 당일 침착하게 교수님들의 출제의도가 무엇인지 판단하였고, 그 출제의도에 맞춰 지금까지 해온 기초디자인의 요소와 점목하여 풀러나가자 생각했습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 8.67,
+    "student_strength": "저는 시험 당일 너무 부담갖지말고 학원에서 준비해왔던대로만 문제 그대로 해석하자 생각하고 시험쳤습니다. 종이 볼의 보색대비를 여러 방법으로 나타낸것과 의자의 구성을 재밌게 배치했다고 생각하는데, 이러한 점이 교수님의 출제의도를 잘 파악한게 아닐까합니다!",
+    "teacher_feedback": "선생님들의 피드백을 하나라도 고쳐보자 생각하며 실기에 매진했고, 가장 중요한 기본기가 형태라고 생각하여 형태를 정확하게 뜨려고 노력했습니다.",
+    "ideation_process": "생각했습니다."
+  }
 }

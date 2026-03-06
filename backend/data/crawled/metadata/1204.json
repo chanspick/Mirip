@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1204_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:51:31.576391+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1204"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1204",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "청 미술학원에서 많은 모의시험을 보았기 때문에 시험장에서 학원이라고 생각하고 연습했던 방식대로 그리고 나왔다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": null,
+    "teacher_feedback": "선생님과 학원 선생님들께서 물체의 앞뒤관계, 바닥면의 공간활용 방법 등을 알려주셔서 도움이 많이 됐다.",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2582_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:53:04.289708+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2582"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2582",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "굴비와 미미카메라였으며 처음 문제를 받고 굴비가 구운 고등어인 줄 알고 그리려다가 제시물 사진 아래 조그만한 물방울이 있길래 살아있는 것이라고 생각하여 최대한 반짝반짝거리고 팔딱팔딱하는 것처럼 보이게 그리려 노력하였습니다. 소묘에서 굴비는 더 많은 하이라이트를 주었고 디자인에서는 카메라의 채도가 낮아지지 않게 오페라와 브라운레드를 섞어 채도를 살렸습니다.",
+    "practice_years": 1.42,
+    "competition_ratio": 9.46,
+    "student_strength": "그림의 채도를 죽인 것이 아니라 채도를 촤대한 끌어올린 것이라고 생각하며 배경을 확 빼버려 공간감을 눈에 띄게 준 것이 합격의 요인이라고 생각합니다. 또한 소묘를 너무 태우지 않고 굴비의 배쪽은 살짝 밝게 하고 그림자를 세게 잡아 잘보일 수 있게 한 것이 주요요인이라고 생각합니다.",
+    "teacher_feedback": "선생님이 피드백해주신 것을 메모장에 써넣어 배경화면으로 하여 다시 상기하며 실기를 할 수 있게 하였습니다.",
+    "ideation_process": "소묘에서 굴비는 더 많은 하이라이트를 주었고 디자인에서는 카메라의 채도가 낮아지지 않게 오페라와 브라운레드를 섞어 채도를 살렸습니다."
+  }
 }

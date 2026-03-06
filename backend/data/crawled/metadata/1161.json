@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1161_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:49:39.301922+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1161"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1161",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 출제 문제는 스마트워치, 필름, 녹고있는 얼음이었고 전 날 선생님들께서 찝어주신 부분이나 고쳐야할 점들을 신경써서 평소작을 많이 참고하였습니다",
+    "practice_years": 1.0,
+    "competition_ratio": 3.86,
+    "student_strength": "내신 성적도 중요했던 것 같고 쌤들이 강조하시는 깔끔한 정리와 마감이 중요했던 것 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

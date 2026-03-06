@@ -13,5 +13,14 @@
     "data/crawled/raw_images/910_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:38:33.742573+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=910"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=910",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "계명대학교는 하리보젤리와,커피여과지로 위대한 발견이라는 주제가 나왔는데 너무 흔한 아이디어보다는 나의 창의력을 돋보일수 있도록 4차산업혁명의 3D프린터를 모티브로하여 새로운것을 창조하는 것으로 발상하여 표현하였다.",
+    "practice_years": 4.0,
+    "competition_ratio": 7.7,
+    "student_strength": "선생님들의 피드백을 귀기울여 잘 들은 다음 그 다음번 그림에 적극적으로 반영하려고 하였다. 그래서 나의 단점과 부족한점을 채우려고 많이 노력을 하였는데, 그래서 실기장에서도 체크리스트를 만들어 아이디어 스케치를 충분히 한다음 완성을 하였다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

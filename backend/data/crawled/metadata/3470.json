@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3470_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:33:43.135341+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3470"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3470",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "‘집에 오래 된 창고를 발견한 주인공, 창고에 들어가 보니 옛날 물건들이 가득 있었다. 그런데 그 사이로 상자 하나가 보이고 주인공은 호기심에 그 상자를 열었더니 놀라운 일이 벌어졌다.",
+    "practice_years": 2.0,
+    "competition_ratio": 11.46,
+    "student_strength": "선주제가 제시되는 만큼 미리 스토리를 구상해 많이 그려보아서 그만큼 자신감이 있었다는 것이 합격의 주요인인 것 같습니다.",
+    "teacher_feedback": "선생님들의 피드백을 수용할 수 있도록 노력했습니다..",
+    "ideation_process": "풀어나가려 했습니다. 선주제이다"
+  }
 }

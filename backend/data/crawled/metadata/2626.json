@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2626_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:55:01.876934+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2626"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2626",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "버드와이저 캔 맥주, 빼빼로, 야구공이 나왔고 주제어가 에너지였기 때문에 그림 안에서 많은 움직임을 보여줘야겠다고 생각했습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 7.24,
+    "student_strength": "교수님들이 딱 봤을때 한눈에 들어오는 그림을 그렸다고 생각합니다",
+    "teacher_feedback": "선생님께서 그날 그날 다른 주제를 주셔서 다양한 개체들을 그려볼 수 있었고 평소 화이트 묘사하는게 부족했는데 선생님들께서 도움을 주셔서 많이 보완이 됐습니다.",
+    "ideation_process": "생각했습니다"
+  }
 }

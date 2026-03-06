@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2085_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:31:22.017604+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2085"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2085",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "구강 청결제, 병따개, 머리집개가 나왔는데 준비해갔던 구도에다 조건을 맞춰서 조형했고 평소보다",
+    "practice_years": 2.0,
+    "competition_ratio": 8.25,
+    "student_strength": "기본기에 집중하며 디테일을 살리는 것이 중요합니다 무엇보다도 저의 노력과 간절함을 바른 길로 이끌어 주신 광주 씨앤씨 선생님들 덕분입니다",
+    "teacher_feedback": null,
+    "ideation_process": "조건을 맞춰서 조형했고 평소보다 톤과 묘사를 더 신경 썼던 것이 합격의 원인 인 것 같습니다"
+  }
 }

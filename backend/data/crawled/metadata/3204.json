@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3204_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:21:05.875212+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3204"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3204",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "각 사물의 비율과 질감을 정해주고 조합하는 문제였습니다. x,y,z 축으로 뻗어 나가는 형상이 재밌겠다고 생각해서 옛날 함선을 모티브로 구조물을 만들었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 20.47,
+    "student_strength": "학과에 맞는 서류 작성과 실기 준비라고 생각합니다.",
+    "teacher_feedback": "선생님께서 주신 자료를 계속 보면서 스스로 응용해보고 피드백을 받고 다시 고치는 것을 반복하였습니다.",
+    "ideation_process": "생각해서 옛날 함선을 모티브로 구조물을 만들었습니다."
+  }
 }

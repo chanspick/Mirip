@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1036_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:44:04.824226+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1036"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1036",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 1.0,
+    "competition_ratio": 5.7,
+    "student_strength": "멘탈 관리가 가장 중요한 것 같다. 자기 그림이 너무 못나보일지라도 포기하지 말자, 남들보다 조금 더 배우려는 노력을 하면 좋다. 다시 해보는 것을 싫어하지 않는 것도 중요한 것 같다. 반복된 연습 속에 개선과 발전이 있기 때문이다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

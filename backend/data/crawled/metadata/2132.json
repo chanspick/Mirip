@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2132_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:33:23.102954+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2132"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2132",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "다행히 원래 하던 구도에 맞춰서 할 수 있는 주제어가 나와서 평소에 하던 것처럼 침착하게 그렸고, 주제어가 확산이었기 때문에 소리가 나오는 전화기에서 소리에 대한 파장을 생각하면서 전화기선을 이용하여 확산을 표현하였습니다. 그리고 전화기를 분해하여 표현해야 했기 때문에 전화기 안에있는 전선을 꺼내서 파란색만 있는 그림에 다른 색깔을 추가해줬습니다.",
+    "practice_years": 2.83,
+    "competition_ratio": 9.43,
+    "student_strength": "평소에 연습했던 구도로 시험장에서 침착하게 그린것이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하였습니다. 그리고 전화기를 분해하여 표현해야 했기 때문에 전화기 안에있는 전선을 꺼내서 파란색만 있는 그림에 다른 색깔을 추가해줬습니다."
+  }
 }

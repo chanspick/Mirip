@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3923_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:58:10.530817+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3923"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3923",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "‘기억의 조각’을 주제로 어린시절 추억의 물건의 형태를 변형하여 조형적으로 점토조형하시오. 라는 주제가 나왔습니다.",
+    "practice_years": null,
+    "competition_ratio": 5.6,
+    "student_strength": "디테일한 표현력과 어떠한 상황에서도 긴장하지 않는 마음가짐이였던거 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "라는 주제가 나왔습니다. 저는 추억을 담는 물건인 카메라와 프릴드레스 스티커등 어린이들이 좋아했을법 한 물건들로 채워 조형물을 만들었습니다"
+  }
 }

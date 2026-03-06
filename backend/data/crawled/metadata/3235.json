@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3235_0.png"
   ],
   "crawled_at": "2026-01-27T15:22:28.343783+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3235"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3235",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 6.0,
+    "student_strength": "선생님께 : 질문과 답변이 조화롭게 이루어져 선생님들과 대화하는것이 항상 즐거웠습니다. 같이 입시하는 듯한 느낌도 받아 더욱 애틋했던 것 같습니다. 학원 좋은 점 : 많은 자료와 많은 사람들 그리고 고양이 새 토끼 등등 다양한 동물들로 힐링이 됐던 점이 좋았습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

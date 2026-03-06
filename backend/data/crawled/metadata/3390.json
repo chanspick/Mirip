@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3390_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:29:53.772278+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3390"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3390",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "물방울, 붓, 리본으로 미래의 생태공원을 만드는 것이었고, 물방울을 쪼개서 나오는 물을 통해 나무, 구름을 그려 공원을 만들었고, 물방울 사이 미래를 표현할 수 있는 홀로그램을 그리고 물방울에서 나오는 물을 붓으로 튀게 만들어 물방울 안의 흘러나오는 물도 홀로그램이라는 것을 표현해 주었습니다. 그리고 리본으로 나비를 표현하고 작은 로봇들을 그려주어 생태공원을 표현해 주었습니다.",
+    "practice_years": 2.42,
+    "competition_ratio": 32.86,
+    "student_strength": "생각나는 대로 바로 시작하지 않고 리본을 어떻게 활용하는 것이 가장 좋을지 끝까지 고민했던 것이라고 생각합니다.",
+    "teacher_feedback": "선생님께서 하라는 대로 했습니다….",
+    "ideation_process": "표현하고 작은 로봇들을 그려주어 생태공원을 표현해 주었습니다."
+  }
 }

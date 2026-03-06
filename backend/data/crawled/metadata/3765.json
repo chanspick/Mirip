@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3765_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:49:42.821748+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3765"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3765",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "은박풍선,땡땡이냅킨을 이용해 토마토를 디자인 하시오 였습니다. !!!토마토!!!!",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "'경험'인 것 같아요. 토마토 역시 그려봤던 개체였고 실기대회에 참가해 시행착오를 겪으며 수상 했을때의 그림, 아쉬웠을 때의 그림을 명확히 관찰하고 분석했던 점 같습니다. 또 같은반 친구들의 실기수준이 굉장히 높았기 때문에 친구들 그림에서도 장점등을 많이 배우며 그림보는 시야가 넓어진 것 같아요",
+    "teacher_feedback": null,
+    "ideation_process": "!!!토마토!!!! 소묘 집중 표현 수업시간에 자신있게 해보았던 물체가나와서 너무 기분좋게 그렸습니다."
+  }
 }

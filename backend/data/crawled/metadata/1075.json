@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1075_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:45:54.464006+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1075"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1075",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "이젤이 크케 원으로 둘러져 있었고 두명의 모델이 매트를 깔고 누운 자세를 취했다. 아무래도 모델이 두명이 출제되었고, 앉아있는 자세보다는 누워있는 특이한 포즈였기 때문에 당황스러움이 있었다.",
+    "practice_years": 3.0,
+    "competition_ratio": 23.17,
+    "student_strength": "재수를 하면서 자신감이 많이 떨어졌고, 현역 때보다 그림이 잘 나오지 않아 불안했다. 잘 되지 않는 것에 쉽게 좌절하지 않는 성격임에도 불구하고 시험이 다가 올수록 그림에 대한 확신을 하지 못했다. 하지만 수시 기간 끝까지 선생님께서 시범을 보여주시거나 꼼꼼히 체크해주시고 잘한 점을 칭찬해주셔서 자심감을 되찾을 수 있었다.",
+    "teacher_feedback": "선생님께 피드백을 받거나 시범을 요청하여 나의것으로 익히려고 하였고, 단계별로 트레이닝을 지속적으로 하여 실전에 대비하고 실기력도 향상시킬 수 있었다..",
+    "ideation_process": "아무래도 모델이 두명이 출제되었고, 앉아있는 자세보다는 누워있는 특이한 포즈였기 때문에 당황스러움이 있었다."
+  }
 }

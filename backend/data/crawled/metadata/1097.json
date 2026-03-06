@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1097_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:46:55.126088+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1097"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1097",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "일단 이미지 한 장이 제시됐는데, 이미지에는 눈이 오는 밤 겨울나무 숲에서 등불을 든 채로 스케이트를 타는 사람들의 모습이 담겨 있었습니다. 그 이미지를 토대로 스토리보드를 작성하고 그 중 사람이 2명 이상, 한 사람은 전신이 노출된 컷을 골라 상황표현을 하도록 명시되어 있었습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": null,
+    "student_strength": "제 실기 준비가 다른 친구들에 비해 굉장히 늦은 편이었는데, 제가 어느 정도의 그림을 그릴 수 있는지, 어떻게 해야 스타일을 찾을지 등에 대해서,, 경력이 많은 선생님께서 저만의 방향을 잘 잡아주셔서 빠른 시간 안에 좋은 결과가 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그 이미지를 토대로 스토리보드를 작성하고 그 중 사람이 2명 이상, 한 사람은 전신이 노출된 컷을 골라 상황표현을 하도록 명시되어 있었습니다. 그리고 그 상황표현이 될 컷에는 편지, 눈, 등불이 주제로 보이도록 구성을 하라는 조건이 있었습니다."
+  }
 }

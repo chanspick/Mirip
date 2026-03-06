@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3511_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:35:43.557134+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3511"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3511",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "꽁치, 나무 구 피라미드 화면분할과 공간감이 중요하다고 생각했습니다. 나무 구로 공간을 인지할 수 있는 장치를 설정한 다음에, 꽁치가 튀어오르는 것 같은 움직임을 설정하여 생동감이 느껴지게 만들었어요.",
+    "practice_years": 3.0,
+    "competition_ratio": 44.43,
+    "student_strength": "슬럼프가 자주 오는 편이었는데, 그럴 때 마다 좌절하지 않고 극복하려고 노력했던 부분이 합격에 중요한 요소로 작용했다고 생각합니다. 그럴 때마다 마음에 안 들게 나온 그림을 다시 한번 그리고, 그 그림도 잘 나오지 않는다면 귀가 후에 아이패드로 잘 그린 그림이 나올 때까지 계속해서 수정해 그렸어요.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 나무 구로 공간을 인지할 수 있는 장치를 설정한 다음에, 꽁치가 튀어오르는 것 같은 움직임을 설정하여 생동감이 느껴지게 만들었어요."
+  }
 }

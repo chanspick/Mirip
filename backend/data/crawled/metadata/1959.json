@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1959_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:25:52.024734+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1959"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1959",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 ‘도시 한복판에서 괴물(좀비)이 쫓아온다. 어떻게 도망갈 것인가’ 였고 어떻게 도망갈 것인가에 중점을 두고 풀어냈습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "선생님께 지적받은 단점을 고치는게 중요하다고 생각합니다. 하나씩 보완하다보니 입시 준비까지 정리가 잘 되었던거 같습니다.",
+    "teacher_feedback": "피드백 위주로 부족한 부분을 연습했습니다..",
+    "ideation_process": "어떻게 도망갈 것인가’ 였고 어떻게 도망갈 것인가에 중점을 두고 풀어냈습니다."
+  }
 }

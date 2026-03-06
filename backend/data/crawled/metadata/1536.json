@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1536_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:06:47.277018+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1536"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1536",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "물감과 머그컵을 보자마자 컵 안에 물감을 가득 짜고 다른 색의 물감끼리 섞이게 해서 밖으로 넘치도록 동사형을 연출해야겠다고 생각했습니다. 원래 색이 지정되어 있는 학교였는데 갑자기 색 자유로 문제를 출제해서 좀 당황했지만 색 자유로 문제를 낸 게 swc 물감을 적극적으로 쓰라는 의도인 거 같아서 아이디어 스케치 때 톤과 색 계획을 꼼꼼히 세웠습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 5.0,
+    "student_strength": "두 학교 모두 제가 엄청 잘 그려서 붙었다기보단, 끝까지 포기하지 않고 내가 할 수 있는 한 최대한 완결도를 올리자고 생각하면서 그렸습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 원래 색이 지정되어 있는 학교였는데 갑자기 색 자유로 문제를 출제해서 좀 당황했지만 색 자유로 문제를 낸 게 swc 물감을 적극적으로 쓰라는 의도인 거 같아서 아이디어 스케치 때 톤과 색 계획을 꼼꼼히 세웠습니다."
+  }
 }

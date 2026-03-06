@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2262_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:39:01.875830+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2262"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2262",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "드론과 트럼프 카드를 배치하는 것이었는데, 평소 준비하고 자주쓰던 구도에 드론으로 인한 바람으로 카드가 모양있게 흩날리면 좋겠다는 발상으로 시도해보았습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 11.43,
+    "student_strength": "실력도 실력이지만 교수님의 마음에 드는 것이라고 생각합니다. 색채를 좋아하셨다고 들었는데, 다행이 그 조건에 들어 맞았나봅니다. 그리고 운도 가미된다 생각해요.",
+    "teacher_feedback": null,
+    "ideation_process": "발상으로 시도해보았습니다."
+  }
 }

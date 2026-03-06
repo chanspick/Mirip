@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2523_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:50:27.073307+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2523"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2523",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "2분의 1 마네킹에 나의 마음을 얹다 - 디자인 계획서에 설명과 실제 마네킹에 제작할 그림의 초안을 그리고, 그것을 바탕으로 옷 제작",
+    "practice_years": 2.67,
+    "competition_ratio": 12.92,
+    "student_strength": "이번에 새로 만들어진 시험방식이다 보니, 대다수의 사람은 결과물인 옷에 관점을 집중할 것이라고 예상했습니다. 그러나 저는 제가 만든 옷의 설명과 초안에 많은 시간을 들여서 다른 사람들과 최대한 다르게 보이면서도 ‘내가 주제를 보고 느낀 점’을 중심으로 문제를 풀어나간 것이 합격에 큰 영향을 준 것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "- 디자인 계획서에 설명과 실제 마네킹에 제작할 그림의 초안을 그리고, 그것을 바탕으로 옷 제작"
+  }
 }

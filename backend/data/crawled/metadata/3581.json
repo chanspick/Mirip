@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3581_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:39:04.560874+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3581"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3581",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 육면체 너트와 스프링 주제어로는 역동성이 나왔습니다. 역동성이라는 주제어를 고민하여 강하게 움직이는 느낌과 그로 인해 발생하는 상황들을 효과적으로 표현하려 하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 20.09,
+    "student_strength": "절 항상 응원해 주신 부모님과 선생님들 그리고 친구들의 영향이 큰 것 같습니다. 덕분에 포기하지 않고 끝까지 최선을 다할 수 있었습니다.",
+    "teacher_feedback": "선생님들이 해주시는 피드백을 귀담아듣고 제 그림에 적용하려 노력하였습니다.",
+    "ideation_process": "역동성이라는 주제어를 고민하여 강하게 움직이는 느낌과 그로 인해 발생하는 상황들을 효과적으로 표현하려 하였습니다."
+  }
 }

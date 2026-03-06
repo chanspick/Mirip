@@ -13,5 +13,14 @@
     "data/crawled/raw_images/894_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:37:52.649902+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=894"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=894",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제지에 요구하는 바를 최대한 꼼꼼히 짚어가며 최대한 차분하게 그리려고 했어요",
+    "practice_years": 2.0,
+    "competition_ratio": 6.05,
+    "student_strength": "물밀듯이 응원해주는 선생님들의 피드백으로 매일 매일 부족한 점을 채워나갔어요 주제가 어떻게 나올지 몰라 매일 새로운 주제로 시험을 봤던것도 영향이 꽤 컸어요 시험장에서 주제 맏고 당황하는거 하나 없이 침착하게 그렸어요 고맙습니다",
+    "teacher_feedback": "선생님들이 문저점을 말씀해주시면 그부분을 보완하기 위해서 많이 신경을 썼던것 같아요.",
+    "ideation_process": null
+  }
 }

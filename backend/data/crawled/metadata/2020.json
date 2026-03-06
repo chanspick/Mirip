@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2020_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:28:31.423340+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2020"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2020",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 돼지 저금통과 현미경이었으며, 받자마자 물체의 특성을 활용해야겠다고 생각했습니다. 또 전혀 관련성이 없어보이는 두 물체로 어떻게 자연스럽게 연출할까를 고민했습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 10.03,
+    "student_strength": "실기장을 둘러보니 주변에 물체를 아기자기하게 그린 친구들을 많이 보았습니다. 제 그림은 주제부가 굉장히 큰 면을 차지하고 있었기 때문에 여타 그림들과 차이가 나지 않았나 생각합니다.",
+    "teacher_feedback": "선생님이 주시는 과제를 해결하려고 노력했습니다.",
+    "ideation_process": "생각했습니다. 또 전혀 관련성이 없어보이는 두 물체로 어떻게 자연스럽게 연출할까를 고민했습니다."
+  }
 }

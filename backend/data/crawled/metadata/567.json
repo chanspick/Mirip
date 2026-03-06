@@ -13,5 +13,14 @@
     "data/crawled/raw_images/567_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:23:47.100973+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=567"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=567",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "노란색 종이학, 희색 주사위가 나왔습니다. 덩어리와 면제위주라 화면 구성이 쉽지 않았습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 30.78,
+    "student_strength": "학원에서 자체적으로 시험을 보고 전임선생님께서 강평을 해주실 때 마다 그것을 꼼꼼히 듣고 분석하여 다음 시험에서 그 부분은 절대 틀리지 않으려고 노력하려고 했던 것이 가장컸고, 다른 친구들의 단점과 장점도 내 것으로 만들기 위해 노력해야 한다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "덩어리와 면제위주라 화면 구성이 쉽지 않았습니다. 어색하지 않게만 그리자고 생각하며 풀어갔던것 같습니다."
+  }
 }

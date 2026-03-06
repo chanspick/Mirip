@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1887_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:22:42.951480+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1887"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1887",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 1.83,
+    "competition_ratio": 25.78,
+    "student_strength": null,
+    "teacher_feedback": "피드백을 같이 들을 수 있을뿐더러, 칭찬 받은 좋은 그림들까지 많이 볼 수 있었습니다.",
+    "ideation_process": null
+  }
 }

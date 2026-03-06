@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1410_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:00:56.741993+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1410"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1410",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "목도리,오이,거울이었으며 주어진 소재를 더 재밌게 구성하고 주어진 시간내에 더 사실적으로 묘사하기위해 손을 더 빠르게 움직였습니다.",
+    "practice_years": null,
+    "competition_ratio": 7.9,
+    "student_strength": "실기력이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

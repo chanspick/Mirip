@@ -13,5 +13,14 @@
     "data/crawled/raw_images/255_0.png"
   ],
   "crawled_at": "2026-01-27T13:10:36.412128+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=255"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=255",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "실기당일에 문제를 받았을때 좀 놀랐습니다. 비슷한 문제를 몇일전에 학원에서 한적이 있었거든요.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.65,
+    "student_strength": "몇일전에 비슷한 문제를 풀어봤던 것이 가장 크구요. 숙명여대를 준비하면서 여러 다앙한 이미지 문제에 대해서 많은 경험치를 쌓고 이해했던게 도움이 된것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "비슷한 문제를 몇일전에 학원에서 한적이 있었거든요. 소재는 달랐지만 덕분에 어느정도 응용을 할 수가 있었기 때문에 구성할때 시간도 많이 줄고 도움이 많이 되었던것 같습니다."
+  }
 }

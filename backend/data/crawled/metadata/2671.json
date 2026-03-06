@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2671_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:57:04.201790+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2671"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2671",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "권투 글러브, 글루건, 단풍잎이 출제되었습니다. 문제를 받고 권투 글러브가 찢어져 솜이 터져나오는 상황, 글루건에서 심이 분출되고 부러지는 상황 등을 생각하여 주어진 제시물로 연출할 수 있는 것을 최대한 표현하려 노력했습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 9.95,
+    "student_strength": "스케치 시간과 채색 시간의 단축을 위해 매일 학원에서 실전과 같은 반복된 연습을 하였고, 원장선생님께서 피드백을 해주시며 여러가지를 팁를 알려주셨습니다. 이렇게 단축 되어진 시간을 이용해서 디테일한 부분까지보강을 하며 마무리 작업을 하였습니다. 이때 화이트를 적극 활용하였던 것이 좀 더 완성도 있는 작품을 그릴 수 있었던 가장 큰 요인이었다고 생각합니다.",
+    "teacher_feedback": "선생님께서 피드백 해주시는 부분을 귀기울여듣고 질문을 하여 해결책을 얻고, 이후 보완할 점을 계속 생각하며 그렸습니다..",
+    "ideation_process": "문제를 받고 권투 글러브가 찢어져 솜이 터져나오는 상황, 글루건에서 심이 분출되고 부러지는 상황 등을 생각하여 주어진 제시물로 연출할 수 있는 것을 최대한 표현하려 노력했습니다."
+  }
 }

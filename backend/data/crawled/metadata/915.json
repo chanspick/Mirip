@@ -13,5 +13,14 @@
     "data/crawled/raw_images/915_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:38:47.473643+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=915"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=915",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "두루마리 휴지, 지퍼백, 면도날이 출제되었습니다. 제시된 개체들의 특성과 기능에 집중해서 연출했습니다.",
+    "practice_years": 2.83,
+    "competition_ratio": 5.31,
+    "student_strength": "시험을 보거나 평소작을 할 때 선생님께 반복적으로 듣는 문제점을 잘 보이는 곳에 적어두고 그릴 때마다 보며 고치려고 노력했습니다. 또한 선생님께서 그림을 보완해주시는 과정에서 선생님이 어떻게 하시는지 집중해 따라 하면서 내 것으로 만들려고 노력했습니다.",
+    "teacher_feedback": "선생님의 피드백을 적극적으로 수용하고 단점을 보완하며 그리는 것에 집중했습니다..",
+    "ideation_process": "제시된 개체들의 특성과 기능에 집중해서 연출했습니다. 휴지는 풀어서 선제로 사용하기도 하고 뜯는 등의 연출을 하고 지퍼백은 투명체로 약간의 굴절과 압축을 했고 면도날은 잔상을 넣어 자르고 있는 동세를 넣어 연출했습니다."
+  }
 }

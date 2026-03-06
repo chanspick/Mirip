@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3269_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:24:04.100577+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3269"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3269",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "선인장,보리,동전이 나왔고 학원에서 연습했던 대로 그렸습니다. 시험을 보면서 학원에서 그렸던 것 외에 내 그림에서 더 채워야할 것 같은 부분들도 더 그려내려고 노력했던 것 같습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 7.06,
+    "student_strength": "반복적인 연습인 것 같습니다. 같은 그림도 피드백 받은 뒤에 다시 보면서 생각하고, 시간 날 때마다 다시 그려보면서 내 그림에서 고쳐야 할 부분들을 확실하게 잡아갔습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "시험을 보면서 학원에서 그렸던 것 외에 내 그림에서 더 채워야할 것 같은 부분들도 더 그려내려고 노력했던 것 같습니다."
+  }
 }

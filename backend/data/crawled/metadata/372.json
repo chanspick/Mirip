@@ -13,5 +13,14 @@
     "data/crawled/raw_images/372_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:15:34.027290+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=372"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=372",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "손을 6개를 그려야 하는 상황인데 네 시간밖에 시간이 주어지지 않았잖아요. 합격을 좌우하는 건 이 시간안에 이걸 다",
+    "practice_years": 2.0,
+    "competition_ratio": 62.5,
+    "student_strength": "구도와 소묘 톤의 균형을 원장님께서 평소에 잘 이야기해주셨고 그게 시험장에서 정말 많은 도움이 되었어요.",
+    "teacher_feedback": "선생님이 많이 배려해주시고 요령만 배우는 게 아니라 기본기부터 탄탄하게 배웠던거 같아요.",
+    "ideation_process": "합격을 좌우하는 건 이 시간안에 이걸 다 완성하는 것 만으로도 큰 변별력이 있을 것 이라는 생각을 해서 주어진주제를 최대한 빨리풀어내려 노력했어요."
+  }
 }

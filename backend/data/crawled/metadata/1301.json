@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1301_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:55:50.943470+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1301"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1301",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "평소 지적받았던 부분들과 부족했던 부분들을 생각하면서 실수를 하지 않으려고 노력했습니다. 출제 문제는 라바콘, 충전 케이블, 종이배 이 3가지였고 평소에 연습하던 소재들이 나와서 평소 실력대로 하였습니다.",
+    "practice_years": 3.83,
+    "competition_ratio": 8.2,
+    "student_strength": "그림을 잘 그리는 것도 중요하지만 입시에서 가장 중요한 것은 ‘자기 관리’라고 생각합니다. 시간 분배를 잘 해서 그날에 자기가 해야 할 목표들을 다 이루고 그런 과정에서 오래 그림을 그려도 버틸 수 있게 체력 관리와 멘탈 관리도 틈틈이 하는 것이 입시를 하는데 큰 도움이 된다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "출제 문제는 라바콘, 충전 케이블, 종이배 이 3가지였고 평소에 연습하던 소재들이 나와서 평소 실력대로 하였습니다. 깔끔하게 채색하는 것이 저의 장점이기 때문에 최대한 깔끔하게 그려냈습니다."
+  }
 }

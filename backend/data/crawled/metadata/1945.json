@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1945_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:25:15.036489+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1945"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1945",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "에이스 크래커, 이중 유리컵, 서울우유가 나왔습니다. 제시물의 부피감이 비슷해서 물체배치가 난감했지만 중앙대학교를 준비하며 들었던 선생님의 피드백을 기억하며 구성을 했습니다.",
+    "practice_years": 1.92,
+    "competition_ratio": 4.35,
+    "student_strength": "선생님의 말씀을 잘 따른 것이라고 생각합니다. 질문이 생기면 선생님께 질문을 드렸고 그에 대한 답을 얻은 것이 실기에서도 학업에서도 도움이 가장 많이 되었습니다. 스스로에게서 질문을 찾고 답을 찾으려고 하는 자세를 가졌던 것이 실력 향상에 도움이 되었습니다.",
+    "teacher_feedback": "선생님의 피드백과 대조해보며 그림 보는 눈을 키웠습니다.",
+    "ideation_process": "제시물의 부피감이 비슷해서 물체배치가 난감했지만 중앙대학교를 준비하며 들었던 선생님의 피드백을 기억하며 구성을 했습니다. 제시물 간의 연관성을 생각하며 구성을 했습니다."
+  }
 }

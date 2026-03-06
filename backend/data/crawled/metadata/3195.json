@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3195_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:20:42.053457+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3195"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3195",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "4~50대 여성이었고 만드는 과정을 최대한 매끄럽게 진행하려 했으며 구조를 잘 만들려고 노력했다.",
+    "practice_years": 1.83,
+    "competition_ratio": 6.7,
+    "student_strength": "끝까지 포기하지않고 만들려고 노력했던 것인 것 같다.",
+    "teacher_feedback": "선생님들께서 하신 말씀을 다 받아들이려고 노력하였고 매일 수업시간보다 일찍나와서 연습했다.",
+    "ideation_process": null
+  }
 }

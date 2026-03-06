@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2234_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:37:47.982029+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2234"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2234",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "실기 시간이 짧은 관계로 렌턴의 빛처리와 지문이 가지는 면의 특성을 잘 활용하고자 노력한점이 주요했던것 같습니다.",
+    "practice_years": 1.42,
+    "competition_ratio": 32.1,
+    "student_strength": "완성도와 표현에 있어서 충실하였던 것이 합격요인 인것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

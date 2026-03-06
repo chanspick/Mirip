@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3077_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:15:24.658936+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3077"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3077",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "탁상용 스피커를 디자인 하는 문제였습니다. ‘탁상용’ 이라는 용도가 명확히 제시된 것을 보고 그 용도에 맞는 스피커를 디자인하는 것이 관건이라고 생각했습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 4.12,
+    "student_strength": "알람시계 기능을 결합하여 ‘탁상용’ 에 적합한 스피커를 디자인 한 것이 합격요인인 것 같습니다.",
+    "teacher_feedback": "선생님께서 알려주신 것들을 토대로 저의 것으로 만들기위해 노력했습니다.",
+    "ideation_process": "생각했습니다."
+  }
 }

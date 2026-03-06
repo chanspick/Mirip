@@ -13,5 +13,14 @@
     "data/crawled/raw_images/645_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:27:06.407104+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=645"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=645",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "첫 번째 문제에서 육면체의 재질을 자유롭게 표현하라는 조건을 보고 유리가 가장 재질의 특성을 잘 나타내기 좋다고 생각했습니다. 그래서 저는 육면체 뒤에 인물의 일부분이 비치게 배치하여 그림을 완성해 나갔습니다.",
+    "practice_years": null,
+    "competition_ratio": 3.0,
+    "student_strength": "평소에 선생님께서 다양한 방식으로 문제를 내주시고 그것들을 풀어나가는 연습을 했기 때문에 시험을 볼 때 당황하지 않고 침착하게 그림을 완성해 나갈 수 있었던 것 같습니다. 다른 학원들과 차별되는 구리 창조의 아침만의 스타일대로 배우면서 그림 안에 효과적으로 자신의 생각을 담아내는 것을 배울 수 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 그래서 저는 육면체 뒤에 인물의 일부분이 비치게 배치하여 그림을 완성해 나갔습니다."
+  }
 }

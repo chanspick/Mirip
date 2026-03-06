@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3710_0.png"
   ],
   "crawled_at": "2026-01-27T15:46:42.380275+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3710"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3710",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "눈송이가 녹는 걸 지켜보는 짧은 순간을 그리시오. 평소 풀던 조합 문제나 배치가 아니라서 당황하긴 했음.",
+    "practice_years": 2.0,
+    "competition_ratio": 3.5,
+    "student_strength": "완벽하지 못해도 꿋꿋하고 꾸준하게 임하는 자세와 태도라고 생각합니다. 아쉬운 부분을 다음 그림에서는 최대한 줄이고자 하는 의지 도 중요했습니다.",
+    "teacher_feedback": "선생님께서 꾸준히 하라는 대로 했습니다.",
+    "ideation_process": "평소 풀던 조합 문제나 배치가 아니라서 당황하긴 했음. 그러나 소설 일부분 발췌로 그 장면을 상상해서 그리는 게 재밌었습니다."
+  }
 }

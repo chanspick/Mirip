@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3148_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:18:35.265610+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3148"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3148",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "문제는 쇠 재질로 되어있는 샤프와 스프링 공책이 나왔고, 조건은 세로로 그리라고 나왔습니다. 세로로는 한번도 안 해봐서 조금 당황했는데 최대한 집중감을 주기 위해 주제부 위주로 그렸습니다.",
+    "practice_years": 2.08,
+    "competition_ratio": 7.72,
+    "student_strength": "샤프의 선적인 요소로 사용해서 한곳으로 모아 집중시키고 샤프를 큰 거 하나 작은 거 하나를 그려 크기 대비를 줘서 좀더 재밌게 그렸고, 공책은 종이의 특징을 최대한 잘 보여주기 위해서 종이가 접히는 모습도 보여주고 종이가 날리는 모습도 보여주려고 했어요.",
+    "teacher_feedback": null,
+    "ideation_process": "세로로는 한번도 안 해봐서 조금 당황했는데 최대한 집중감을 주기 위해 주제부 위주로 그렸습니다."
+  }
 }

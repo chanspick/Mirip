@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3226_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:22:04.618302+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3226"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3226",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "당일 꽃이미지4개와 아이스크림 나무막대가 제시되고 집중과 확산이라는 제시어가 나왔습니다. 조건으로는 임의의 원을 그려 원 내부는 2d 외부는 3d로 그리고, 주조색은 파스텔톤으로 그리라고 되어있었습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 14.02,
+    "student_strength": "조건에 벗어나지 않고 깔끔하게 제시어를 표현한 것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "조건으로는 임의의 원을 그려 원 내부는 2d 외부는 3d로 그리고, 주조색은 파스텔톤으로 그리라고 되어있었습니다. 일단 제시어인 집중과 확산을 강조시키기 위해서 꽃을 평면적으로 배치하고 모양이 다른 꽃 2개를 겹쳐서 제시어를 더욱 효과적으로 나타내려 하였습니다."
+  }
 }

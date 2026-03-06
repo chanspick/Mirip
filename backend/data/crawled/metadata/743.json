@@ -14,5 +14,14 @@
     "data/crawled/raw_images/743_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:31:17.724416+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=743"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=743",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "실기고사 출제문제는 머리에 샤워비닐 캡을 쓰고 있었고 겉옷 위에 투명 우비를 입고 있어서 비닐표현에 신경을 많이 썼다. 정물이였던 우산도 디테일을 신경쓰며 열심히 그렸다.",
+    "practice_years": 4.0,
+    "competition_ratio": 41.2,
+    "student_strength": "자리는 추첨을 통해서 정해졌는데 운좋게 정면 자리가 나와서 더 자신감을 가지고 그렸던 거 같다.",
+    "teacher_feedback": "선생님들의 피드백을 받으며 좋은 그림을 그리려 노력했다..",
+    "ideation_process": "정물이였던 우산도 디테일을 신경쓰며 열심히 그렸다."
+  }
 }

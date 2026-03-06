@@ -13,5 +13,14 @@
     "data/crawled/raw_images/440_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:18:25.295811+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=440"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=440",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "문제는 “한국지폐 5만원권, 미국지폐 5달러, 10원 동전을 이용해서 ”속도감을 표현하라“ 였으며, 주제의 논지를 벗어나지 않으면서 독특하게 보이기 위해 아이디어 시간을 많이 투자했습니다. 스토리가 읽혔던 것 같아서 다행이라고 생각했습니다,",
+    "practice_years": 5.0,
+    "competition_ratio": 32.45,
+    "student_strength": "정신적으로 힘든 시기에.. 선생님의 관심과 그 관심에 부흥하기 위해 노력했던 스스로의 모습들이 돌이켜보면, 가장 큰 원동력이었던 것 같습니다. 다시 한 번 학원 선생님께 감사의 말씀을 드리고 싶습니다.",
+    "teacher_feedback": "선생님께서 끝까지 잘 잡아주셔서 시험을 잘 볼수 있었다고 생각합니다.",
+    "ideation_process": "생각했습니다,"
+  }
 }

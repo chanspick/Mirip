@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2118_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:32:47.114063+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2118"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2118",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "백산수생수병과 손전등이 나왔습니다. 그렇게 쉬운 조합은 아니였는데 위에 말한것 처럼 어려운 조합으로 했었는데 그중에 비슷한 조합으로 나와서 학원에서 했던거 처럼 어렵지 않게 풀어나갔습니다.",
+    "practice_years": 1.67,
+    "competition_ratio": 5.33,
+    "student_strength": "선생님이 시키는 대로 무조건 한다.",
+    "teacher_feedback": "선생님이 가면 뭐가 나올지 모르는 거라고 하셔서 일부러 어려운 조합으로 내주셔서 연습해보았습니다..",
+    "ideation_process": "그렇게 쉬운 조합은 아니였는데 위에 말한것 처럼 어려운 조합으로 했었는데 그중에 비슷한 조합으로 나와서 학원에서 했던거 처럼 어렵지 않게 풀어나갔습니다."
+  }
 }

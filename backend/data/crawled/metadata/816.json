@@ -13,5 +13,14 @@
     "data/crawled/raw_images/816_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:34:34.185317+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=816"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=816",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "'거울을 보면 화장을 하고있는 20대 여성'을 조형화하라는 문제가 나왔다. 문제를 받고 주제에 충실하되 시선을 끌만한 요소들을 추가하여 만들었다.",
+    "practice_years": 2.5,
+    "competition_ratio": 8.4,
+    "student_strength": "긴장을 많이 하는 편인데 마음을 편하게 먹으려 노력했고 어떻게 하면 주제에 어긋나지않으면서 더 재미있게 표현할 지를 고민했다. 평소에 내가 만든 조형을 어떻게 배치해야할 지를 어려워했는데 학원 선생님들이 작품의 구성이나 구조를 응용하는 연습을 많이 시켜주셨기때문에 시험날에는 큰 고민없이 생각해낼 수 있었다.",
+    "teacher_feedback": null,
+    "ideation_process": "문제를 받고 주제에 충실하되 시선을 끌만한 요소들을 추가하여 만들었다."
+  }
 }

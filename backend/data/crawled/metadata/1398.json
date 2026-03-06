@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1398_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:00:23.921442+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1398"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1398",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "한 번씩 해봤던 개체라서 완성은 할 수 있겠다는 생각을 가지고 편안하게 시작했어요. 형태랑 투시가 계속 미세하게 틀리면서 그림에 흠이 생기는 게 싫어서 평면으로 그렸어요.",
+    "practice_years": 2.17,
+    "competition_ratio": null,
+    "student_strength": "첫 번째는 실기장에 가서 편안한 마음을 가지는 게 가장 중요한 거 같아요. 열심히 준비해도 막상 가서 떨리고 잘하고 싶은 마음이 크면 더 생각도 안 나고 그림도 잘 안 나와요. 실기장 가서 주변 애들 그림 보고 기죽지 말아요. 내가 여기서 제일 미쳤다 생각하고 그리면 돼요. 두 번째는 출석과 자신의 의지인 거 같아요.",
+    "teacher_feedback": null,
+    "ideation_process": "형태랑 투시가 계속 미세하게 틀리면서 그림에 흠이 생기는 게 싫어서 평면으로 그렸어요. 도자기 그릇 묘사를 최대한 올리되 너무 세게하면 나 좀 뽑아달라고 들이미는 것 같아서 블랙의 단조로움으로 묘사의 균형을 맞춰줬어요."
+  }
 }

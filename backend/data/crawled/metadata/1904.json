@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1904_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:23:26.813575+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1904"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1904",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 오징어와 모자였습니다. 묘사하기 까다로운 소재가 나왔기 때문에 효율적으로 구도를 짜 시간을 단축하고자 노력했습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 7.6,
+    "student_strength": "개인별 밀착수업으로 운영하는 학원이기 때문에 원장 선생님께 밀착 케어를 받을 수 있었던 점이 실기력 향상에 큰 도움이 된 것 같습니다. 또한 보조 선생님들의 시범들과 섬세한 피드백 역시 많은 도움이 되었던 것 같습니다.",
+    "teacher_feedback": "선생님의 피드백을 자세히 듣고 같은 실수를 반복하지 않고자 하였으며 수업 시간 이외에도 선생님들께 자주 질문하며 부족한 부분을 빠르게 채우고자 하였습니다..",
+    "ideation_process": "묘사하기 까다로운 소재가 나왔기 때문에 효율적으로 구도를 짜 시간을 단축하고자 노력했습니다. 또한 남들과 차별화를 두기 위해 단순히 구도에 끼워 맞추지 않고 스토리텔링과 연출에 집중하려고 노력한 것 같습니다."
+  }
 }

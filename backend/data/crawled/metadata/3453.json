@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3453_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:32:54.305577+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3453"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3453",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "사실적인 질감 표현과 창의적인 아이디어가 중요하다는 말을 선생님들께서 굉장히 많이 해주셨기 때문에, 아이디어 스케치를 1시간 정도 투자하여 디자인을 구체화하고 퀄리티를 높이는 데 신경 많이 썼습니다. 풍선은 질감적인 특징이, 냅킨은 무늬의 특징이 강하다고 생각해서 그 부분들을 시각화하여 적극적으로 문제풀이를 하려 노력했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 18.93,
+    "student_strength": "가장 큰 이유를 한마디로 정리하자면 노력의 질이 달랐기 때문이라고 생각합니다. 입시생이라면 당연히 저마다의 노력을 하고 있겠지만 정확한 기준을 가지고 노력하는 것이 가장 중요하다고 생각하는데 학원에서 배운 올바른 채점기준을 가지고 그 눈높이에 맞추려고 노력한 것이 가장 큰 이유라고 생각합니다.",
+    "teacher_feedback": "선생님께 작년 합격생 분의 우수작을 따로 요청하여 많이 참고했습니다.",
+    "ideation_process": "생각해서 그 부분들을 시각화하여 적극적으로 문제풀이를 하려 노력했습니다. 소묘에서도 아이디어 스케치와 톤 설정을 정확하게 하고 들어가 시간을 줄일 수 있었습니다."
+  }
 }

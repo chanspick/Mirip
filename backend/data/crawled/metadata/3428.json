@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3428_0.png"
   ],
   "crawled_at": "2026-01-27T15:31:42.077154+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3428"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3428",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "실뭉치와 카드, 고무줄이었습니다 고무줄과 실뭉치 카드를 어떻게하면 연관지어서 연출할 수 있을지 생각하다가 남들과 다르게 카드를 크게 정면으로 둬서 이목을 집중시키고 실뭉치와 카드를 고무줄이 당기는 관계를 찾아주며 그리자고 생각했던거같습니다",
+    "practice_years": 4.5,
+    "competition_ratio": 38.39,
+    "student_strength": "최대한 남들과 겹치지 않는 구도를 선생님과 같이 짜고 그 구도를 토대로 저만의 채색법을 찾으려고 노력했습니다. 또 부족한 부분이 있으면 선생님께 계속 피드백 받고 다듬었습니다",
+    "teacher_feedback": null,
+    "ideation_process": "고무줄과 실뭉치 카드를 어떻게하면 연관지어서 연출할 수 있을지 생각하다가 남들과 다르게 카드를 크게 정면으로 둬서 이목을 집중시키고 실뭉치와 카드를 고무줄이 당기는 관계를 찾아주며 그리자고 생각했던거같습니다"
+  }
 }

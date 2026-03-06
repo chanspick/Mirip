@@ -13,5 +13,14 @@
     "data/crawled/raw_images/842_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:35:40.096527+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=842"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=842",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "기디가 첫해라 기출이 없어서 많이 무서웠었는데, 생각보다 쉬운 얼음이랑 축구공이 나왔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 17.48,
+    "student_strength": "고3 때 입시를 실패하고 실기에 자신이 없었지만, 학원에서 정기적인 세미나를 통해 자신감이 생겼습니다. 또 유니온 미술학원에서 기초디자인 이론 교재들과 각 대학교별 준비 교재가 있어서 점점 더 실기에 대한 자신감이 생겨 정말 많은 도움이 되었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "쉬운 얼음이랑 축구공이 나왔습니다. 사물들을 보면 둘 다"
+  }
 }

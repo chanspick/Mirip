@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3854_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:54:36.339890+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3854"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3854",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "젊고 건장한 체형의 남성 사진이 나왔습니다. 건장한 젊은 남성의 체형에 맞춰 전체 실루엣과 균형이 정확하게 보이도록 하는 데 가장 집중하며 작업했습니다.",
+    "practice_years": 3.42,
+    "competition_ratio": 14.0,
+    "student_strength": "매일 학원에 갈 때마다 최소 한 가지는 얻어오자는 마음으로 틀린 부분을 꾸준히 체크하고 수정했던 점이 가장 큰 요인이었다고 생각합니다. 작은 피드백이라도 꼭 메모해두고 다음 작업에서 조금씩 적용하려는 습관이 큰 도움이 됐습니다.",
+    "teacher_feedback": "선생님 피드백을 반영해 작업과 시험에서 완성도를 높여갔습니다..",
+    "ideation_process": "건장한 젊은 남성의 체형에 맞춰 전체 실루엣과 균형이 정확하게 보이도록 하는 데 가장 집중하며 작업했습니다."
+  }
 }

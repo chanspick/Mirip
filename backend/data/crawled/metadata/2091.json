@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2091_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:31:37.334875+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2091"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2091",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "빨대 집게 모나미볼펜으로 화면안에서 긴장감을 표현하시오 시험 당일 문제가 미리 연습했던 것과 비슷해서 전임선생님께서 그 당시 피드백 해주셨던 구도가 생각이 났고, 그 구도에 국민대문제에 나온 '긴장감'이란 단어가 잘 어울린다고 생각해 어렵지 않게 잘 표현할 수 있었던 것 같습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 3.31,
+    "student_strength": "전임선생님께서 그려서 피드백해주신 그림과 알려주시는 부족한 점을 메모해 생각날때마다 한번씩 보는 습관을 들이는 것 입니다.",
+    "teacher_feedback": "선생님이 만드신 다양한 유형의 국민대 예상문제를 매일 풀었고 아이디어스케치 숙제또한 꾸준하게 했습니다.",
+    "ideation_process": "표현하시오 시험 당일 문제가 미리 연습했던 것과 비슷해서 전임선생님께서 그 당시 피드백 해주셨던 구도가 생각이 났고, 그 구도에 국민대문제에 나온 '긴장감'이란 단어가 잘 어울린다고 생각해 어렵지 않게 잘 표현할 수 있었던 것 같습니다."
+  }
 }

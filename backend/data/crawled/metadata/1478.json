@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1478_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:04:07.924799+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1478"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1478",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "탁구공, 탁구채,가위, 로프, 주사위 개체들이 많았기 때문에 산만하지 않게 하도를 구성했고, 묘사를 최대화하기 위해 노력했습니다.",
+    "practice_years": 1.33,
+    "competition_ratio": 20.9,
+    "student_strength": "자신이 없거나 어려운 주제가 나왔어도 당황하지 않는 것이었습니다. 저는 가위를 그리는 것을 어려워했는데 주제로 가위가 나왔지만 당황하지 않고 잘 풀어나가기 위해 노력했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2919_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:08:18.372008+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2919"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2919",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 일회용 용기와 계량스푼으로 중첩을 표현하시오 중첩’이라는 키워드를 살리기 위해 최대한 노력했고, 남들과 다른 중첩의 모습을 만들기 위해 생각했다. 투명체의 중첩으로 투명도의 변화를 보여주었고, 주제에 중심을 중첩되는 공간의 중앙으로 설정하여 중첩됨을 강조했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 62.92,
+    "student_strength": "키워드(제시어)를 주는 학교이기 때문에 장점인 바른 순발력을 활용하여 밀도를 올렸고, 나만의 스타일을 살려 키워드를 표현하는데 집중했다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오 중첩’이라는 키워드를 살리기 위해 최대한 노력했고, 남들과 다른 중첩의 모습을 만들기 위해 생각했다. 투명체의 중첩으로 투명도의 변화를 보여주었고, 주제에 중심을 중첩되는 공간의 중앙으로 설정하여 중첩됨을 강조했다."
+  }
 }

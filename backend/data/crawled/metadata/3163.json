@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3163_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:19:15.461088+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3163"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3163",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "밀폐용기, 꼬리빗, 티백이 나왔습니다. 조건이 꽤 까다로웠기 때문에 제한된 조건 내에서 제시물 하나하나를 잘 보이도록 크게 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 7.5,
+    "student_strength": "제시된 조건을 잘 지키고 주제가 잘 보이게 하는 것이라고 생각합니다. 늘 선생님이 얘기해주시던 처음 그림을 볼 때 강하면서 좋은 느낌을 주도록 노력했던 것 같습니다.",
+    "teacher_feedback": "선생님의 피드백을 귀기울여 들으려 했습니다..",
+    "ideation_process": "조건이 꽤 까다로웠기 때문에 제한된 조건 내에서 제시물 하나하나를 잘 보이도록 크게 그렸습니다."
+  }
 }

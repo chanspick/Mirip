@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3239_0.png"
   ],
   "crawled_at": "2026-01-27T15:22:38.770930+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3239"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3239",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "그동안 망칠대로 망치며 내가 잘 그리는 그림과 못 그리는 그림을 명확히 파악하고 들어갔습니다. 문제가 조금 당황스러웠지만 가장 잘 그릴 수 있는 풍경을 적당히 변형해 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "선생님께 : 부족한 실력에 답답할 때도 많으셨겠지만 믿고 끌어올려 주셔서 감사합니다. 학원 좋은 점 : 청학원의 가장 큰 장점은 나보다 훨씬 잘하는 사람들 사이에서 성장할 수 있다는 점입니다. 또 입시자료가 많아 모르는 것에 대한 막연한 불안함이 없었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "문제가 조금 당황스러웠지만 가장 잘 그릴 수 있는 풍경을 적당히 변형해 그렸습니다."
+  }
 }

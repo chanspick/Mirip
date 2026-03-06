@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2155_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:34:22.046575+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2155"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2155",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "팬데믹 이후의 미래상황이었던 것 같습니다. 학원에서 미래와 관련된 주제로 많이 풀어봤기에 이전의 기억들을 다듬어서 그림을 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "선생님을 믿고 따르는 것과 고집을 버리는 것이 제일 중요하다고 생각합니다!",
+    "teacher_feedback": "피드백을 들으며 본받을점, 보완해야 할 점들을 기록하며 보완해가며 준비했습니다..",
+    "ideation_process": "학원에서 미래와 관련된 주제로 많이 풀어봤기에 이전의 기억들을 다듬어서 그림을 그렸습니다."
+  }
 }

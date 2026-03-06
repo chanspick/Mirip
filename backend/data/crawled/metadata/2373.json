@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2373_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:43:51.878151+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2373"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2373",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "당일주제는 제가 정말 좋아했던 주제인 기타와 볼링핀, 제시어는 율동감이 나왔는데요. 좋아했던 주제가 나온 만큼 풍성한 그림을 만들려고 노력했고요, 주제부를 기타로 넣어, 나열되어 있는 볼링핀을 쳐서 일렁이며 기타줄과 함께 배경으로 빠지며 율동감을 보여주는 구도로 풀어나갔습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 7.28,
+    "student_strength": "전임 선생님들의 특훈과 온화한 색감이 아닐까 생각합니다. 주변 친구들의 그림은 상대적으로 칙칙한 부분이 있었지만, 저는 선생님께서 알려주신 채색방법과 온화한 색감으로 다른 친구들보다 눈에 띄는 그림을 그렸구요 무엇보다 스케치를 집중적으로 봐주시면서 제 그림에 대해 피드백을 많이해주셨고,그러면서 알게된 문제점을 고쳐나가며 굉장이 많은 도움이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "좋아했던 주제가 나온 만큼 풍성한 그림을 만들려고 노력했고요, 주제부를 기타로 넣어, 나열되어 있는 볼링핀을 쳐서 일렁이며 기타줄과 함께 배경으로 빠지며 율동감을 보여주는 구도로 풀어나갔습니다."
+  }
 }

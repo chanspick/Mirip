@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2912_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:07:58.902391+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2912"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2912",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "고개를 들고있고 동세가 있는 20대 남성을 제작하는 것이었으며, 동세가 있는 모델이었기에 초반과정에서 그에 맞는 동세가 나오도록 하는것에 중점을 두었다. 얼굴 내부를 제작하다가도 큰 동세감이 맞는지 얼굴과 가슴판의 방향성이 맞는지 등, 큰 실루엣을 맞추려 작은사진을 들고 자주 나와 확인하였다.",
+    "practice_years": 2.0,
+    "competition_ratio": 27.83,
+    "student_strength": "평소 이목구비 중 눈과 입술의 밀도차가 많이 난다는 평을 들었었는데 이번시험에서 눈에 할애하던 시간을 쪼개 입술 밀도에 사용하였는데 그 점이 작품의 전체적인 밸런스가 맞아보이게 하는데에 있어서 도움이 되었다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "얼굴 내부를 제작하다가도 큰 동세감이 맞는지 얼굴과 가슴판의 방향성이 맞는지 등, 큰 실루엣을 맞추려 작은사진을 들고 자주 나와 확인하였다."
+  }
 }

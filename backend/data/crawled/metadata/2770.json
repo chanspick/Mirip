@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2770_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:01:35.263055+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2770"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2770",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "드론,애플워치,와인 오프너, 파우치, 볼펜 이출제 되었다. 학교 학과별 수업을 통해 선생님꼐서 지도해주신 덕에 제시물과 비슷한 물체들을 다수 그려보았었고, 과 특성상 산업디자인과 비슷하다고 생각되어 개체간의 명도대비와 구조적 ,기능적 특성을 최대한 많이 보여주려고 노력했던 것 같다.",
+    "practice_years": 3.0,
+    "competition_ratio": 11.05,
+    "student_strength": "담임선생님들과 전임 선생님의 현실적이고 구체적인 조언 못 그린 그림일지라도 그림 한장한장에서 배워나갈 과 고쳐야할 점을 세세하게 지도해주시고, 명도대비와 기본기를 중요시한 만큼 좋은 결과가 있엇던 것 같다.",
+    "teacher_feedback": "선생님들의 의견을 귀담아 듣고 현재 내상황을 알려고 항상 고민했던 것 같다.",
+    "ideation_process": "학교 학과별 수업을 통해 선생님꼐서 지도해주신 덕에 제시물과 비슷한 물체들을 다수 그려보았었고, 과 특성상 산업디자인과 비슷하다고 생각되어 개체간의 명도대비와 구조적 ,기능적 특성을 최대한 많이 보여주려고 노력했던 것 같다."
+  }
 }

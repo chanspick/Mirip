@@ -13,5 +13,14 @@
     "data/crawled/raw_images/707_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:29:44.486047+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=707"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=707",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제은행에 나와있는 주사위.단풍잎.럭비공이었습니다. 학원에서 준비했던 주제 였기때문에 그동안 들었던 피드백들을 다시 생각하며 풀어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 4.22,
+    "student_strength": "선생님들의 훌륭하신 피드백들과 저의 피같은 노력입니다.",
+    "teacher_feedback": "선생님들의 말씀 항상 기억하고 피드백을 항상 필기하며 열심히 고쳐 나갔습니다.",
+    "ideation_process": "학원에서 준비했던 주제 였기때문에 그동안 들었던 피드백들을 다시 생각하며 풀어나갔습니다."
+  }
 }

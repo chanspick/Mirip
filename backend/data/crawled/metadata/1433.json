@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1433_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:02:01.430953+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1433"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1433",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "다이슨 드라이기, 수세미, 여행용 빗이 나왔습니다. 선 요소를 사용하는 제 구도에 걸맞은 주제에 난이도도 어렵지 않아서 침착한 마음으로 들었던 피드백을 상기하며 너무 급하게 행동하지 않았습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 5.7,
+    "student_strength": "적절한 자기 객관화와 겸손한 태도라고 생각합니다. 아무리 잘 그린 그림도 어딘가는 단점이 있기 마련이고, 현재의 그림에 자만하지 않고 그 단점들을 고쳐나갔기 때문에, 좋은 결과가 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "선 요소를 사용하는 제 구도에 걸맞은 주제에 난이도도 어렵지 않아서 침착한 마음으로 들었던 피드백을 상기하며 너무 급하게 행동하지 않았습니다. 조형적 요소를 신경 써서 배치했던 점이 좋은 결과를 이끌어준 것 같습니다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2702_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:58:27.350133+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2702"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2702",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "4절에 검은 스탠드와 귤, 파란 장갑이 출제되었습니다. 디자인피노 학원에서 대비했던 대로 문제가 출제되어서, 정시특강 기간동안 연습했던 그대로 그림을 풀어나갈 수 있었습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 9.11,
+    "student_strength": "디자인피노에서 주제부들의 포지션을 미리 정해두고 연습했기 때문에 좋은 점수를 받았다고 생각합니다. 자연히 스케치를 뜨는 시간이 줄어 채색에 집중할 수 있었던 것 또한 큰 요인이라 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "풀어나갈 수 있었습니다. 파란 장갑과 스탠드의 빛을 받은 귤을 주제부로 그렸기 때문에 좋은 점수를 받은 것 같습니다."
+  }
 }

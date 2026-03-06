@@ -13,5 +13,14 @@
     "data/crawled/raw_images/568_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:23:49.627311+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=568"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=568",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "양파,뿔테 안경,R자 패턴지가 나왔구요 안경이 펼쳐지는 모양을 잘 보여주려고 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.92,
+    "student_strength": "시험장에서 학원 선생님께서 지적해 주신 여러가지 그림의 장단점을 기억해내며 그려낸 것이 합격의 주요인이라고 생각합니다 . 그리고, 시험 전날 돋보기를 그려봤었는데 그게 안경의 깔끔한 표현에 도움이 됐던것 같아요.",
+    "teacher_feedback": null,
+    "ideation_process": "안경이 펼쳐지는 모양을 잘 보여주려고 했습니다. 양파 껍질은 조형적이지 않은 것 같아서 까거나 자르지 않았구요"
+  }
 }

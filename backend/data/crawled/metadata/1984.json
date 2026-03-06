@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1984_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:26:56.519833+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1984"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1984",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "검정 반팔 반바지를 입고 런지 자세를 하며 훌라후프를 들고 있는 여성의 정면, 측면 사진 전반적으로 공간감을 어떻게 해석해야하는지를 주요 포인트로 삼고 계획을 세워나갔다.",
+    "practice_years": 1.67,
+    "competition_ratio": 3.33,
+    "student_strength": "성적이 낮아 멘탈이 흔들릴때마다 실기력을 늘리면 또 한번의 기회가 찾아온다는 선생님들의 말씀이 합격의 주요 원인이었다.",
+    "teacher_feedback": null,
+    "ideation_process": "포인트로 삼고 계획을 세워나갔다."
+  }
 }

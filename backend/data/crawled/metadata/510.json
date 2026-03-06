@@ -13,5 +13,14 @@
     "data/crawled/raw_images/510_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:21:22.685813+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=510"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=510",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.0,
+    "competition_ratio": 16.07,
+    "student_strength": null,
+    "teacher_feedback": "선생님이 많이 계셔서 다양한 의견을 들으며 제 장단점에 대해서 더 잘 파악할 수 있었습니다.",
+    "ideation_process": null
+  }
 }

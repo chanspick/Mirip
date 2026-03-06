@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3577_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:38:52.974991+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3577"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3577",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 9.58,
+    "student_strength": "꾸준한 내신 성적 관리와 다양한 학교 활동 참여가 주요 요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

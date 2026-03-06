@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1759_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:17:12.306616+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1759"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1759",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "[친구를 만나러 가는 버스안에서 오래전에 좋아했던 이성친구를 만났다] 라는 주제를 받았었고 친구,좋아했던 이성친구 라는 키워드가 나온만큼 청춘을 그려내고 싶었고, 아무도 자신을 응원해주지 않고 꿈을 포기하려던 주인공이 자신에게 기대를 해주는 사람(이성친구)도 있다는걸 알고 다시 도전하는 내용의 만화를 그렸습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 9.47,
+    "student_strength": "주제 내에서 하고싶은얘기를 잘 풀어내었다고 생각합니다, 그림 퀄리티를 생각해보면....내용의 감성이 대학과 잘 맞았던게 아닐까 싶습니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

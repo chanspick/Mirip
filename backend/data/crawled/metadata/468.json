@@ -13,5 +13,14 @@
     "data/crawled/raw_images/468_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:19:36.020668+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=468"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=468",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "골프공을 이용하여 다이나믹한 자연을 그리라는 주제가 나왔습니다. 골프공의 색의 명도가 차이나도록 소묘를 진행 후 디자인에서 골프공을 최대한 많이 보이게 배치하면서 활용하는 발상을 진행하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 9.4,
+    "student_strength": "선생님께서 늘 사고,발상 그림은 주제가 한눈에 보여야한다. 많이만 그리려 하지 말고 주제가 한번에 이해가고 제시물을 잘 활용했는지 잘보이게 고민하라고 하셨습니다. 이번 시험에서도 배경과 주제에 명암대비를 이용하여 한눈에 잘보이게 하고 주제는 크게 배치하였던 것이 합격포인트 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "발상을 진행하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/523_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:21:55.352882+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=523"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=523",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "학원에서 같은 소재인 거울지를 그려본 적이 몇 번 있었지만 좋지 않은 그림이 나왔었기 때문에 처음에 소재를 받고 정말 침착하게 생각하려고 애썼던 것 같아요.",
+    "practice_years": 1.0,
+    "competition_ratio": 3.65,
+    "student_strength": "체크리스트를 지키는 걸 가장 중요하게 생각한 것 같습니다. 시험보기 전 날 밤에 마지막으로 체크리스트를 정리해서 시험 보는 날 아침에도 읽어보고 갔어요. 기본을 지키는 규칙 같은 것들과 제가 부족한 것들을 체크리스트화해서 항상 의식하면서 그리면 대단한 그림이 아니더라도 단점 없는 그림을 그릴 수 있을 거라고 생각했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "우선 학원에서 그 그림을 그렸을 때 제가 간과했었던 부분을 보완하려고 했는데 반사필름이 가변적인 특성이 있으니까 그냥 거울처럼 그리면 안 된다는 것, 반사되는 이미지와 실물 이미지에 분명한 차이가 보여야한다는 것, 그리고 문제에서 “실물 크레욜라와 반사필름에 투영된 이미지”를 그리라는 일종의 제시어가 나왔기 때문에 그걸 주제부에서 확실하게 보여줘야 한다는 것을 생각하면서 그렸습니다. 국민대 실기는 빨리 그리는 것보다"
+  }
 }

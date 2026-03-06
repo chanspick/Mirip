@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2330_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:42:00.130947+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2330"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2330",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "’만년필, 스텐드 전구, 종이로 다이나믹한 디자이너의 삶을 표현하시오‘ 이 주제를 받고 평소에 연습한 역동성이라는 주제를 떠올렸고 최대한 그림속에 움직임을 많이 표현하려 했습니다.",
+    "practice_years": 3.25,
+    "competition_ratio": 26.79,
+    "student_strength": "출제문제인 전구를 그리지 않았다. 전구를 넣으면 주제가 작아지고 그림의 큰 축이 사라질 것 같았다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오‘ 이 주제를 받고 평소에 연습한 역동성이라는 주제를 떠올렸고 최대한 그림속에 움직임을 많이 표현하려 했습니다."
+  }
 }

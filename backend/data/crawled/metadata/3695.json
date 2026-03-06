@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3695_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:45:56.223727+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3695"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3695",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "[앵무새/해바라기/달걀껍질] 학원에서 미리 풀었던 문제이기에 최대한 똑같이 그렸습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.97,
+    "student_strength": "선생님들이 주시는 피드백을 잘 받아들이고 학원에서 연습했던 대로 하면 합격할 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/454_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:19:00.407029+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=454"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=454",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제고사 당일 풀어본 문제가 나와 형태를 가장 신경을 많이�㎢�. 시간이 남아서 세부묘사및 마무리에 더욱 집중하였다.",
+    "practice_years": 3.0,
+    "competition_ratio": 13.65,
+    "student_strength": "나의 아이디어와 원장님의 피드백을 합쳐 나만의 구도를 만들기위해 최선을 다해 노력한것이 합격의 주 요인인것같다.",
+    "teacher_feedback": null,
+    "ideation_process": "시간이 남아서 세부묘사및 마무리에 더욱 집중하였다."
+  }
 }

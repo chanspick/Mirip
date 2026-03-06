@@ -13,5 +13,14 @@
     "data/crawled/raw_images/464_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:19:25.679165+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=464"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=464",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.5,
+    "competition_ratio": 13.4,
+    "student_strength": null,
+    "teacher_feedback": "선생님의 채본을 그대로 외워서 그리면서 실기를 준비했었습니다.",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1130_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:21.082355+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1130"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1130",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "벽시계와 공책 스프링으로 시간여행을 표현하는 것이 출제문제였습니다. 각 개체의 면선점 요소를 생각하고 제시어에 맞는 선을 넣고 구성했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 17.48,
+    "student_strength": "준비를 도와주신 입시반 선생님들과 예비반 때 부터 기본기를 다져주신 예비반 선생님들 덕분이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 것이 출제문제였습니다. 각 개체의 면선점 요소를 생각하고 제시어에 맞는 선을 넣고 구성했습니다."
+  }
 }

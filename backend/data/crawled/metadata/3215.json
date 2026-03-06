@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3215_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:21:36.090412+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3215"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3215",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "애벌레, 아이스 아메리카노, 신발끈이 나왔고 아이스아메리카노가 쏟아지는 것을 집중시키려 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 7.28,
+    "student_strength": "입시만 바라보고 질문을 많이 해서였던것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

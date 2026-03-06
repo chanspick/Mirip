@@ -13,5 +13,14 @@
     "data/crawled/raw_images/512_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:21:27.815929+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=512"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=512",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "긴장이 됐었지만 지금까지 봐왔던 수많은 모의시험들을 떠올리면서 조급해하지 않고 평소하던 패턴대로 그림을 풀어나가다 보니 긴장도 점점 풀렸다.",
+    "practice_years": null,
+    "competition_ratio": 12.0,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "풀어나가다 보니 긴장도 점점 풀렸다."
+  }
 }

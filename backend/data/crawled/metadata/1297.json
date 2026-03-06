@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1297_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:55:40.734644+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1297"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1297",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "호두, 붉은털실, 바나나 이렇게 3가지 종류가 나왔는데 여기서 2가지를 선택해서 화면을 구성하는 시험이였습니다. 평소 제가 기억해두었던 구도를 바탕으로 바나나와 호두를 선택해 명도차이를 주어 눈에 띄게하고, 바나나는 껍질이 벗겨져 속이보게하며 호두는 깨져 울퉁불퉁한 형태가 시각적으로 더 재밌게 보일거라고 생각되어 이런발상을 할수 있었습니다.",
+    "practice_years": 1.75,
+    "competition_ratio": 6.36,
+    "student_strength": "시험을 준비하는 학교의 합격작을 계속보고 특징을 익혀두면 좋을것같다고 생각하고, 성적도 평균이된다면 실기에 비중을 두고 실력을 쌓는게 주요인인것같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "발상을 할수 있었습니다."
+  }
 }

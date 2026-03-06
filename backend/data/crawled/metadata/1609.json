@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1609_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:10:12.978702+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1609"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1609",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제된 소재는 목걸이 선풍기와, 구슬형태의 파운데이션이었고, 집중과 확산이 주제어였다. 크게 그리기 위한 구성으로 연출하였고 주제부의 개수를 줄였다.",
+    "practice_years": 2.0,
+    "competition_ratio": 24.17,
+    "student_strength": "우리 학원의 장점이라고도 볼 수 있는데 전임선생님 세 분에게 돌아가면서 다양한 피드백을 받았다. 공통적인 지적사항은 반드시 고치려 노력했고, 다른 시각에서의 강평은 정말 많은 도움이 되었다.",
+    "teacher_feedback": null,
+    "ideation_process": "크게 그리기 위한 구성으로 연출하였고 주제부의 개수를 줄였다. 선풍기는 형태의 특성상 전체형태를 주제부에 배치하면 매우 작아지거나 묘사할 부분이 줄어들 것 같아, 두 개의 선풍기 중 하나의 선풍기만 주제부에 배치했고 다른 하나는 원거리에 배치해 원근감을 나타냈다."
+  }
 }

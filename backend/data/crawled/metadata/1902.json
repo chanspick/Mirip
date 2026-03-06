@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1902_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:23:21.676483+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1902"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1902",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "원장선생님께서 항상 출제자의 의도를 생각하라고 강조하셨던 게 떠올라 출제자가 이 문제로 보고 싶었던 것이 무엇일지 생각해 보았습니다. 출제자의 의도를 생각하며 지문을 두 번 정도 읽어보고, 이 지문을 굳이 두 문단이나 준 이유도 생각해 보며 접근을 하니 갑작스러운 교통사고로 혼란스러운 장면을 주인공의 시점으로 서술하고 있는 것 같아 그것을 표현하고자 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 11.2,
+    "student_strength": "처음 문제를 보고 떠오른 것을 그대로 그리는 게 아니라 출제자가 이 문제를 통해 보고 싶은 게 무엇일지 지문을 읽으며 계속 생각하고 그리려고 했던 것이 가장 큰 이유라고 생각합니다. 또 평소에 학원에서 수업했던 것, 선생님들께서 강조하셨던 것, 평가 때 받았던 피드백을 모두 활용해서 그리려고 한 것도 큰 이유인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "접근을 하니 갑작스러운 교통사고로 혼란스러운 장면을 주인공의 시점으로 서술하고 있는 것 같아 그것을 표현하고자 했습니다. 어떻게 효과적으로 전달할 수 있을지 고민하다"
+  }
 }

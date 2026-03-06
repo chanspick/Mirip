@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1717_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:15:15.128470+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1717"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1717",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "문제는(청각장애인이 소리를 듣게 해주는 장치로 소리를 처음 듣게 되었을 때 상황을 표현하시오) 처음 주제를 들었을 때 반드시 그림에 담아내야 하는게 무엇인지를 생각하고 그려나갔습니다. 선생님이 항상 주제에서 벗어나지 않기 위해 주제를 머릿속에 잘 담아두고 수시로 확인하면서 그리라고 했는데 그런 방향으로 접근해서 좋은 그림을 그릴 수 있었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 24.84,
+    "student_strength": "완성은 기본이고 어떻게 상황을 보여줄지 선생님께서 계속 스토리 스토리 하셔서 스토리가 느껴지는 그림을 그리는 게 포인트인 것 같습니다",
+    "teacher_feedback": "선생님들 감사드려요~^^.",
+    "ideation_process": "접근해서 좋은 그림을 그릴 수 있었습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1578_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:08:43.779626+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1578"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1578",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "소묘 사물로 블랙의 맥가이버칼과 버건디 색상의 맥가이버칼 케이스가 나왔는데 블랙과 레드의 톤 차이를 주어야겠다고 생각했습니다. 실제 톤보다",
+    "practice_years": 2.33,
+    "competition_ratio": 5.83,
+    "student_strength": "마음가짐이라고 생각합니다. 가군 시험 전 날 학생답지 않은 마음가짐으로 그림을 그려서 선생님들꼐 크게 혼난 적이 있었습니다. 내 그림이 마음에 들지 않는다고 해서 중간에 포기하고 부정적인 생각에 휘둘려 그림을 완성하지 못하는 태도와 마음가짐이 가장 학생답지 않고 불합격으로 가는 지름길이라는 것을 알게 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 실제 톤보다"
+  }
 }

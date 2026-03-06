@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3724_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:47:27.683473+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3724"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3724",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "실기 주제로 돼지가 나와서 순간 당황했지만, 빠르게 정신 차리고 학원에서 배운 방식대로 풀어나갔습니다. 오히려 예상치 못한 주제라 더 제가 돋보이는 방식으로 접근할 수 있었던 것 같습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 13.6,
+    "student_strength": "저의 성실함과 학원 선생님들의 열정이 합격의 가장 큰 요인이라고 생각합니다. 꾸준히 노력한 것도 중요하지만 선생님들께서 세심하게 지도해 주신 덕분에 짧은 준비기간임에도 불구하고 합격할 수 있었습니다",
+    "teacher_feedback": "피드백을 받아서 뭐가 부족한지 분석하고 그걸 보완하는 방식으로 준비했습니다.",
+    "ideation_process": "접근할 수 있었던 것 같습니다"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1970_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:26:20.148624+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1970"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1970",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "스카프천,옷핀(형태변화 가능,스카프 단순화가능) 주제지에서 형태 변형을 왜 주신 걸까 교수님들이 무엇을 보고 싶은 건가 판단했을 때 그냥 이유 없는 형태 변형보다는 학원에서 늘 강조했던 스카프만의 기능과 용도를 생각하면서 목에 둘렀을 때 나오는 모양과 매듭을 보여주자고 판단했고 이것을 기반으로 화면에 대입해서 기본 양 선면점과 축 배치를 만들어나갔고, 가장 잘 보이는 와우 포인트에 재미있는 동사 연출을 만들어주려 했습니다",
+    "practice_years": 5.0,
+    "competition_ratio": 7.8,
+    "student_strength": "이론수업, 화면 응용수업을 통해 화면의 조형요소와 허공 간을 이해하게 되면서, 그림을 그릴때 좋은 레이아웃을 빠르게 만들고, 사물 분석에 더 많은 시간을 쓸 수 있게 돼서 시험장에서 더 정확하고 분명한 그림을 그리게 되었습니다.",
+    "teacher_feedback": "선생님들이 과정별로 내가 어떤 실수를 하고 있어서 느려지는 건지 정말 세세하게 분석해 주시고 같이 고쳐나가는 것처럼 과정별로 어떻게 해봐라 이건 하지 말아라의 티칭을 계속해주셔서 계속 그 말.",
+    "ideation_process": null
+  }
 }

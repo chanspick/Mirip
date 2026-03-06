@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3805_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:51:51.664899+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3805"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3805",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "문제는 블루투스 마이크와 솔방울이었습니다. 다행히 전날 솔방울을 연습하고 간 터라 자신감 있게 임할 수 있었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 11.09,
+    "student_strength": "가장 큰 이유는 전날 솔방울을 연습했던 경험과, 그때 선생님께서 주신 피드백을 시험 당일에도 잘 기억하며 적용했기 때문이라고 생각합니다. 특히 솔방울로 구성한 흐름을 중심으로 전체 구도를 안정적으로 구성한 것이 좋은 평가로 이어진 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "다행히 전날 솔방울을 연습하고 간 터라 자신감 있게 임할 수 있었습니다. 먼저 사물이 가장 잘 보이는 각도와 방향를 찾고, 두 사물이 한 화면에 자연스럽게 어우러질 수 있도록 시각적 흐름을 구성했습니다."
+  }
 }

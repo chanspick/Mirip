@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3639_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:42:18.270235+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3639"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3639",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "고개를 튼 덩치가 큰 20대 남성이 나왔습니다. 최대한 인상이 닮게 나오게 하기 위해 노력했습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 30.0,
+    "student_strength": "흔들리지 않는 멘탈이 가장 중요한 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "최대한 인상이 닮게 나오게 하기 위해 노력했습니다"
+  }
 }

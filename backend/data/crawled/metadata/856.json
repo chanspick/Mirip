@@ -13,5 +13,14 @@
     "data/crawled/raw_images/856_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:36:16.977413+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=856"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=856",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "극동대는 생에처음 한글로 자신의 이름을 쓰는 경로당 할머니들이였는데, 학원에서 미리 준비해갔기에 외웠던 그림을 그렸고 중부대는 지구온난화로 인한 다양한모습이라는 주제를 보고 녹는 빙하,북극곰같은 지구온난화 하면 떠오르는 대표적인 모습을 그리려고 노력했습니다.",
+    "practice_years": 1.25,
+    "competition_ratio": 19.59,
+    "student_strength": "학원선생님들께서 그림을 꼼꼼히 봐주시기도 하셨고 강평때 받은 지적을 다음그림에서 고치려고 나름대로 노력했던게 조금이나마 도움이 된것같습니다.",
+    "teacher_feedback": "선생님들의 강평을 받고 고칠부분을 수정해가려 노력하며 그렸습니다..",
+    "ideation_process": null
+  }
 }

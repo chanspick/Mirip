@@ -13,5 +13,14 @@
     "data/crawled/raw_images/397_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:16:38.555658+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=397"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=397",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "당일 안경과 노트,연필 주제가 출제되었는데 학원에서 많이 연습해본 물체라서 크게 긴장하지 않고 그렸습니다. 학원에서 예상문제로 했던것과 비슷하게 나와 정말 막히지 않고 그렸던것 같습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 42.07,
+    "student_strength": "학원에서 예상문제를 통해 비슷한 종류에 물체들을 자주 그려봤습니다. \"물체 고유의 특징을 잘 살려서 그려라\"라는 스승님의 말을 늘 곱씹으며 제시물을 분석하고 관찰하는 습관이 몸에 베어 이그런 부분이 모여 합격이라는 결과까지 나온 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "학원에서 예상문제로 했던것과 비슷하게 나와 정말 막히지 않고 그렸던것 같습니다. 제시물들에 특징과 연출이 잘 나타나도록 구성하여 그렸습니다."
+  }
 }

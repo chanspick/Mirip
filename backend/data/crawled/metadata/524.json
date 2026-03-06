@@ -13,5 +13,14 @@
     "data/crawled/raw_images/524_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:21:57.822643+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=524"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=524",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "처음에 문제지를 받았을 때 기존과 다른 유형의 문제가 나왔고, 소재 전부가 무채색이라 당황했습니다. 그래도 학원에서 어떤 어려운 주제가 나와도 배운 것만 잘 적용하면 된다는 얘기를 정말 많이 들어서 침착하는데 도움이 됐습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 5.92,
+    "student_strength": "저는 저의 불안감이라고 생각합니다. 부정적인 단어라고 생각할 수도 있겠지만 돌이켜보면 이 불안감이 제 의지의 원천이 되었던 것 같습니다. 수험생에게 불안감은 당연히 찾아오는 감정이고, 그 불안감이야말로 잘하고 있다는 증표라고 생각하며 행동의 연료로 삼았습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그래도 학원에서 어떤 어려운 주제가 나와도 배운 것만 잘 적용하면 된다는 얘기를 정말 많이 들어서 침착하는데 도움이 됐습니다. 가장 쪼개지는 면이 많고 담순하지 않은 형의 한자를 주제부로 삼았고,눈에 잘 띄게 하고싶은 마음에 색을 붉게 변형했습니다."
+  }
 }

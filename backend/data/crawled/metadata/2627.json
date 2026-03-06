@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2627_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:55:04.892060+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2627"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2627",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "비움과 채움 표현 재활용 마크를 주제로 인간/환경/물질이 포함되게 표현하기",
+    "practice_years": 2.0,
+    "competition_ratio": null,
+    "student_strength": "구리 창조의아침에서 수업 중에 많은 구도를 연습했던 게 시험장에서 도움이 많이 됐습니다.",
+    "teacher_feedback": "선생님께서 시범도 많이 보여주시고 30분에 한 번 꼴로 그림 봐달라고 엄청 괴롭혀도 귀찮아 안 하시고 잘 봐주셨어요 ㅎㅎ.",
+    "ideation_process": null
+  }
 }

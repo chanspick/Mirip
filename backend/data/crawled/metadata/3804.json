@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3804_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:51:48.198228+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3804"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3804",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "너트와 스페너가 나왔습니다. 선생님이 항상 말씀하셨던 소재 간의 연관성과 소재의 기능성을 살려서 포인트 연출을 하라는 말을 떠올리며 스페너에 너트를 끼워 돌리는 듯한 연출을 하였습니다.",
+    "practice_years": 1.25,
+    "competition_ratio": 31.78,
+    "student_strength": "평소에 적어두던 오답노트와 피드백을 수용하며 그림을 그렸던 태도, 질문이 생기면 바로바로 여쭤보는 것 등등이 합격에 영향을 끼쳤다고 생각합니다.",
+    "teacher_feedback": "선생님이나 보조선생님께서 피드백해주신 것들을 필기해놨다가 다음 그림에 피드백 내용을 적용하려고 노력했습니다.",
+    "ideation_process": "선생님이 항상 말씀하셨던 소재 간의 연관성과 소재의 기능성을 살려서 포인트 연출을 하라는 말을 떠올리며 스페너에 너트를 끼워 돌리는 듯한 연출을 하였습니다. 항상 연습하던 구도의 틀을 참고하여 통일과 변화가 보이는 화면을 구성하였습니다."
+  }
 }

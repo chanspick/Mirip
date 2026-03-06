@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1335_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:57:23.587786+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1335"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1335",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 3.86,
+    "student_strength": "올해는 이대의 정시변화와 코로나로 인해 많은 변수가 있었다. 문제도 예상치 못했고 색연필을 나눠주어 당황했지만 시험장에서는 생각할 시간이 없기 때문에 주어진 조건을 파악하고 성실히 내 생각을 표현했던 것 같다. 특히나 그림에서는 정답이란 없기 때문에 시험장에 가기 전까지 수십 번 연습했던 자신을 믿는게 가장 중요하다.",
+    "teacher_feedback": "선생님들의 체계적인 지도가 가능했고 먼저 입시를 치룬 선배들의 생생한 경험과 조언을 얻을 수 있는 풍족한 환경이었기 때문에 흔들림없이 나의 실력을 향상시킬 수 있었다.",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/450_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:18:50.578448+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=450"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=450",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "연필과 스프링노트 안경이 나왔고 평소 학원에서 쓰던 구도를 바탕으로 허전해 보이는 공간에는 안경의 성질을 이용해 채워나갔다.",
+    "practice_years": 1.0,
+    "competition_ratio": 42.07,
+    "student_strength": "가르쳐주시는 선생님을 믿고 지적받은 부분을 고쳐가는 것이 합격에 도움이 된 것 같다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

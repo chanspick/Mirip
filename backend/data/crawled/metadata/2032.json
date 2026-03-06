@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2032_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:29:02.767923+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2032"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2032",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "탁상시계와 연필, 운동화 끈이 나왔다. 제시물의 구조와 형태를 생각하고 조형원리에 맞춰 풀어나갔다.",
+    "practice_years": 1.0,
+    "competition_ratio": 7.73,
+    "student_strength": "수업이 끝나고 선생님이 해주신 피드백과 수업내용을 토대로 그림 오답노트를 꾸준히 적고 복습했다. 그리고 평소에 물체를 충분히 관찰하고 그리는 습관을 들였다.",
+    "teacher_feedback": "선생님이 수업 해주신 내용을 복습했다..",
+    "ideation_process": "제시물의 구조와 형태를 생각하고 조형원리에 맞춰 풀어나갔다."
+  }
 }

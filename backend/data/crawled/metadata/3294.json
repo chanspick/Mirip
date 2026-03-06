@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3294_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:25:12.588737+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3294"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3294",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "고양이와 해파리 자료를 제시하고 반려로봇이 어린이와 함께 있는 상황을 그리는 문제가 출제되었습니다. 로봇의 디자인에도 신경을 썼지만 함께하는 상황을 그리라고 했기 때문에 로봇과 어린이가 상호작용하고있는 모습에 중점을 두어 로봇과 어린이를 1:1 비율로 그려 화지를 최대로 활용했습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 3.27,
+    "student_strength": "시험 보기 전날에, 실기를 준비하면서 학원에서 지속적으로 받았던 지적들과 꼭 지켜야하는 조건들을 미리 노트에 목록을 정리해가서 시험보기 전까지 숙지하고 들어간 것이 큰 도움이 되었다고 생각합니다. 한 번 했던 실수는 반드시 고치고, 나의 장점을 돋보이게 할 수 있는 방법을 찾으려고 노력한 경험들이 저를 합격의 길로 나아갈 수 있게 한 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "로봇의 디자인에도 신경을 썼지만 함께하는 상황을 그리라고 했기 때문에 로봇과 어린이가 상호작용하고있는 모습에 중점을 두어 로봇과 어린이를 1:1 비율로 그려 화지를 최대로 활용했습니다."
+  }
 }

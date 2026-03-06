@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1867_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:21:51.225560+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1867"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1867",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "제시물은 붓, 붓커버, 빨래집게, 철수세미로 예상보다 많은 수의 제시물이였지만 침착하게 빨래집게에 눌린 철수세미의 모습이나 붓의 다양한 모습 등등 서로 작용했을때 발생할 수 있는 요소들을 적극적으로 표현하고 무채색과 채도높은 색상의 대비로 선명하고 눈에띄는 그림을 그리도록 풀어나갔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 35.03,
+    "student_strength": ".아이디어 스케치를 신중하고 꼼꼼하게 풀어나갔으며 중요한 부분은 확실히 보이게 하고 다양한 디자인요소들을 접목시켜 밀도를 높인 것이 주요인인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하고 무채색과 채도높은 색상의 대비로 선명하고 눈에띄는 그림을 그리도록 풀어나갔습니다."
+  }
 }

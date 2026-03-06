@@ -13,5 +13,14 @@
     "data/crawled/raw_images/901_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:38:11.145295+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=901"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=901",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "깃세운 청자켓에 검정 스키니 바지 한손엔 돌돌 말린 흰색 목도리를 들고있었고 끈이 풀린 컨버스화를 신었다. 시간계획대로 하려고 노력했다",
+    "practice_years": 4.0,
+    "competition_ratio": 7.0,
+    "student_strength": null,
+    "teacher_feedback": "선생님 말씀을 최대한 잘 들으려고 노력했다 2.",
+    "ideation_process": "시간계획대로 하려고 노력했다 청자켓이 까매지지 않고 내용이 많이 들어갈 수 있게 노력했다"
+  }
 }

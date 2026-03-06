@@ -13,5 +13,14 @@
     "data/crawled/raw_images/804_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:34:02.948805+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=804"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=804",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "고2때 국민대 실기대회 소재가 투명우산과 생수병이었는데 펼쳐진 우산이 뒤에 있고 접힌 우산을 앞에 배치하라는 문제였는데 남들과는 차별성을 보여주기위해 열매달린듯한 모습으로 그렸습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 5.33,
+    "student_strength": "우선 지원학과 커리큘럼을 알아두고 그것과 관련된 실제생활에 행동들이 질문에 대한 답을할 때 큰 도움이 되었는데 이것이 주요한 합격요인이라고 생각합니다!",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

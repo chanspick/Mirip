@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2480_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:48:33.368526+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2480"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2480",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "시험쳤던 그림들을 다시 생각하면서 열심히 문제를 풀어나갔습니다.",
+    "practice_years": 2.08,
+    "competition_ratio": 5.57,
+    "student_strength": "선생님들의 영향이 컸습니다.",
+    "teacher_feedback": "선생님들한테 모르는건 질문하고,피드백을 그날그날 노트에 적고 그날 집에가서 다시 확인하는등 했습니다.",
+    "ideation_process": null
+  }
 }

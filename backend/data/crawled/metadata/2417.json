@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2417_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:45:48.026672+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2417"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2417",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "모나미 매직잉크, 못이 출제문제였습니다. 조형적인 것이 가장 중요하다고 생각하였기 때문에 그것을 중심으로 그렸습니다.",
+    "practice_years": 3.75,
+    "competition_ratio": 71.4,
+    "student_strength": "합격작들을 살펴보면서 조형을 강조했다는 공통점을 찾고 시험장에서도 적용하려고 한 것입니다.",
+    "teacher_feedback": "피드백을 받았기 때문에, 그것을 토대로 다음 그림에서는 고치기 위해 기억해가면서 그렸습니다.",
+    "ideation_process": "조형적인 것이 가장 중요하다고 생각하였기 때문에 그것을 중심으로 그렸습니다. 방사형으로 주제부의 집중, 적녹대비, 주제부를 강조하기 위해 배경부는 수직수평으로만 구성하였습니다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1705_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:14:40.620053+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1705"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1705",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "'슬픈 소식을 듣고 눈물을 참는 60대 여성의 주름진 얼굴을 표현하시오' 실기적 기본기, 문장을 소화해내는 능력이 중요한 문제라고 생각했다. 60대 여성의 신체적 특징과 얼굴의 묘사를 신경썼고, 문장에서 느껴지는 슬프고 어두운 분위기를 작품에서도 느낄수 있게끔 연출하고자 ��다.",
+    "practice_years": 2.0,
+    "competition_ratio": 55.0,
+    "student_strength": "긴장안하고 놀듯이 재밌게 실기를 하고 온것이 가장 중요했던 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오' 실기적 기본기, 문장을 소화해내는 능력이 중요한 문제라고 생각했다. 60대 여성의 신체적 특징과 얼굴의 묘사를 신경썼고, 문장에서 느껴지는 슬프고 어두운 분위기를 작품에서도 느낄수 있게끔 연출하고자 ��다."
+  }
 }

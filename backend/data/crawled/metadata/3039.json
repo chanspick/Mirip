@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3039_0.png"
   ],
   "crawled_at": "2026-01-27T15:13:38.754560+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3039"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3039",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "참외, 손톱깎이, 플라스틱 병을 이용해 확산과 회전을 표현하시오. 확산과 회전을 보여주기 위해 노력했습니다.",
+    "practice_years": 1.67,
+    "competition_ratio": 22.0,
+    "student_strength": "개체를 잘 활용해 회전과 확산을 보여준 것이 큰 영향을 준 것 같습니다. 또한 학원에서 선생님께서 보여주신대로 개체 연습을 열심히 하고 형태를 틀리지 않도록 한 것이 큰 도움이 된 것 같습니다.",
+    "teacher_feedback": "선생님의 가르침에 열심히 따라가고자 노력했습니다.",
+    "ideation_process": "표현하시오. 확산과 회전을 보여주기 위해 노력했습니다."
+  }
 }

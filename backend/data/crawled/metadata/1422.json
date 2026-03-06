@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1422_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:01:30.194609+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1422"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1422",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "사무실용 전화기, 파란색의 불투명 원뿔, 테니스공, 노란색 줄넘기, 흰색 천이 출제되었고, 학원에서 배운 대로 구조를 짠 후 1시간 정도는 스케치를 완성하는데 집중하였습니다. 이후에는 평소에 약했던 밀도에 신경써서 완성하였고, 특히 전화기는 주제부인만큼, 최대한 시간 내에 묘사를 많이 하려고 노력하였습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "이번에 합격하게 된 한남대학교의 경우, 실기 비중이 수능보다는 다소 높은 편이였기에 실기가 당락을 결정했다고 생각합니다. 일대일로 매번 꼼꼼하게 밀착 지도를 해주신 선생님 덕분에 이번에 합격할 수 있었습니다. 입시를 준비하는 저희보다도 더 열정적인 선생님이셨습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "이후에는 평소에 약했던 밀도에 신경써서 완성하였고, 특히 전화기는 주제부인만큼, 최대한 시간 내에 묘사를 많이 하려고 노력하였습니다."
+  }
 }

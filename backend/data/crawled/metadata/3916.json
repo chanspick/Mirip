@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3916_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:57:47.350007+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3916"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3916",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "우산, 팔찌, 옷핀이 나왔으며 제시어는 없었습니다. 각 개체 간의 특성과 상호작용을 위주로 구성하였으며, 펼쳐진 우산에서부터 찢어지며 뻗은 옷핀 위에 돌돌 감을 수 있는 팔찌를 공의 형태로 잡아 포인트를 만들었습니다.",
+    "practice_years": null,
+    "competition_ratio": 40.13,
+    "student_strength": "선생님들의 조언과 평가를 귀담아 듣고 생각을 그려보는 연습이 중요하다고 생각합니다.",
+    "teacher_feedback": "선생님분들의 조언과 평가를 귀담아 들어, 부족한 부분을 매꿀 수 있었던것같습니다..",
+    "ideation_process": "각 개체 간의 특성과 상호작용을 위주로 구성하였으며, 펼쳐진 우산에서부터 찢어지며 뻗은 옷핀 위에 돌돌 감을 수 있는 팔찌를 공의 형태로 잡아 포인트를 만들었습니다."
+  }
 }

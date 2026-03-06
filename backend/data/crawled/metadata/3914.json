@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3914_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:57:40.174362+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3914"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3914",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제를 받고 쓰던 패턴에 넣어서 진행하였습니다. 선풍기의 특성을 이용해 바람의 느낌을 강조하려 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 35.91,
+    "student_strength": "남들과 다른 시각으로 주제에 접근하려 했습니다. 문제풀이를 많이한게 중요했던거 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "선풍기의 특성을 이용해 바람의 느낌을 강조하려 했습니다."
+  }
 }

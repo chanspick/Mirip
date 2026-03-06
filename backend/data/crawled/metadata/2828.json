@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2828_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:04:11.977025+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2828"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2828",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "시계와 줄넘기가 나왔고 주제어는 긴장감과 느슨함이었습니다. 줄넘기 손잡이의 스펀지 부분을 늘어뜨려 찢어질 듯한 긴장감과 당겨지는 직선, 느슨한 곡선을 통해 주제어를 해석하였습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 23.36,
+    "student_strength": "의도있는 주제어 표현과 깔끔한 채색인 것 같습니다.",
+    "teacher_feedback": "선생님이 해주시는 피드백을 통해 장점은 유지하고 부족한 점은 채우도록 노력하였습니다..",
+    "ideation_process": "줄넘기 손잡이의 스펀지 부분을 늘어뜨려 찢어질 듯한 긴장감과 당겨지는 직선, 느슨한 곡선을 통해 주제어를 해석하였습니다."
+  }
 }

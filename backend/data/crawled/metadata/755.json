@@ -13,5 +13,14 @@
     "data/crawled/raw_images/755_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:31:48.986506+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=755"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=755",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "수원대 주제는 털실과 쇠구슬, 투명한 플라스틱 상자였고, 제시어는 '긴장감있는 공간'을 연출하라고 했습니다. 평소에 자주 익혀두었던 소재이고 제시어가 있기 때문에 제시어 풀이에 중점적으로 시간을 투자했습니다.",
+    "practice_years": null,
+    "competition_ratio": 19.0,
+    "student_strength": "제가 소화할 수 있는 분량으로 최대한 깔끔하게 그린 것이 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님께서 알려주신대로 충실히 했으며 다른 친구들의 장점을 본받고 싶어서 궁금한 점은 친구들에게 많이 물어보며 실기능력을 향상시켰던 것 같습니다..",
+    "ideation_process": "평소에 자주 익혀두었던 소재이고 제시어가 있기 때문에 제시어 풀이에 중점적으로 시간을 투자했습니다."
+  }
 }

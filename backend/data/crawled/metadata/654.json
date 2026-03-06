@@ -13,5 +13,14 @@
     "data/crawled/raw_images/654_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:27:29.612519+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=654"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=654",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "금속 공예에 유명한 학교라 다이아반지를 낸 것 같았다. 무채색인 거울과 반지의 톤변화가 중요한 문제였던 것 같다.",
+    "practice_years": 2.0,
+    "competition_ratio": 10.81,
+    "student_strength": ": 문제를 받고 당황하지 않고 차분하게 생각하는 멘탈!",
+    "teacher_feedback": "선생님과 나올만한 것을 다양하게 연습했고, 공예과인 만큼 물체의 세심한 질감 표현에 집중했다..",
+    "ideation_process": "무채색인 거울과 반지의 톤변화가 중요한 문제였던 것 같다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1101_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:47:05.621322+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1101"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1101",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "기하학적으로 멜랑콜리를 표현하는 것이였습니다./평소에 만들었던 것들을 생각하며 문제에 맞게 풀었습니다.",
+    "practice_years": 1.58,
+    "competition_ratio": 9.27,
+    "student_strength": "평소에 연습했던 것들을 문제에 적용하며 풀었던 것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 것이였습니다./평소에 만들었던 것들을 생각하며 문제에 맞게 풀었습니다."
+  }
 }

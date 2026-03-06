@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1728_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:15:46.112799+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1728"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1728",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "호박, 판사봉, 붓, 팔레트가 출제 되었고 호박의 쪼개지는 특성과 물감이 가진 형태의 자유성을 이용해서 그렸습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 10.86,
+    "student_strength": "그림의 어둠이 부족하면 대체적으로 가벼워 보이는 점을 생각해서 어둠을 확실하게 잡으려 한 것이 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

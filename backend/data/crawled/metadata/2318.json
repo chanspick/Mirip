@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2318_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:41:28.245140+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2318"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2318",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "측면과 정면에 이미지와 멀리서 볼 때와 가까이서 볼 때의 이미지가 차이가 있다고 느껴져서 어려웠지만 차분히 사진을 들고 뒤로 나와서 감상하는 시간을 많이 가졌고 마지막까지 밀도를 많이 높이기 보다는 이미지를 최대한 뽑을 수 있도록 노력했습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 8.8,
+    "student_strength": "마지막까지 이미지를 뽑으려고 나와서 비교 했던 것이 합격의 주요인이라고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3448_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:32:39.929508+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3448"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3448",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "오토바이,도넛,고무밴드가 나왔습니다 오토바이가 역동적인 물체니까 그걸로 도넛을 부시는 이미지를 상상하며 그렸습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 4.98,
+    "student_strength": "오토바이의 시점과 기울기가 중요하다고 생각합니다 역동적인 시점과 기울기가 오토바이의 물성과 잘 어우러진다고 느꼈습니다 그리고 완성도랑 주제부밀도도 중요하다고 생각합니다",
+    "teacher_feedback": "선생님이 주시는 문제들로 시험을 치면서 준비했습니다.",
+    "ideation_process": "오토바이가 역동적인 물체니까 그걸로 도넛을 부시는 이미지를 상상하며 그렸습니다"
+  }
 }

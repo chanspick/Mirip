@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1453_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:03:01.659528+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1453"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1453",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "참치캔,노끈,사각건전지의 겉모습만 활용하여 그리시오 문제가 평소에 보던 문제들과는 다르게 겉모습만 활용하여 그리라고 해서 학원에서 연습하던것처럼 안에 들어있는 참치나 기름같은 요소들을 활용할 수 없었습니다. 주변을 보면 그걸 그냥 무시하고 내용물을 그리는 친구들이 많았는데 그것에 흔들리지 않고 조건을 지키려고 노력했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 6.41,
+    "student_strength": "합격 노하우는 그림의 색과 소재의 활용때문이었다고 생각합니다. 우선 색이 더 쨍해서 다른 그림들보다 먼저 눈에 들어왔고 무채색을 적절히 활용하여 색으로도 그림에서 강조할부분을 만들어 줄 수 있었고 색도 그림 전체에 돌게 해서 통일감도 주었습니다. 또 배웠던 다양한 소재 활용 방법을 통해 더 에너지 있는 동영상 같은 그림을 만들 수 있었습니다.",
+    "teacher_feedback": "선생님이 항상 시범을 보여주셨는데 그때 그림뿐만 아니라 선생님의 도구 습관까지 따라 하려고 노력했습니다.",
+    "ideation_process": "주변을 보면 그걸 그냥 무시하고 내용물을 그리는 친구들이 많았는데 그것에 흔들리지 않고 조건을 지키려고 노력했습니다. 그림을 그릴땐 학원에서 강조했었던것을 꼭 지키려고 했습니다."
+  }
 }

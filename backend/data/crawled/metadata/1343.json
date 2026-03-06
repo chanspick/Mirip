@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1343_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:57:46.799001+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1343"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1343",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "고사당일 주제는 카메라, 넥타이, 손목시계 였습니다. 마냥 쉬운 주제는 아니였지만 그렇게 어려울것도 없기에 자신감을 가지고 평소와 같이 그려나갔습니다.",
+    "practice_years": null,
+    "competition_ratio": 8.7,
+    "student_strength": "정시특강의 어려운부분을 정신력으로 버티며, 사실 완성후의 그림 완성도가 제기준에서 만족스럽진 못했는데 내가 어려우면 남도 어렵다 라는 말이 맞구나를 느꼈고 자기 자신과 그간의 실기를 준비했던 시간과 노력을 의심하지 않는 갓이 중요하다고생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": "마냥 쉬운 주제는 아니였지만 그렇게 어려울것도 없기에 자신감을 가지고 평소와 같이 그려나갔습니다. 시간적으로 여유있게 자신감 있게 그린것이 합격의 원인인것 같아요."
+  }
 }

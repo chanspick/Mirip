@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2788_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:02:23.725741+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2788"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2788",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "제공된 이미지를 이용하여 트로피컬 이미지를 표현하시오 제공된 이미지: 유리잔, 지그재그 패턴컵, 아레카야자, 몬스테라, 깃털, 앵무새, 극락조 조건을 어기지 않는 것을 최우선으로 그리는 도중에도 계속 확인하면서 진행하였고 트로피컬이라는 단어가 그림에서 직관적으로 느껴질 수 있게 색 배치와 나뭇잎들의 형태활용을 중점으로 두고 그림을 구상하였습니다.",
+    "practice_years": 7.0,
+    "competition_ratio": 17.64,
+    "student_strength": "그림이 잘 나와도 안주하지 않고 계속 발전하기 위해 노력한 점이 합격의 주요인인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오 제공된 이미지: 유리잔, 지그재그 패턴컵, 아레카야자, 몬스테라, 깃털, 앵무새, 극락조 조건을 어기지 않는 것을 최우선으로 그리는 도중에도 계속 확인하면서 진행하였고 트로피컬이라는 단어가 그림에서 직관적으로 느껴질 수 있게 색 배치와 나뭇잎들의 형태활용을 중점으로 두고 그림을 구상하였습니다."
+  }
 }

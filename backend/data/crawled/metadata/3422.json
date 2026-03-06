@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3422_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:31:24.470133+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3422"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3422",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제된 문제는 현미경, 스테인리스 빨대, 전기 연장선, 키위와 주제어 ‘집중과 확산’이었습니다. 처음 그려보는 현미경이 나와서 당황했지만, 문제지에 제시된 현미경 이미지를 최대한 정확히 관찰하여 형태를 잡았습니다.",
+    "practice_years": null,
+    "competition_ratio": 39.04,
+    "student_strength": "각 개체를 구도상 엉키지 않게 배치하고, 주제어를 충실히 표현한 점이 합격의 주요 요인이라고 생각합니다.",
+    "teacher_feedback": "선생님들께서 강평 시간에 지적해 주신 제 그림의 장점과 단점을 메모하며, 부족한 부분을 고치려고 꾸준히 노력했습니다.",
+    "ideation_process": "표현하려고 했습니다. 주제어인 ‘집중과 확산’을 강조하기 위해 빨대와 키위를 유기적으로 연결해 표현했습니다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/773_1.jpeg"
   ],
   "crawled_at": "2026-01-27T13:32:39.574171+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=773"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=773",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "중앙대학교의 실기시험 문제는 '가장의 무게를 짊어진 50대 남자' 였습니다. 표정과 동세를 크게 넣지 않아도 되는 문제여서 최대한 기본적 해부학이 깨지지 않도록 주의했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 14.46,
+    "student_strength": "학원 강사 선생님들께서 저에 부족한 부분과 잘하는 부분을 잘 알고 지원한 대학에 맞춰 짜주신 시간표대로 진행하였고 사람을 만드는 입시 특성상 제일 중요한 해부학을 숙지하며 표정이 자연스러움을 작품에 나타낼 수 있도록 집중하였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표정과 동세를 크게 넣지 않아도 되는 문제여서 최대한 기본적 해부학이 깨지지 않도록 주의했습니다. 평소학원에서 자주 지적받았던 과장되는 부분에서는 45도를 돌려보며 자연스러운 사람인지를 확인했습니다"
+  }
 }

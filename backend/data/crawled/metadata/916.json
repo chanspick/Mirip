@@ -14,5 +14,14 @@
     "data/crawled/raw_images/916_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:38:50.011677+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=916"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=916",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "고개를 돌리고 인상을 쓰고 있는 여성의 두상 사진으로 시험을 치뤘습니다. 올해 수시에도 표정이 나와 정시에도 표정이 설마 나올까 싶었는데 정시에는 표정에 동세까지 들어가 있었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.18,
+    "student_strength": "가장 가까이에서 고생하시고 노력해주신 부모님, 언제나 독려해주시고 최대한 많은 걸 가르쳐주시려 했던 선생님들, 연락이 닿지 않아도 쭉 기다려주며 힘들 때 할 수 있다고 해준 친구들. 한 사람 한 사람 저에게 투자해주신 시간과 노력에 실망을 안겨드리고 싶지 않았습니다. 이 마음이 가장 크다고 생각합니다.",
+    "teacher_feedback": "선생님들이 알려주시는 것들, 말씀해주시는 것들을 모두 신경 쓰고 최대한 실기에 반영하려고 했습니다.",
+    "ideation_process": "올해 수시에도 표정이 나와 정시에도 표정이 설마 나올까 싶었는데 정시에는 표정에 동세까지 들어가 있었습니다. 평소 정자세의 모델을 더 많이 했기 때문에 시험 시작 직후 당황스러운 감도 많았지만 배웠던 모든 것들을 떠올리고 평소처럼 사진을 제대로 관찰한 후에 모델을 쫓아가려 노력하며 시험 문제를 풀어나갔습니다."
+  }
 }

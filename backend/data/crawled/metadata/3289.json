@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3289_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:24:58.679478+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3289"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3289",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "휴지와 비누거품이 있는 비누의 특성을 활용하여 주전자를 만드는 문제였습니다. 제시물의 특성을 보여주는 것을 중점으로 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.18,
+    "student_strength": "주요인은 주제에 쓴 아이디어와 문제풀이라고 생각합니다. 문제를 받은 뒤 출제자가 어떤 의도로 문제를 냈고 어떤 부분에서 점수를 줄 지를 생각하며, 제시물의 활용도와 주제의 명확성에 대해 신경썼습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "제시물의 특성을 보여주는 것을 중점으로 했습니다. 휴지의 뜯어지는 특성을 참고해 주전자를 분리할 수 있다고 기능을 넣었고, 비누의 거품을 장식적 요소로 썼습니다."
+  }
 }

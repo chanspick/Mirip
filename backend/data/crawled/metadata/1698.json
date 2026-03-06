@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1698_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:14:20.583560+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1698"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1698",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 출제문제는 백자, 가죽벨트, 나무의자 였습니다. 그리고 항아리와 벨트의 기능을 사용하고 공간감이 잘 나타나도록 표현하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 31.0,
+    "student_strength": "평소에 마무리가 부족한 편이여서 정리하는 시간을 평소보다 많이 잡았고 제가 할 수 있는 한 깔끔하게 마무리 할려고 노력하였습니다. 또 전날 해보았던 주제가 나와서 자신감 있게 시험을 응했던 것이 좋은 결과를 가져왔던 것 같습니다.",
+    "teacher_feedback": "선생님께서 지적하신 부분은 최대한 고치려고 노력하였습니다.",
+    "ideation_process": "그리고 항아리와 벨트의 기능을 사용하고 공간감이 잘 나타나도록 표현하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1520_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:06:02.601850+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1520"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1520",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "큐브, 이어폰, 책을 이용하여 화면구성이었으며 평소 형태를 틀려서 시험지에 나와있는 형태대로 큐브를 그렸으며, 학원에서 쓰는 구도로 화면구성을 해나갔다.",
+    "practice_years": 2.0,
+    "competition_ratio": 18.33,
+    "student_strength": "부족했던 부분을 개선하려고 노력하고 더 연습해 조금 더 나아지려는 노력이라고 생각한다.",
+    "teacher_feedback": "피드백을 받으며 부족한 점을 개선하려고 노력하였다..",
+    "ideation_process": null
+  }
 }

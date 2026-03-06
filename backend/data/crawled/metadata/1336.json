@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1336_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:57:26.376142+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1336"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1336",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.0,
+    "competition_ratio": 3.36,
+    "student_strength": null,
+    "teacher_feedback": "선생님들의 피드백을 기록하고, 그림의 부족한 부분을 기억하여 조금씩 고쳐나갔습니다..",
+    "ideation_process": null
+  }
 }

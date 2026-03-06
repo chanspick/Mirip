@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1584_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:09:00.619310+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1584"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1584",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "기하도형 중 하나를 선택하여 부조방식으로 표현하라는 문제였다. 나는 내가 당시 가장 관심을 가지고 있던 사람들과의 관계에 대한 내 달라진 관심과 태도를 솔직하게 풀어내려 노력했다.",
+    "practice_years": 5.0,
+    "competition_ratio": 20.89,
+    "student_strength": "학원에서 어떻게 하라고 강요하기보다는 방향을 제시해주고 너무 멀리 나가지 않게 잡아주는 점이 엄청 마음에 들었다. 자기 생각을 드러낼 수 있게, 주체적으로 할 수 있게 학생 한 명 한 명과 대화를 차분히 해나가려는 시스템이 있어서 쌤들과 대화하는 게 어색하지 않다는 점.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라는 문제였다. 나는 내가 당시 가장 관심을 가지고 있던 사람들과의 관계에 대한 내 달라진 관심과 태도를 솔직하게 풀어내려 노력했다."
+  }
 }

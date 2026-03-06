@@ -13,5 +13,14 @@
     "data/crawled/raw_images/537_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:22:30.775392+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=537"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=537",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "주어진 제시물 중 4가지를 선택하여 장력과 무게감을 표현하시오. 제시물: 스타킹,카메라,밀대,놀이공,깃털 조건-스타킹은 반드시 포함할 것 스타킹 안에 2 종류 이상의 물체를 넣어 표현할 것 구도는 학원에서 연습했던대로 안정적으로 구성했고 그 안에서 밀대가 놀이공을 누르고 스타킹을 늘리고 맨위에 깃털을 사알짝 올리고 하는 식으로 제시물을 최대한 자유롭게 이용해서 장력과 무게감을 표현하려고 했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.2,
+    "student_strength": "사실 아직까지도 합격한게 실감이 안나고 얼떨떨하다. 그래도 가만히 잘 생각해보자면 나의 노력도 있었겠지만 역시 합격의 출발점은 이대를 지원해보자고 했던 쌤의 큰그림이 아니었을까..?? 이대 유형이 정통 소묘로 잘 알려져 있어 단기간에 준비하기에는 무리라고 생각했기 때문에 원래는 이대에 지원할 생각이 없었다.",
+    "teacher_feedback": "선생님과 이야기 후 이대로 돌렸다.",
+    "ideation_process": "표현하시오. 제시물: 스타킹,카메라,밀대,놀이공,깃털 조건-스타킹은 반드시 포함할 것 스타킹 안에 2 종류 이상의 물체를 넣어 표현할 것 구도는 학원에서 연습했던대로 안정적으로 구성했고 그 안에서 밀대가 놀이공을 누르고 스타킹을 늘리고 맨위에 깃털을 사알짝 올리고 하는 식으로 제시물을 최대한 자유롭게 이용해서 장력과 무게감을 표현하려고 했다."
+  }
 }

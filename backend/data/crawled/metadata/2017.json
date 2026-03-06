@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2017_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:28:23.564251+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2017"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2017",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "커피포트, 꽃무늬 모자, 핀란드 동전이 나왔고 모자 색감이 대체로 칙칙해서 표현해내기 어려운 색감을 어떻게 살려 그릴지 생각하며 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 6.7,
+    "student_strength": "꾸준함이 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

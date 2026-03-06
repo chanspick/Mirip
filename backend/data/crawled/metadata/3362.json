@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3362_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:28:30.145152+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3362"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3362",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "”지나친 엉킴“이 주제로 나왔고 평소에 자신있었던 기법들을 주제에 맞추어 변형하면서 만둘었습니다",
+    "practice_years": 2.42,
+    "competition_ratio": 6.96,
+    "student_strength": "선생님들께서 짚어주시는 문제점을 최대한 고치려고 노력하고 저민의 기법들을 최대한 잘 활용할 수 있도록 노력했기 때문이라고 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

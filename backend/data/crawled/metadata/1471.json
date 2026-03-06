@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1471_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:03:48.556945+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1471"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1471",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "당황하면 그림이 평소보다 훨씬 잘 안나오는 편이어서 문제를 받고 당황하지 않기 위해 시험 전에 계속 마인드컨트롤을 했습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 3.4,
+    "student_strength": "긍정적인 생각, 독기, 꾸준함이 저를 합격까지 이끌었다고 생각합니다. 9월까지도 국민대에 지원 할 수 있는 성적이 나오지 않았지만 분명히 수능날 잘 볼 수 있을 것이라고 확신하면서 수능직전까지 한 과목도 포기하지않고 한문제라도 더 맞춰서 무조건 국민대 쓸 수 있는 성적을 만들어보겠다는 심정으로 독하게 공부했습니다.",
+    "teacher_feedback": "선생님께 평가를 듣고 평가를 기반으로 그림을 수정해서 더 좋은 그림의 기준을 눈으로 익히고 오답을 하면서 스스로가 어디서 꼬였는지 어느 부분이 취약한지 더 좋은 그림을 그리기 위해서 다음에.",
+    "ideation_process": "훨씬 잘 안나오는 편이어서 문제를 받고 당황하지 않기 위해 시험 전에 계속 마인드컨트롤을 했습니다. 다행히 작년기출이나 학원에서 풀었던 예상 문제보다"
+  }
 }

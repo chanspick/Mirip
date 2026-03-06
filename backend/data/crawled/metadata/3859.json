@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3859_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:54:50.984874+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3859"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3859",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "호랑이와 소나무가 나와 처음에는 많이 당황했지만, 고사장 학생들 모두 당황한듯하여, 선생님꼐서 알려주신 동물들이 나왔을 경우 조심해야될 부분, 꼭 보여줘야하는 부분을 체크하면서 그려나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 16.62,
+    "student_strength": "실기시간을 최대한 확보를 하였고, 하루하루 피드백받은 부분들을 다음 그림에 고칠려고 많은 노력을 했습니다.",
+    "teacher_feedback": "선생님의 개별 피드백을 통해 실기준비를 하였습니다..",
+    "ideation_process": null
+  }
 }

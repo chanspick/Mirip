@@ -13,5 +13,14 @@
     "data/crawled/raw_images/291_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:09.610155+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=291"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=291",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "여자모델이나왔고 흰색 니트에 검정색 바지를 입고 다리한쪽을 양반다리를 하고 있었다. 출제문제가 특별하진 않았다.",
+    "practice_years": 6.0,
+    "competition_ratio": 7.33,
+    "student_strength": "그냥 끝까지 해내겠다는 마음가짐.",
+    "teacher_feedback": null,
+    "ideation_process": "출제문제가 특별하진 않았다. 형태를 잘잡고, 전체적으로 그리는 것이 중요하다고 생각했다."
+  }
 }

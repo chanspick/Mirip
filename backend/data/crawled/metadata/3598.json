@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3598_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:40:02.337176+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3598"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3598",
+  "normalized_dept": "sculpture",
+  "interview_parsed": {
+    "exam_topic": "20대 최연소 기장 00이 직업에 자부심을 가지고 아나운서와 인터뷰 중 환하게 웃으며 대답하는 모습을 만드는 것이었습니다. 문제를 보고 인터뷰 중이기 때문에 적당한 동세감과 자연스럽게 웃는 표정, 기장 직업 특성상 깔끔한 이미지와 제복을 만들면 좋을 것 같다고 생각을 정리한 후 실기에 들어갔습니다.",
+    "practice_years": 1.58,
+    "competition_ratio": 10.92,
+    "student_strength": "멀리 나와보면서 작품의 큰 이미지가 괜찮게 나오고 있는지 자주 확인해 보고 틀린 게 보이면 미루거나 합리화하지 않고 바로바로 고쳐주면서 최대한 작품에 단점이 없게 만들려고 한 것이 도움이 됐다고 생각합니다.",
+    "teacher_feedback": "선생님들이 해주시는 피드백을 메모하면서 제 작품의 장점과 단점을 파악하고 장점은 키우고 단점은 없애가는 식으로 준비했습니다..",
+    "ideation_process": "문제를 보고 인터뷰 중이기 때문에 적당한 동세감과 자연스럽게 웃는 표정, 기장 직업 특성상 깔끔한 이미지와 제복을 만들면 좋을 것 같다고 생각을 정리한 후 실기에 들어갔습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3886_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:56:15.179158+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3886"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3886",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "받은 주제는 꿈을 만드는 공장이었어서 꿈을 떠올리다가 꿈이라고 하면 동심이 핵심이지 않을까 싶었어요 그래서 아이들이 좋아할 만한 동물들이 많이 나오는 서커스단을 그려야겠다는 생각이 들었고 서커스 단원인 코끼리와 꿈의 요정이 하이파이브하는 장면을 상상하며 그렸어요",
+    "practice_years": null,
+    "competition_ratio": 17.66,
+    "student_strength": "학원에서의 경험과 선생님들의 무한한 지지였던 것 같습니다.",
+    "teacher_feedback": "선생님들께서 한 명 한 명 세심하게 봐주신 덕분에 금방 적응할 수 있었던 것 같아요 저는 상황표현만 연습해서 따로 병행한 건 없고 주제부가 잘 보이게 하려면 어떻게 해야 할지 고민하면서 선생님.",
+    "ideation_process": "그래서 아이들이 좋아할 만한 동물들이 많이 나오는 서커스단을 그려야겠다는 생각이 들었고 서커스 단원인 코끼리와 꿈의 요정이 하이파이브하는 장면을 상상하며 그렸어요 주제부는 잘 보이게 하기 위해 중앙에 배치했고 동선과 슈퍼블랙을 써서 강조했어요."
+  }
 }

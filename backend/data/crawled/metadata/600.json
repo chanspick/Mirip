@@ -13,5 +13,14 @@
     "data/crawled/raw_images/600_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:25:11.032255+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=600"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=600",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "인체를 보았을 때, 가장 멋있게 보일 수 있는 구도로 그리려고 했습니다. 그리고 완성은 당연한 것이고, 멋진 한 장면을 그리기 위해 노력했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.06,
+    "student_strength": "모든 사람들이 하는 정도의 노력은 당연한 것이고, 스스로에게 필요한 것들도 채우기 위한 노력도 하였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그리고 완성은 당연한 것이고, 멋진 한 장면을 그리기 위해 노력했습니다."
+  }
 }

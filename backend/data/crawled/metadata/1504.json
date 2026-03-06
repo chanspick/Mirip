@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1504_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:05:19.822525+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1504"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1504",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "일단 분리라는 단어에서 파생되어 나올 수 있는 단어를 쓰고 나서 각각 연결 지어 연출했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 15.59,
+    "student_strength": "시간이 많이 부족해서 완성이 안 될 것 같은 상황이었음에도 포기하지 않고 그려 나간 것이다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

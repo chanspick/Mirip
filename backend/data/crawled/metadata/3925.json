@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3925_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:58:16.382721+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3925"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3925",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "샴페인과 휴지로 폭발과 무중력을 표현하는 문제였습니다. 개체의 활용도와 주제어를 잘 보여주고자 노력하였고 시험이 끝나기 직전까지 주제부 밀도를 올리는데에 집둥하였습니다.",
+    "practice_years": 2.42,
+    "competition_ratio": 7.18,
+    "student_strength": "쉬는 날 없이 학원에 나와 실기 준비를 했고 선생님들께 들은 피드백을 메모해두고 다음 그림을 그릴 때마다 생각하며 그렸습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 문제였습니다. 개체의 활용도와 주제어를 잘 보여주고자 노력하였고 시험이 끝나기 직전까지 주제부 밀도를 올리는데에 집둥하였습니다."
+  }
 }

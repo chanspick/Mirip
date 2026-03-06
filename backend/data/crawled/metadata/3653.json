@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3653_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:43:09.722491+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3653"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3653",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "약간의 은은한 미소를 짓고 있는 20대 여자분이였습니다 .",
+    "practice_years": 2.0,
+    "competition_ratio": 9.45,
+    "student_strength": "주변에 누가 나보다 빠르던 잘하던 온전히 내 작품에만 집중하고 기본기를 잘 지키려고 했던 것, 평소보다 밀도가 훨씬 낮게 나왔어도 이미지를 계속 모델에 맞게 고쳤던 게 주요인이라고 생각합니다.",
+    "teacher_feedback": "피드백을 끊임없이 수용하려고 했습니다.",
+    "ideation_process": ". 예상하고 대비했던 거에 비해 굉장히 무난한 사진이였어서 오히려 당황스러웠던 것 같습니다."
+  }
 }

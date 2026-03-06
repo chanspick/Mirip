@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2123_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:32:59.871454+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2123"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2123",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "명확성에 집중하며 최대한 단순하게 생각하려고 했습니다. '누가 봐도 스탠드인 모양'과 '누가 봐도 크래커인 모양'이 조화를 이루도록 디자인하려 했고, 이런 명확성을 위해서는 복잡성이나 화려함을 조금 내려놓은 게 당연하다고 생각하며 불안해 하지 않았던 것 같습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 7.05,
+    "student_strength": "새로 바뀐 유형임에도 불구하고, 수시 유형을 기반으로 다양한 문제 풀이를 탄탄하게 해주셔서 시험장에서도 문제 풀이를 침착하게 할 수 있었습니다. 그리고 시험장에 가서 실수하지 않도록 중요한 사항들을 여러 번 주입해주시는데, 실제로 시험 중 말씀해주신 것들이 귀에 들려서 핵심 포인트를 지키며 그림을 그릴 수 있었습니다.",
+    "teacher_feedback": "선생님들의 피드백을 토대로 장점은 부각시키고 단점은 고쳐나가는 형식으로 준비했습니다.",
+    "ideation_process": "'누가 봐도 스탠드인 모양'과 '누가 봐도 크래커인 모양'이 조화를 이루도록 디자인하려 했고, 이런 명확성을 위해서는 복잡성이나 화려함을 조금 내려놓은 게 당연하다고 생각하며 불안해 하지 않았던 것 같습니다."
+  }
 }

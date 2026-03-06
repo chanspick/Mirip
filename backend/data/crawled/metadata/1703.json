@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1703_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:14:34.717880+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1703"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1703",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "청포도와 수저,젓가락으로 컬러 사진이 아닌 흑백 이미지로 문제가 나왔습니다. 문제 은행으로 연습할 땐 청포도로 연습했기 때문에 보라색이 아닌 초록색으로 그렸습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.52,
+    "student_strength": "문제 은행 5개를 미리 연습하여 실기 시험에서 부담 없이 할 수 있었던 것과 5개 중 가장 자신 있었던 청포도 주제가 문제로 나왔던 것이라고 생각합니다.",
+    "teacher_feedback": "선생님과의 피드백에 집중하였습니다..",
+    "ideation_process": "문제 은행으로 연습할 땐 청포도로 연습했기 때문에 보라색이 아닌 초록색으로 그렸습니다."
+  }
 }

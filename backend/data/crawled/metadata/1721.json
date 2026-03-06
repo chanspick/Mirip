@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1721_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:15:26.482404+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1721"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1721",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 4.0,
+    "competition_ratio": 24.0,
+    "student_strength": "화면 구성에서 소재가 가지고 있는 이미지를 잘 보여 준 것이 좋은 점수를 받은 것 같습니다. 또 채색에서도 미리 정리해가면서 채색을 하고 마지막에 주제부의 밀도를 올리는 연습을 많이 했는데 시험장에도 그 시간분배가 적절히 돼서 다른 학생들 그림보다 주제부의 밀도가 높아진 점도 합격에 영향을 준 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

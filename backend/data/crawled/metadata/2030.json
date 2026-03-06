@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2030_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:28:57.398333+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2030"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2030",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "돼지저금통과 현미경을 이용하여 화면구성하시오. 연출을 많이 하려고 노력했다.",
+    "practice_years": 2.33,
+    "competition_ratio": 10.03,
+    "student_strength": "마지막 시험이라 아무래도 긴장을 많이 하지 않았고 학원에서 하던 것처럼 그림을 그렸던것 같다.",
+    "teacher_feedback": "선생님의 피드백에 따라 그림을 고쳐나갔다..",
+    "ideation_process": "연출을 많이 하려고 노력했다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1063_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:45:19.768474+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1063"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1063",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "히게 석고상이 나왔고, 빛을 이용해 다른 그림과 차별을 두었다.",
+    "practice_years": 6.0,
+    "competition_ratio": 4.95,
+    "student_strength": "다른 그림들과 차별화 된 작품을 만들겠다는 생각으로 끝까지 물고 늘어졌다. 그것이 좋은 그림을 만들어 냈고, 합격을 할 수 있게 했다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

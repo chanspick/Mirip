@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3344_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:27:37.274288+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3344"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3344",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "당일 출제문제는 맥가이버칼과 우산 그리고 유리구슬이였습니다. 저는 맥가이버 칼을 중심으로 우산이 찢어지는 이미지를 넣어 개체에 대한 질감을 표현해주며 유리구슬이 칼에 떨어져 깨지는 움직임을 넣어 투포인트에 질감 차이를 더해 주어 풀이했다.",
+    "practice_years": 1.25,
+    "competition_ratio": 4.0,
+    "student_strength": "마인드셋이 중요하다고 생각합니다. 긴장하지 않는 마음가짐이 중요한데요. 너무 떨면 그 페이스에 말린다고 생각합니다. 지금까지 가르쳐주신 선생님과 본인의 실력을 믿고 그려나가는게 중요하다고 생각합니다. 또한 내신관리 입니다. 성적이 안정적일수록 경쟁율이 낮기 때문에 이또한 굉장히 중요한 합격요인 이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "저는 맥가이버 칼을 중심으로 우산이 찢어지는 이미지를 넣어 개체에 대한 질감을 표현해주며 유리구슬이 칼에 떨어져 깨지는 움직임을 넣어 투포인트에 질감 차이를 더해 주어 풀이했다."
+  }
 }

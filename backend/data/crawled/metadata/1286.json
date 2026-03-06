@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1286_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:55:09.773306+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1286"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1286",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "소재가 쉬운 편이었기 때문에 다들 잘 그릴 것이라고 예상하여 형태에서 이상하게 눈에 띄는 부분은 절대 없게 해야겠다고 생각하고 그렸습니다. 그리고 채색하면서 좀 더 보완할 부분은 추가해서 그려서 완성하려 했고 다들 밀도가 높은 편이었기 때문에 절대 미완성처럼 보이지 않게 주제부에 중간톤을 계속 넣고 시선이 메인으로 집중되게 완성도를 높였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 14.37,
+    "student_strength": "시험 전날 늦게까지 고치고, 생각대로 쉽게 잘 안 풀려서 좀 불안한 마음을 갖고 있었는데 첫 시험이어서 망치고 오면 그다음 시험에서도 제대로 안 풀릴 거라는 생각이 들어서 원장선생님께서 매번 '이 그림이 정말 붙을 수 있을까?' 생각하면서 그려야 한다고 말씀하셨던 것을 떠올리면서 계속 대화하고 무조건 붙어야 한다는 생각으로 그렸습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그리고 채색하면서 좀 더 보완할 부분은 추가해서 그려서 완성하려 했고 다들 밀도가 높은 편이었기 때문에 절대 미완성처럼 보이지 않게 주제부에 중간톤을 계속 넣고 시선이 메인으로 집중되게 완성도를 높였습니다."
+  }
 }

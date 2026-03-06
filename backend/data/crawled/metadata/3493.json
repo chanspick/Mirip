@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3493_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:34:50.197414+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3493"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3493",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "사탕과 나무블록이 출제되었습니다. 저는 그림에서 연출이 약하다는 단점을 가지고 있었기 때문에 질감 표현에 초점을 두고 사탕 비닐과 나무 질감 표현을 정확하게 하려고 했습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 42.8,
+    "student_strength": "아이디어 스케치를 할 때 구성의 실수가 없었기 때문에 합격할 수 있었다고 생각합니다. 그리고 다양한 화면을 정확하게 암기했기 때문에 응용을 더 잘할 수 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "저는 그림에서 연출이 약하다는 단점을 가지고 있었기 때문에 질감 표현에 초점을 두고 사탕 비닐과 나무 질감 표현을 정확하게 하려고 했습니다. 나무 블록을 메인으로 잡기 보다는 사탕을 메인으로 잡았습니다."
+  }
 }

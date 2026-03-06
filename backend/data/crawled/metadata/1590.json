@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1590_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:09:17.864232+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1590"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1590",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "조금 두툼한 양감의 30대 남성이었고, 보고 느낀 대상의 감상을 짧은 감상에 의한 직관적 표현보다 긴 호흡으로 표현하려 노력하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.67,
+    "student_strength": "‘성실함’이 얼마나 큰 힘을 가지고 있는지 저 자신과 친구들을 보며 느낄 수 있었습니다. 일단 입체미술학원은 규정화된 방식을 학생들에게 강요하지 않았습니다. 학생마다 가지고 있는 특징이나 습관 모두 그 학생에게 맞는 무기로 가공해 각기 다른 방식으로 실기 작업을 진행할 수 있도록 합니다.",
+    "teacher_feedback": "선생님들의 꾸준한 지도와 격려에 그 정체구간을 넘고 더욱 더 발전할 수 있었습니다.",
+    "ideation_process": "표현하려 노력하였습니다."
+  }
 }

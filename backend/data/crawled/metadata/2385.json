@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2385_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:44:22.790209+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2385"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2385",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "(빨간털실, 스프링, 오렌지 단면)으로 출제가 되었고 스케치에서 소재의 특성과 주제부의 집중감,공간의 흐름이 잘 보일 수 있게 하려고 했습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 30.18,
+    "student_strength": "스프링을 가지고 과감한 공간구성으로 소재활용을 했기때문인거 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

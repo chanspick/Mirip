@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1189_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:50:54.142174+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1189"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1189",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.0,
+    "competition_ratio": 10.91,
+    "student_strength": "선생님들의 칭찬과 뜻 깊은 잔소리가 가장 내 합격에 큰 영향을 미쳤다고 생각한다. 선생님들의 크고작은 지적사항과 말씀을 항장 잘 기억하고 다음번에 개선하기 위해서 노력했다. 그리고 간절함의 힘도 정말 크다고 생각한다.",
+    "teacher_feedback": "선생님들께 질문도 많이 한 것 같다..",
+    "ideation_process": null
+  }
 }

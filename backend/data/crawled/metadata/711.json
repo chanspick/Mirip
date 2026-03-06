@@ -13,5 +13,14 @@
     "data/crawled/raw_images/711_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:29:54.437579+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=711"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=711",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "제시어는 자물쇠와 열쇠, 제시문은 은유. 제시어와 제시문을 보고 빠르게 아이디어를 떠올렸으며, '열쇠'와 '자물쇠'를 각각 '나'와 '인생'으로 비유했는데 억지로 떠올린 주제가 아니었고 내가 입시준비를 하면서 느낀 것들을 녹여낼 수 있었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": null,
+    "student_strength": "평정심을 유지한 것. 빠르게 아이디어를 떠올리고 적절하게 표현한 것이라고 생각합니다.",
+    "teacher_feedback": "선생님께서 항상 자료탐색의 중요성을 강조하였으며, 연습할 때는 이것저것 많이 찾아 보았습니니다.",
+    "ideation_process": "제시어와 제시문을 보고 빠르게 아이디어를 떠올렸으며, '열쇠'와 '자물쇠'를 각각 '나'와 '인생'으로 비유했는데 억지로 떠올린 주제가 아니었고 내가 입시준비를 하면서 느낀 것들을 녹여낼 수 있었습니다."
+  }
 }

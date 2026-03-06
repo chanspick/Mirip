@@ -13,5 +13,14 @@
     "data/crawled/raw_images/290_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:07.042738+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=290"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=290",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "20대 여자 였고 양적인 모델이 나왔습니다 양이 부족한 모델도 양을 좀 많이 붙이는 스타일 이었는데 다행히도 좋아하는 쪽의 모델이어서 진행하는데에는 크게 난해한 부분은 없었구요",
+    "practice_years": 1.17,
+    "competition_ratio": 4.75,
+    "student_strength": "합격에 주요인은 학원 커리큘럼을 잘 따라 가려 했던것과 항상 시험을 봤을대 가장큰 단점을 노트해서 전 작품과 비교해가며 얼만큼 좋아져 가는지 비교해보는 습관들이 시험장에서 안정감 있게 좋은흐름을 만들었던것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "양이 부족한 모델도 양을 좀 많이 붙이는 스타일 이었는데 다행히도 좋아하는 쪽의 모델이어서 진행하는데에는 크게 난해한 부분은 없었구요 5시간 시험 이다보니 초반부터 차분하게 주변 신경 않쓰고 마무리 과정까지 학원에서 하던거에서 조금 더 잘 나왔던것 같습니다."
+  }
 }

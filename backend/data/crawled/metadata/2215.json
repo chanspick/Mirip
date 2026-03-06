@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2215_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:36:58.765446+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2215"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2215",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "1.참크래커보양에 나뭇잎 잎새질감을 대입시켜 부서진 상황을 연출 2. 참크래커와 나뭇잎잎새의 형태와 질감을 활용하여 스탠드조명기구를 디자인하시오 학원에서 조명기구디자인 문제를 푼적이 있는데 그때 배웠던 조명기구의 특성과 출제소재를 연관시킬려고 노력함 .그리고 출제소재에서 모티브를 따서 디자인하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 6.79,
+    "student_strength": "원하는대학이 무엇을 보고자 하는지 선생님과 분석한부분과 정시때 마무리 퀄리티를 올리는 연습에 초점을 둔것과 제 스스로 디자인을 떠올리게한 연습시간들이 합격의 주요인이 되었습니다.",
+    "teacher_feedback": "선생님과 원하는대학에 실기유형을 함께분석함.소묘와 디자인을 따로 준비하지낳고 상호연결되게 준비하였습니다.",
+    "ideation_process": "참크래커와 나뭇잎잎새의 형태와 질감을 활용하여 스탠드조명기구를 디자인하시오 학원에서 조명기구디자인 문제를 푼적이 있는데 그때 배웠던 조명기구의 특성과 출제소재를 연관시킬려고 노력함 .그리고 출제소재에서 모티브를 따서 디자인하였습니다."
+  }
 }

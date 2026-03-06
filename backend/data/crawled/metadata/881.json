@@ -13,5 +13,14 @@
     "data/crawled/raw_images/881_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:37:19.902295+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=881"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=881",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "' 땀 속의 비밀 ' / 땀 속의 비밀이니까 그 땀이 나올만한 상황을 생각했고 어느정도 주제해석의 방향이 잡힌 뒤론 거기서부터 이야기를 풀어나가면서 발상했습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 28.0,
+    "student_strength": "색감과 출제자의도를 파악한 주제해석이라 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "풀어나가면서 발상했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1541_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:07:01.460445+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1541"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1541",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "나는 내가 쓰는 구도가 15개 정도로 정해져 있다. 한 구도에 한 단어를 이름 지어서 총 15개의 단어를 외우고 시험장에 들어갔다.",
+    "practice_years": 2.0,
+    "competition_ratio": 19.03,
+    "student_strength": "간절함이다. 무조건 간절함이다. 내가 그 학교를 다니고 있다고 생각하고, 다른 사람에게 그 학교 학생이라고 말하는 것을 생각해 봤을 때 설레는 기분이 들었을 때, 간절함이 뒤따랐다. 그 한달이 안되는 시간에 학원에서 15장, 집에서 18장을 그리던 나는 정말 간절했다. 간절하지 않으면 못한다.",
+    "teacher_feedback": null,
+    "ideation_process": "한 구도에 한 단어를 이름 지어서 총 15개의 단어를 외우고 시험장에 들어갔다. 종이가 나오자마자 15개의 단어를 적고, 그 단어로 바로바로 연상되는 구도에 시험소재를 맞춰보며 구도를 지워갔다."
+  }
 }

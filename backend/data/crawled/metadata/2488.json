@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2488_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:48:54.616411+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2488"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2488",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "거울을 보니 얼굴이 없어졌다. 어떻게 해야 할까? / 주인공의 얼굴이 없어졌다는 주제를 받아 표현에 어려움을 겪었지만, 캐릭터의 다양한 표정 변화가 중요하다고 생각하여 익살스러운 주인공의 표정은 살리고 거울에 비친 주인공의 얼굴이 비어있도록 표현했습니다.",
+    "practice_years": null,
+    "competition_ratio": 27.8,
+    "student_strength": "그림을 잘 그리기 위한 욕심을 갖고 배웠습니다. 선생님께서 가르쳐주시는 것 하나하나가 다 중요해서, 배운 것을 잘 기억하고 그려내자는 끈기와 성실한 마음가짐만 있다면 뭐든 잘 해낼 수 있을 것이라 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "어떻게 해야 할까? / 주인공의 얼굴이 없어졌다는 주제를 받아 표현에 어려움을 겪었지만, 캐릭터의 다양한 표정 변화가 중요하다고 생각하여 익살스러운 주인공의 표정은 살리고 거울에 비친 주인공의 얼굴이 비어있도록 표현했습니다."
+  }
 }

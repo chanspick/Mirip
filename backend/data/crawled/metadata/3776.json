@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3776_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:50:19.666671+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3776"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3776",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "캐리어 필름 아이스크림이었으며 제일 돋보여야할 주제부에는 필름과 아이스크림의 연관성을 보여주려고 배치하여 주제를 살렸으며 공간감을 나타내려고 아이스크림의 색상을 핑크로 채색해 포인트를 주었습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 7.83,
+    "student_strength": "제시물의 특성과 성질을 잘 파악하고 표현하였던것이 도움이 되었던것같습니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

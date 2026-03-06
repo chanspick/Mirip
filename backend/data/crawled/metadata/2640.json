@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2640_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:55:39.959683+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2640"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2640",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "“ 제공된 이미지를 이용하여 '트로피컬(tropical) 이미지'를 주제로 공간감을 살려 화면에 자유롭게 연출하고 표현하시오. ” 주어진 개체들로 제시어(’트로피컬 이미지‘)의 의미가 잘 드러나도록 구성하되, 색상들의 배치와 중첩한 개체들이 이루는 구조가 안정적인 화면을 구상하려고 했습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 17.64,
+    "student_strength": "본인의 줏대와 간절함이 가장 중요한 것 같습니다.",
+    "teacher_feedback": "선생님께 들은 피드백을 기록하며 그림을 객관적으로 바라보고자 했습니다.",
+    "ideation_process": "표현하시오. ” 주어진 개체들로 제시어(’트로피컬 이미지‘)의 의미가 잘 드러나도록 구성하되, 색상들의 배치와 중첩한 개체들이 이루는 구조가 안정적인 화면을 구상하려고 했습니다."
+  }
 }

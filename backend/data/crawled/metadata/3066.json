@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3066_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:14:53.154808+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3066"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3066",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "모종삽과 성냥 두 개체가 나오고 주제어는 '집중'으로 나왔습니다. 특강초부터 수업으로 주로 다루던게 집중과 확산,반복,교차 등이었기에 늘 학원에서 하던대로 최대한 주제에 집중이라는 단어가 실릴 수 있도록 노력한 것같습니다",
+    "practice_years": 4.5,
+    "competition_ratio": 21.94,
+    "student_strength": "본인이 놓치고 있는 단점과 습관 등을 최대한 시험에서 나오지않게 외우고, 외운 내용을 토대로 하나씩 지워가는 것이 중요하다고 생각합니다. 저도 한번 들은 습관이 쉽게 지워지지않아 애를 먹었는데 특강 후반대로 갈 수록 하나씩 지워나갔기때문에 합격에 조금 더 가까워진 것 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "특강초부터 수업으로 주로 다루던게 집중과 확산,반복,교차 등이었기에 늘 학원에서 하던대로 최대한 주제에 집중이라는 단어가 실릴 수 있도록 노력한 것같습니다"
+  }
 }

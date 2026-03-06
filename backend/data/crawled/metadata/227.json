@@ -13,5 +13,14 @@
     "data/crawled/raw_images/227_0.png"
   ],
   "crawled_at": "2026-01-27T13:09:26.567964+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=227"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=227",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "체크무늬 상의에 흰색 반바지 차림의 여성이 모델로 나왔고, 두루마리휴지가 추가로 놓여져 있었음. 제시 난이도가 학원에서 늘 연습하던 수준이었고, 특히 평소 체크무늬 옷의 표현연습을 자주했기 때문에 옷 주름 묘사를 자신있게 표현할 수 있었습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 12.0,
+    "student_strength": "학원에서 실기 수업 이외에도, 평소 인체의 포즈에 따라 특징변화에 중점을 두어 형태 트레이닝을 꾸준히 해 온 것이 효과를 발휘한 것 같았습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "제시 난이도가 학원에서 늘 연습하던 수준이었고, 특히 평소 체크무늬 옷의 표현연습을 자주했기 때문에 옷 주름 묘사를 자신있게 표현할 수 있었습니다."
+  }
 }

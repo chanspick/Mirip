@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3382_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:29:30.082321+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3382"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3382",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "'지나친 엉킴'이라는 주제가 나왔고 당장 시험을 봐야 하는 상황에서 새로운 구상을 하기에는 많은 시간이 소요될 것 같아 전에 시험봤던 작품들 중 만들었던 꽃들이 엉켜져 있는 형태가 떠올라 조금씩 변형하며 구현하였습니다",
+    "practice_years": 2.33,
+    "competition_ratio": 6.96,
+    "student_strength": "단어를 너무 직관적으로 해석하기보다는 어떠한 대상에 비유하며 만드는 것이 다른 사람들과 형태가 겹치지 않고 독창적일 수 있다고 생각합니다 또 학원에서 시험을 볼 때마다 들었던 피드백들이 많은 도움이 되었습니다",
+    "teacher_feedback": null,
+    "ideation_process": "구상을 하기에는 많은 시간이 소요될 것 같아 전에 시험봤던 작품들 중 만들었던 꽃들이 엉켜져 있는 형태가 떠올라 조금씩 변형하며 구현하였습니다"
+  }
 }

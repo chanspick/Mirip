@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3381_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:29:26.702918+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3381"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3381",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "출제된 문제는 심한 치통을 앓고있는 50대 여자이었습니다. 중앙대는 매우 많은 친구들이 모이는 시험장이기 때문에 한눈에 띄게 만들려고 노력했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 21.23,
+    "student_strength": "360도 어디 하나 밀도가 떨어지는 곳 없게 만들었고, 자연스럽게 만들려고 노력했기에 합격을 했다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "중앙대는 매우 많은 친구들이 모이는 시험장이기 때문에 한눈에 띄게 만들려고 노력했습니다. 따라서 동세를 과격하게 주었고 표정도 많이 찡그렸으며 밀도를 높이려고 노력했습니다."
+  }
 }

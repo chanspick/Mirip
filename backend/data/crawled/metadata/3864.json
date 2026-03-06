@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3864_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:55:05.415228+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3864"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3864",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "주제는 '왜곡된 중심의 힘' 이었고 문제를 받고 차분하게 스케치 하면서 최대한 입체적이고 책상 위 공간을 넓게 쓰면서 만들어 가야겠다고 생각했었습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 7.28,
+    "student_strength": "완성도가 제일 장점이라고 생각해서 최대한 깔끔하고 완성도 높게 만들었던게 가장 큰 요인이라 생각합니다.",
+    "teacher_feedback": "선생님과 아이디어를 많이 의논했던거 같고 실기 하면서 받는 피드백을 매번 공책에 적으면서 보완하려고 노력했던거 같습니다..",
+    "ideation_process": null
+  }
 }

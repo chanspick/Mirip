@@ -13,5 +13,14 @@
     "data/crawled/raw_images/550_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:23:03.552537+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=550"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=550",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "제시된 사물은 적양파, 하르보젤리, 노란테이프 였고, 시험전에 학원에서 연습했던 구도를 참고하여 제시어인 ‘집중과 확산’을 표현하기 위해 테이프를 적극적으로 활용하였습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 29.9,
+    "student_strength": "평소 심심할 때나 휴식시간에도 그림을 자주보던 습관이 있으며, 선생님께서 정리해주신 구도설명과 평소 연습하던 제시어풀이의 덕을 많이 본 것 같습니다.",
+    "teacher_feedback": "선생님의 피드백을 중심으로 최대한 단기가넹 단점을 고치려 노력하였습니다..",
+    "ideation_process": "표현하기 위해 테이프를 적극적으로 활용하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3220_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:21:48.858759+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3220"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3220",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "티백, 밀폐용기, 꼬리빗이 나왔는데 분해나 훼손을 하지 말라는 조건이 붙어서 연출의 재미를 보여주기보다는 밀폐용기와 티백의 질감의 특성을 강조하고 티백에 달려있는 끈으로 공간을 크게 열어 깊이를 주면서 각 개체의 특징을 살려서 그리는 데 집중하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 7.5,
+    "student_strength": "전날까지 들었던 피드백을 최대한 반영하려고 한 것과 시험 막바지에 여유시간을 남겨서 그림을 차분히 확인하고 정리했던게 좋게 작용했던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

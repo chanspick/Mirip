@@ -13,5 +13,14 @@
     "data/crawled/raw_images/972_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:41:16.146140+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=972"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=972",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "바퀴와 명주실, 그리고 컴퓨터 부속품이 나왔고, 광각렌즈로 본 화면을 구성하라는 문제가 나왔습니다. 제시물들의 특성을 잘 생각하여 조건에 맞게 그리는 것을 최우선으로 하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 19.57,
+    "student_strength": "자기 그림의 상태에 안주하지 않고 자만하지 않으며 계속해서 더 발전하고자 하는 의욕과 열정이 합격을 부른다고 생각합니다!",
+    "teacher_feedback": null,
+    "ideation_process": "제시물들의 특성을 잘 생각하여 조건에 맞게 그리는 것을 최우선으로 하였습니다."
+  }
 }

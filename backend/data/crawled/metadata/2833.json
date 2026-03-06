@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2833_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:04:25.606073+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2833"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2833",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "제시물로는 거품기, 제시어로는 에너지가 출제되었습니다. 힘에너지나 회전에너지 등의 물리적인 에너지가 떠올라 거품기와 조화롭게 어울리도록 야구공과 물을 추가소재로 활용하여 풀이했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 18.38,
+    "student_strength": "그림에서 장점을 늘리기보다는 단점을 줄여나가는 편이 더 나은 그림을 그릴 수 있는 방법이라고 생각합니다. 매 강평을 허투루 듣지 않고 선생님들의 피드백은 고집 없이 수용하여 같은 실수를 반복하지 않게 하는 것이 중요합니다. 이러한 태도들이 쌓여 합격할 수 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "힘에너지나 회전에너지 등의 물리적인 에너지가 떠올라 거품기와 조화롭게 어울리도록 야구공과 물을 추가소재로 활용하여 풀이했습니다."
+  }
 }

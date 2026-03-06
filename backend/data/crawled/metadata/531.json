@@ -13,5 +13,14 @@
     "data/crawled/raw_images/531_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:22:15.600762+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=531"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=531",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "북어와 고무장갑이 나왔다. 두 개체가 물거나 잡히는 재미난 연출을 주려했고, 북어의 입 속 공간을 통해 명도대비를 살렸다.",
+    "practice_years": 3.0,
+    "competition_ratio": 10.82,
+    "student_strength": "명도대비를 잘 주고 화지에 밀도를 잘 올렸기 때문에 눈에 띌 수 있었다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "두 개체가 물거나 잡히는 재미난 연출을 주려했고, 북어의 입 속 공간을 통해 명도대비를 살렸다."
+  }
 }

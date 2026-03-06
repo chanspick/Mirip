@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2944_0.png"
   ],
   "crawled_at": "2026-01-27T15:09:25.680044+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2944"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2944",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "문제는 커피, 마늘, 공구 집게(?)였으며 제시어는 율동과 해체였습니다. 제시어를 표현하기 위해 마늘 껍질을 흔날리거나 커피 액체를 썼습니다.",
+    "practice_years": null,
+    "competition_ratio": 32.2,
+    "student_strength": "3절 5시간에 비해 1시간이 적지만 5시간 그린 것처럼 많이 그리고 밀도도 많이 올려 완성도를 높이려고 노력했습니다. 제 생각에는 멘탈 관리를 잘해야 하는 것 같습니다!",
+    "teacher_feedback": "선생님이 피드백 해주신 것을 적어서 고치기도 했습니다..",
+    "ideation_process": "표현하기 위해 마늘 껍질을 흔날리거나 커피 액체를 썼습니다. 5."
+  }
 }

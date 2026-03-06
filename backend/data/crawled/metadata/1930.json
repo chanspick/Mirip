@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1930_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:24:35.726697+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1930"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1930",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "모자와 동전 커피머신이 나왔으며 문제 난이도가 높은 편이라고 생각해서 주어진 개체들이 모두 잘 보이면서 어우러지도록 화면배치를 해서 안정감을 주는 구도를 짰고 톤관리를 중요하게 생각하면서 그림을 그려나갔다. 그리고 시원시원하게 물체들을 배치하여 공간감이 잘 느껴지도록 하였다.",
+    "practice_years": 2.5,
+    "competition_ratio": 6.7,
+    "student_strength": "매 시험이 끝나면 선생님께서 자세히 피드백들을 해주셨는데 그게 큰 도움이 되었고 집에서도 많은 그림들을 찾아 보았던게 합격에 영향을 끼쳤던 것 같다.",
+    "teacher_feedback": "피드백들을 잘 생각하면서 하나하나씩 고쳐나가도록 노력을 하면서 실기 준비를 하였다.",
+    "ideation_process": "생각해서 주어진 개체들이 모두 잘 보이면서 어우러지도록 화면배치를 해서 안정감을 주는 구도를 짰고 톤관리를 중요하게 생각하면서 그림을 그려나갔다. 그리고 시원시원하게 물체들을 배치하여 공간감이 잘 느껴지도록 하였다."
+  }
 }

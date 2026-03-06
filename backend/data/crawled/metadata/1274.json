@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1274_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:54:36.381742+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1274"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1274",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "문제: 끈, 카라멜, 복주머니 모양 어항/주어진 사물을 활용하여 속도감을 표현하시오. 카라멜이 담긴 어항이 날아오면서 안에 있던 카라멜이 쏟아지는 장면을 그리려고 했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 9.54,
+    "student_strength": "기본기에 충실하려고 했다. 그게 합격 요인같다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 카라멜이 담긴 어항이 날아오면서 안에 있던 카라멜이 쏟아지는 장면을 그리려고 했다."
+  }
 }

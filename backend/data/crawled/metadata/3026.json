@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3026_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:13:04.666908+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3026"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3026",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "셔틀콕과 배드민턴 라켓이 제시물이였고, 미래건축물을 표현하는게 제시어였다. 제시어를 보고 우주배경을 떠올려서 그렸고 제시물로 건축물처럼 보이게끔 표현하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 40.29,
+    "student_strength": "비록 고3 올라오고 처음 학원을 다니며 늦게 시작했지만, 실력이 짱짱하신 선생님들께서 열심히 도와주셔서 가능했던 것 같습니다. 넥스트 최고~~",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는게 제시어였다. 제시어를 보고 우주배경을 떠올려서 그렸고 제시물로 건축물처럼 보이게끔 표현하였습니다."
+  }
 }

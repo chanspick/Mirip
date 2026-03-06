@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1009_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:42:53.434379+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1009"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1009",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "공중에서 회전하는 그네를 탄 모습을 표현하는 것이 제일 중요하다 생각하여 그 부분을 집중해서 만들었습니다.",
+    "practice_years": 2.25,
+    "competition_ratio": 6.18,
+    "student_strength": "그 전날 문제에 비슷한 작품을 만들고 가서 많은 도움이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 것이 제일 중요하다 생각하여 그 부분을 집중해서 만들었습니다."
+  }
 }

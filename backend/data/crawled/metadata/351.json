@@ -13,5 +13,14 @@
     "data/crawled/raw_images/351_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:14:41.168580+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=351"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=351",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "간이용의자,돋보기,립스틱 녹색의 개체다보니 색이 잘 올라가지 않아 당황했지만 명도를 이용하여 개체와 개체의 분리가 잘 되도록 신경 썼고 주제부분의 완성도를 올릴 수 있도록 신경썼습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 48.53,
+    "student_strength": "평소작을 진행하면서 단점으로 지적되었던 부분들을 한나씩 줄여나갔고 실기고사장에서는 그부분들을 잘 생각하면서 그렸던게 도움이 되었습니다",
+    "teacher_feedback": "선생님이 말씀하신 단점을 주의하면서 평소작과 비슷한 완성도로 완성하려고 노력했습니다.",
+    "ideation_process": null
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3732_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:47:51.074175+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3732"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3732",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "원에서 출제 문제보다 더 어려운 난이도의 사진으로 연습해왔기 때문에 시험장에서 문제를 잘 풀어나갈 수 있었고, 그동안 했었던 실수들과 선생님들의 피드백을 계속 생각하면서 틀리지 않으려고 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 9.45,
+    "student_strength": "성적이 부족한만큼 남들보다 실기를 더 잘하려고 했습니다. 작품에서 틀리거나 어색한 부분들을 찾고 어떻게 고쳐야하는지 고민하고 시도했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "풀어나갈 수 있었고, 그동안 했었던 실수들과 선생님들의 피드백을 계속 생각하면서 틀리지 않으려고 노력했습니다. 특히 정면 이미지와 전체적인 부분을 먼저 맞추려고 했습니다."
+  }
 }

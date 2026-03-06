@@ -13,5 +13,14 @@
     "data/crawled/raw_images/770_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:32:28.030545+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=770"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=770",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "털모자, 머플러, 양초, 액자, 낙엽이 나왔었는데 많은 개체 수에 당황하지 않고 학원에서 연습하던 것을 최대한 이용했습니다. 또, 개체 특성을 잘 보여줄 수 있도록 스케치를 하고, 주제부에 집중적으로 묘사를 표현하고자 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 21.17,
+    "student_strength": "뭐가 나와도 당황하지 않고 자신의 역량을 자신감 있게 보여주는 것 , 혹은 과감한 표현력과 많은 문제들을 풀어보는 것이라고 생각합니다.",
+    "teacher_feedback": "선생님께 바로바로 여쭤보고, 안 되는 것이 있으면 집에서 그려보며 연습했습니다..",
+    "ideation_process": "또, 개체 특성을 잘 보여줄 수 있도록 스케치를 하고, 주제부에 집중적으로 묘사를 표현하고자 했습니다."
+  }
 }

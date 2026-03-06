@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1438_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:02:17.521061+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1438"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1438",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "제시물은 다리미와 나비였다. 다리미는 밑부분이 안보이길래 스팀다리미로 해도 괜찮겠다고 생각을하여 물요소를 추가해서 그렸다.그리고 나비와 같은 생명체는 동선과 형태가 중요하다",
+    "practice_years": 3.0,
+    "competition_ratio": 9.93,
+    "student_strength": "다리미를 스팀다리미로 한것이 다른 애들과 차별화가 되었을것이라고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "다리미는 밑부분이 안보이길래 스팀다리미로 해도 괜찮겠다고 생각을하여 물요소를 추가해서 그렸다.그리고 나비와 같은 생명체는 동선과 형태가 중요하다 생각하여 최대한 다양한 형태의 나비를 그렸다."
+  }
 }

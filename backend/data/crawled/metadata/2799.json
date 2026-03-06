@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2799_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:02:53.077712+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2799"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2799",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제주제는 ‘제시된 이미지( 운동화끈, 나무스푼, 쇠링, 차주전자 )를 활용하여 이동하기 위한 탈 것을 디자인하시오’ 라는 주제가 나왔으며, 탈것의 메카니즘에 초점을 두어 평소에 운송수단을 연습한데로 풀어나갔습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 5.58,
+    "student_strength": "엄청 잘 그려내야지 하는 마인드보다는 평소에 지적당한 부분을 시험장에서는 절대 틀리지 않고. 제시된 문제조건에 한치도 어긋나지 않는 군더더기 없는 그림을 그려야 겠다는 마인드라고 생각합니다.",
+    "teacher_feedback": "선생님이 제 그림에 대해 하시는 말씀을 문제지에 적어두고, 한번 지적받은 점은 다음 그림에서 절대 틀리지 않도록 유의했습니다.",
+    "ideation_process": null
+  }
 }

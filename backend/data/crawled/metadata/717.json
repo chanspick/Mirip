@@ -13,5 +13,14 @@
     "data/crawled/raw_images/717_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:30:10.172025+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=717"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=717",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "포스트잇과 옷핀이 나왔는데, 한양대 수상했을 때처럼 포스트잇의 조형적인 특성을 최대한 활용했고, 핀을 이용해 그 주위가 비어보이지 않게 구성했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 7.51,
+    "student_strength": "성적도 하향에서 적정정도로 넣었기 ��문에 일단 괜찮은 내신 성적 때문에 1차를 붙었고, 사물의 조형적인 특성을 잘 활용해서 잘 그렸기 ��문에 최종까지 붙게 되었다고 생각해요.",
+    "teacher_feedback": "선생님 지도를 잘 따르려 노력했어요.",
+    "ideation_process": null
+  }
 }

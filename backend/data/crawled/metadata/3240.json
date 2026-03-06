@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3240_0.png"
   ],
   "crawled_at": "2026-01-27T15:22:41.387631+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3240"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3240",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험 시간을 온전히 다 쓴 것 처럼 보이는 완성도 있는 그림을 그리고 싶었습니다.",
+    "practice_years": null,
+    "competition_ratio": 6.0,
+    "student_strength": "선생님께: 손도 대지 못한 채로 계속 고민만 하는 저 때문에 많이 답답하셨을텐데, 같이 고민해주시고 늘 진지하게 충고해주셔서 감사했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "쓴 것 처럼 보이는 완성도 있는 그림을 그리고 싶었습니다. 인생에서 가장 손을 빨리 움직이겠다는 마음으로 정말 열심히 그렸습니다."
+  }
 }

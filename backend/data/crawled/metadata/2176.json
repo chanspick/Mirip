@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2176_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:35:17.055098+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2176"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2176",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "시험 당일 리소샘께서 얘기 해 주신 소재 간의 연관성에 집중하며 최대한 나온 제시물들끼리 연관 시켜주려고 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 9.42,
+    "student_strength": "나군 준비 기간 동안 포기하지 않고 끝까지 열심히 했던 게 합격을 만들어준 것 같습니다.",
+    "teacher_feedback": "선생님들과 보조쌤들이 평소 피드백 해주시는 부분들을 생각하면서 그림 그릴 때 반영하려고 노력했고 최대한 맑은 그림이 나올 수 있도록 노력했습니다..",
+    "ideation_process": null
+  }
 }

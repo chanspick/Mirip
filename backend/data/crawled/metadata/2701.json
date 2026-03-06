@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2701_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:58:24.482140+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2701"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2701",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "킷캣 초콜릿과 종이컵과 종이 빨대가 실물로 제시되었다. 초콜릿은 내용물만 쓰고 형태를 변형해서 써도 된다고 했고 종이컵은 구기는 것은 되지만 찢는 것은 안된다고 했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.35,
+    "student_strength": "구도를 신경 써서 뜬 점과 주변의 속도에 휩쓸리지 않고 내가 정해둔 시간 안에서 움직인 점 같다.",
+    "teacher_feedback": "선생님께서 묘사력이 부족하다 했기 때문에 여러 자료를 관찰했다.",
+    "ideation_process": "생각해서 스케치를 재미있게 뜨려고 노력해 시간을 오래 투자했다."
+  }
 }

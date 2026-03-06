@@ -13,5 +13,14 @@
     "data/crawled/raw_images/201_0.png"
   ],
   "crawled_at": "2026-01-27T13:08:21.211992+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=201"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=201",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "컴퓨터 프로그램을 이용한 연극무대를 그려본 적은 없었기 때문에 처음에 주제를 받았을 땐 조금 당황스러웠지만 그려왔던 그림들을 하나하나 떠올리며 연습했던 것에 적용해서 주제가 선명히 보여 지게 연출하려 노력했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 7.67,
+    "student_strength": "선생님께서 지적해주신 부분을 다음번에 고쳐서 다시 그려보려 했고 나는 한번 완성한 그림을 한번으로 끝내는 것이 아니고 꼭 3~4번씩 더 그렸다. 그러다 보니 그 그림 자체를 안보고도 그릴 수 있고 그렸던 그림을 또 다르게 응용하여 다양한 투시로도 바꿔 그릴 수 있게 되었다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

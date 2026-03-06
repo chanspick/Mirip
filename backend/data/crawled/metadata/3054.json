@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3054_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:14:18.659856+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3054"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3054",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "집게처럼 생긴 특이한 공구와 티오피, 마늘 사용할 수 있는 개체가 많았기 때문에 다양한 연출을 보여줄 수 있었지만 너무 복잡하고 정신없게 보이지 않기위해서 포인트 부분만 강조하려고 노력하였습니다. 또 가변성이 있는 주제는 적극적으로 가변시키려고 했습니다.",
+    "practice_years": 4.42,
+    "competition_ratio": 30.53,
+    "student_strength": "학원에서 주제지를 정확하게 분석하는것에대한 중요성을 많이 알게 되어 사물분석을 자세히 하였고 이론 수업을 자주 해주셔서 이론이 흔들릴때마다 바로 다잡는데 도움이 많이 되었습니다. 그날그날 학생들이 전체적으로 부족했던 부분을 다음날 수업내용에 넣어주시니 문제에 대한 피드백을 바로 받고 고칠 수 있었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "또 가변성이 있는 주제는 적극적으로 가변시키려고 했습니다."
+  }
 }

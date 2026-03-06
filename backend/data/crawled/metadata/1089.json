@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1089_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:46:30.377918+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1089"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1089",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "성신여자대학교는 보통 젊은 여성모델들이 나옵니다. 여성 모델도 골격이나 특징이 센 모델도 나오는 것 같아요..",
+    "practice_years": 1.58,
+    "competition_ratio": 3.0,
+    "student_strength": "수능이 그리 좋은 성적이 안이었습니다. 그렇기 때문에 실기력이 가장 큰 영향을 끼치지 않았을까요?? 많은 연습으로 실기력을 기를 수 있었다고 생각합니다.",
+    "teacher_feedback": "선생님들께서 말씀주신것들을 하루에 하나씩 고치려고 노력했습니다.",
+    "ideation_process": "여성 모델도 골격이나 특징이 센 모델도 나오는 것 같아요.. 그래서 시험볼때 모델의 분위기를 내는데에 집중했었는데 다행히 좋은 결과가 있었습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3025_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:13:02.112204+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3025"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3025",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "마트료시카와 적채가 출제되었습니다. 적채 소묘를 할 때 보라색과 흰색의 대비를 사진보다",
+    "practice_years": 3.17,
+    "competition_ratio": 54.7,
+    "student_strength": "디자인에 대한 아이디어 스케치만 10분 정도 진행하였다. 그 10분 동안 어떻게 하면 물체의 특성을 잘 보여줄 수 있을지 고민하였다. 또한 적채의 단면을 그리는 것이 자신이 없었기 때문에 주제부에 배치하지 않았다.",
+    "teacher_feedback": "피드백 내용을 위주로 오답 노트를 작성하고, 그림을 수정하여 전후 차이를 비교해 부족한 점을 스스로 판단하려고 노력하였습니다..",
+    "ideation_process": "적채 소묘를 할 때 보라색과 흰색의 대비를 사진보다 강조하였습니다."
+  }
 }

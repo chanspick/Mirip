@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2079_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:31:06.487021+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2079"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2079",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "소묘는 크래커를 나뭇잎 질감으로 표현하고 깨진 상황을 표현하는 것이었고 디자인은 나뭇잎과 크래커를 이용하여 스탠드를 디자인하는 것 이었습니다. 시험 며칠전에 스탠드를 한번 디자인 해봐서 강평 들었던 내용을 토대로 시험을 진행하였습니다.시험문제를 풀면서 크래커와 낙엽을 조화롭게 결합하는 데에 중점을 두었습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 6.79,
+    "student_strength": "소묘 과자의 나뭇잎 질감 표현과 스탠드의 색감때문이지 않나 생각합니다.",
+    "teacher_feedback": "선생님의 피드백을 듣고 다음 그림에서는 지적받았던 부분을 고치려고 노력하였고 평소에 주변의 여러 사물들을 보면서 나라면 저걸 어떻게 디자인할지 머릿속으로 디자인 하는 습관을 만들었습니다..",
+    "ideation_process": "표현하고 깨진 상황을 표현하는 것이었고 디자인은 나뭇잎과 크래커를 이용하여 스탠드를 디자인하는 것 이었습니다. 시험 며칠전에 스탠드를 한번 디자인 해봐서 강평 들었던 내용을 토대로 시험을 진행하였습니다.시험문제를 풀면서 크래커와 낙엽을 조화롭게 결합하는 데에 중점을 두었습니다."
+  }
 }

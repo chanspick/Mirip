@@ -13,5 +13,14 @@
     "data/crawled/raw_images/299_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:30.188794+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=299"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=299",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "시험전 선생님이 늘 강조하시던 사물의 특성,색의 배치등을 고려해 주제부를 연출하며 문제를 풀었다.평소 다양한 물체들을 연습해봐서 어렵지 않게 잘 풀어 나갈수 있었던것 같다.",
+    "practice_years": 2.0,
+    "competition_ratio": 7.04,
+    "student_strength": "기본기 연습을 꾸준히 했던것들이 많은 도움이됐다. 또 선생님의 조언을 늘 생각하며 고치려 노력한것이 시험장에서 좋은 결과를 만들어 낸것같다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

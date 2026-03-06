@@ -13,5 +13,14 @@
     "data/crawled/raw_images/643_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:27:01.294623+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=643"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=643",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "평소에도 시험장이라는 긴장감을 가지고 실기 시간을 보내다 보니 시험장에서 떨지 않고 빠르게 그림을 완성 할 수 있었습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "보니 시험장에서 떨지 않고 빠르게 그림을 완성 할 수 있었습니다. 시험 몇일 전부터 잠도 더 자고, 시험장에서 사소한 습관도 평소와 똑같이 행동해서 실수 없이 최상의 컨디션으로 시험에 임하는게 중요한 것 같습니다."
+  }
 }

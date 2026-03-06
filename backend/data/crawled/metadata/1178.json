@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1178_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:50:25.625150+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1178"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1178",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 3.0,
+    "competition_ratio": null,
+    "student_strength": "시험장에서 문제를 받은 후에 차분히 천천히 읽고 어떤 것을 그릴지 신중하게 결정해야 합니다. 또한 문제에 가장 적합하면서 자신의 실력과 성실함을 잘 보여줄 수 있는 그림을 그리는 것이 중요합니다. 저는 시험장에서 시간을 잘 배분해서 여유롭게 문제를 풀 수 있었습니다.",
+    "teacher_feedback": "선생님들께서도 생각하는 연습과 그리는 과정 중에 그리고 완성작을 보며 그림에 대한 솔직한 평가를 해주시기 때문에 서울대를 가기 위한 탄탄한 준비를 할 수 있습니다..",
+    "ideation_process": null
+  }
 }

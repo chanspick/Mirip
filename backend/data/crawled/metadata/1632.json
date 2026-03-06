@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1632_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:11:17.000780+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1632"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1632",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "순수한 사랑의 밀도를 추상적으로 점토로 자유표현하시오. 순수한 사랑을 떠올려보니 부정적인 느낌이 아니어서 기본도형중 원기둥을 선택했고 순수한사랑이 앳되고 서툰사랑의 느낌이 많이 날거라 생각해서 원기둥을 불규칙하게 쌓고 옆에 원기둥을 비스듬히 세워둠으로써 엇나간 느낌을 추상적으로 표현하려했다.",
+    "practice_years": 1.5,
+    "competition_ratio": 9.2,
+    "student_strength": "여러가지 아이디어들을 구상해서 순서대로 적어놓고 적어도 3번째 아이디어부터 만들려고 노력했다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 원기둥을 불규칙하게 쌓고 옆에 원기둥을 비스듬히 세워둠으로써 엇나간 느낌을 추상적으로 표현하려했다."
+  }
 }

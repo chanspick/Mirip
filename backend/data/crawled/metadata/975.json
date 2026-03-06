@@ -13,5 +13,14 @@
     "data/crawled/raw_images/975_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:41:24.148415+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=975"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=975",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "럭비공. 단풍잎.",
+    "practice_years": 2.0,
+    "competition_ratio": 14.55,
+    "student_strength": "문제은행 학교여서 \"문제가 나와 있는데도 못하면 어떡하지, 다른 학교들은 언제 다 준비하지\" 하는 등의 걱정들 때문에 새벽 6시부터 나와서 채색 연습을 하고 본 수업 시간엔 선생님들과 구도를 체크하고 암기하는 방향으로 개인 플랜을 짰습니다. 평소에 거만했던 태도를 버리고 제가 한 선택에 책임을 져야 한다하는 태도 덕분에 합격할 수 있던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "단풍잎. 주사위가 나왔는데 평소 연습할 때, 다른 어려운 것들 위주 제시물을 받았을 때 채색에 있어서 당황할 것 같은 것들 위주로 채색 연습을 했었기 때문에 채색 연습을 안 했었습니다."
+  }
 }

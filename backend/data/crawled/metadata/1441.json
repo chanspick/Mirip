@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1441_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:02:27.363485+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1441"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1441",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "정사각형과 그것을 부채꼴과 나머지로 나눈 모양을 평면적으로 배치하여 '리듬'을 표현하라는 문제가 나왔고 각 도형의 모양과 간격의 차이를 통해 리듬이 느껴지도록 화면을 구성했다",
+    "practice_years": 2.0,
+    "competition_ratio": 6.77,
+    "student_strength": "선생님이 이전 그림에서 지적했던 점들을 떠올리면서 그리려고 노력했고 평면구성을 몇번 해봤던 것이 도움이 되었다고 생각한다 .",
+    "teacher_feedback": "피드백을 받으며 준비했으며 남은시간에 개체연습이나 스케치를 하며 준비했다.",
+    "ideation_process": "표현하라는 문제가 나왔고 각 도형의 모양과 간격의 차이를 통해 리듬이 느껴지도록 화면을 구성했다"
+  }
 }

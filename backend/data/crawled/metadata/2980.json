@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2980_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:11:02.337001+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2980"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2980",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "문제는 생수병, 아보카도였습니다. 저는 생수병을 주제로 배치했고 생수병 뚜껑으로 아보카도를 퍼내는 연출을 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 12.33,
+    "student_strength": "아보카도와 생수병을 많이 연습했어서 문제 중에 가장 자신 있는 개체였던 것 같습니다.",
+    "teacher_feedback": "선생님이 피드백 해주신 것을 적어서 고치기도 했습니다..",
+    "ideation_process": "저는 생수병을 주제로 배치했고 생수병 뚜껑으로 아보카도를 퍼내는 연출을 했습니다."
+  }
 }

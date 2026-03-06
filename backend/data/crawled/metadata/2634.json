@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2634_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:55:23.856013+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2634"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2634",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "문제1: 비움과 채움을 표현하시오(가로 4절) 문제2:인간 자연 물질 (+재활용마크 그림) 제시어들의 관계를 자유롭게 해석하시오 (가로 2절)",
+    "practice_years": 2.5,
+    "competition_ratio": null,
+    "student_strength": "솔직히 운이 좋았던 것 같다. 그러나 그 행운이 합격에서 빛을 발할 수 있기까지의 과정에서 나의 노력 또한 배제할 수 없는 요인이라는것 또한, 사실이다. 여러분도 행분을 마냥 기다리기만 하는 사람보다는 행운을 만들 수 있는 사람의 마음가짐으로 끝까지 포기하지않았으면 좋겠다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오(가로 4절) 문제2:인간 자연 물질 (+재활용마크 그림) 제시어들의 관계를 자유롭게 해석하시오 (가로 2절)"
+  }
 }

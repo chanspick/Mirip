@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3403_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:30:31.866700+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3403"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3403",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "면접전형이라서 실기시험은 없었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 10.0,
+    "student_strength": "평소에도 긴장을 하는편이 아니라서 차분하게 컨디션 조절을 잘하고 준비해온 덕분인것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

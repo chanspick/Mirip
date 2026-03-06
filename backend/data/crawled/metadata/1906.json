@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1906_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:23:32.557158+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1906"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1906",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "사과주스병과 팔찌가 제시물로 나왔으며 사과주스가 흐르고 팔찌를 선제로 적극적으로 써서 공간을 연출해야 겠다는 생각을 머리 속으로 정리하며 시험을 보았습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 9.82,
+    "student_strength": "소묘의 적당한 크기와 팔찌의 적극적인 활용이 합격의 주요인이라 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

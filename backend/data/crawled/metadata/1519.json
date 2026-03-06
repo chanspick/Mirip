@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1519_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:05:59.791221+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1519"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1519",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제은행에 문제가 나와 있어서 평소에 준비했던 것을 기억하면서 학원에서 연습해서 그렸던 것보다 더 퀄리티를 높여야 겠다는 생각을 하면서 열심히 그렸다.",
+    "practice_years": 3.58,
+    "competition_ratio": 10.96,
+    "student_strength": "실기 준비를 하면서 선생님들의 조언이나 피드백을 최대한 반영해서 주제를 잘 풀어나간 것과 선생님들이 가르쳐 주신 것을 잘 따르는 것이 중요했던 것 같다.",
+    "teacher_feedback": "선생님들의 피드백을 잘 생각하고 나쁜 습관이나 고쳐야 할 점들을 반영할 수 있도록 노력하면서 실기를 준비했다..",
+    "ideation_process": "더 퀄리티를 높여야 겠다는 생각을 하면서 열심히 그렸다."
+  }
 }

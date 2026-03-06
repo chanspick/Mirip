@@ -13,5 +13,14 @@
     "data/crawled/raw_images/844_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:35:45.313496+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=844"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=844",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "소묘 : 주어진 비닐봉지 2개(흰색, 검은색)와 거울지를 이용해 화면을 자유롭게 구성하시오. 수채화 : 우산꽂이통, 파프리카 2개(빨강, 주황), 유리컵, 국화, 양배추(적색), 말린오징어 학원에서 배운 기초를 중요시 생각하며 풀어나갔다.",
+    "practice_years": 1.0,
+    "competition_ratio": 1.8,
+    "student_strength": "기본에 충실을 다하려했고 매순간 최선의 노력을했다.",
+    "teacher_feedback": "선생님들 말씀을 놓치지 않으려 애썼다..",
+    "ideation_process": "수채화 : 우산꽂이통, 파프리카 2개(빨강, 주황), 유리컵, 국화, 양배추(적색), 말린오징어 학원에서 배운 기초를 중요시 생각하며 풀어나갔다."
+  }
 }

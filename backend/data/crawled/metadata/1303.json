@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1303_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:55:56.024319+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1303"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1303",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "와인잔, 지퍼, 단추랑 실패가 나왔고 와인잔의 투명함을 활용하고 실과 지퍼로 거리감과 역동성을 표현하려고 하였습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 6.92,
+    "student_strength": "부족하다고 생각되는 부분은 고쳐질때까지 여러번 생각하고 그려보고 부족하지 않다고 생각되는 부분도 틈틈이 생각하고 그렸습니다. 또한 선생님들과의 의사소통이 주요인이 된 것 같습니다.",
+    "teacher_feedback": "선생님께 평가받는 식으로 준비했습니다..",
+    "ideation_process": null
+  }
 }

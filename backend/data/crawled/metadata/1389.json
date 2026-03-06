@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1389_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:59:58.659350+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1389"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1389",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "참치캔/종이노끈/사각 건전지 부피가 있는 참치캔을 주제부에 가장크게 넣고 그 주위에 사각건전지를 여러각도로 배치했다. 선재인 종이 노끈이 나왔기때문에 종이노끈을 참치캔이 누르거나 참치캔을 감는등 여러용도로 재미있게 사용해봤다",
+    "practice_years": 2.0,
+    "competition_ratio": 7.83,
+    "student_strength": "중간에 문제지를 잘못읽어 용지를 바꾸고 3시간 50분이 남은 상태에서 구도와 스케치를 다시 뜨고 완성을 했는데 이때의 순발력과 빠른속도가 합격에 영향을 끼친것 같다",
+    "teacher_feedback": null,
+    "ideation_process": "선재인 종이 노끈이 나왔기때문에 종이노끈을 참치캔이 누르거나 참치캔을 감는등 여러용도로 재미있게 사용해봤다"
+  }
 }

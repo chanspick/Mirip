@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2073_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:30:51.241736+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2073"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2073",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "딸기, 나뭇가지, 보안경(고글) 이 나왔고, 내 구도에 개체들이 확실히 보일 수 있도록 했다.",
+    "practice_years": null,
+    "competition_ratio": 8.77,
+    "student_strength": "주제에 들어갈 딸기와 고글이 효과적으로 더욱 잘 보이도록 채도와 명도에 신경썼던 부분이라고 생각된다.",
+    "teacher_feedback": "선생님께서 충고하시는 부분을 신경쓰며 열심히 했다..",
+    "ideation_process": null
+  }
 }

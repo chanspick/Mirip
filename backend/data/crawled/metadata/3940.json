@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3940_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:59:09.082914+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3940"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3940",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "드릴, 양키캔들, 목장갑이 출제되었습니다. 변형이 쉬운 개체와 디테일이 많은 개체의 특성을 최대한 살리면서 세 물체가 모두 잘 보이도록 하며 문제를 풀었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 16.67,
+    "student_strength": "가고 싶은 대학의 합격작을 많이 찾아보고 각 학교가 원하는 그림의 콘셉트와 구도에 맞추려고 노력했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "변형이 쉬운 개체와 디테일이 많은 개체의 특성을 최대한 살리면서 세 물체가 모두 잘 보이도록 하며 문제를 풀었습니다."
+  }
 }

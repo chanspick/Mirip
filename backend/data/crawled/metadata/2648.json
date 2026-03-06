@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2648_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:56:02.032357+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2648"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2648",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "인공위성, 지구, 2022월드컵 축구공, 쇠사슬이 나왔습니다. 딱 문제를 받았을 때 이게 뭐지 싶었지만 다",
+    "practice_years": 1.83,
+    "competition_ratio": 6.23,
+    "student_strength": "구도입니다. 채색을 잘 못하더라도 구도가 좋으면 눈에 띄고, 그림이 잘 보이게 됩니다. 근데 그 구도를 홍대유니온에서 정말 쉽게 잘 가르쳐주었고 정말 홍대유니온의 구도가 합격까지 떠먹여줬다고 생각합니다.",
+    "teacher_feedback": "피드백을 받고 수정해나가며 실기를 준비했습니다..",
+    "ideation_process": "생각했습니다. 특히 그냥 축구공이라고 준 게 아니라 ‘2022 월드컵 축구공’이라고 쓰여져 있어서 ‘세계’라는 단어를 생각하며 문제를 풀었습니다."
+  }
 }

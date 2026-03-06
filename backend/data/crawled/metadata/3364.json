@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3364_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:28:36.465819+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3364"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3364",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "현미경, 키위, 전기연장선, 스테인레스 빨대로 집중과 확산을 표현하라는 문제가 출제되었습니다. 현미경의 형태를 틀리지 않는 것이 가장 중요하다고 생각해서 스케치 시간을 한 시간 반 정도로 잡고 꼼꼼하게 떴습니다.",
+    "practice_years": 2.58,
+    "competition_ratio": 39.04,
+    "student_strength": "제시된 사물의 정확한 형태와 제시어에 대한 답변이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 스케치 시간을 한 시간 반 정도로 잡고 꼼꼼하게 떴습니다. 각 제시물들의 역할을 나눠서 키위를 포인트로 쓰면서 컬러밸런스를 맞췄고, 빨대로 화면의 전체적인 구조를 정리했습니다."
+  }
 }

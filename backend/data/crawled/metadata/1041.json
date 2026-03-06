@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1041_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:44:19.302535+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1041"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1041",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 3.0,
+    "competition_ratio": 15.5,
+    "student_strength": "실내건축디자인과를 지원했지만 생기부 내용 자체는‘에코 커뮤니티 디자이너’를 지향하면서 전반적인 디자인에 대해 탐구한 성격을 띠고 있습니다.이건 겉핥기 식으로 디자인에 대해 탐구하기 보다 ‘나’라는 사람이 어떤 디자인을 좋다고 느끼는가가 잘 드러나야 하기 때문에 자신에 대한 고민과 고찰이 필수적이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

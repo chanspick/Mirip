@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3067_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:14:55.774265+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3067"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3067",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "사과,연필,소라 평소에 기출을 열심히 풀어 해당 유형의 문제가 나와 어려움 없이 잘 풀어나갔다.",
+    "practice_years": 3.0,
+    "competition_ratio": 19.45,
+    "student_strength": "우리 학원만의 특별한 조형적 구도와 수없이 연구한 컬러감으로 합격의 주요원인이다,",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

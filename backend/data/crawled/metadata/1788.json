@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1788_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:18:26.839532+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1788"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1788",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "붓, 붓 커버, 철 수세미, 집게의 조형적 특징을 활용하여 가로 화면구성하라는 문제였다. 문제 사진이 흑백사진으로 되어있었기에 색깔은 바꿔도 상관없었고, 시험문제 중에 점선 면중 한 조형요소로 치우쳐있는 문제들을 가끔 봤는데 이번 시험에서는 그런 느낌을 받지는 않았다.",
+    "practice_years": 2.0,
+    "competition_ratio": 35.03,
+    "student_strength": "그림의 내용이 합격에 영향을 준 것 같다. 그림 실력으로 그림 실력으로 봤을 때 나보다 더 잘 그린 사람들도 많았고 남들에 비해 그림을 세밀하게 묘사한 편은 아니다. 그러나 득점 요인을 세 가지 이상 넣었고 색깔 대비도 보색대비로 냈기 때문에 내용면에서 합격점을 받은 게 아닌지 생각하게 된다.",
+    "teacher_feedback": "선생님이 주시는 문제들에 나오는 물체의 특성들을 분석해서 적고, 그 특성에 따라 주어진 구조에 맞춰 구성했다.",
+    "ideation_process": "문제 사진이 흑백사진으로 되어있었기에 색깔은 바꿔도 상관없었고, 시험문제 중에 점선 면중 한 조형요소로 치우쳐있는 문제들을 가끔 봤는데 이번 시험에서는 그런 느낌을 받지는 않았다."
+  }
 }

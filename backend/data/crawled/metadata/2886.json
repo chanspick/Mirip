@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2886_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:06:47.704699+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2886"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2886",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "풍선,건전지,콘센트가 출제되었으며 점선면의 요소가 골고루 출제되었기 때문에 평소 준비하던대로 스케치부터 완성까지 큰 막힘없이 마무리를 했습니다. 건전지와 풍선 중 무엇을 큰 면으로 구성할지가 가장 고민이었으나",
+    "practice_years": 4.0,
+    "competition_ratio": 29.0,
+    "student_strength": "수시는 성적이 되어도 경쟁률이 쎈 지원을 할 수 밖에 없는데 소묘부터 디자인까지 예비반때부터 꾸준히 정리를 잘 해왔기 때문에 기초소양 소묘 기초디자인등 다양한 과목의 대학을 지원할 수 있었고 합격까지 이어진것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "건전지와 풍선 중 무엇을 큰 면으로 구성할지가 가장 고민이었으나"
+  }
 }

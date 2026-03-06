@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1288_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:55:15.756576+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1288"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1288",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "단국대학교 공예(금속/섬유)과 실기시험에는 텀블러와 커피 캡슐, 일회용 면도기가 출제되었습니다. 전날 학원에서 유리컵, 체온계, 딸기로 문제를 풀었었는데 그게 생각이 나서 접목할 수 있었습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 23.4,
+    "student_strength": "정시반에 있다가 수시반으로 옮기자고 원장님과 상담을 여러 차례 했는데 늦게 들어온 만큼 실기를 올려주려 노력해주시고 여러 다양한 브리핑, 평가, 아스, 매일 시간마다 체계적인 시간표가 실기를 끌어 올리는 데에 큰 도움이 된 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 위에서 아래로 떨어지는 하강 구도를 사용했습니다."
+  }
 }

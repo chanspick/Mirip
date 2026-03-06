@@ -13,5 +13,14 @@
     "data/crawled/raw_images/664_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:27:54.802852+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=664"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=664",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.0,
+    "competition_ratio": 5.33,
+    "student_strength": "시험장에서는 일단 긴장하지 않고 그림을 그려내는게 중요한 것 같아서 긴장하지 않으려고 애썼습니다. 모델을 보며 연필을 몇번 그어보니까 긴장은 자연스레 풀려서 평소만큼 그림이 나왔던 것 같습니다",
+    "teacher_feedback": "선생님께서 실기시험이 남았으니 끝까지 노력해보자고 하셨습니다.",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1368_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:58:58.652056+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1368"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1368",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "제시물: 전통적인 서랍장 문제1. 제시물을 해체하여 추출한 요소를 재구성하고 이를 평면적으로 표현하시오.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "슬럼프 극복은 어떻게 했나요?! 선생님께 지적을 연속적으로 받을 때는 “다음번에는 잘해서 깜짝 놀라게 해주지!” 이런 마음으로 실수를 분석했습니다. 사람은 기계가 아니기 때문에 기복이 있는 것은 당연합니다. 자신을 다그치기보다는 맛있는 음식, 잠깐의 휴식, 화장실, 정수기를 사용해 저를 달래주었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. (표현재료: 파란색 볼펜) 문제2."
+  }
 }

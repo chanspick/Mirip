@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2650_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:56:07.466600+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2650"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2650",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "붓, 나무그릇, 나무블럭,유리뚜껑이 나왔습니다 바로 전날 피드백 받았던것을 유의하여 그리려고 햇고, 지금까지 그렸던 그림중에 적용할 수 있는 부분을 적용하여 그리려고 했습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 32.45,
+    "student_strength": "선생님이 피드백을 구체적으로 해주셨고, 그 피드백을 잊지 않고 계속 적용해 본 것이 주요인 이었던것 같습니다 평소에 부족했던 부분은 최대한 줄여나가려고 노력하였고, 칭찬 받았던 부분을 극대화 한 것도 한몫한 것 같습니다",
+    "teacher_feedback": "선생님이 말씀해주신 피드백을 핸드폰에 적어두고 자투리시간을 활용하여 틈틈이 복습했습니다 제가 따로 아쉬웠던 부분은 자료를 찾거나 선생님께 질문해서 문제를 해결하였고 그 다음 그림에서 바로.",
+    "ideation_process": "바로 전날 피드백 받았던것을 유의하여 그리려고 햇고, 지금까지 그렸던 그림중에 적용할 수 있는 부분을 적용하여 그리려고 했습니다"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3792_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:51:06.359567+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3792"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3792",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 6.66,
+    "student_strength": "아이디어나 실력 면에서 월등히 잘 그리는 학생들을 보고 스스로 낙담하기도 하였지만, 늦게 시작했는데도 잘 따라오고 있다는 이대반 선생님들의 격려와 지도로 마지막까지 최선을 다 할 수 있었습니다.",
+    "teacher_feedback": "선생님의 지도를 받으며 여름 특강 때부터 수능 전까지 입시 미술에서는 어떻게 그려야 하는지, 조형적으로 잘 디자인 된 그림이 어떤 것인지 자세히 배울 수 있었습니다.",
+    "ideation_process": null
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3523_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:36:16.979888+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3523"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3523",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 7.0,
+    "competition_ratio": 45.52,
+    "student_strength": "생각하고 사용자에게 깊게 공감하는 방법을 배운 것이 가장 크게 도움을 주었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

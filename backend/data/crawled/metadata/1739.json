@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1739_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:16:17.237621+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1739"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1739",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "안경,전화기,핸드폰이 출제되었습니다. 문제를 받고 형태력과 완결미가 중요한거같아서 이 점에 신경써서 그림을 완성했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 18.31,
+    "student_strength": "평소작 할 때 꼼꼼하게 저의 장단점을 파악했습니다. 또 학원에서 시험볼 때 실제 시험이라 생각하고 다양한 변수에 대비했습니다. 시험장에 들어가기 전, 내가 자주 실수했던 점이나 중요한 그림포인트들을 다시 되새기면서 마음을 다잡았습니다.",
+    "teacher_feedback": "선생님께 피드백을 자주 받았습니다.",
+    "ideation_process": "문제를 받고 형태력과 완결미가 중요한거같아서 이 점에 신경써서 그림을 완성했습니다. 또 안경알의 유리를 크게 쓰는 사람은 없을 거 같아서 유리알을 크게 사용했습니다."
+  }
 }

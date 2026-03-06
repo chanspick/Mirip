@@ -13,5 +13,14 @@
     "data/crawled/raw_images/647_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:27:11.452485+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=647"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=647",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "일분일초 조금이라도 허비하지않으려 했던것이 전체적인 완성도를 높이는데 크게 도움이�榮� 긴장은 안했고 즐기면서 봤다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.87,
+    "student_strength": null,
+    "teacher_feedback": "선생님들의 의견과 피드백이 더 좋은그림으로 나아가는데 도움이 되었다.",
+    "ideation_process": null
+  }
 }

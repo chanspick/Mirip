@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2466_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:47:56.233005+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2466"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2466",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 자신이 했던 거짓말이 얼굴에 나타나기 시작한 순간이었고 학원에서 미리 준비했던 ‘괜히 관심 있는 아이를 괴롭히며 좋아하지 않는다고 부인하는 주인공’을 소재로 칸만화를 풀이하였습니다.",
+    "practice_years": 6.0,
+    "competition_ratio": 14.11,
+    "student_strength": "학원에서 스케치 시험, 전체시험을 통해 미리 실제 시험을 준비해봄으로써 실전에 대한 감을 익히고 시간 배분을 어떻게 해야 할지 계획을 세워 시험을 침착하게 진행해나갔기 때문이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

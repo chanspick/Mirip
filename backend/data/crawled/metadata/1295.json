@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1295_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:55:35.620319+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1295"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1295",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "주제사물은 포스트잇과 나사못이 주어졌고 제시어는 속도감이었습니다. 주제를 받자마자 그네로 속도감을 표현해야겟다.",
+    "practice_years": null,
+    "competition_ratio": 3.97,
+    "student_strength": "제 담당 선생님의 정확한 피드백이 정말 도움이 되었습니다. 그림에서 제 장점과 단점을 확실하게 말씀해주셔서 장점은 살리고 단점은 보완할 수있었습니다. 수시가 얼마 남지 않은 시점에,진짜 딱 한번 너무 힘들었을때 원장선생님의 위로가 정말 큰 도움이되었습니다 :) 그리고 저 스스로는 수시 끝판에 나무, 쇠 등 정말 기초적인 질감연습을 남는 시간마다 했습니다.",
+    "teacher_feedback": "선생님이 주신 역대 계명대 합격작을 보고 하나씩 다 문제를 풀어보았더니 감이 쉽게 잡혔다..",
+    "ideation_process": "주제를 받자마자 그네로 속도감을 표현해야겟다. 그래서 주제부로 그네를 탄 사람과 뒤에서 밀어주는 사람을 원경으로 그렸습니다그리고 패션디자인과이다"
+  }
 }

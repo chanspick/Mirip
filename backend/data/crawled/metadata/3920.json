@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3920_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:58:00.564440+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3920"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3920",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 수박과 전구였으며 문제를 받고 깔끔하고 시선이 분산되지 않게만 그리자라고 생각하며 그렸습니다",
+    "practice_years": 1.0,
+    "competition_ratio": 4.58,
+    "student_strength": "3절에 더 자신이 있었고 5시간이라 차분하게 그렸던 게 주요 요인이라고 생각합니다",
+    "teacher_feedback": "피드백을 바탕으로 오답노트를 작성하며 실수를 줄여 나갔습니다.",
+    "ideation_process": null
+  }
 }

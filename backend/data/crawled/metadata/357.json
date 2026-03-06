@@ -13,5 +13,14 @@
     "data/crawled/raw_images/357_0.png"
   ],
   "crawled_at": "2026-01-27T13:14:56.216779+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=357"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=357",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "5cm 가량의 여러 조약들을 감싼 비닐을 표현하시오. 막 어렵게 생각 하지않고 주제그대로 만들려고 했다.",
+    "practice_years": 1.33,
+    "competition_ratio": 8.5,
+    "student_strength": "'잘하려고 막 욕심부리지 않고 주제에 충실하게 하자' 라는 생각을 했고 평소 배웠던 것을 차분하게 풀어나가자라고 생각했다.",
+    "teacher_feedback": "선생님이 미리 준비해두신 문제를 풀고 제가 부족한 질감 표현이나 형태를 그다음날 다른 것으로 활용하며 실기했다..",
+    "ideation_process": "표현하시오. 막 어렵게 생각 하지않고 주제그대로 만들려고 했다."
+  }
 }

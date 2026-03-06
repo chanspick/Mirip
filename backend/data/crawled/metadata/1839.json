@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1839_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:20:39.270695+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1839"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1839",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "돼지저금통(도자기 질감), 노랑색 줄자, 돌돌이(먼지털이)가 출제 되었었고 제시된 색을 그대로 재현해내기위해 노력 했으며 돌돌이 색이 파랑색이고 줄자가 노랑색이였어서 채도대비와 각 사물들의 쓰임새(용도)을 최대한 잘 보일려고 노력했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 10.4,
+    "student_strength": "선생님과의 많은 그림이야기를 통해 부족한 단점에 대해 알게 되고 최대한 단기간안에 부족한 부분을 빨리 해결하기 위해 노력을 했습니다. 그리고 불안함을 노력으로 극복하기 위해 최대한 많은 시간을 들여 그렸으며 다행이 좋은 결과로 마무리 되었던것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

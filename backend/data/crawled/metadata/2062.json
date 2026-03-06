@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2062_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:30:22.256015+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2062"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2062",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "제시한 네 가지 주제가 리듬 안에 모두 포함되는 것이지만, [예시B] 사진을 제시한 이유를 생각해 보고, 리듬/반복/통일/변화 네 가지 요소 모두가 잘 드러나는 그림을 그리려고 노력했습니다. 이번 해에는 조건이 많았기 때문에, 조건을 수시로 읽으며 하나라도 틀리지 않으려고 노력했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.54,
+    "student_strength": "자신이 지원하는 학과가 어떤 곳인지를 정확히 알고 그에 맞는 그림을 그린 것이 가장 큰 합격 요인이라고 생각합니다. 또, 문제를 받고 오래 생각하는 습관을 들인 것도 강점이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "이번 해에는 조건이 많았기 때문에, 조건을 수시로 읽으며 하나라도 틀리지 않으려고 노력했습니다. 추상적인 주제일수록 자신만 이해할 수 있는 그림을 그릴 가능성이 높아진다고 생각하는데, 이 점에 있어 전날 공부한 (이미 검증된) 화면 구성 레퍼런스들이 도움이 되었습니다."
+  }
 }

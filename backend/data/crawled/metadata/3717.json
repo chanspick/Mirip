@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3717_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:47:06.545876+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3717"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3717",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "문제를 받자마자 먼저 충분히 읽고, 어떤 방향으로 풀어갈지 신중하게 고민했습니다. 주어진 조건 안에서 저만의 개성을 드러낼 수 있는 방법을 떠올리며 구도를 빠르게 스케치했고, 색감과 표현 방식도 미리 계획했습니다.",
+    "practice_years": null,
+    "competition_ratio": 5.53,
+    "student_strength": "꾸준함이 가장 큰 비결이라고 생각합니다. 매일 조금씩이라도 그리고, 부족한 부분을 스스로 분석하면서 보완하려 했습니다. 또, 저만의 개성과 특징을 솔직하게 표현하려고 노력한 게 좋은 결과로 이어진 것 같습니다.",
+    "teacher_feedback": "선생님들과 친구들의 피드백을 적극적으로 받아들이며 부족한 점을 보완하려 노력했습니다, 제한된 시간 안에 완성하는 연습도 꾸준히 했던 것이 큰 도움이 되었습니다..",
+    "ideation_process": "주어진 조건 안에서 저만의 개성을 드러낼 수 있는 방법을 떠올리며 구도를 빠르게 스케치했고, 색감과 표현 방식도 미리 계획했습니다."
+  }
 }

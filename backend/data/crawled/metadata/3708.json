@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3708_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:46:35.492117+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3708"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3708",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "당일 문제는 돼지저금통과 자전거 자물쇠로 대비와 확장을 표현하라는 제시어를 보고 가장 먼저 돼지의 시점을 통해서 가장 큰 대비를 줘야 감독관의 눈에 제 그림이 한 눈에 보일 수 있다고 생각했기에 주제의 돼지를 정면으로 그리고 뒤에 받쳐주는 돼지를 측면으로 그리 면서 크기와 시점으로 대비를 주었고, 확산을 표현하는 것은 자물쇠의 끈 부분을 통해 휘어 감아서 쇠 부분을 돼지 사이에 넣어 명도 대비도 주려고 했던 것 같습니다",
+    "practice_years": 2.25,
+    "competition_ratio": 12.23,
+    "student_strength": "아무래도 미대이기 때문에 성적도 물론 중요하지만 그림에서 걸러지면 성적이 아무리 좋아도 본선도 못 올라가기 때문에 실기에 집중했고 당일 대학에서 출제한 주제어를 교수님들이 원하시는 풀이를 하려고 노력했던게 가장 큰 합격의 요인이 아닌가 싶습니다.",
+    "teacher_feedback": "선생님이 주시는 문제를 제가 사용하는 구도에 어떻게 녹여 그려야 하는지를 생각하고 연습했던 것 같습니다.",
+    "ideation_process": "표현하라는 제시어를 보고 가장 먼저 돼지의 시점을 통해서 가장 큰 대비를 줘야 감독관의 눈에 제 그림이 한 눈에 보일 수 있다고 생각했기에 주제의 돼지를 정면으로 그리고 뒤에 받쳐주는 돼지를 측면으로 그리 면서 크기와 시점으로 대비를 주었고, 확산을 표현하는 것은 자물쇠의 끈 부분을 통해 휘어 감아서 쇠 부분을 돼지 사이에 넣어 명도 대비도 주려고 했던 것 같습니다"
+  }
 }

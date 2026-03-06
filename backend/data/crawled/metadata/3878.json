@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3878_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:55:52.274960+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3878"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3878",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "덩치감이 있고 인상은 순하지만 이목구비를 따로 보면 날카로운 감이 있는 모델이었습니다. 계속해서 어떤 사람을 닮았는지 특징이 뭔지 첫인상을 잃지 않으려고 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 14.0,
+    "student_strength": "5시간 동안 끝까지 포기하지 않고 집착했기 때문이라고 생각합니다. 수시로 지난 시간 동안 틀렸던 점과 잘해냈던 점들을 생각하며 이걸 놓치면 바보라는 생각을 계속했습니다.",
+    "teacher_feedback": "선생님들이 해주시는 피드백들을 메모하고 매일 학원 끝나고 실수한 부분이나 고쳐야 하는 점들을 스스로 복기하는 시간을 가졌습니다.",
+    "ideation_process": "계속해서 어떤 사람을 닮았는지 특징이 뭔지 첫인상을 잃지 않으려고 했습니다."
+  }
 }

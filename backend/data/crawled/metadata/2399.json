@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2399_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:45:00.833135+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2399"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2399",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 1.67,
+    "competition_ratio": 9.11,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

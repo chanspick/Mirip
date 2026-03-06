@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2906_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:07:41.999919+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2906"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2906",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "치약과 라디에이터가 출제되었습니다. 문제를 받고 평소에 많이 그리던 구도를 떠올렸고 투시와 연출에 더 집중을 하였습니다.",
+    "practice_years": 2.42,
+    "competition_ratio": 7.38,
+    "student_strength": "제일 취약했던 부분인 구도에 중점을 두고 연출과 색감에 집중을 하였습니다",
+    "teacher_feedback": "피드백을 받으면서 더 많은 그림을 그려보려고 노력했습니다.",
+    "ideation_process": "문제를 받고 평소에 많이 그리던 구도를 떠올렸고 투시와 연출에 더 집중을 하였습니다."
+  }
 }

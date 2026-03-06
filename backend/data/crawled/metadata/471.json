@@ -13,5 +13,14 @@
     "data/crawled/raw_images/471_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:19:43.672166+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=471"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=471",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "스프링 노트와 연필, 안경으로 학생들에게는 비교적 익숙한 문제가 나와 학원에서 준비했던 대로 안정감 있으면서 물체들을 과감하게 배치하여 화면구성 하였습니다. 무엇보다",
+    "practice_years": 2.5,
+    "competition_ratio": 42.0,
+    "student_strength": "자신의 노력과 실력도 중요하지만 실력을 쌓을 수 있게 도와주신 학원과 선생님들이 많은 부분을 차지하는 것 같아요. 개개인 마다 실력에 맞는 그림을 그리고 부족한 부분을 빠르게 채워 나갈 수 있는 길을 알려주신 것이 많은 도움이 되었습니다.",
+    "teacher_feedback": "선생님들의 빠른 피드백과 평가로 막힘없이 실기를 준비할 수 있었습니다..",
+    "ideation_process": "무엇보다 맑고 선명한 색을 내기위한 연습을 많이 했기 때문에 그대로 실천하기 위해 노력했던것 같아요."
+  }
 }

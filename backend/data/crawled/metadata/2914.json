@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2914_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:08:04.566215+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2914"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2914",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "50대 중반 남성 사진 모델링이었으며 이 사진에서 필수적으로 표현해야 할 것들(나이,성별 등)을 나열한 후 신중하게 들어갔다. 또한 이미지를 잘 뽑아내기 위해 닮은 인물을 되뇌이며 모델의 특징을 잘 표현할 수 있도록 노력햐였다.",
+    "practice_years": 1.83,
+    "competition_ratio": 11.33,
+    "student_strength": "정시 준비자였기 때문에 수시 시험 당일에 단지 시험장 분위기 파악만 잘 하고 오자는 마인드로 편안하게 시험을 첬는데 덕분에 전혀 떨지않고 실력을 그대로 보여준 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "또한 이미지를 잘 뽑아내기 위해 닮은 인물을 되뇌이며 모델의 특징을 잘 표현할 수 있도록 노력햐였다."
+  }
 }

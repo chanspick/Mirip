@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2133_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:33:25.676250+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2133"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2133",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "소재는 도자기 컵과 컵호일이었습니다. 이 문제의 주제어가 상승이었기 때문에 컵에서 컵호일이 쏟아져나오면서 쌓아올림을 나타내 주제어가 느껴지도록 노력하였습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 59.0,
+    "student_strength": "학원에서 선생님의 말씀이 가장 큰 도움이 되었던 거 같습니다. 선생님이 말씀하시는 저의 그림에 대한 장점과 단점, 그리고 다른 그림들의 장점들을 항상 생각하며 그렸기 때문에 합격할 수 있었던 거 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "이 문제의 주제어가 상승이었기 때문에 컵에서 컵호일이 쏟아져나오면서 쌓아올림을 나타내 주제어가 느껴지도록 노력하였습니다. 그리고 변경가능한 소재가 컵호일이었기 때문에 컵호일을 뜯어서 같이 상승이 느껴지도록 사용하였습니다."
+  }
 }

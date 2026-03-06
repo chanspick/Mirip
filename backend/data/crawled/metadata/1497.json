@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1497_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:05:00.386706+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1497"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1497",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "평면도형 동그라미, 세모, 네모를 사용하여 바닷가재를 만들고 배경에는 자개를 액체화 하여 역동적으로 표현하시오, 바닷가재의 질감은 인조모피로 하시오 . 일단 손이 느린 편이어서 스케치를 최대한 빨리 해야겠다고 생각해서, 스케치를 40분하고 최대한 밀도를 높이려고 했습니다.",
+    "practice_years": 1.42,
+    "competition_ratio": 6.0,
+    "student_strength": "그림의 완성도와 면접, 성적을 조금 하향으로 써서 어느 정도 플러스가 된 것 같습니다.",
+    "teacher_feedback": "선생님들의 피드백을 바로바로 받았고, 집에서는 혼자 오답노트를 했습니다.",
+    "ideation_process": "생각해서, 스케치를 40분하고 최대한 밀도를 높이려고 했습니다."
+  }
 }

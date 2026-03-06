@@ -13,5 +13,14 @@
     "data/crawled/raw_images/759_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:31:59.045241+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=759"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=759",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "붓과 호두가 나왔는데 평소 호두의 모양이 그리기가 어려워서 자신이 없어졌는데 열심히만 하자고 생각하고 그렸던 것 같고 평소 협성대 준비할 때 재수하는 오빠의 붓과 솔방울 그림이 생각이 나서 구도를 좀 참고했습니다.",
+    "practice_years": 2.42,
+    "competition_ratio": 11.81,
+    "student_strength": "평소 작게 그리는 버릇이 있었는데 고칠려고 노력한 것 같소 선생님이 하신 말씀을 흘려듣지 않고 안좋은 습관을 고치면 그림에 장점이 더 잘 보여 합격을 할 수 있다고 생각합니다.",
+    "teacher_feedback": "선생님께서 개체를 조합해서 시험을 보거나 스케치를 뜨면서 협성대학교를 준비해 갔습니다..",
+    "ideation_process": null
+  }
 }

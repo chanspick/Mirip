@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1078_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:46:02.606097+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1078"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1078",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "그레타 툰베리 유엔 기후정상회의의 제시문과 함께 제시어로는 햄버거가 나왔었습니다. 다윈에서 문제 유형에 맞춰 미리 연습을 충분히 시켜주셔서 당�l하지 않고 제시문을 읽은 후 햄버거와 지구촌 문제 환경오염을 관련시켜 풀어 낼 수 있었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 3.24,
+    "student_strength": "시험 하루 전까지도 선생님께서 철저하게 분석해주시고 연습시켜 주셔서 합격 할 수 있었습니다.^^",
+    "teacher_feedback": "선생님께서 수업중에 알려주신 내용을 그릴때마다 다시 생각하면서 단점을 고치려 노력했습니다..",
+    "ideation_process": "다윈에서 문제 유형에 맞춰 미리 연습을 충분히 시켜주셔서 당�l하지 않고 제시문을 읽은 후 햄버거와 지구촌 문제 환경오염을 관련시켜 풀어 낼 수 있었습니다."
+  }
 }

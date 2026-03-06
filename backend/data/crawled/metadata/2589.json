@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2589_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:53:23.484136+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2589"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2589",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "드론과 볼펜, 와인오프너, 파우치, 스마트워치가 나왔습니다. 제시물의 형태가 복잡한것을 보고 최대한 사실적으로 그리려고 노력했습니다.",
+    "practice_years": null,
+    "competition_ratio": 11.05,
+    "student_strength": "성북창조의아침 입시반 선생님께서 알려주시는대로 그리는 것이 헙격에 제일 많은 영향을 끼친거 같습니다.",
+    "teacher_feedback": "피드백을 받은 뒤 수정하는 식으로 준비했습니다..",
+    "ideation_process": "제시물의 형태가 복잡한것을 보고 최대한 사실적으로 그리려고 노력했습니다. 그리고 크기대비를 신경썼습니다."
+  }
 }

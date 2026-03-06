@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3906_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:57:12.464287+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3906"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3906",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "샴페인 병과 두루마리 휴지로 무중력과 팽창이라는 주제어를 받았습니다. 평소였으면 병을 아래로 쏠리게 해서 액채가 나오는 느낌으로 그렸을텐데, 무중력이라는 단어를 생각하면서 병을 위로 세웠고 휴지로 샴페인 병을 치면서 샴페인 뚜껑과 액체가 위로 터져 나오게 해서 팽창의 느낌을 보여주려고 노력했습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 13.37,
+    "student_strength": "저도 합격하게 될 줄 몰라서 너무 얼떨떨하지만, 건국대글로컬은 수시 실기시험 중 가장 마지막에 보는 학교로 알고있는데, 마지막이라고 대충대충하지않고 끝까지 열심히 하게 해주신 선생님들과 같이 입시 준비 한 학생들의 집중도, 그리고 게으르지 않았기 때문에 좋은 결과를 얻게 된 것 같습니다.",
+    "teacher_feedback": "선생님께 피드백 받으면서 예전보다 훨씬 깔끔한 그림을 그리기 위해 노력했던 것 같습니다.",
+    "ideation_process": "평소였으면 병을 아래로 쏠리게 해서 액채가 나오는 느낌으로 그렸을텐데, 무중력이라는 단어를 생각하면서 병을 위로 세웠고 휴지로 샴페인 병을 치면서 샴페인 뚜껑과 액체가 위로 터져 나오게 해서 팽창의 느낌을 보여주려고 노력했습니다. 나머지 휴지들은 무중력의 느낌을 위해 날려주고 바닥으로부터 띄어주며 각각 점, 선, 면의 형태로 다양하게 보여줬습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/746_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:31:25.721632+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=746"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=746",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험고사당일에 남자모델 1명, 여자모델 1명 총 두 명이서 반대방향으로 요가매트 위에 나란히 누워있는 모습을 그리는 문제가 나왔습니다. 모델이 오기 전, 문제지를 받았을 때 너무 당황했지만 곧 마음을 가다듬고 어떻게 그려나갈지 계획을 먼저 생각하였습니다.",
+    "practice_years": 3.75,
+    "competition_ratio": 17.18,
+    "student_strength": "문제를 받자마자 침착하게 계획을 세운 것과 ‘내가 어려워하고 당황하면 다른 사람들은 더 그렇겠지, 어려운 문제일수록 나에게 유리할꺼야’라고 생각하며 침착하게 그려나갔기 때문이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "모델이 오기 전, 문제지를 받았을 때 너무 당황했지만 곧 마음을 가다듬고 어떻게 그려나갈지 계획을 먼저 생각하였습니다. 그 후 시험을 시작했을 때 최대한 침착하게 그림을 그려나갔습니다."
+  }
 }

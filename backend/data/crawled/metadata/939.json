@@ -14,5 +14,14 @@
     "data/crawled/raw_images/939_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:39:49.287352+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=939"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=939",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "단국대학교의 출제문제는 산낙지 요리를 처음 접한 50대 외국인 남성이 나왔다. 산낙지를 처음 접해 본 인물이 매우 당황하여 먹어야 할지 말지에 대해서 고민에 빠졌을 것이라 예상되었다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "입시가 끝나갈수록 장점이 생긴 만큼 단점이 생겨 밑 빠진 독에 물 붓기 하고 있는 것은 아닐까 하는 고민이 생길 수도 있다. 단점이 생겼을 때 최대한 빨리 단점을 없애면서도 갖고 있는 장점을 잃지 않으려고 계속해서 감을 잡는 연습에 익숙해져야 한다. 또한 실기노트에 기록하는게 중요하다.",
+    "teacher_feedback": "선생님들께서 계획 해 놓으신 수업 방향을 토대로 성실히 따라가려고 노력했다.",
+    "ideation_process": "산낙지를 처음 접해 본 인물이 매우 당황하여 먹어야 할지 말지에 대해서 고민에 빠졌을 것이라 예상되었다. 더군다나 외국인이라는 조건으로 안면부의 구조를 동양적으로 빼면 안되기 때문에 눈 윗꺼풀의 깊이감을 일반적인 동양인의 깊이보다"
+  }
 }

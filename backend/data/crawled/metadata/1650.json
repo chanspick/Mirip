@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1650_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:12:04.869021+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1650"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1650",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "보석처럼 생긴 분무기와 토마토였는데 문제를 받고 되게 당황을 많이해서 발상을 하는데 오래걸렸지만 포기하지 않는다는 생각으로 물체와 물체를 서로 적극적으로 연출하려고 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 12.7,
+    "student_strength": "주제를 받고 당황을 많이해서 초반에 갈피를 잘 못 잡고 있었는데 절대로 포기하지 말라는 선생님의 말씀이 떠올라서 포기하지않고 최대한 물체와 물체를 잘 섞어서 적극적으로 표현하려고 노력했었기 때문인것 같습니다!",
+    "teacher_feedback": null,
+    "ideation_process": "발상을 하는데 오래걸렸지만 포기하지 않는다는 생각으로 물체와 물체를 서로 적극적으로 연출하려고 했습니다."
+  }
 }

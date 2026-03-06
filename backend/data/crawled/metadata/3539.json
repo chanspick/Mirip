@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3539_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:37:03.596009+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3539"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3539",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "야구공, 페인트붓 시험장에 가기 전에 야구공을 여러 번 연습했어서 마음이 조금은 편안했고, 야구공의 양감을 잡되, 어두워지지 않도록 주의해야겠다고 생각했습니다. 또한 페인트 붓의 모가 휘어지는 모습을 사실적으로 묘사해야겠다고 생각했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.39,
+    "student_strength": "제 그림이 다른 친구들의 그림보다 묘사가 부족하다고 생각하여서 항상 그림을 그릴 때마다 묘사를 더 해야지! 하고 생각하였습니다. 이외에는 정리를 정말 중요하게 생각하여서 항상 시험 종료 1시간 전부터는 그림 정리를 하였습니다. 스스로의 그림에서 정리감과 완성도가 장점이라고 생각합니다.",
+    "teacher_feedback": "선생님들께서 응원을 많이 해주셔서 끝까지 입시를 잘 마칠 수 있었습니다..",
+    "ideation_process": "생각했습니다. 또한 페인트 붓의 모가 휘어지는 모습을 사실적으로 묘사해야겠다고 생각했습니다."
+  }
 }

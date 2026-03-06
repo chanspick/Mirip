@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2542_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:51:16.731077+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2542"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2542",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "주제는 흰색 검정 주사위랑 초록 물이 들어있는 주사기가 나왔고 디자인의 원리 확대,축소,반복,균형, 대칭, 변화 를 이용해서 표현해야는 것이었습니다",
+    "practice_years": 2.42,
+    "competition_ratio": 24.65,
+    "student_strength": "제가 표현하려는 것을 최대한 한눈에 쉽게 보일 수 있도록 그리려고 했고 항상 자신을 우물 안 개구리라고 생각을 하면서 그림을 그렸습니다",
+    "teacher_feedback": "선생님께서 말씀해주신 피드백을 적고 집에 가면서 외우고 그림그리면서 제가 부족한 점을 계속 생각하면서 그렸던 것 같습니다 디자인의 원리중 반복을 이용해서 주사기와 주사위를 반복해서 넣고 주사.",
+    "ideation_process": null
+  }
 }

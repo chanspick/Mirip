@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1356_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:58:25.025876+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1356"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1356",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "가재를 입체도형으로 조형하고, 재질을 모피(털)로 바꾼 다음 배경에는 자개조각을 액체로 바꾸어 구성하는 문제였는데, 가재의 집게를 이용해서 액체를 찝는다는 느낌을 줘서 역동적인 느낌을 주혀고 했다. 손을 빨리 움직여서 털 재질 묘사도 최대한 많이 하려 했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 3.52,
+    "student_strength": "정시특강 때 다양한 문제풀이로 실기력을 많이 끌어올렸던 것이 합격하는 데 가장 도움이 됐던 것 같다.",
+    "teacher_feedback": "선생님께서 내주시는 과제를 열심히 해갔다.",
+    "ideation_process": "손을 빨리 움직여서 털 재질 묘사도 최대한 많이 하려 했다."
+  }
 }

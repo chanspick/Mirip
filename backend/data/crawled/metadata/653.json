@@ -13,5 +13,14 @@
     "data/crawled/raw_images/653_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:27:26.846681+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=653"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=653",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "북어 소묘 : 투시가 많이 들어가서 머리쪽이 돋보이는 구조이므로 어두운 톤 내에서의 명암대비와 묘사를 확실하게 해야한다 디자인 : 북어의 어둡고 빳빳한 느낌과 물고기 특유의 푸른빛을 살리고 고무장갑의 특징이 잘 드러나는 구도를 짜야한다",
+    "practice_years": 3.0,
+    "competition_ratio": 10.85,
+    "student_strength": "꾸준한 실기연습과 주제를 이해하려는 노력",
+    "teacher_feedback": null,
+    "ideation_process": "디자인 : 북어의 어둡고 빳빳한 느낌과 물고기 특유의 푸른빛을 살리고 고무장갑의 특징이 잘 드러나는 구도를 짜야한다"
+  }
 }

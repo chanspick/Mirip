@@ -13,5 +13,14 @@
     "data/crawled/raw_images/622_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:26:07.729341+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=622"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=622",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "고무줄과 비닐장갑으로 혁신적 변화를 표현하라는 문제 였고, 그 두 제시물은 평소에 우리 일상에서 그냥 단편적인 역할만을 한다고 생각해서 두 제시물을 잘 조합하여 제3의 기계나 물건을 만들면 그것만으로도 혁신적인 변화라고 생각하면서 문제를 풀어나갔습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 5.7,
+    "student_strength": "합격한 수많은 선배님들의 그림을 눈에 많이 익혀놓았던 것이 아이디어 구상에 도움이 많이 돼었고 각종 실기대회, 수시 시험등의 경험 덕도 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 두 제시물을 잘 조합하여 제3의 기계나 물건을 만들면 그것만으로도 혁신적인 변화라고 생각하면서 문제를 풀어나갔습니다."
+  }
 }

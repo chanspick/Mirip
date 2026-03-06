@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2328_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:41:54.825810+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2328"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2328",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "입을 벌리고 고개를 든 할아버지가 나왔으며 기본에 충실하자는 생각으로 작품을 멀리 많이 나와보았다. 또한 평소 실기작에서 틀렸던 것들을 생각하며 시험장에선 틀리지 말자는 생각으로 작품을 만들어나갔다.",
+    "practice_years": 3.0,
+    "competition_ratio": 61.0,
+    "student_strength": "모델과 잘 닮게 만들고 나왔다고 생각한다.",
+    "teacher_feedback": "선생님께서 말씀해주신 부분들을 다음 작품에선 적용하려 노력하였다..",
+    "ideation_process": "또한 평소 실기작에서 틀렸던 것들을 생각하며 시험장에선 틀리지 말자는 생각으로 작품을 만들어나갔다."
+  }
 }

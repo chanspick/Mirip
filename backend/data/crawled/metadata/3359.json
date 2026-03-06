@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3359_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:28:20.908177+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3359"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3359",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "8각도 큰사진으로 고개를 들고 인상을 쓰며 위를 쳐다보는 골격적인 20대 남자가 나왔고 사진에서 보여지는 모델의 체구와 골격을 신경쓰면서 큰틀이 잘 나올수 있도록 진행했습니다 또 고개를 들고 표정이 있다보니까 전체적인 구조가 깨지지 않고 어색하지 않도록 나와서 자주 비교했던것 같습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 29.33,
+    "student_strength": "모델이 가진 체구 사이즈가 나올수 있게 노력했고 8각도 모두 똑같이 만들려고 남들보다 정말 많이 나와서 비교했던것 같습니다. 그리고 제 작품만 돌려봤을때도 전체적으로 깨진부분 없이 자연스러울수 있도록 했습니다",
+    "teacher_feedback": "선생님들과 해결방법을 생각하면서 문제를 해결해나가려고 노력했던것같습니다.",
+    "ideation_process": "또 고개를 들고 표정이 있다보니까 전체적인 구조가 깨지지 않고 어색하지 않도록 나와서 자주 비교했던것 같습니다"
+  }
 }

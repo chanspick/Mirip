@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3775_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:50:16.756027+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3775"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3775",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "주제는 ‘주어진 제시물(팽이,필름,수경)을 활용하여 긴장감을 표현하시오’ 였습니다 전자기기가 제시물로 나올줄 알았는데 아니어서 조금 당황하였고 제시된 물체사진이 평범한 제시물이 아니라서 특이한 컨셉의 그림도 많이 나올 것 같다고 생각하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 7.2,
+    "student_strength": "먼저 지도해주신 학원이 획일화된 수업이 아닌 학생 한명 한명마다 신경써 주는 수업이 가장 합격의 주요인이였고, 합격작에서는 한 두개의 물체만 강조하는 것이 아닌 세 개의 물체가 주제부에서 한눈에 잘 들어오게 배치한 것과 무조건 깔끔하게 그리자는 생각으로 마지막 정리감에 신경 쓴 것이 합격의 주요 원인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오’ 였습니다 전자기기가 제시물로 나올줄 알았는데 아니어서 조금 당황하였고 제시된 물체사진이 평범한 제시물이 아니라서 특이한 컨셉의 그림도 많이 나올 것 같다고 생각하였습니다."
+  }
 }

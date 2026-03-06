@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2158_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:34:30.092758+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2158"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2158",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "실기문제엔 나뭇잎질감,크래커가 나왔고 소묘는 나뭇잎질감을 크래커에입혀서 소묘, 디자인은 두소재를이용해 조명기구를 디자인하는거였습니다.대부분학생들이 조형적 측면을 강조해서 그리는느낌이였는데 항상 하던대로 두 소재의 특성을 관찰하고 기능적 측면을 잃지않으려고 노력했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 6.79,
+    "student_strength": "선생님들께서 항상 잘가르쳐주신것과 그림이 더발전할수있는요소를 정확하게 알려주신 덕분인거같습니다.",
+    "teacher_feedback": "선생님의 말씀을 무조건 따랐습니다..",
+    "ideation_process": null
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/220_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:09:08.719899+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=220"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=220",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "문제풀이는 유형별 학습 할 때 중대는 공간이 중요하다고해서 중대 스타일인 화면을 고르고 연습을 많이 해봐서 바로 그 화면에 적용할 수 있었어요. 그리고 사물끼리의 연관성을 많이 생각했어요.",
+    "practice_years": 4.0,
+    "competition_ratio": 5.81,
+    "student_strength": "학원에서 정말 한명 한명 그 사람한테 맞는 상담 평가 충고 다 해주시고 진실성 있게 학생들을 대하고 하나부터 열까지 다 설명해주시고 모두를 안고 끌고가는게 유니온의 장점이죠 이런 학원 어디 없어요...",
+    "teacher_feedback": "피드백을 수 있고 한 장 한장 고쳐 나가기도 좋았어요.",
+    "ideation_process": "생각해서 망치가 내려치고 구겨지고 이런 장면들을 만들어 낸 것 같아요. 또 망치표현을 주변 사람들이 다들 다르게 표현하고 망치는 매끈한 쇠인 것 보다"
+  }
 }

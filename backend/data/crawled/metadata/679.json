@@ -13,5 +13,14 @@
     "data/crawled/raw_images/679_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:28:32.957400+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=679"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=679",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "의상: 단발머리 가발에 분홍색 머리띠를 쓰고, 분홍색 니트에 청바지를 입고, 끈없는 단화를 신음 정물: 중앙대학교 책자,갈아만든 배pt,등받이 의자 자세,상황: 모델기준 의자 오른편에 서서 책자를 안아들고 등받이에 손을 얹고 한쪽발을 살짝 앞으로 내밀며 서있었음 (의자에 앉으려는 모습을 표현한 듯) 음료수 병도 모델기준 오른쪽에 배치!",
+    "practice_years": 5.0,
+    "competition_ratio": null,
+    "student_strength": "즐겁고, 그리는 그 자체로 행복했던 그림이 어느 순간 합격을 위한 수단으로 변모했을 때, 가장 큰 슬럼프를 겪었던 것 같습니다. 반복된 불합격의 기억들이 저를 다른 사람들이 말하는 정답에 가까운 그림을 그리도록 자꾸 압박감을 주었기 때문입니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

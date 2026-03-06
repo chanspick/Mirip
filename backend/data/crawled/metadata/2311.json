@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2311_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:41:09.849596+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2311"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2311",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "비닐에 담긴 고구마와 원통 형태의 털실이었습니다. 주제부를 크게 하여 고구마와 털실이 한눈에 들어오게끔 하였고 빵 끈과 선재인 털실을 이용하여 연출을 하고자 하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 27.56,
+    "student_strength": "주제를 크게 하여 그림이 더욱 부각될 수 있도록 그린 것과 선재 활용을 많이 한 것이 요인이라고 생각합니다. 그리고 선생님의 피드백을 잘 기억해두고 그동안 그린 그림들을 다시 살펴 부족한 점을 찾아본 것이 시험장에서 도움이 많이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "주제부를 크게 하여 고구마와 털실이 한눈에 들어오게끔 하였고 빵 끈과 선재인 털실을 이용하여 연출을 하고자 하였습니다. 공간에 선재를 다양하게 구성하는 것에 신경을 많이 썼던것 같습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3325_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:26:42.294214+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3325"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3325",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "실타래,고무줄,카드 가 나왔다. 단순한 제시물들이라 실타래를 적극적으로 이용하여 형상을 만들어야 겠다는 생각이 들었다.",
+    "practice_years": 2.0,
+    "competition_ratio": 38.39,
+    "student_strength": "제시물을 그대로 쓰지않고 스토리텔링으로 풀어나가려는 시도를 교수님들이 좋게 보신 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "단순한 제시물들이라 실타래를 적극적으로 이용하여 형상을 만들어야 겠다는 생각이 들었다."
+  }
 }

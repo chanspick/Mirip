@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3556_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:37:53.463061+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3556"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3556",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제를 받고 지구본과 줄자로 뭘 표현하면 재밌을지 생각하다 우주 컨셉이 떠올라 줄자로 인공위성을 만들어 풀었습니다.",
+    "practice_years": 1.17,
+    "competition_ratio": 28.0,
+    "student_strength": "남들과 다른 아이디어라 생각합니다. 삼육대는 아이디어와 표현력이 중요한 학교입니다. 그렇기 때문에 2가지 다 신경쓰려고 노력하였습니다. 노원창조의아침 선생님이 알려주신대로 나의 장점을 살리는 그림을 그릴려고 했습니다. 평소 색채와 발상력이 좋다고 피드백을 받았기에 해당 부분을 더욱 극대화 시킬려고 노력하였습니다.",
+    "teacher_feedback": "선생님의 피드백을 반영하려고 노력했습니다.",
+    "ideation_process": "접근하려고 하였습니다."
+  }
 }

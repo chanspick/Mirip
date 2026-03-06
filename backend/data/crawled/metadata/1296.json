@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1296_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:55:38.197766+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1296"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1296",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "다이아몬드 반지와 회색 털실로 부드러움을 표현하는 문제가 출제되었고 색 변경이 불가능해 난감했지만 털실을 웜그레이로 채색하며 반지와 톤 차이도 주고 최대한 따뜻하면서도 부드러운 느낌을 내려고 했습니다.",
+    "practice_years": 1.25,
+    "competition_ratio": 5.61,
+    "student_strength": "학원에서 선생님이 주제부를 크게 그리라고 알려주신 것이 생각 나서 크게 그린 게 멀리서도 눈에 잘 들어오지 않았나 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 문제가 출제되었고 색 변경이 불가능해 난감했지만 털실을 웜그레이로 채색하며 반지와 톤 차이도 주고 최대한 따뜻하면서도 부드러운 느낌을 내려고 했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3726_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:47:33.219531+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3726"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3726",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "평면은 탄성과 속도감, 입체는 희망과 치유를 상징하는 조형물을 만드는 문제였습니다. 생소한 주제에 조금 당황했지만 제시어에 집중하며 문제 풀이를 해야겠다고 생각했습니다.",
+    "practice_years": 1.83,
+    "competition_ratio": 6.66,
+    "student_strength": "학원 수업시간 뿐만 아니라 개인 시간을 더 투자하며 실기를 준비한 것이 큰 도움이 되었던 것 같습니다. 오늘 그린 그림을 스스로 피드백하며 단점을 하나씩 줄여가려는 노력이 모여 차이를 만들었다고 생각합니다.",
+    "teacher_feedback": "피드백을 바탕으로 그림을 계속해서 보완해 나갔습니다..",
+    "ideation_process": "생각했습니다. 평면은 탄성과 속도감을 함께 보여주기 위해 가볍게 튀어오르는 느낌을 내려했고, 입체는 희망적인 분위기를 위해 상승감을 나타냈습니다."
+  }
 }

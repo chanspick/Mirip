@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2046_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:29:40.431945+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2046"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2046",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "디자인이 자유인 컴퍼스와 색연필이 나왔습니다 어려운 주제가 아니었기에 차별성이 중요하다고 생각하여, 학원의 기본적인 구성으로 디자인 한 후 물체의 쓰임새와 관련된 발상으로 차별화를 두었습니다.",
+    "practice_years": null,
+    "competition_ratio": 8.95,
+    "student_strength": "구도적인 부분이 합격에 큰 요인이었다고 생각합니다. 대부분의 아이들이 너무 단조롭게 그려 비어보이거나 너무 발상에 치중하여 오바하는 그림을 많이 그렸는데 그 중간을 적절하게 디자인 할 수 있게 한 구도가 주요인 이었던것 같습니다.",
+    "teacher_feedback": "선생님들의 교육으로 기교같은것이 아닌 기본에 충실하도록 노력했고 기본이 체화가 되었을때 지원 학교에 적합한 발상을 차근차근 대입할려고 노력하였습니다..",
+    "ideation_process": "발상으로 차별화를 두었습니다. 분명 컴퍼스와 연필은 직선적이고 단조로운 구성이 나오기 쉬워서 이점을 유의하여 곡선적인 요소를 사용하여 화면을 단조롭지 않게 디자인할려고 노력했습니다."
+  }
 }

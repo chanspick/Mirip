@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1142_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:51.294092+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1142"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1142",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "당일 출제 문제는 큐브, 책, 이어폰이었고, 책을 그렸던 경험이 있어 그때를 생각하며 그렸습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 18.33,
+    "student_strength": "다른 학교보다 성적 반영 비율이 높아 유리했다고 생각합니다.(실기 반영 비율-60% 성적 반영 비율-40%)",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

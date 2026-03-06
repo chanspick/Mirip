@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3934_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:58:47.552143+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3934"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3934",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "계산기,클립,담요가 나왔습니다. 예전에 문제풀이를 할때 펄럭이는 소재를 펼치며 부채꼴으로 넣으면 어떨까 라는 기억이 떠올라 진행했고 계산기는 물체가 작아지던 제 단점을 극복하기 위해 계산기를 크게 넣었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 35.22,
+    "student_strength": "이 그림은 시간이 남아 완성도가 높았고 물체를 크게크게 넣어 시선을 끌었던것 같습니다. 평소 학교 갈때 학원 갈때 쉬는 시간,자기전등 시간이 남으면 항상 그림을 봤습니다.확대하고 분석하며 기억하고 써먹기위해 노력했습니다.",
+    "teacher_feedback": "선생님들이 저희가 부족한 점을 파악해 틈날때마다 융통성 있게 수업을 진행해주셨습니다.평작을 진행하며 기초 실력을 키우다가 실기에 가까워질수록 점점 선생님들의 도움없이 그림을 완성해가며 진짜.",
+    "ideation_process": "예전에 문제풀이를 할때 펄럭이는 소재를 펼치며 부채꼴으로 넣으면 어떨까 라는 기억이 떠올라 진행했고 계산기는 물체가 작아지던 제 단점을 극복하기 위해 계산기를 크게 넣었습니다."
+  }
 }

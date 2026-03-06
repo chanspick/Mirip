@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1154_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:49:21.631378+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1154"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1154",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "시간여행을 표현하라는 문제가 출제 되었으며 단어가 어떠한 느낌을 주는지 생각하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 3.86,
+    "student_strength": "선생님께서 말씀하신 것을 계속 생각해서 인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라는 문제가 출제 되었으며 단어가 어떠한 느낌을 주는지 생각하였습니다."
+  }
 }

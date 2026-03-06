@@ -14,5 +14,14 @@
     "data/crawled/raw_images/289_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:04.460687+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=289"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=289",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "서울과기대 특유의 긴 제시문과 함께 제시어로 '줄자'가 나왔습니다. 주제에 집중해서 그림을 풀어나갔으며, 평소 학원에서 서울과기대 기초디자인 유형 준비를 수없이 많이 해왔기 때문에 어렵지 않게 풀어나갈 수 있었습니다.",
+    "practice_years": 3.17,
+    "competition_ratio": 18.14,
+    "student_strength": "선생님의 말씀을 귀담아듣고 학원에서 선생님들이 주신 다양한 자료들을 귀감으로 사고를 넓혀나간 것이 실제로 많은 도움이 되었습니다. 합격의 주요인 꼽으라고 한다면 긍정적인 자세로 성실하게 준비하는 것, 그리고 무엇보다 선생님의 지도를 믿고 따른 것이야 야말로 서울과기대 합격, 한성대 합격, 3관왕을 할 수 있었던 합격 요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "풀어나갔으며, 평소 학원에서 서울과기대 기초디자인 유형 준비를 수없이 많이 해왔기 때문에 어렵지 않게 풀어나갈 수 있었습니다."
+  }
 }

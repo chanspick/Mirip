@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1742_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:16:26.048876+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1742"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1742",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "백산수와 줄자가 나왔고 양쪽에 배치 된 줄자를 타고 백산수에서 나온 물이 흘러 내리는것을 반복했습니다.",
+    "practice_years": 1.25,
+    "competition_ratio": 6.48,
+    "student_strength": "물은 맑은 개체라고 생각을 해서 최대한 타지 않고 깔끔하게 그리려고 노력 했던 것 같습니다.",
+    "teacher_feedback": "선생님께서 피드백 해주신 것들을 듣고 문제점 개선을 위해 노력했습니다.",
+    "ideation_process": null
+  }
 }

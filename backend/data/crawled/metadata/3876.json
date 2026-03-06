@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3876_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:55:45.397324+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3876"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3876",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "고개를 든 마른 중년 여성이 나왔습니다. 목이 긴게 특징이라고 생각해서 전체적인 외곽을 틀리지 않으려고 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 51.5,
+    "student_strength": "모델의 이미지와 전체적인 실루엣을 사진과 똑같이 만드는게 중요하다고 생각합니다.",
+    "teacher_feedback": "선생님들께 받은 피드백을 바로바로 고치려고 노력했습니다..",
+    "ideation_process": "생각해서 전체적인 외곽을 틀리지 않으려고 노력했습니다."
+  }
 }

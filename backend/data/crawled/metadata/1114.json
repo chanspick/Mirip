@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1114_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:47:38.567439+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1114"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1114",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "20대 여자의 사진이 주어진 모델링이었다. 학원에서 연습할 기회가 많았기에 문제를 받고 크게 당황하거나 하진 않았다.",
+    "practice_years": 3.0,
+    "competition_ratio": 12.9,
+    "student_strength": "시간 계획표를 여러번 수정하며 나에게 맞는 계획을 짰다. 시험 중 항상 연습하던 계획표를 기반으로 시험을 치뤘기 때문에 당황하지 않고 진행할 수 있었다. 당황하지 않으니 평소에 하던 실수나 틀린점을 다시 한번 점검할 수 있었고 내 장점을 더 돋보이게 할 수 있었건것이 합격의 주요인이라고 생각한다.",
+    "teacher_feedback": "선생님의 시범을 보며 도움을 많이 받았다.",
+    "ideation_process": "학원에서 연습할 기회가 많았기에 문제를 받고 크게 당황하거나 하진 않았다. 평소 배운 해부학이나 기본 지식들을 바탕으로 문제에 적용했고 평소에 실수하던 점들을 되짚어가면서 제작했다."
+  }
 }

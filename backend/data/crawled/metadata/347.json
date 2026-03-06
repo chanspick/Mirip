@@ -13,5 +13,14 @@
     "data/crawled/raw_images/347_0.png"
   ],
   "crawled_at": "2026-01-27T13:14:31.140533+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=347"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=347",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "당일출제 문제는 학용품으로 만든 세상이였으며 이 문제는 시험을 보러가기전에 스케치를 해본적이 있어서 당황하지않고 문제를 풀어나갔다.",
+    "practice_years": 1.0,
+    "competition_ratio": 7.0,
+    "student_strength": "메인으로 계시는 선생님께서 끝까지 포기 하지않고 지도 해주셨고 잘못된부분은 바로 바로 지적해 고칠수 있게 도움을 주셨다. 또한 나에게 어울리고 내가 잘소화할만한 예시를 여러게 보여주시면서 그림실력이 향상되게 옆에서 늘 도움을 주셨다.",
+    "teacher_feedback": "선생님께 물어보면서 잘못된 점을 고치려 노력했고 안되는 부분은 반복적으로 연습했다.",
+    "ideation_process": null
+  }
 }

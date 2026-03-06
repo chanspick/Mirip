@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3384_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:29:36.012977+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3384"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3384",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "유리컵이랑 접시, 포크, 숟가락으로 기초디자인하는 것이었습니다. 소재가 4개나 제시가 됐는데 다",
+    "practice_years": 2.5,
+    "competition_ratio": 45.52,
+    "student_strength": "개성있고 나만의 특이한 구성을 가지고 가고 싶었어서 기초디자인이 아닌 자료나 좀 예전 실기대회 수상작들도 많이 보고 구성을 참고하려고 했고 또, 기존 합격작들을 많이 보고 득점요인을 분석해보고 그 득점요인들을 내 그림에도 적용을 해보면서 그림을 그리려고 했고 평소에 그림에서 보여주고자 하는 부분이 명확하게 잘 보여야한다는 생각을 많이 하면서 그림을 그리려고.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 크게 어렵게 느껴지진 않았고 접시를 컵받침처럼 사용할 수 있는 것을 주제부에서 보여주고, 그림에서 전체적으로 컵에 포크랑 숟가락을 꽂아놓은 모습과 옆에는 컵에 꽂아놓은 포크랑 숟가락들이 넘어져서 쏟아져있는 모습의 대비를 보여주려고 했습니다."
+  }
 }

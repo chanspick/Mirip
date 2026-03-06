@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2460_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:47:40.692354+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2460"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2460",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 날 금붕어와 레고가 나왔습니다. 살아 있는 생명체는 많이 해보지 않아서 당황했지만 금붕어를 주제부에 두고 대각선에서 레고들을 배치하고 가운데와 중앙이 비어 보이지 않게 작은 금붕어도 넣고, 금붕어 꼬리도 함께 넣었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 7.88,
+    "student_strength": "을지 실기를 맨 처음에 봤었는데 형태도 구도도 별 특별한 점이 없어서 그나마 채색이지 않을 까 싶습니다.",
+    "teacher_feedback": "선생님께서 주신 구도에 맞춰 했었습니다..",
+    "ideation_process": "살아 있는 생명체는 많이 해보지 않아서 당황했지만 금붕어를 주제부에 두고 대각선에서 레고들을 배치하고 가운데와 중앙이 비어 보이지 않게 작은 금붕어도 넣고, 금붕어 꼬리도 함께 넣었습니다. 부주제부에는 레고의 특징을 이용하여 맞춰서 작은 금붕어와 함께 넣었습니다."
+  }
 }

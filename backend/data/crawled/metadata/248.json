@@ -13,5 +13,14 @@
     "data/crawled/raw_images/248_0.png"
   ],
   "crawled_at": "2026-01-27T13:10:19.273394+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=248"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=248",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "‘멀티탭’과 ‘소리’라는 주제였다. 평소 해보지 않았던 세로방향 화지가 나와서 살짝 당황했지만 침착하게 기본기부터 생각하며 구상했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.65,
+    "student_strength": "매수업마다 내가 가진 단점을 보완하기 위해 애썼고 꼭 고치기 위해 노력했다. 모든 단점을 다 고칠순 없지만 적어도 시험장에서 빛을 발할 수 있을 것이다.",
+    "teacher_feedback": null,
+    "ideation_process": "구상했다. 방향이 세로인 이상, 개체를 많이 넣으면 주제 크기가 작아질 것 같아, 주제부를 크게 그리고 뒷 배경을 털어버리는 구도를 썼다."
+  }
 }

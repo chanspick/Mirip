@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2808_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:03:17.710589+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2808"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2808",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "제시된 3개의 도형을 조건대로 결합하여 하나의 입체물을 만드는 문제가 나왔으며 최대한 조건을 어기지 않을려고 문제를 천천히 계속 반복하며 읽었던 것 같습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 23.59,
+    "student_strength": "선생님의 피드백을 잘 수용하는 자세가 중요하다고 생각합니다",
+    "teacher_feedback": "선생님이 피드백을 해주시면 다음 그림에선 최대한 받았던 피드백을 수용해서 그릴려고 노력하였습니다 95.",
+    "ideation_process": null
+  }
 }

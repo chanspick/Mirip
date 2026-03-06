@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3715_0.png"
   ],
   "crawled_at": "2026-01-27T15:47:00.016158+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3715"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3715",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "꽁치,나무피라미드 퍼즐이 나왔습니다. 주제부에 최대한 전체형상이 다보일 수 있게 배치 하였으며 깔끔하게 그리려고 붓질에 신경을 많이 썼습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "디자인과 소묘를 최대한 깔끔하게 그리려고 한 것과 주제부에 두물체를 전체형상이 보이게 그린것이 도움이 되었습니다",
+    "teacher_feedback": null,
+    "ideation_process": "주제부에 최대한 전체형상이 다보일 수 있게 배치 하였으며 깔끔하게 그리려고 붓질에 신경을 많이 썼습니다."
+  }
 }

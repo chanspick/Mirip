@@ -13,5 +13,14 @@
     "data/crawled/raw_images/292_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:12.154240+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=292"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=292",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "모델링(사진) 이었는데 최대한 멀리 나가보려고 노력했고 사진에서 모델님의 머리 흐름이 잘안보여서 실루엣맞추고 어색하지않게 풀어나갔습니다.",
+    "practice_years": null,
+    "competition_ratio": 9.93,
+    "student_strength": "선생님말 잘듣고 실기를 선생님들처럼 더 잘만들고 싶다고 생각 하면서 노력했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/748_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:31:30.983400+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=748"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=748",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "소묘는 모래로 만들어진 입체도형의 이미지가 제시되었고 그것의 시간에 따라 변화된 모습을 바닥시점으로 구성하여 그리는 문제였습니다. 형태력이나 묘사력보다는 전체적인 구성이 평가요인이라고 생각하여 생각을 많이 담아 그려내려고 했습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 11.0,
+    "student_strength": "시험장에서 실수하지 않는 것이 중요한 것 같습니다. 평소에 시험장에 왔다고 생각하고 긴장하며 연습했고 시험장에서는 평소처럼 했던 것 같습니다. 그리고 좋은 선생님을 만나 기출문제에 대한 정보와 분석을 접하고 간 것이 많은 도움이 되었습니다.",
+    "teacher_feedback": "선생님의 평가를 필기하면서 복습했습니다.",
+    "ideation_process": "형태력이나 묘사력보다는 전체적인 구성이 평가요인이라고 생각하여 생각을 많이 담아 그려내려고 했습니다. 조소는 유관순의 두상을 제작하는 문제였고 대상과 유사성을 가장 신경쓰며 만들었습니다."
+  }
 }

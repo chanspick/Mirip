@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2711_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:58:53.230604+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2711"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2711",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "타이어와 붓이 나왔었습니다. 미리 타이어와 커터칼로 조합해 그려본 경험이 있어서 그 경험을 토대로 붓의 특성을 살려 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 6.5,
+    "student_strength": "물체끼리의 대비를 통한 선명함과 스케치의 밀도라고 생각합니다.",
+    "teacher_feedback": "선생님이 하시는 말씀을 기록하고 그릴 때 적용하도록 했습니다.",
+    "ideation_process": "미리 타이어와 커터칼로 조합해 그려본 경험이 있어서 그 경험을 토대로 붓의 특성을 살려 그렸습니다."
+  }
 }

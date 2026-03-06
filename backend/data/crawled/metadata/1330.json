@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1330_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:57:09.365264+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1330"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1330",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 파란 무늬가 그려진 유럽풍 접시, 핑크색 메이크업 브러쉬, 검은 가위 였습니다. 학원에서 배운 구도 수업을 토대로 가위를 통해 공간감을 내고 접시로 분위기있게 배경을 뺄 수 있게 노력하였습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 2.0,
+    "student_strength": "사실 수능 점수가 예상치보다 상당히 떨어져 낙담과 실의를 가진적이 있었습니다. 하지만 지난 점수를 잊고 실기에 희망을 가지자는 선생님의 말씀을 토대로 구도 수업과 투시 수업, 채색과 표현 수업을 열심히 임하여 합격할 수 있었다고 생각합니다.",
+    "teacher_feedback": "선생님의 지도를 충실하게 따랐습니다..",
+    "ideation_process": "풀어나가도록 임했습니다."
+  }
 }

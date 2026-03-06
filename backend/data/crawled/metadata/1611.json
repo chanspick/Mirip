@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1611_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:10:18.706188+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1611"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1611",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "제시물 : 스테인플러, 손, 종이 문제 : 스테일플러를 모르는 사람이 사용법을 이해할 수 있도록 사용법을 설면 하시오.",
+    "practice_years": 3.0,
+    "competition_ratio": 3.65,
+    "student_strength": "면접에서 떨지않고 차분히 논리적인 설명을 했던 점이라고 생각한다.",
+    "teacher_feedback": "선생님들이 내주시는 유사한 문제들을 계속 풀면서 실기고사를 대비했다.",
+    "ideation_process": null
+  }
 }

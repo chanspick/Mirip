@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2606_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:08.175518+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2606"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2606",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "마시멜로우, 털실, 플라스틱 튜브, 긴 풍선, 스펀지를 모두 1회 이상 사용하여 '움직임'을 주제로 화면을 연출하고 구성하라는 문제가 출제 되었습니다. 제시물이 총 5가지나 되기 때문에 산만하지 않게 배치하는 것이 관건이라고 생각하여 각 개체에 역할을 정해주는 느낌으로 발상을 시작하였고, '움직임'이라는 제시어에 맞춰 공간감과 개체의 방향성이 시원하게 보여지도록 구성했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 11.38,
+    "student_strength": "그동안 전임 선생님과 함께 건대 예년 합격작들과 기초디자인을 연구했던 그 경험치들이 정말 헛되지 않았던 것 같습니다. 항상 냉정하게 평가해주시고 올바른 방향으로 훈련시켜주신 선생님! 진짜 수고 많으셨습니다!!",
+    "teacher_feedback": "선생님과 소통을 많이 해가며 내 문제점을 빠르게 없애는 것을 중점으로 생각했습니다.",
+    "ideation_process": "발상을 시작하였고, '움직임'이라는 제시어에 맞춰 공간감과 개체의 방향성이 시원하게 보여지도록 구성했습니다."
+  }
 }

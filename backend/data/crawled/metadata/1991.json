@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1991_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:27:14.514032+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1991"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1991",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "커피주전자, 드리퍼, 저그, 잔, 커피캡슐/ 처음 주제지를 받고 나서 전부 커피에 관련된 사물이 나와서 커피를 그려야겠다고 판단했고 조형요소를 분석한 뒤 사물 다섯 가지 중 가장 메인이 될 사물을 확실히 정하는 게 중요하다고 생각했습니다.",
+    "practice_years": 2.08,
+    "competition_ratio": 14.62,
+    "student_strength": "학원에서 줌 평가를 해주실 때가 있었는데, 확실히 선생님께서 태블릿으로 그림을 직접 그리면서 해주셔서 이해에 진짜 도움이 많이 된 것 같고 영상 이론학습은 자유롭게 멈추거나 되감기를 할 수 있어서 너무 편했습니다 보다가 졸 필요 없이 좋은 컨디션일 때 볼 수 있다는 부분이 특히 좋았던 것 같습니다.",
+    "teacher_feedback": "선생님이 그리드랑 화면에 대해 설명해 주는 수업들도 가장 기억에 남는 것 같습니다.",
+    "ideation_process": "생각했습니다. 그래서 주전자에서 커피가 쏟아지는 걸 1번으로 보이게 하고 그 커피가 드리퍼에 쏟아지면서 걸러지는 걸 주제부에 보여준 뒤 뒷공간에 반복을 해주고 마지막에 완성된 커피잔이 있으면 좋을 것 같다고 생각했습니다"
+  }
 }

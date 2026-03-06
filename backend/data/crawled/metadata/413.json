@@ -13,5 +13,14 @@
     "data/crawled/raw_images/413_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:17:18.753403+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=413"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=413",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "소묘 파트에서는 귀뚜라미와 거울, 돌이 이미지로 나왔습니다. 그래서 귀뚜라미와 거울을 주제로 삼았습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 12.1,
+    "student_strength": "사람의 동작을 계속 스케치 해왔던 것이 도움이 되었습니다. 또한 선생님들이 저의 부족한 점을 보완해 주시고 트레이닝을 통해 실전능력이 향상될 수 있도록 이끌어 주셨기에 합격할 수 있었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그래서 귀뚜라미와 거울을 주제로 삼았습니다. 특히 귀뚜라미를 살아있는 듯 사실감있게 그리려 노력하였고 거울의 질감과 거울에 비치는 귀뚜라미를 자연스럽게 그리려했습니다."
+  }
 }

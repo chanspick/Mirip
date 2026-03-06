@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1136_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:36.225795+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1136"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1136",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "배추와 에어팟케이스가 출제되었으며, 평소에 하던대로 규칙을 만들어서 강조시키는 구성을 하여서 풀어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 38.57,
+    "student_strength": "시험 막바지에 선생님께서 개별강평을 꼼꼼히 해주셨던 내용을 떠올렸던 게 도움이 많이 된 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

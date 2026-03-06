@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2827_0.png"
   ],
   "crawled_at": "2026-01-27T15:04:09.239625+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2827"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2827",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "다양한 손 동작, 털실 그리고 가위가 출제되어서 털실로 장갑을 만드는 과정의 손 동작을 가능한 한 자연스럽게 표현했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 14.02,
+    "student_strength": "기초소양평가와 기초디자인 실기를 모두 경험하면서 손에 대한 관찰과 묘사를 준비했던 것이 합격의 주요인인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

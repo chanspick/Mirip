@@ -13,5 +13,14 @@
     "data/crawled/raw_images/781_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:33:03.627716+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=781"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=781",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "줄무늬 맨투맨과 청바지를 입을 여성이 대걸래를 들고 있는 포즈였습니다. 어렵지 않은 문제라고 생각 할 수 있겠지만, 숙명여대는 모델이 단상 위에 올라간다는 점과 자리 배치를 2줄로 한다는 점을 고려했을 때 그렇게 쉽게 느껴지진 않았습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 46.71,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "어렵지 않은 문제라고 생각 할 수 있겠지만, 숙명여대는 모델이 단상 위에 올라간다는 점과 자리 배치를 2줄로 한다는 점을 고려했을 때 그렇게 쉽게 느껴지진 않았습니다. 하지만 문제가 심플한 만큼 기울기, 형태 같은 기본을 더 충실히 지키도록 노력했습니다."
+  }
 }

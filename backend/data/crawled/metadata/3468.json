@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3468_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:33:37.357342+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3468"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3468",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "칸만화 - '사고로 죽은 동생이 다시 찾아왔다.' 동생이 악귀에게 살해 당해 그 문제를 해결하고 성불 시켜주는 이야기.",
+    "practice_years": 1.67,
+    "competition_ratio": 16.57,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

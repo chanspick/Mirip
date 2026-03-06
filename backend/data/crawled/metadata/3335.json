@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3335_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:27:11.407443+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3335"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3335",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "‘지나친 엉킴’이 주제로 나왔고, 지나침/엉킴으로 나누어 생각했을 때 과해도 될 것 같았습니다. 평소 학원에서 실기를 할 때에도 눈치를 안 보는 편이라 그냥 하고 싶은 걸 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 6.96,
+    "student_strength": "평소에 들은 평가를 생각하며 애매하게 노선을 바꾸지 않고, 하고 싶은 걸 시작부터 끝까지 밀고 나가서이지 않나 생각합니다.",
+    "teacher_feedback": "선생님께서 주시는 피드백을 제 방법대로 해석했습니다..",
+    "ideation_process": "평소 학원에서 실기를 할 때에도 눈치를 안 보는 편이라 그냥 하고 싶은 걸 했습니다."
+  }
 }

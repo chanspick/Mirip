@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2514_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:50:03.661541+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2514"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2514",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "운동화 사진의 요소를 이용해서 세 3마리를 원근감 있게 그리라는 문제였습니다. 새는 자유롭게 날 수 있는 동물이라고 적혀있어서 날고있던 새가 착지하는 과정을 보여주어 원근감을 나타냈습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.33,
+    "student_strength": "재수를 하면서 제 그림의 장단점을 잘 보게 되었고 그 단점을 고치려고 노력했습니다. 학원에서 유형별로 문제들을 풀어보고 시험 전날 그림들에 대해 간단히 정리하고 간 것이 큰 도움이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 형태, 색, 질감을 지키려고 노력했습니다."
+  }
 }

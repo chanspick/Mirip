@@ -13,5 +13,14 @@
     "data/crawled/raw_images/298_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:27.641654+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=298"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=298",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "비너스석고상, 마른오징어, 파프리카, 신문지 등이 나왔다. 석고상은 원래 색상대로 밝게 표현하려했고, 앞정물을 그릴때 마른오징어는 부피감이 없고, 파프리카만 놓기에는 허전하게 느껴져서 파프리카에 오징어를 기대어 앞정물의 부피감을 만들고 묘사했다.",
+    "practice_years": 5.0,
+    "competition_ratio": 4.29,
+    "student_strength": "'꾸준함'인 것 같다. 겨울입시 짧은 기간에 노력해서 결과를 바라기보다 1년동안 꾸준히 노력한게 실기력에 안정감을 만들어 주었고, 그게 좋은 결과로 이어진 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하려했고, 앞정물을 그릴때 마른오징어는 부피감이 없고, 파프리카만 놓기에는 허전하게 느껴져서 파프리카에 오징어를 기대어 앞정물의 부피감을 만들고 묘사했다."
+  }
 }

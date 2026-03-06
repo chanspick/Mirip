@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2615_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:31.842970+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2615"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2615",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "반쪽은 피부로 뒤덮이고 반쪽 골근격이 노출된 두상을 쇄골까지 표현하시오. 문제를 받고 약간 당황했지만 학원에서 한 해부학 수업을 생각하면서 만들었어요!",
+    "practice_years": 1.67,
+    "competition_ratio": 7.91,
+    "student_strength": "선생님께서 주제를 할때 강조하신게 몇가지가 있는데 그것을 계속 생각하면서 꼭 맞추려고 노력했어요 무엇보다도 정말 경희대를 간절하게 가고싶었던 저의 의지가 아닐까 싶어요 간절하니까 열심히 열정적으로 하게 되더라구요",
+    "teacher_feedback": "선생님께 문제점을 들은 후 최대한 고치고 다음번에는 같은 실수를 반복하지 않게 계속 생각했어요.",
+    "ideation_process": "표현하시오. 문제를 받고 약간 당황했지만 학원에서 한 해부학 수업을 생각하면서 만들었어요!"
+  }
 }

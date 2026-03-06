@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1571_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:08:23.984303+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1571"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1571",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "양재성과 면재성이 강한 사물들이 나와서 가변을 통해 선재와 점재를 만들어야겠다고 생각했습니다. 벽돌의 경중이 선인장보다",
+    "practice_years": 2.0,
+    "competition_ratio": 5.45,
+    "student_strength": "학원 벽에 걸려있는 우수작과 합격작 그림을 많이 보고 질감 표현이나 주제부 크기, 각도 등을 외우려고 노력했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 벽돌의 경중이 선인장보다"
+  }
 }

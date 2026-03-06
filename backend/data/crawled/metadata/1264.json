@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1264_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:54:10.658753+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1264"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1264",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "상명대-확실한 양재가 부족해서 안경을 확대하고 줄자를 말아주었고 그 줄자가 매달려 떨어지면서 안경렌즈가 빠지는 연출을 메인으로 보여주었습니다. 주변은 줄자를 안경에 감고 꼬면서 바디줄자의 특성을 보여주면서 안경으로 모여들게 배치하여 공간감과 집중력을 만들어 주었습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 26.6,
+    "student_strength": "시험장에서 저의 장점을 부각하고 단점을 최대한 보완하고 왔기 때문이라고 생각합니다. 소묘에서 저의 장점이었던 외곽 정리와 풍부한 톤처리를 살리고, 단점이었던 완결도와 약한 어둠을 확실히 보완시켰습니다. 그리고 주제가 쉬워서 다른 학생들보다 크기나 밀도 면에서 학생다움을 보여주었기 때문인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "주변은 줄자를 안경에 감고 꼬면서 바디줄자의 특성을 보여주면서 안경으로 모여들게 배치하여 공간감과 집중력을 만들어 주었습니다. 그리고 은박접시는 변형하기보다"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2475_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:48:19.902081+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2475"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2475",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "각 주제들의 특성을 생각하며 묘사를 진행하였고, 소제 특성에서 필요한 부분이 있다면 추가해서 그림을 그려냈습니다. 또 저는 그림을 진행하면서 중요하게 생각했던 것은, 받은 주제가 학원에서 해보았던 것들이기 때문에 선생님이 피드백해주신 것을 계속 생각하며, 전에 했던 실수들을 하지 않을려고 노력했었습니다.",
+    "practice_years": 2.42,
+    "competition_ratio": 5.3,
+    "student_strength": "출제 된 주제들의 색을 서로 어울리면서도 화려하게 바꿔서 더 눈에 보이도록 하였던 점과 나머지 물체들을 주제를 돋보여주기 위해 색을 잘 빼준 것이 남들보다 더 그림이 잘 보이도록 큰 도움을 준 것 같습니다. 또 스스로의 부족했던 점을 고쳐야한다는 마음을 크게 잡았기 때문에 좋은 그림이 나와 합격할 수 있었다고 생각합니다.",
+    "teacher_feedback": "선생님의 시범을 보며 채색의 방법을 익히고 하루에 1번씩 시험을 치고 선생님께 피드백을 받으며 그 피드백을 다음 시험에 수용할려고 애쓰며 그림을 그렸습니다.",
+    "ideation_process": "또 저는 그림을 진행하면서 중요하게 생각했던 것은, 받은 주제가 학원에서 해보았던 것들이기 때문에 선생님이 피드백해주신 것을 계속 생각하며, 전에 했던 실수들을 하지 않을려고 노력했었습니다."
+  }
 }

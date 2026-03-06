@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2153_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:34:16.847015+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2153"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2153",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "녹색, 의자, 수증기 로 스토리 텔링을 하시오 였습니다 처음에 주제 제시용지 를 받자마자 당황을 하였습니다",
+    "practice_years": 1.42,
+    "competition_ratio": 21.92,
+    "student_strength": "연출 이었다고 생각합니다 저희 학원은 쌤이 1대1로 학생들의 개성과 스타일에 맞춰서 아이디어 스케치를 할때도 어떻게하면 이런 주제에 다양한 연출을 활용 할 수 있을까? 하며 항상 새로운 방법으로 연출을 연습했습니다 저는 연출을 독특하게 하는게 저의 그림 방식이었는데 항상 쌤들과 같이 이번 연출은 어떤가요 하면서 맞춰보며 가장 이상적인 연출을 시험장에 적용한.",
+    "teacher_feedback": "피드백 해주시면서 학생에게 맞는 커리큘럼이 제공 해주셨습니다 본인 실력에 맞게 부족한 부분을 고쳐나갔고 스타일에 맞게 연습을 했기때문에 노력할수있었고 실력을 올릴 수 있었던 것 같습니다.",
+    "ideation_process": "구상하였습니다 의자는 사람의 중심인 허리를 받치고 있다는걸 떠올려 지구에 비유해서 지구를 받치는건 자연, 그 자연을 지키는 로봇으로 스토리를 구상하였습니다"
+  }
 }

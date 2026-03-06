@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2175_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:35:14.490032+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2175"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2175",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "문제지에 다양한 조형언어들이 나왔기 때문에 학원을 다니면서 풀었던 건국대학교 기출 문제와 비슷한 맥락이라 생각해 조형언어를 최우선으로 보여주려 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.54,
+    "student_strength": "성적도 일정 부분 도움이 되었던 것 같지만 수능 이후에 체력이 많이 떨어져서 정시 특강을 하며 힘들어했는데, 선생님과 원장님이 적절히 조율해주시고 상담도 정말 잘해주셔서 멘탈 관리와 체력 관리 모두 잘 되었던 게 큰 요인인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3041_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:13:44.002367+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3041"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3041",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "수박과 스패너 주제지를 받고 학원에서 시험봤을 때 개인적으로 아쉬웠던 걸 추가로 적고 스케치를 들어갔습니다. 정확한 연출과, 톤의 구분, 정확한 위치와 크기 등을 맞추려고 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 5.52,
+    "student_strength": "매일 올라오는 수업 스케줄로 하루에 얼마나 많은 그림을 그릴 수 있는지 알 수 있었고, 때에 따라 필요한 수업들을 추가해주셔서 부족한 건 바로 보완할 수 있고 잘 하는 건 더 보기 좋게 그릴 수 있었던 것 같습니다. 또한 단계별 트레이닝을 통해 부족한 단계를 보완할 수 있어서 좋았습니다.",
+    "teacher_feedback": "선생님들께서 계속 피드백해주시고, 교수평가도 받으면서 수정할수있었습니다..",
+    "ideation_process": "정확한 연출과, 톤의 구분, 정확한 위치와 크기 등을 맞추려고 노력했습니다. 다른 주제들보다"
+  }
 }

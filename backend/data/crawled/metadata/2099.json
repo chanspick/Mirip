@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2099_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:31:57.771752+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2099"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2099",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제 1에서는 “입체물의 특징을 잘 보여줄 수 있는 방향에서 그리시오” 라는 대목이 인상적으로 들어와서, 하나의 특징이 강조되는 입체물을 그려야겠다고 생각했습니다. 평가 기준에 ‘투시 활용 능력’이 있었기 때문에, 강조하고자 하는 특징은 자연스럽게 공간감이 되었고, 1점 투시를 이용해 극대화하고자 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 8.57,
+    "student_strength": "나머지 요소도 무시할 수는 없지만, 가장 중요한 요소라고 한다면 실기인 것 같습니다. 다른 두 요소만을 평가하는 비실기 전형이 이미 따로 있는 데다, 면접에서 그림을 확인하고 그림에 대한 설명을 높은 확률로 요구하는 만큼 실질적인 반영률이 크다는 생각이 듭니다.",
+    "teacher_feedback": "선생님의 피드백을 듣는 시간에 특히 집중했는데, 이 문제에서 평가하고자 하는 부분은 무엇인지/이 풀이를 어떤 식으로 발전시킬 수 있는지/우수작에서 어떤 특징이 보이는지 등의 설명을 메모해가.",
+    "ideation_process": "생각했습니다. 평가 기준에 ‘투시 활용 능력’이 있었기 때문에, 강조하고자 하는 특징은 자연스럽게 공간감이 되었고, 1점 투시를 이용해 극대화하고자 했습니다."
+  }
 }

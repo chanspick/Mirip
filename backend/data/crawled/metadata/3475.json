@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3475_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:33:57.510049+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3475"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3475",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "주제 : 마트에서 난데없는 무언가를 발견한 이야기를 표현하시오. 스토리에 고민할 시간이 많지 않았기 때문에 이전에 선생님들께 긍정적인 피드백을 받았던 칸만화의 내용을 차용하고자 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 13.6,
+    "student_strength": "스토리는 특별한 것 없이 무난한 스토리였기 때문에 그림에서 좋은 점수를 받아 합격한 것이 아닐까 싶습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 스토리에 고민할 시간이 많지 않았기 때문에 이전에 선생님들께 긍정적인 피드백을 받았던 칸만화의 내용을 차용하고자 했습니다."
+  }
 }

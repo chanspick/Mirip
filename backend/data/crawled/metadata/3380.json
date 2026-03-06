@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3380_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:29:23.801098+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3380"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3380",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "당일 출제 문제는 '도마뱀을 청자에 결합, 조합하여 표현해라'였습니다. 이 주제를 받고 즉시 동적인 구도를 구상해 눕혀 있는 청자를 배치하고, 그 안에서 도마뱀이 힘차게 깨고 나오는 모습을 표현했습니다.",
+    "practice_years": null,
+    "competition_ratio": 23.75,
+    "student_strength": "제 작품의 가장 큰 강점은 한눈에 들어오는 강렬한 주제부 구성과 청자의 섬세한 무늬를 정교하게 표현한 것이라고 생각합니다. 도마뱀과 청자의 결합이라는 주제를 잘 보여주면서도, 전통 도자기의 섬세한 표현을 놓치지 않으려 노력했습니다.",
+    "teacher_feedback": "선생님께 정기적으로 피드백을 받으며 그림의 구도, 색감, 표현 기법 등에서 문제점을 파악하고 개선해 나갔습니다.",
+    "ideation_process": "구상해 눕혀 있는 청자를 배치하고, 그 안에서 도마뱀이 힘차게 깨고 나오는 모습을 표현했습니다. 도마뱀의 움직임에 따라 청자 조각과 모래가 흩날리는 모습을 그려 넣어 생동감을 더했습니다."
+  }
 }

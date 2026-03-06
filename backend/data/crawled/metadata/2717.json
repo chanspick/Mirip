@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2717_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:59:09.947888+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2717"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2717",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "참치캔, 나무절구공이, 의료용핀셋이 나왔다. 개체 특성들이 확실한 물체라서 그 특성이 잘 드러나도록 풀이하려고 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.56,
+    "student_strength": "선생님께서 말씀해주신 제 그림의 단점을 계속 생각하고 그 부분을 고치려고 노력했던점이 합격의 주요인이라고 생각한다.",
+    "teacher_feedback": "선생님 평가내용을 귀담아 들으려했고 많은 평소작 그림을 그렸습니다..",
+    "ideation_process": "개체 특성들이 확실한 물체라서 그 특성이 잘 드러나도록 풀이하려고 했습니다."
+  }
 }

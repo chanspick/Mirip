@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3138_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:18:08.000030+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3138"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3138",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "낚시릴과 반투명 무지개리본이여서 아 뭐지? 어잠만 이거 재수때도 낚시릴 했었는데? 작년도 합격작에서도 풍선으로 꽃그린게 있었으니까 리본으로 물고기도 되겠지? 하고서 낚시릴로 물고기를 잡은느낌으로 그려나가자! 후회없이 열심히 그리자!!",
+    "practice_years": 3.0,
+    "competition_ratio": 7.4,
+    "student_strength": "도예학과지원한 사람이 37명인데 20명이 같은 고사실에 있었어서 아 여기만 이기면 되겠다라고 생각이 든게 크고, 낚시릴과 물고기를 이어서 그려본것이 교수님들에게 시선이 많이 갔던것같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "후회없이 열심히 그리자!! 또 남들보다"
+  }
 }

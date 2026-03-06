@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3141_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:18:16.147432+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3141"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3141",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "‘충주 탄금대는 임진왜란때 신립장군이 마지막 전투를 하다 사망한 곳이다.",
+    "practice_years": 2.0,
+    "competition_ratio": 32.2,
+    "student_strength": "주요대학 합격률 높은 만화학원 선택과 훌륭하신 선생님들의 지도덕분입니다. 입시 초중반이면 스타일이 어느정도 정해지기 때문에 가장 큰 변수는 주제를 해석하는 것이라고 생각합니다. 평소에 독서도 꾸준히 하며 다양한 소재를 활용해 이야기를 구성하는 연습을 했던 점이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "사망한 곳이다. 제시된 대상 A,B를 활용해 스토리텔링하시오."
+  }
 }

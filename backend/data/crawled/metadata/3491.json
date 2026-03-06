@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3491_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:34:44.217698+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3491"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3491",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "당일에 옥수수와 스쿱이 나왔다. 옥수수를 소묘할 때 덩어리와 형태 정리에 집중하며 완성하였고 형태가 단순해 스케치는 더욱 빨리 완성하려 했다.",
+    "practice_years": 2.5,
+    "competition_ratio": 43.64,
+    "student_strength": "합격작이나 경희대 관련 자료를 많이 찾아보았다. 또한 시간 안에 소묘와 디자인을 해야 하기 때문에 묘사를 한 번에 하고 톤 단계를 줄이기 위해 노력하였던 점인 것 같다.",
+    "teacher_feedback": "피드백을 항상 메모하여 부족한 부분을 개선할 수 있게 노력했던 점이 도움이 많이 되었다..",
+    "ideation_process": "옥수수를 소묘할 때 덩어리와 형태 정리에 집중하며 완성하였고 형태가 단순해 스케치는 더욱 빨리 완성하려 했다. 옥수수의 단면과 낱알등 다양한 형태를 보여주어 재밌는 연출을 하기위해 노력했다."
+  }
 }

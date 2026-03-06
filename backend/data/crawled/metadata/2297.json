@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2297_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:40:33.030843+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2297"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2297",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "다리를 꼰 여자가 나왔으며 해당 대학 책자를 들고 나왔습니다. 문제를 받은 순간 화질이 좋지않고 사진의 형태가 이상하여 채색의 시간을 늘리는것보단 스케치의 형태에 집중하기로 하였습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 15.8,
+    "student_strength": "언제나 성실히 임하는 태도라고 생각합니다. 또한 자신만의 개성이 무척 필요하다고 생각합니다. 실전에서 무슨 사진이 나올지 모르기때문에 학원에서 해볼수있는 형태, 기법은 다 시도해봐야 한다 생각합니다.",
+    "teacher_feedback": "선생님이 고르신 사진중 나에게 부족한점이 많은 사진을 뽑아 안되는것 중점으로 연습하였습니다.",
+    "ideation_process": "문제를 받은 순간 화질이 좋지않고 사진의 형태가 이상하여 채색의 시간을 늘리는것보단 스케치의 형태에 집중하기로 하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2019_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:28:28.859864+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2019"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2019",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "물이 든 컵과 레몬, 줄무늬 종이테이프가 나왔고 빛의 굴절을 표현하라 하였고 물이 든 컵을 중심에 배치해 레몬과 테이프의 굴절이 잘 보이도록 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 7.0,
+    "student_strength": "남들 보다 레몬을 크고 채도 높게 표현해 눈에 띄게 하고 중심에서 컵의 굴절을 잘 보여준 것이 합격의 주요인이라 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라 하였고 물이 든 컵을 중심에 배치해 레몬과 테이프의 굴절이 잘 보이도록 했습니다."
+  }
 }

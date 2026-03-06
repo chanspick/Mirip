@@ -13,5 +13,14 @@
     "data/crawled/raw_images/869_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:36:49.508581+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=869"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=869",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "당일 출제문제는 미리 연습해봤던 민들레, 캔콜라, 시계였고 미리했었기 때문에 수월하게 할 수 있었습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 4.89,
+    "student_strength": "미리해봤던게 나온게 합격의 주요인이라 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

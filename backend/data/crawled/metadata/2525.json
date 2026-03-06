@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2525_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:50:32.486866+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2525"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2525",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "나무블럭, 나무 그릇, 양키캔들 유리뚜껑, 붓. 4절에 4시간 소묘하시오.",
+    "practice_years": 5.5,
+    "competition_ratio": 32.42,
+    "student_strength": "학원에서 시험을 칠 때 무조건 완성하려고 했습니다. 평가 때 다른 친구들의 잘 그린 그림은 마킹 해 놓고 시험 때 적용하기도 했어요. 또 태순쌤과 그림의 단점에 대해서 자주 이야기 했었는데 그 단점들을 전 날 폰에 적어놓고 시험 볼 때 상기시키도록 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 되도록 사진과 똑같이 그리려고 노력했고, 평소에 소묘에서 블랙이 연하다는 지적을 받았기 때문에 어둠을 진하게 누르는데 집중했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3605_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:40:27.129033+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3605"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3605",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "양피,밧줄이 제시물로 출제되었는데 제일 돋보여야 할 주제부에는 양파와 밧줄의 연관성을 보여줄 수 있도록 배치했고 밧줄로 길게 뻗어나가며 큰 공간감을 줄 수 있도록 직선으로 활용하여 부주제를 배치하고 공간감을 나타냈습니다. 주제부의 양파는 색상이 자유였기때문에 제일 위에 올라가있는 양파의 껍질 안쪽을 초록색으로 채색해 포인트를 줄 수 있게 그렸습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 5.53,
+    "student_strength": "출제문제에 대해 출제자의 의도를 파악하는 것이 중요한 것 같습니다. 제시물의 특성이나 성질을 파악하고 표현하는것이 변별력에 있어 도움이 되는것 같습니다.",
+    "teacher_feedback": "선생님의 피드백을 받아가면서 실기를 준비했습니다..",
+    "ideation_process": "주제부의 양파는 색상이 자유였기때문에 제일 위에 올라가있는 양파의 껍질 안쪽을 초록색으로 채색해 포인트를 줄 수 있게 그렸습니다."
+  }
 }

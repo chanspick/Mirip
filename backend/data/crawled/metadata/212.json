@@ -13,5 +13,14 @@
     "data/crawled/raw_images/212_0.png"
   ],
   "crawled_at": "2026-01-27T13:08:48.661430+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=212"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=212",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "평소 양적인 모델에 취약했는데 마른 모델이 배정이 되어서 다행히도 초반부터 안심하며 잘 풀어 나갔구여 이미지에 너무 신경쓰다가 뒷부분에 시간이 부족해서 큰 흐름으로만 정리를 해줘서 약간 걱정이 되긴 했는데 오히려 이부분이 이미지를 놓치지 않고 차분하게 보이게된것 같아 다행히다 싶었어요",
+    "practice_years": 2.0,
+    "competition_ratio": 4.75,
+    "student_strength": "실기가 상위권이 아니다 보니 너무 조급해 하며 실기를 했었는데 모델링과 주제두상을 번갈아 가며 연습했던것이 좀 환기도 되었던것 같고 모델의 \"이미지\"라는 아이는 지나치게 관심을 주면 떠난다는 선생님의 말씀에 기초적인것과 멀리서 크게 다가오는 몇가지의 이미지들만 가지고 욕심버리고 진행했던 부분이 주요 했던것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "싶었어요"
+  }
 }

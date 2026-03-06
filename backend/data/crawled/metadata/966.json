@@ -13,5 +13,14 @@
     "data/crawled/raw_images/966_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:40:59.803093+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=966"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=966",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "악보, 자체 제작 종이 2장, 알파벳 H,N으로 평면적으로 리듬을표현해라. 평소 평면적인 구도를 많이 연습했었고, 리듬감을 가장 효과적으로 보여줄 수 있도록 표현, 일차원적으로 악보에 알파벳을 크기, 간격의 변주를 주며 음표처럼 표현했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 13.33,
+    "student_strength": "학교가 원하는 문제의 답을 가장 명확하고 일차원적으로 보여주려고 노력하고 제시문에 가장 중요해보였던 ‘평면적으로’라는 조건을 정확하게 지킨 것 이라고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "평소 평면적인 구도를 많이 연습했었고, 리듬감을 가장 효과적으로 보여줄 수 있도록 표현, 일차원적으로 악보에 알파벳을 크기, 간격의 변주를 주며 음표처럼 표현했다. 이퀄라이저처럼 띄지를 세워서 들쭉날쭉하게 길이의 변화를 주었다."
+  }
 }

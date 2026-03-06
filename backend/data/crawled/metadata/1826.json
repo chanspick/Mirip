@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1826_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:20:04.978571+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1826"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1826",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "실기고사 문제로 대추, 손거울, 용수철스프링장난감이 나왔다. 각 개체의 특성을 생각하며 아이디어 스케치를 했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.77,
+    "student_strength": "시험을 치며 평소 학원에서 실전 시험을 칠 때 들었던 내 그림의 문제점과 장점을 생각하며 그렸다. 특히 채색에서 대추의 채도가 떨어지지 않도록 신경을 많이 썼던 것 같다.",
+    "teacher_feedback": "선생님께 지적 받았던 부분을 다음 시험에서 고치려고 노력했다..",
+    "ideation_process": "각 개체의 특성을 생각하며 아이디어 스케치를 했다. 특히 손거울은 학원에서 해본 적이 있었기 때문에 더 수월하게 풀어나갈 수 있었다."
+  }
 }

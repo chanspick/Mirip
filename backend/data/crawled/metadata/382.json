@@ -13,5 +13,14 @@
     "data/crawled/raw_images/382_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:15:59.155381+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=382"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=382",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 잠자리(곤충) / 음악이 사람에게 끼치는 좋은 영향 이었으며, 평소 수업 때 그려보았던 뜨개질 하는 손 구도가 주제와 어울렸기에 그려봤던 방식에 스토리를 풀어나갔습니다.",
+    "practice_years": 1.75,
+    "competition_ratio": 13.0,
+    "student_strength": "서울대 시험 때 너무 긴장해서 그런지 과기대 볼 때에는 긴장을 하지 않았습니다. 오히려 이전으이 경험이 좋은 결과를 내는 데 약이 되었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

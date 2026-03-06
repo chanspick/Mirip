@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1314_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:56:24.130081+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1314"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1314",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "구, 원뿔, 사각기둥, 원기둥 을 이용해 조형물을 만들고 제시된 이미지(들판 이미지)에 배치하시오. 문제를 꼼꼼히 읽어보고 공간감이 돋보일 수 있게 원근감을 주는 구도가 좋을 것 같다고 생각했다.",
+    "practice_years": 3.75,
+    "competition_ratio": 7.65,
+    "student_strength": "기본기를 많이 중요하게 생각해서 연습한 것이 합격에 큰 역할을 한 것 같고 마침 올해 건대 문제가 내가 평소에 연습했던 것이 출제되어 자신있게 시험을 볼 수 있었다.",
+    "teacher_feedback": null,
+    "ideation_process": "문제를 꼼꼼히 읽어보고 공간감이 돋보일 수 있게 원근감을 주는 구도가 좋을 것 같다고 생각했다. 문제와 가장 알맞는 조형을 만들어서 주제부를 앞으로 끌어 당겨서 시선이 갈 수 있도록 배치했다."
+  }
 }

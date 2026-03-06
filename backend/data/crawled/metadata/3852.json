@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3852_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:54:28.522124+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3852"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3852",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "< 어릴 적 친구들과의 사진을 보고 추억에 빠져 피식 웃고 있는 40대 여성 > 주제어를 빠짐없이 읽고 동세,표정,시선처리,인물과 상황을 구체적으로 설정하고 만들기 시작했습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 17.0,
+    "student_strength": "긴장을 정말 많이 하는 편이라서 학원에서 모의 시험을 칠때마다 실제 시험이라고 생각하고 멘탈관리를 했던 게 가장 컸던 것 같습니다. 시험장에 가서는 모의 시험이라 생각하면서 평소 루틴대로 쉬는시간도 가지며 작품을 완성했어요 .",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

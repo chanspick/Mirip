@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2554_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:51:49.987643+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2554"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2554",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "테니스공, 영화 필름, 압정이 출제되었다. 밝은 색의 테니스공을 주제부로 배치하고, 재질감을 나타내기 위해 뜯어지는 연출 등을 활용하여 그림의 묘사를 더욱 풍부하게 그려내려고 노력했다.",
+    "practice_years": 1.67,
+    "competition_ratio": 5.78,
+    "student_strength": "평소에 학원에서 모의시험을 많이 봐왔기 때문에 시간분배를 하는 것에 있어 익숙해질 수 있었다. 또한, 그동안 받아온 피드백을 토대로 실수만 하지 말자고 다짐해 더 좋은 결과를 얻을 수 있었던 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "밝은 색의 테니스공을 주제부로 배치하고, 재질감을 나타내기 위해 뜯어지는 연출 등을 활용하여 그림의 묘사를 더욱 풍부하게 그려내려고 노력했다. 선재인 영화 필름을 적극적으로 사용하여 공간감을 나타냈다."
+  }
 }

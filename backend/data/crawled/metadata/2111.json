@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2111_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:32:28.791134+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2111"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2111",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "수시를 볼 때는 너무 떨려서 내 그림을 객관적으로 보기 힘들었고, 완성하지 못하고 나온 적도 있습니다. 시험은 몇년간 해온 준비가 그 한 장으로 결과가 나는것이기 때문에 머리를 차갑게 하여 다른 사람과 내 그림을 계속 비교하기보다",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "선생님께: 제가 멘탈이 약해 자주 힘들어 했음에도 다그치지 않고 항상 많은 도움주신 청 선생님들께 정말 감사드립니다. 학생 한명한명 성의껏 피드백 해주시고 챙겨주셔서 매년 좋은 결과를 얻을 수 있는 것 같습니다.",
+    "teacher_feedback": "선생님과 실장선생님,많은 강사선생님들께서 도움되는 조언을 해주시고 그림뿐만 아니라 멘탈도 잡아주셔서 끝까지 잘 마무리 할 수 있었습니다.",
+    "ideation_process": "시험은 몇년간 해온 준비가 그 한 장으로 결과가 나는것이기 때문에 머리를 차갑게 하여 다른 사람과 내 그림을 계속 비교하기보다 내 그림에만 집중해서 떨지 않고 자신이 보여줄 수 있는 최선의 그림을 그리고 오는 것이 중요하다고 생각합니다."
+  }
 }

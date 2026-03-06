@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1452_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:02:58.916936+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1452"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1452",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "요술봉 넓은 공간에서 100여명과 함께 시험을 봤어요. 첫 시험이었어서 긴장을 조금 했었어요.",
+    "practice_years": 2.0,
+    "competition_ratio": 15.5,
+    "student_strength": "조별 릴레이 수업이 정말 도움 됐어요. 그냥 혼자 시험 보는 것보다 팀원들과 함께 그림을 그리니까 더 신중하게 그림을 그리게 되고, 나라면 어떻게 할 거 같다라는 생각들도 도움이 되서 이 수업 이후에 컬러링 완성도가 좋아졌어요.",
+    "teacher_feedback": "선생님들의 시범을 바로 노트 필기를 했어요.",
+    "ideation_process": "첫 시험이었어서 긴장을 조금 했었어요. 시간을 잘못보고 주제부 컬러링에 집중하다보니 시간이 조금 모자랐어요.."
+  }
 }

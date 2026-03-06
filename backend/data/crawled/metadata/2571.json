@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2571_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:52:34.855297+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2571"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2571",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "얼음/타이어, ‘제시된 사물의 이미지/특성을 활용하여 자유롭게 구성하시오‘ 라는 문제였습니다. 딱 처음 떠오른 이미지는 타이어가 뒤에서 빠르게 달려나오면서 얼음을 쾅!",
+    "practice_years": 1.42,
+    "competition_ratio": 22.44,
+    "student_strength": "분석과 정리입니다. 학원에서 설명해준 미술에 대한 원리를 외우는 것이 아니라 무조건 이해할 때까지 정리하고 질문하고 다시 정리하는 것에 대한 반복이었습니다. 그림일기에 내가 배운 것들과 고쳐나가야 할 점들을 정리해야 하기 때문에, 스스로의 그림을 등하원 하면서 계속 관찰했고, 우수작들도 관찰하며 내 그림과 어떤 점이 다른지.",
+    "teacher_feedback": "선생님들의 손을 관찰하면서 연구하는 시간을 쌓았습니다..",
+    "ideation_process": "표현하기 위한 잔상활용이 정말 중요할텐데, 평소 그림을 그릴 때 채색에서 가장 취약한 부분이 액체표현과 잔상처리였습니다. 때문에 타이어를 메인 양재로 연출을 할 경우 잔상이나 액체표현 때문에 그림이 더러워질 것 같고 밀도도 애매해질 것 같다는 판단이 들어 ‘화려한 연출보다는 조형성/레이아웃/밀도로 점수를 따겠다’ 라는 전략을 세웠습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1378_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:59:27.699239+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1378"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1378",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.0,
+    "competition_ratio": 3.65,
+    "student_strength": "실기의 경우에는 평소에 선생님들이 시키신것을 그대로 열심히 한 것 이다",
+    "teacher_feedback": "선생님들이 올려주신 자료들을 눈으로 익히려고 노력했다..",
+    "ideation_process": null
+  }
 }

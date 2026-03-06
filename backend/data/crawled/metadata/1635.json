@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1635_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:11:25.499465+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1635"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1635",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험 당일 볼살이 있는 모델이 나왔고 모델의 특징을 먼저 파악하고 그 특징들이 작품에 다 나타나게 하려고 최대한 노력했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 9.54,
+    "student_strength": "적당한 내신(너무 낮으면 안되니까, 원장님과 상담하고 관리하시면 됩니다 ㅎㅎ)과 즐겁게 했던 실기라고 생각한다.",
+    "teacher_feedback": "선생님들에게서 지적 받은 것들을 노트에 적어두고, 다음날 실기할 때 틀리지 않도록 더 신경써서 만들어나가려고 노력했다..",
+    "ideation_process": "나타나게 하려고 최대한 노력했다. 모델 사진의 이미지가 나의 작품에 나왔는지 계속 나가서 보면서 만들었다."
+  }
 }

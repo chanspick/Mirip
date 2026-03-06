@@ -13,5 +13,14 @@
     "data/crawled/raw_images/552_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:23:08.563286+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=552"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=552",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "우산,패턴지,수정테이프를 사용하여 기초디자인 하는 것 이었고, 전날에 연습했던 패턴지 활용구도를 참고하여 흰색과 검정의 대비를 강조하여 그려나갔습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 8.35,
+    "student_strength": "선생님과 부모님 그리고 제 스스로 포기하지 않았던 것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

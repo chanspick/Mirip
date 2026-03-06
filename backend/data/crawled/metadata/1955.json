@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1955_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:25:41.518742+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1955"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1955",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 29.0,
+    "student_strength": null,
+    "teacher_feedback": "선생님들께서 지도해주신 부분을 소화나갔습니다.",
+    "ideation_process": null
+  }
 }

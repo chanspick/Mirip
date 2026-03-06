@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2949_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:09:39.073861+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2949"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2949",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "기본질문인 지원이유, 장점단점, 좋아하는 작가등등을 물어보셨고 포트폴리오에 대해 많이 물어봐주셨던것 같습니다. 평소에 준비하고 관심있게 생각해오던 것들이라면 바로바로 답변할 수 있는 내용들 이였고 금속공예에 진짜 흥미가 있는것처럼 답변을 한다면 긍정적이게 바라봐주시는것 같습니다.",
+    "practice_years": 2.42,
+    "competition_ratio": 6.0,
+    "student_strength": "면접때 너무 떨지않고 당차게 이야기했던게 좋은 결과를 얻어낸것 같습니다. 너무 정자세로 있기보다 제스처도 해가면서 이야기하고 금속공예를 좋아하는 학생이라는 것을 충분히 보여주는것이 좋은 이미지를 전달한것같습니다.",
+    "teacher_feedback": "선생님들이 도와주시고 모의면접도 진행했습니다..",
+    "ideation_process": "평소에 준비하고 관심있게 생각해오던 것들이라면 바로바로 답변할 수 있는 내용들 이였고 금속공예에 진짜 흥미가 있는것처럼 답변을 한다면 긍정적이게 바라봐주시는것 같습니다."
+  }
 }

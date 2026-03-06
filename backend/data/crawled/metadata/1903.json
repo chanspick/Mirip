@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1903_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:23:24.234707+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1903"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1903",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "제시물은 종이노끈, 잉크병, 드릴이 나와서 생각보다 묘사할 것이나 형태적으로 복잡하여 스케치를 할 때 물체들간의 특성을 생각하며 발생할 수 있는 요소들을 최대한 표현하려 하였으며 색상대비를 활용하여 물체들의 관계를 선명하고 다른 그림보다",
+    "practice_years": 2.0,
+    "competition_ratio": 4.85,
+    "student_strength": "시험장에서 배운 것 들을 활용하며 신중하게 따져가며 그리고 스스로 할 수 있다고 믿으며 그린 것이 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님께 피드백 받은 것을 다시 받지않게 노력했으며 스스로도 한장한장 그릴 때마다 발전할 수 있도록 노력했습니다..",
+    "ideation_process": "표현하려 하였으며 색상대비를 활용하여 물체들의 관계를 선명하고 다른 그림보다 눈에 띌 수 있게 그리려 했습니다"
+  }
 }

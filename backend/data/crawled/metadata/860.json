@@ -13,5 +13,14 @@
     "data/crawled/raw_images/860_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:36:26.982578+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=860"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=860",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "팔각형의 커피포트가 나왔는데 원근감이라는 제시어를 어떻게 더 쉽게 풀어나갈지 고민하며 시간셰�p을 세우고 침착하게 풀어나갔습니다",
+    "practice_years": 2.5,
+    "competition_ratio": 28.89,
+    "student_strength": "저의 그림실력을 키워주신 태룡쌤 소희쌤 용만쌤 그리고 보조쌤, 예비반때 기초를 튼튼히 알려주신 예나쌤들 덕분인거같습니다.",
+    "teacher_feedback": "선생님들께 질문도 하고 잘 못하는것이 있으면 집에가서 연습하기도 했습니다.",
+    "ideation_process": "풀어나갈지 고민하며 시간셰�p을 세우고 침착하게 풀어나갔습니다"
+  }
 }

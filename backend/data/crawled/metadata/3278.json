@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3278_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:24:28.634944+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3278"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3278",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "마트료시카와 적색 양배추가 나왔다. 마트료시카의 겹겹이 싸인 모습이 잘 드러나도록 주제부를 구성했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 54.7,
+    "student_strength": "극단적으로 큰 명암 차이를 주어 주제부를 선명하게 그린 것이 내 그림을 돋보이게 만든 것 같다. 또한 시험시간이 짧은 만큼 완결도를 높이기 위해 노력한 것이 도움이 된 것 같다.",
+    "teacher_feedback": "선생님께 많이 여쭙고 집에서도 많이 그려보았다..",
+    "ideation_process": "마트료시카의 겹겹이 싸인 모습이 잘 드러나도록 주제부를 구성했다. 적색 양배추를 찢어서 선재로 썼고 마트료시카의 목에 둘러 목도리처럼 연출했다."
+  }
 }

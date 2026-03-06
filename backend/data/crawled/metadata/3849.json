@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3849_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:54:14.914439+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3849"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3849",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "조금 체격이 있으시고 펌이 된 머리에 앞머리가 있는 남자분이었습니다. 약간 곰돌이 푸를 닮은 인상이었고 나이는 20대 중후반 정도로 보였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 14.04,
+    "student_strength": "자리와 조명이 너무 안 좋아 작업이 잘 안 되고 우울해질 것같아서 이대로 하면 대학에 떨어진다는 생각에 마음을 다잡았고 최대한 좋은 자리로 조정한 뒤에 학원에서 강조한 핵심 포인트를 틀리지 않도록 신경 쓰며 계속 뒤로 나와 전체를 점검했습니다. 무엇보다 모델의 닮음을 가장 중요하게 생각하며 작업했습니다.",
+    "teacher_feedback": "선생님의 시범이나 완성도가 높은 작품을 자세히 관찰해 모델의 느낌, 질감 등을 비교하며 분석했고 그 과정을 통해 배운 요소들을 직접 적용해 보며 실기 실력을 향상시키고자 노력했습니다..",
+    "ideation_process": "약간 곰돌이 푸를 닮은 인상이었고 나이는 20대 중후반 정도로 보였습니다."
+  }
 }

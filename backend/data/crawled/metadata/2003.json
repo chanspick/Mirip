@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2003_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:27:45.899568+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2003"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2003",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "양파의 소묘와 양파,목도리로 화면구성(디자인) 손이 느린 편이라 후반에 허둥대는 걸 방지하기 위해 연습때처럼 차분하게 시간분배를 하고 그 동안 학원에서 배운대로 풀어나갔습니다.",
+    "practice_years": 3.42,
+    "competition_ratio": 40.36,
+    "student_strength": "실기를 준비하면서 경희대 관련 개체 자료들을 선생님께서 정리를 해주셨는데 그 자료들을 토대로 준비했던 게 많이 도움이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

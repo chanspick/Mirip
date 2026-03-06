@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1287_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:55:12.976163+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1287"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1287",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "건국대학교 실내디자인학과 실기시험에는 공업용 줄자와 완충기(서스펜션)으로 ‘긴장감’을 표현하는 문제가 출제되었습니다. 주제지를 받았을 때는 완충기가 어디에 쓰는 물건인지 몰라서 당황스러웠습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 17.84,
+    "student_strength": "정시반에 있다가 수시반으로 옮기자고 원장님과 상담을 여러 차례 했는데 늦게 들어온 만큼 실기를 올려주려 노력해주시고 여러 다양한 브리핑, 평가, 아스, 매일 시간마다 체계적인 시간표가 실기를 끌어 올리는 데에 큰 도움이 된 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 문제가 출제되었습니다. 주제지를 받았을 때는 완충기가 어디에 쓰는 물건인지 몰라서 당황스러웠습니다."
+  }
 }

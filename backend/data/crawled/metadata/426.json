@@ -14,5 +14,14 @@
     "data/crawled/raw_images/426_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:17:51.763927+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=426"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=426",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "당일 출제주제는 바이올린이 나왔었는데 삼육대가 특이한 구도를 원하는 학교이다 보니 무엇을 연상시키는게 좋을까 고민을 했으며 “하늘을 나는 배“ 라는 이미지가 떠올라서 그런 느낌으로 스토리를 풀어 나갔습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 62.14,
+    "student_strength": "열심히도 했지만, 운도 정말 잘 따랐던 것 같습니다. 실력으로 봤을 때는 시험장에서 다들 잘 하는 분들이 많았던 것 같았기에 운도 따른 것 같았으며 컨셉이 잘 통했다는 생각이 듭니다.",
+    "teacher_feedback": null,
+    "ideation_process": "보니 무엇을 연상시키는게 좋을까 고민을 했으며 “하늘을 나는 배“ 라는 이미지가 떠올라서 그런 느낌으로 스토리를 풀어 나갔습니다."
+  }
 }

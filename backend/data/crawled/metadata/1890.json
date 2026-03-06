@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1890_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:22:50.641072+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1890"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1890",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 3.0,
+    "competition_ratio": 27.5,
+    "student_strength": "어떤 문제가 나오거나 상황이 생겨도 절대 당황하지 않는 것입니다. 긴장하지 않고 차분히 문제 의도를 파악하는 것이 중요하다고 생각합니다. 산디과에 중요한 렌더링 하는 과정을 넣으면 좋게 보시지 않을까 하고 글씨체를 디자인해 더 섬세하고 꼼꼼해 보이도록 완성도를 높여 내가 산디과에 걸맞는 학생이라는 것을 보여줬습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

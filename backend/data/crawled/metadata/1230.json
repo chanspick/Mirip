@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1230_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:52:42.852189+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1230"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1230",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "줄자와 완충기로 긴장감을 표현하시오.였다. 이번에 건국대글로컬의 실기시간이 3절 5시간에서 4시간으로 줄었다는것에 집중했다.",
+    "practice_years": 2.5,
+    "competition_ratio": 16.83,
+    "student_strength": "선생님의 훌륭한 가르침으로 인해 합격할 수 있었다고 생각한다.",
+    "teacher_feedback": "선생님이 주신 참고자료와 구도를 계속 보고 완벽히 숙지하려 노력했다..",
+    "ideation_process": "표현하시오.였다. 이번에 건국대글로컬의 실기시간이 3절 5시간에서 4시간으로 줄었다는것에 집중했다."
+  }
 }

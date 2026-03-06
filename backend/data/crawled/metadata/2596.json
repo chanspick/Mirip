@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2596_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:53:41.894384+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2596"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2596",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "일회용 플라스틱 컵과 키링이 나왔는데 여기서 연결이라는 제시어가 잘 느껴지도록 구도를 짜려고 노력했습니다. 주제부에서 ‘연결’이라는 제시어가 잘 느껴졌으면 좋겠어서 크기 대비를 주면서 주제부 부분에 배치를 하였고, 플라스틱 재질의 잘 구겨지고 찌그러진다는 특성을 보여주기 위해 구겨서 배치했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 43.42,
+    "student_strength": "합격을 할 수 있었던 이유는 최대한 단점을 보완하고 지적받는 것이 있다면 그것을 분석해서 고쳐 나아가려고 노력한 점입니다. 그리고 잘 되지 않아도 포기하지 않는 끈기와 끝까지 해보려고 한 노력이 제가 합격을 할 수 있었던 가장 큰 이유 중 하나라고 생각합니다!",
+    "teacher_feedback": "선생님께 조언을 받아 고쳐 보려고 노력했습니다.",
+    "ideation_process": "주제부에서 ‘연결’이라는 제시어가 잘 느껴졌으면 좋겠어서 크기 대비를 주면서 주제부 부분에 배치를 하였고, 플라스틱 재질의 잘 구겨지고 찌그러진다는 특성을 보여주기 위해 구겨서 배치했습니다."
+  }
 }

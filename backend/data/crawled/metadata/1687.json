@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1687_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:13:48.759820+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1687"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1687",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "당일 문제는 커피포트가 출제되었고, 물체와 관련된 것들과 연관 지어 다양한 연출을 할 수 있게끔 문제를 풀어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 20.32,
+    "student_strength": "마지막 실기 시험인 만큼 후회 없이 하고 싶은 거 다 하자라고 마음먹은 것이 주요인이 아니였을까 생각이 듭니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

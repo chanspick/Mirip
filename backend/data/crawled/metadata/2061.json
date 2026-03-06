@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2061_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:30:19.719304+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2061"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2061",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "병따개 구강스프레이와 헤어 머리핀이 나왔습니다. 문제지를 받자마자 조건들을 확인했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": null,
+    "student_strength": "제 생각에는 구도가 합격한 요인중 80퍼센트 이상을 차지한다고 생각합니다. 또 하나의 요인은 제시된 조건문을 정확히 파악하는 것입니다. 조건에서 제시된 것과 아닌 것을 파악하고 그대로 표현하는 것이 중요하다고 생각합니다. 마지막으로는 묘사보다 물체간의 앞뒤 관계가 잘 파악되도록 노력한것이 그림이 눈에 띄게 도움을 주지 않았나 생각합니다",
+    "teacher_feedback": "선생님들께 지적받은 내용을 고치려고 노력하였습니다.",
+    "ideation_process": "문제지를 받자마자 조건들을 확인했습니다. 제시문을 보고 꼭 들어가야할 것들과 들어가면 안되는 부분들을 확인하고 조건들을 충족하는 데에 포인트를 두었습니다."
+  }
 }

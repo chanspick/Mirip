@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1958_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:25:49.258586+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1958"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1958",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "출제주제는 ‘주인공이 괴물(좀비)에게 도망치다 막다른 길을 마주한 상황’이었는데 후반에 반전을 넣어 위기를 모면하지 못하는 내용으로 만화를 완성했습니다",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "그동안 잘 준비한 것도 있었고, 컨디션과 주제 등 그날의 운이 잘 따라줬다고 생각해요",
+    "teacher_feedback": null,
+    "ideation_process": "막다른 길을 마주한 상황’이었는데 후반에 반전을 넣어 위기를 모면하지 못하는 내용으로 만화를 완성했습니다"
+  }
 }

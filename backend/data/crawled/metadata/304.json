@@ -13,5 +13,14 @@
     "data/crawled/raw_images/304_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:42.523801+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=304"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=304",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "�N이 씌어진 발 이미지가 나왔다. 한번에 형태를 잡았고, 전체적인 느낌을 빨리 표현하고, 묘사할 시간을 확보했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 5.12,
+    "student_strength": "다른 입시생들 그림과 비교하며 배울점을 얻곤 했지만 경쟁 상대를 자신으로 포커스를 맞추는게 가장 도움이 많이 됐던 것 같다. 과거의 나보다 더 잘그려야 정말 느는게 느껴져서인 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하고, 묘사할 시간을 확보했다."
+  }
 }

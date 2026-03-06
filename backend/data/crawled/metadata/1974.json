@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1974_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:26:30.522105+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1974"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1974",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "병과 크레욜라, 비닐 랩, 사무용 집게, 연필깎이를 주고 물병은 무조건 비닐 랩 속에 넣고 그 이외 재료 택 2는 비닐 랩 안에, 다른 하나는 비닐 랩 밖에 넣어 표현하시오./ 워낙 조건이 많은 학교다 보니 먼저 조건을 쫙 정리하고 거기에서 출제자가 보고 싶어 했던 건 무엇이었을까를 생각해 보니 캐릭터 디자인과 유사한 유형의 시험이라고 생각을 하게 되었고 배치가 정말 중요하겠다.라는 생각을 하며 풀었던 것 같습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 3.25,
+    "student_strength": "원장 선생님께서 시키신 대로 하려고 평소에도, 시험장에서도 정말 많이 노력했던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오./ 워낙 조건이 많은 학교다 보니 먼저 조건을 쫙 정리하고 거기에서 출제자가 보고 싶어 했던 건 무엇이었을까를 생각해 보니 캐릭터 디자인과 유사한 유형의 시험이라고 생각을 하게 되었고 배치가 정말 중요하겠다.라는 생각을 하며 풀었던 것 같습니다."
+  }
 }

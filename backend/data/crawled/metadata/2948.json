@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2948_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:09:36.442599+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2948"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2948",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "책, 스케이플러, 커피캡슐이 나왔습니다. 물체의 특성을 드러내는 것이 중요하다고 생각해서 각자 물체가 가진 특성을 적극적으로 활용했습니다.",
+    "practice_years": null,
+    "competition_ratio": 24.62,
+    "student_strength": "금속에 캡슐이 비치는 묘사나 찢기는 묘사를 디테일하게 하려고 노력했고 그 점을 좋게보신 것 같습니다.",
+    "teacher_feedback": "피드백을 받는 형식으로 준비했습니다.",
+    "ideation_process": "생각해서 각자 물체가 가진 특성을 적극적으로 활용했습니다. 책은 펼치고 찢고 캡슐은 뜯어서 커피가루가 나오게 구성해주었습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2826_0.png"
   ],
   "crawled_at": "2026-01-27T15:04:06.597496+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2826"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2826",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "도토리, 가리비, 못이 나왔고, 정말 운이 좋게도 이 문제는 시험보기 전날에 딱 그려봤던 문제라라서 피드백 받은 대로 고쳐그렸어요. 열린 가리비에 도토리를 넣어 조개 속 진주를 연상케 했고, 못에 도토리 껍질을 휘감아 회전하듯 주제부 도토리를 부시게 연출 했어요.",
+    "practice_years": 3.0,
+    "competition_ratio": 13.0,
+    "student_strength": "아이디어와 완성도, 그리고 색감이라고 생각해요.",
+    "teacher_feedback": null,
+    "ideation_process": "열린 가리비에 도토리를 넣어 조개 속 진주를 연상케 했고, 못에 도토리 껍질을 휘감아 회전하듯 주제부 도토리를 부시게 연출 했어요. 이외에는 최대한 묘사에 집중을 했어요."
+  }
 }

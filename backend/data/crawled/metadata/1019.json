@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1019_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:43:18.704465+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1019"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1019",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "실기 고사 당일 문제는 나비와 물의 이미지가 작게 나오고 <바람> 이라는 제시어가 나왔습니다. 차분하게 앉아서 5분정도 구상하고 바로 스케치에 들어갔습니니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 13.33,
+    "student_strength": "합격의 주요인은 시험장에서 평소와 다른 분위기지만 많이 긴장하지않았고, 우리집 안방이다 생각하고 편하게 평소처럼 그림을 그렸기 때문에 저의 최대치를 끌어낸거 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "구상하고 바로 스케치에 들어갔습니니다. 수업할때 나비를 그린적이 있었고, 또 물은 시간날때마다"
+  }
 }

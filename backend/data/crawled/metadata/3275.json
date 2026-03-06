@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3275_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:24:20.812661+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3275"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3275",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "헤드셋, 투명주사위, 보드마카를 가지고 ‘역동성’을 표현하는 것이 출제문제였습니다. 이 학교는 타학교에 비해 제시물이 4~5개로많은 것이 특징이었는데 당해에는 3개가 출제되고 주제어가 등장했던 것이 가장 큰 변화였습니다.",
+    "practice_years": 1.58,
+    "competition_ratio": 12.3,
+    "student_strength": "전 그림을 많이 늦게 시작한 케이스였습니다. 미술을 좋아했지만 입시 자체를 늦게 시작했을 뿐만 아니라 그림을 늘상 끄적여왔던 학생도 아녔기에 다른 학생들에 비해 기본기가 부족해 그림의 기복이 큰 편이었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 것이 출제문제였습니다. 이 학교는 타학교에 비해 제시물이 4~5개로많은 것이 특징이었는데 당해에는 3개가 출제되고 주제어가 등장했던 것이 가장 큰 변화였습니다."
+  }
 }

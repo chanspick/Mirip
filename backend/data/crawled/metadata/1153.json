@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1153_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:49:19.078107+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1153"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1153",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "제시어 긴장감, 전 날 제시어 긴장감으로 연습했어서 잘 그린 애들 그림을 기억해서 그렸습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 21.36,
+    "student_strength": "학원에서 배우는것을 복습하고 빈둥거리지않으며 노력했다는점 입니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

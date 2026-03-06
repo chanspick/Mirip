@@ -13,5 +13,14 @@
     "data/crawled/raw_images/800_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:33:52.992338+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=800"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=800",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "구슬핀과 메모장을보고 메모장의 종이 특성을 최대한 살려 펼쳐진모습을 그려 그림의 양이 풍부해보이게 그렸다.",
+    "practice_years": 1.5,
+    "competition_ratio": 37.4,
+    "student_strength": "양조절이 나쁘지않았다고생각한다. 너무 비지도 않고 너무 부담스럽게 공간을 차지한 부분은 줄였다.",
+    "teacher_feedback": "선생님께서 준비하신 자료를 토대로 기초적인 구도에서 점점 늘려가는 연습을 했다..",
+    "ideation_process": null
+  }
 }

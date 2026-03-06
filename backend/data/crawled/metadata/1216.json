@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1216_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:52:04.255765+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1216"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1216",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "갑자기 부조가 나와서 당황했지만 멘붕은 시험이 끝난 뒤에 하기로하고 차분히 문제를 읽었습니다. 시간이 지나도 진전이 없어서 일단 시작하고 봐야겠다는 생각으로 드로잉을 하며 만들 요소를 추가적으로 생각했고 부조라는 틀에서 벗어나지 않도록 주의했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 20.0,
+    "student_strength": "내 상황을 잘 파악하여 부족한 점을 채워넣은 것이라고 생각합니다. 모두가 한다고 그걸 따르기보다 자신에게 뭐가 필요한지 알고 그걸 보완하려했던 것이 주요인이 아닐까 싶습니다.",
+    "teacher_feedback": "선생님과 상담하여 보충하는 식으로 했습니다.",
+    "ideation_process": "시간이 지나도 진전이 없어서 일단 시작하고 봐야겠다는 생각으로 드로잉을 하며 만들 요소를 추가적으로 생각했고 부조라는 틀에서 벗어나지 않도록 주의했습니다."
+  }
 }

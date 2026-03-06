@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3624_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:41:26.431474+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3624"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3624",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "실뭉치와 고무줄, 신용카드가 나왔습니다. 기본적인 소재들이라 별다른 어려움은 없어서 기본기에 충실하게 그렸습니다.",
+    "practice_years": 2.42,
+    "competition_ratio": 38.39,
+    "student_strength": "대비라고 생각합니다. 실뭉치의 크기대비,컬러의 보색대비. 시선을 끄는데 대비가 큰 역활을 했다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "기본적인 소재들이라 별다른 어려움은 없어서 기본기에 충실하게 그렸습니다. 특히 주제부를 강조하기위해 보색칼러를 이용해 시선을 유도 했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/801_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:33:55.500681+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=801"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=801",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "한글자음으로 내부가 보이는 입체 3개를 그리시오. 내부에서 외부를, 왜 굳이 입체라는 단어를 썼을까라는 생각에서 단순한 조형물을 그릴 생각을 했다",
+    "practice_years": 3.0,
+    "competition_ratio": 72.36,
+    "student_strength": "문제해석이 잘 됐고, 면접을 잘 배웠다",
+    "teacher_feedback": null,
+    "ideation_process": "내부에서 외부를, 왜 굳이 입체라는 단어를 썼을까라는 생각에서 단순한 조형물을 그릴 생각을 했다"
+  }
 }

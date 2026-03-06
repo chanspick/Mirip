@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1247_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:53:26.597644+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1247"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1247",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "트위스트 전구, 애플워치, 깃털이 나왔고 전구를 메인으로 하고 애플워치를 포인트로 쓰고 깃털로 꾸며주었습니다.",
+    "practice_years": 1.42,
+    "competition_ratio": 44.0,
+    "student_strength": "내가 열심히 한것도 있지만 날 위해 노력해주시고 잘 이끌어주신 선생님들 덕분에 합격할 수 있었다고 생각합니다.",
+    "teacher_feedback": "선생님들의 도움으로 금방 따라간것 같습니다..",
+    "ideation_process": null
+  }
 }

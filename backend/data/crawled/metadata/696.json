@@ -13,5 +13,14 @@
     "data/crawled/raw_images/696_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:29:15.979294+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=696"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=696",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "럭비공,단풍잎,주사위가 나와서 평소에 연습하던 대로 시험장에서도 풀고 나왔습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 14.55,
+    "student_strength": "약점노트라는 것을 만들어서 선생님께서 저의 부족한 부분을 말씀해주시면 늘 거기에 적어서 다음에는 실수하지 않게 하려는 노력을 하였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1943_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:25:10.085986+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1943"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1943",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "돼지 저금통, 현미경이 나왔으며, 다소 까다로운 물체들이었기 때문에 욕심내지 말아야겠다는 생각이 가장 먼저 들었습니다. 현미경의 집중적인 이미지를 활용하여 주제부의 돼지 저금통을 강조하는 연출로 구성하여 풀어나갔습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": null,
+    "student_strength": "조형적 원리에 맞춰 하도를 구성하는 연습을 꾸준히 해왔기 때문에, 어떤 소재가 나오더라도 무난하게 스케치를 진행할 수 있었습니다. 또 학원에서 각 학교에 맞는 유형에 대비해 준비시켜 주어 실전에서 당황하지 않고 문제를 풀어나간 것이 가장 큰 요인이었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "현미경의 집중적인 이미지를 활용하여 주제부의 돼지 저금통을 강조하는 연출로 구성하여 풀어나갔습니다."
+  }
 }

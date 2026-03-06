@@ -13,5 +13,14 @@
     "data/crawled/raw_images/525_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:22:00.339161+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=525"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=525",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "가장 특성이 강한 수정테이프의 동사형을 가장 잘 보여주어야겠다고 생각했습니다. 또 종이의 특성을 생각해서 종이에 대한 재미를 주려고 접혀지는 다양한 모습을 보여주려고 했습니다.",
+    "practice_years": 2.42,
+    "competition_ratio": 8.35,
+    "student_strength": "포기하지 않고 끝까지 그리는 것이라고 생각합니다. 그림을 그리면서 한 장에도 아,, 이그림 좀 아닌가 생각하며 완성에 가기도 전에 포기하게 된다면 절대 합격 근처에도 갈 수 없었을 것입니다. 사실 시험장에서도 하는도중 이게 아닌가? 란 생각이 들었지만 무조건 최대한 잘 완성시키겠다고 생각하며 포기하지 않고 그려서 합격 할 수 있었던것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 종이에 대한 재미를 주려고 접혀지는 다양한 모습을 보여주려고 했습니다. 패턴지와 수정테이프로 깊은 연관성있는 사물이 나와서 더 쉽게 기능을 보여줄 수 있었습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3580_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:39:01.603621+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3580"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3580",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "종이컵으로 속도감을 표현하는 것이었는데, 우선 속도감이라고 생각했을 때 자동차가 생각이 나서 타이어가 종이컵에 충돌하는 연출을 생각했습니다. 또한 종이컵의 용도를 살리고, 그림의 밀도를 높이기 위해 물을 활용했습니다.",
+    "practice_years": null,
+    "competition_ratio": 5.09,
+    "student_strength": "생각한 연출을 잘 표현했고, 구도보다도 완성도가 높은 그림을 그리고 왔기 때문이라고 생각합니다.",
+    "teacher_feedback": "선생님이 알려주신 주요 제시어들이 나왔을때 어떻게 그리면 좋을지 연상을 많이 했습니다.",
+    "ideation_process": "생각했습니다. 또한 종이컵의 용도를 살리고, 그림의 밀도를 높이기 위해 물을 활용했습니다."
+  }
 }

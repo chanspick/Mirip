@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2878_0.png"
   ],
   "crawled_at": "2026-01-27T15:06:25.607320+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2878"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2878",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "‘확대’를 주제로 회로기판, 돋보기, 꼬마전구, 줄자를 이용해 화면을 구성하는 문제였습니다. 주제어를 강조하기 위해 회로기판에 돋보기를 겹쳐서 단계적으로 확대되는 모습을 표현하려고 했습니다.",
+    "practice_years": 1.17,
+    "competition_ratio": 31.8,
+    "student_strength": "돋보기를 이용한 확대를 배경으로 보여준 점이 남들과 달랐던 것 같습니다. 그리고, 한가지 소재로 다양한 연출을 할 수 있는 방법을 배우고 다른 소재가 나왔을 때 그 소재로 매력적인 그림을 그릴 수 있도록 적용하는 연습을 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 반대로 주제부 뒤를 돋보기로 확대해 주제부를 강조시켰습니다."
+  }
 }

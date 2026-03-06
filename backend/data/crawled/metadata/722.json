@@ -13,5 +13,14 @@
     "data/crawled/raw_images/722_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:30:22.685310+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=722"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=722",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "민들레 홀씨, 회중시계, 시계끈, 코카콜라 제로캔이 나왔습니다. 제시어가 디자인의 원리가 나왔기 때문에 통일 속 변화 규칙을 선정하여 나열식 구도로 배치하였고 선재로서 약간의 율동감을 주었습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 4.89,
+    "student_strength": "제시어에 대한 해석과 깔끔한 완성도라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "제시어가 디자인의 원리가 나왔기 때문에 통일 속 변화 규칙을 선정하여 나열식 구도로 배치하였고 선재로서 약간의 율동감을 주었습니다."
+  }
 }

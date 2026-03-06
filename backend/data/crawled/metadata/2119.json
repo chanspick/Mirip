@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2119_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:32:49.660648+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2119"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2119",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "빗,생수, 무당벌레 중 택2 3개의 소재중에서 잘 활용 할 수 있는 무당벌레, 생수를 선택해 실기고사를 치렀습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 13.09,
+    "student_strength": "꾸준함이 중요하다 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2814_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:03:33.816441+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2814"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2814",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "1.채움과 비움을 자유롭게 표현하시오(목탄) -어떤 그림이건 채움과 비움은 존재할 수 밖에 없다고 생각했고 복잡하게 생각하지 않고 가장 자신있는 형태로 드로잉을 했습니다. 2.",
+    "practice_years": 5.0,
+    "competition_ratio": 2.86,
+    "student_strength": "다른 학생들과 비슷한 그림이 아닌 자신의 느낌이 있는 것처럼 보이는 그림이라 차이점이 생겨 합격 할 수 있었던 거 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오(목탄) -어떤 그림이건 채움과 비움은 존재할 수 밖에 없다고 생각했고 복잡하게 생각하지 않고 가장 자신있는 형태로 드로잉을 했습니다. 2."
+  }
 }

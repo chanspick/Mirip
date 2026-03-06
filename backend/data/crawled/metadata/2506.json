@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2506_0.png"
   ],
   "crawled_at": "2026-01-27T14:49:41.927652+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2506"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2506",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "가구가 없고 노숙자의 흔적이 남았는 집을 그리는 것이었고 자연스러운 흔적을 표현하려고 노력했다.",
+    "practice_years": null,
+    "competition_ratio": 6.3,
+    "student_strength": "실기고사의 디테일한 묘사와 면접때 나의 관심사에 대해 막힘없이 얘기한점이라 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

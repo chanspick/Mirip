@@ -13,5 +13,14 @@
     "data/crawled/raw_images/470_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:19:41.130751+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=470"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=470",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 1.5,
+    "competition_ratio": 13.4,
+    "student_strength": null,
+    "teacher_feedback": "선생님의 조언을 잘 듣고 다음 그림에서는 보완하기 위해 생각하고 그렸습니다.",
+    "ideation_process": null
+  }
 }

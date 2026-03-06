@@ -13,5 +13,14 @@
     "data/crawled/raw_images/963_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:40:52.369668+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=963"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=963",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "표고버섯과 복잡한 황금색 시계가 나왔는데 다행히 표고버섯이 소묘제시물이었다. 채도가 높은 시계본체를 주제부에 두고 표고버섯을 포인트로 넣었다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.56,
+    "student_strength": "미술학원에 학생이 많았다. 하지만 선생님이 학생들 하나하나 꼼꼼하게 강평해주셨기 때문에 나 자신의 부족한점 뿐만아니라 다른 학생들의 그림에서도 장단점들을 많이 참고 할 수 있었다. 강평노트를 활용해서 부족한 부분을 항상 상기해서 한장 한장 그림을 그렸다. 그런 연습을 통해 시험장에서도 나의 단점을 커버하려 노력했던것이 합격의 주요인이 아닐까 싶다.",
+    "teacher_feedback": null,
+    "ideation_process": "채도가 높은 시계본체를 주제부에 두고 표고버섯을 포인트로 넣었다. 시계가 복잡하다"
+  }
 }

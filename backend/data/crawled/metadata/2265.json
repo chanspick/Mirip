@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2265_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:39:09.691653+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2265"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2265",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "한양대는 구강스프레이 집게 병따게가 출제 되었는데 전부 인공물이다보니 색상 변경과 고유색유지에 신경을 많이 썼습니다. 한번은 다",
+    "practice_years": null,
+    "competition_ratio": 7.29,
+    "student_strength": "학원에서 매일 채점을 하였는데 점수에 의식하지 않고, 내가 제일 취약한 부분을 선생님께서 하루에 1개씩만 체크해주셔서 실수 하지않게 신경을 많이 썼습니다. 매일 새로운 구도 보단, 나에게 가장 쉽고, 표현력을 끌어 올릴수 있는 구도로 무난하게 실수하지 않은게 관건이라 생각됩니다. 그리고 컨디션 관리와 체력관리가 집중력에 큰 도움이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "한번은 다 해본 소재여서 큰어려움은 없었으며, 긴장이 되다보니 주제부 크기에서 작아지지 않게 주의 했고 생각보다"
+  }
 }

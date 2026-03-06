@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1360_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:58:36.138456+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1360"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1360",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "소묘: 흑과 백의 의미를 자유롭게 표현하시오. 수채화: 인간과 사물의 표현을 통해 소리를 시각화하시오.",
+    "practice_years": 4.0,
+    "competition_ratio": 2.0,
+    "student_strength": "무엇이 나오든 당황하지 않도록 철저히 준비하고 저의 단점을 고쳐나가는 것이 중요하다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "발상을 하려하기보다 제가 그릴 수 있는 구도와 아이디어를 그리려고 하였습니다."
+  }
 }

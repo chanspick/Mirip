@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1246_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:53:24.069561+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1246"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1246",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "시험장 들어가기 전에 창조의아침 선생님이 평소에 말씀해 주셨던 \"이런 것을 하면 좋다.\" \"이 소재는 이렇게 사용하면 좋을 것이다.\" 말씀해 주셨던 것들을 다시 한 번 되새기고 들어간 것과, 그 전날에 영화 포스터 하나 봤는데 거기 나온 소재가 시험에 나온 소재랑 비슷하게 잘 나와서 재미있는 요소를 사용할 수 있었던 것 같아요.",
+    "practice_years": 1.42,
+    "competition_ratio": 18.33,
+    "student_strength": "애니메이션과 디자인 사이에서 제가 고민을 오래 했었습니다. 갈피를 못 잡고 있었던 그때 선생님이 방향을 정할 수 있도록 도와주셨던 것이 기억에 많이 남습니다. 그래서 진로를 디자인을 정하고, 입시반으로 올라와서 제가 원래 애니메이션 전공을 해서 디자인을 잘 할 수 있을지 걱정이 많았습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

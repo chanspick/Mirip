@@ -13,5 +13,14 @@
     "data/crawled/raw_images/757_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:31:53.999195+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=757"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=757",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "환경문제, 가치관, 역량에 대한 면접 질문을 하였고, 학원에서 평소에 준비를 하여 저의 생각을 풀어 답하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.67,
+    "student_strength": "많은 학생들이 다소 긴장하였고 체계적인 분위기로 고사가 진행되었습니다.",
+    "teacher_feedback": "선생님의 평가를 통해 부족한 점을 알고 원리를 배워 그림을 고쳐 나갔습니다..",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1812_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:19:28.944803+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1812"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1812",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "백석대는 문제은행으로 와인잔과 줄자가 나와서 지적받았던 부분을 신경쓰며 그려나갔습니다.",
+    "practice_years": 2.17,
+    "competition_ratio": 13.49,
+    "student_strength": "여러번 그려봤기때문에 가능했다고 생각합니다.",
+    "teacher_feedback": "선생님의 피드백을 새겨들었습니다.",
+    "ideation_process": null
+  }
 }

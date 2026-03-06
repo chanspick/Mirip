@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2365_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:43:30.941288+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2365"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2365",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "개체의 특징이 잘드러나는 부분으로 두 축을 세우고 주제부에 볼링핀을 중점으로 기타줄을 선제로써 감아 앞으로 진출해가는 모습으로 해야겠다고 생각했습니다.",
+    "practice_years": 1.58,
+    "competition_ratio": 7.28,
+    "student_strength": "여유있는 완성 시간 관리를 위해 평소보다 어두운톤을 일찍 들어가 덩어리감을 준 후에 중간톤으로 풀어주면서 시간을 단축시켰습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1912_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:23:48.165271+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1912"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1912",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "이대는 문제1은 알레시 주전자를 제시하고 홍보포스터를 제작하라고 하였고, 문제2는 개인 프라이버시를 지킬 수 있는 1인용 가구를 디자인하라고 하였습니다. 문제1은 평면조형 틀에 맞춘 것 같은 느낌이 들지 않게 최대한 홍보포스터 느낌이 나게 그리려고 하였고, 문제2는 다들 의자를 디자인 할 것 같아서 다른 접근방식을 고민하다가 침대를 디자인하였습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 5.13,
+    "student_strength": "학원에서 이런저런 경우의 수를 제시하며 다양하게 준비했던게 큰 것 같고, 결국 실기장에서 깔끔하게 잘 완성했기 때문에 좋은 점수를 받지 않았나 싶습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "접근방식을 고민하다가 침대를 디자인하였습니다. 성신여대는 콘센트와 고무밴드를 제시하고 소묘하라고 하였습니다."
+  }
 }

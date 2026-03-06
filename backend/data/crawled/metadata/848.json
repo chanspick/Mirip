@@ -13,5 +13,14 @@
     "data/crawled/raw_images/848_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:35:55.531348+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=848"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=848",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "줄자, 콘센트, 선글라스 선생님께서 알려주셨던 구도에 맞추어 응용했다. 위에서 말했듯 기본기에 충실하는것도 잊지 않았다.",
+    "practice_years": 1.25,
+    "competition_ratio": 4.5,
+    "student_strength": "선생님께서 가르쳐 주신대로 기본기에 충실했다. 또한 시험을 볼때 긴장하지 않았다는것 정도인것 같다.",
+    "teacher_feedback": "선생님의 수업을 듣고 그 내용에 따라 응용하고 생각해서 준비했다..",
+    "ideation_process": "위에서 말했듯 기본기에 충실하는것도 잊지 않았다."
+  }
 }

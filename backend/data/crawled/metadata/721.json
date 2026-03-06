@@ -13,5 +13,14 @@
     "data/crawled/raw_images/721_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:30:20.121767+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=721"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=721",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "주제는 낚시릴과 줄넘기로 화면을 구성하여 표현하되, 색상 선정은 자유였습니다. 형태가 복잡하고 표현할 것이 많은 낚시릴을 주제부에 배치한뒤, 줄넘기를 이용해 낚시줄처럼 감는 연출을 하고 공간감이 느껴지도록 그렸습니다",
+    "practice_years": 1.58,
+    "competition_ratio": 10.7,
+    "student_strength": "색상 자유라는 조건에서 저의 색상 선정이 주변과는 달랐던 것과 기본기에 충실하여 끝까지 밀도를 올려나갔던 것이 주요 원인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하되, 색상 선정은 자유였습니다. 형태가 복잡하고 표현할 것이 많은 낚시릴을 주제부에 배치한뒤, 줄넘기를 이용해 낚시줄처럼 감는 연출을 하고 공간감이 느껴지도록 그렸습니다"
+  }
 }

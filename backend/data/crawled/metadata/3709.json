@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3709_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:46:38.725920+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3709"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3709",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "야구공과 페인트붓의 조형적 특성을 살려 자유롭게 구성하고 표현하라는 것이 문제였습니다. 페인트붓을 A로 하고 야구공을 B로 하여 페인트붓이 야구공을 쓸어내리는 듯한 모습을 생각하며 구성을 했습니다.",
+    "practice_years": 2.25,
+    "competition_ratio": 5.86,
+    "student_strength": "시험 소재인 야구공과 페인트붓을 학원에서 충분히 연습할 수 있었던 것과 평소에 주제를 작 게 그리던 습관이 있었는데 선생님께서 시험장에 가면 최대한 크게 그리라고 했던 말이 기억 이나 그부분을 주의하여 그려낸 것, 색을 최대한 맑고 쨍하게 쓰려고 했던 것이 합격의 주요 인이 아니었나 생각합니다.",
+    "teacher_feedback": "선생님께 검사를 받았으며 실기준비를 했습니다.",
+    "ideation_process": "표현하라는 것이 문제였습니다. 페인트붓을 A로 하고 야구공을 B로 하여 페인트붓이 야구공을 쓸어내리는 듯한 모습을 생각하며 구성을 했습니다."
+  }
 }

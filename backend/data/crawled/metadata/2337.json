@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2337_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:42:18.649268+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2337"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2337",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "드라이기, 가위 여러 소재로 연습을 했었기 때문에 처음 문제를 받았을 때 크게 긴장이 되지 않았고 가위는 특히 자주 나온다는 선생님들의 조언으로 늘 연습을 했습니다. 덕분에 원하는 뷰로 그릴 수 있었던 것 같습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 3.69,
+    "student_strength": "학원에서 많은 스케치 트레이닝과 아이디어스케치를 통해서 조형의 원리를 확실하게 배운 것이 좋은 영향을 준 것 같았고, 색을 다르게 써보라는 학원 선생님의 조언으로 다양하게 색을 사용할 수 있었던 점이 합격 노하우인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "덕분에 원하는 뷰로 그릴 수 있었던 것 같습니다."
+  }
 }

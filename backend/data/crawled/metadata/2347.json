@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2347_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:42:44.384434+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2347"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2347",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "소재가 나와있는 학교기 때문에 학원에서 연습한 만큼 그리자라는 마음으로 그렸다. 탱탱볼과 청경채가 갖고있는 점을 모두 활용하려고 노력했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 14.11,
+    "student_strength": "학원에서 백석대 주제로 여러번 연습한 것이 제일 큰 합격 요인이 된 것 같다. 선생님들과 피드백을 통해서 더 나은 방향으로 쉽고 빠르지만 예쁘게 그릴 수 있는 방향을 찾아갔다.",
+    "teacher_feedback": "선생님들과 찾아서 연습했습니다..",
+    "ideation_process": "탱탱볼과 청경채가 갖고있는 점을 모두 활용하려고 노력했다."
+  }
 }

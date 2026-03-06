@@ -13,5 +13,14 @@
     "data/crawled/raw_images/484_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:20:16.564317+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=484"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=484",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "공사장에서 신는 워커와 체리, 무채색의 삽이 나왔습니다. 주제가 공개되어 있는 학교이기 때문에 준비한 그대로 그려나갔습니다.",
+    "practice_years": null,
+    "competition_ratio": 13.65,
+    "student_strength": "고사장에 있던 다른 분들의 그림과 달리 워커의 색상을 조금 달리하고 최대한 깔끔하게 그렸던 것이 주제부의 집중도를 높일 수 있었던 요인이라고 생각합니다.",
+    "teacher_feedback": "선생님께서 실력에 맞는 커리큘럼을 제공해 주시고 저 또한 시간이 날 때마다 앱이나 사진을 통해 그림을 눈에 익히려고 노력했습니다..",
+    "ideation_process": "주제가 공개되어 있는 학교이기 때문에 준비한 그대로 그려나갔습니다."
+  }
 }

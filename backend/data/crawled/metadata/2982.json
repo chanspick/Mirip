@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2982_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:11:07.608517+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2982"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2982",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "모레시계와 탁구채 탁구공이 나왔습니다. 모래를 이용해 최대한 화면을 풍부하게 만들었고 탁구채의 크기를 조절해 과감하게 모래시계를 부숴 연출했습니다.",
+    "practice_years": null,
+    "competition_ratio": 32.17,
+    "student_strength": "동덕여대와 서울여대를 같이 준비하며 같은 유형의 여러 주제로 시험을 자주 봤기에 어떤 물체가 나오던 평소처럼 그릴 수 있었던 점이 합격할 수 있�B던 주요인 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "모래를 이용해 최대한 화면을 풍부하게 만들었고 탁구채의 크기를 조절해 과감하게 모래시계를 부숴 연출했습니다."
+  }
 }

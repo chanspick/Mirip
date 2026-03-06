@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2748_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:00:34.794265+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2748"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2748",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제1)오스카 슐레머의 발레의상 3부작을 이용하여 기쁨을 평면적으로 표현하시오. 문제2)바실리 체어와 1~9까지의 숫자 4개를 활용하여 입체적으로 디자인하시오.",
+    "practice_years": 2.42,
+    "competition_ratio": 6.98,
+    "student_strength": "실기와 성적을 균형감있게 열심히 노력하였기 때문에 합격할 수 있었던 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 문제2)바실리 체어와 1~9까지의 숫자 4개를 활용하여 입체적으로 디자인하시오."
+  }
 }

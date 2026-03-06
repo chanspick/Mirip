@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2254_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:38:39.724691+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2254"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2254",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "표정이 있는 여자였는데 전날 준비한 입모양과 비슷해서 침착하게 실기를 풀어갈수 있었습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 7.6,
+    "student_strength": "평소 학원에서 선생님이 말씀해주신것을 잘 기억했습니다. 한번 틀린 것은 다시 틀리지 않도록 신경썼던것들이 시험장에서 도움이 되었습니다",
+    "teacher_feedback": "선생님들의 시범과 수업을 최선을 다해 따라 갔습니다 오답 노트를 만들어 틈틈히 확인했습니다 37.",
+    "ideation_process": null
+  }
 }

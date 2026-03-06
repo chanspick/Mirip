@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3290_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:25:01.512495+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3290"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3290",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "휴지, 거품이 묻은 비누를 활용하여 주전자를 만드는것이 주제였고 비누의 거품이나 느슨하게 풀린 휴지의 형태 등 제시물이 갖고있는 고유형태를 더 살리기 위해 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 7.22,
+    "student_strength": "학과 성향에 맞게 입체감과 질감표현에 신경 쓴 것이 합격의 요인이라 생각됩니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

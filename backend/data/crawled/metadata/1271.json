@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1271_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:54:28.579298+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1271"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1271",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 문제는 새우와 양은 주전자였습니다. 일단 주전자와 생명체가 나왔기 때문에 물과 동새를 넣어 생동감있는 그림을 그리고자 하였습니다.",
+    "practice_years": 1.42,
+    "competition_ratio": 32.95,
+    "student_strength": "평소에 쓰던 구도를 응용할 수 있는 제시물이 나왔다는 점에서 운이 좋았다고 생각합니다. 그리고 그 구도를 만들어 내기까지 선생님의 피드백이 큰 도움이 됐습니다.",
+    "teacher_feedback": "선생님과 희망 학교와 학과를 상의하고 그에 맞는 전략으로 준비했습니다..",
+    "ideation_process": "일단 주전자와 생명체가 나왔기 때문에 물과 동새를 넣어 생동감있는 그림을 그리고자 하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2890_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:06:58.956049+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2890"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2890",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "주제는 밧줄과 희망이었습니다. 평소에 연습하던 구도를 잘 이용할 수 있는 주제가 나와서 폭우로 인해 잠기고 있는 땅굴에서 밧줄로 동물을 구해주는 스토리를 짜고 최대한 시간안에 밀도를 올리려고 노력했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 24.75,
+    "student_strength": "시험이 끝나고 주변 친구들의 그림을 보니 전체적으로 스토리가 비슷하거나 밧줄이 잘 보이지 않는 그림이 많았습니다. 그렇기에 비교적 제시물과 제시어를 잘 드러나게 그린 그림이 뽑혔던 것 같습니다.",
+    "teacher_feedback": "선생님이 알려주신 스킬이나 팁을 최대한 비슷하게 하려고 연습했고, 선생님이 내주시는 과제를 성실히 하고 자신이 부족하다고 느끼는 부분을 더 연습했습니다.",
+    "ideation_process": "평소에 연습하던 구도를 잘 이용할 수 있는 주제가 나와서 폭우로 인해 잠기고 있는 땅굴에서 밧줄로 동물을 구해주는 스토리를 짜고 최대한 시간안에 밀도를 올리려고 노력했습니다."
+  }
 }

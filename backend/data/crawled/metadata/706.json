@@ -13,5 +13,14 @@
     "data/crawled/raw_images/706_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:29:41.624544+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=706"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=706",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "키보드, 이어폰, 악보, 두루마리휴지 키보드, 이어폰, 악보 이 3가지가 음악에 관련된 소재인 것 같아서 주제부에 넣었습니다. 키보드는 악보가 있어서 이어폰에서 소리가 나오는 것처럼 휴지로 연출하였고, 배경에 있는 키보드는 악보가 없어서 이어폰과 휴지는 바닥에 배치하였고 소리가 없는 것을 표현하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 27.63,
+    "student_strength": "내 그림안에서 득점요인에 대해서 파악하고 자기 그림에 그 득점요인이 보일수 있도록 흔들림없이 꾸준히 연습하는 것이라고 생각합니다.",
+    "teacher_feedback": "선생님께서 평가도 해주시고 평가를 듣고 오답정리하고 수업듣고 준비했습니다..",
+    "ideation_process": "키보드는 악보가 있어서 이어폰에서 소리가 나오는 것처럼 휴지로 연출하였고, 배경에 있는 키보드는 악보가 없어서 이어폰과 휴지는 바닥에 배치하였고 소리가 없는 것을 표현하였습니다."
+  }
 }

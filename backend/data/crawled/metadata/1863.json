@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1863_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:21:40.909877+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1863"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1863",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "실기 문제는 도자기와 나무의자 그리고 페라가모 벨트가 나왔습니다. 세 개체 모두 다른 질감과 색상을 가지고 있었기에 질감의 특징을 살리고자 노력했습니다.",
+    "practice_years": null,
+    "competition_ratio": 31.0,
+    "student_strength": "시험장에서 갑자기 생긴 변수에 나뿐만 아니라 모두가 불리한 상황이라고 생각하며 차분하게 대처하고자 노력했던 것이 합격에 큰 도움이 된 것 같습니다.",
+    "teacher_feedback": "피드백 내용을 다시 정리하며 같은 실수를 반복하지 않고자 노력했던 것 같습니다..",
+    "ideation_process": "세 개체 모두 다른 질감과 색상을 가지고 있었기에 질감의 특징을 살리고자 노력했습니다. 또한 개체들 모두 색감이 화려하지 않아 고유 색보다"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3062_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:14:43.190057+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3062"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3062",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "스테이플러, 책, 캡슐커피가 주제였는데요. 입체감 있는 개체들이 나와서 책에 있는 종이를 뜯어 면재의 역할과 스테이플러 심을 꺼내 점요소로 활용하여 화면에서 점,선,면,입체를 모두 보여주려고 노력했습니다.",
+    "practice_years": null,
+    "competition_ratio": 24.62,
+    "student_strength": "수업시간보다 빨리 등원해서 기출주제 학교들 구도정리와 부족한 표현 개체연습을 틈틈이 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "입체감 있는 개체들이 나와서 책에 있는 종이를 뜯어 면재의 역할과 스테이플러 심을 꺼내 점요소로 활용하여 화면에서 점,선,면,입체를 모두 보여주려고 노력했습니다."
+  }
 }

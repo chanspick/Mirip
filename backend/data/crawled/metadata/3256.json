@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3256_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:23:26.906003+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3256"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3256",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.0,
+    "competition_ratio": 17.08,
+    "student_strength": "저는 성적대가 높은 편도 아니었고 그림 그리는 스킬도 남들보다 월등히 뛰어나지도 않았습니다.",
+    "teacher_feedback": "선생님들의 세심한 피드백을 통해 이화여대가 어떤 그림을 원하는지, 그리고 어떻게 그려야 실기장에서 더욱 돋보일 수 있을지 매일 고민하고 점차 그 포인트들을 깨달아 저만의 그림으로 풀어낼 수.",
+    "ideation_process": null
+  }
 }

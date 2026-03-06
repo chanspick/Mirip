@@ -13,5 +13,14 @@
     "data/crawled/raw_images/821_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:34:47.138437+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=821"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=821",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "가장의 무게를 잚어진 50대 중년 남성을 제작하라는 문제가 나왔다. 50대 남성의 특징적인 양을 잡고 가장의 무게를 짊어진 무거운 표정을 표현하고 시선은 하늘을 보도록 만들었다.주름을 최대한 사람같아 보이도록 자연스럽게 표현 하였고 기본 골격은 지켜 가면서 쳐진 살들을 표현하였다.",
+    "practice_years": 2.5,
+    "competition_ratio": 14.4,
+    "student_strength": "시험 당일날 긴장하지 않고 내 단점에 집착하지 않고 해야될 다른 부분들을 놓치지 않은것이 합격의 주요원인이 아닌가 생각한다. 호랑이 굴에 들어가도 정신만 똑바로 차리면 산다는 옛 말을 되세기며 긴장하지 말아야 한다입시 기간동안 열심히 노력해 온 나를 믿어야 하는 시간이다",
+    "teacher_feedback": null,
+    "ideation_process": "표현하고 시선은 하늘을 보도록 만들었다.주름을 최대한 사람같아 보이도록 자연스럽게 표현 하였고 기본 골격은 지켜 가면서 쳐진 살들을 표현하였다."
+  }
 }

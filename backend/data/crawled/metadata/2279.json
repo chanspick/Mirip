@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2279_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:39:45.472254+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2279"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2279",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "스프링, 털실, 오렌지 단면 연출의 폭이 큰 학교이기 때문에 주제부에 집중할 수 있는 구도와 색을 과감하게 표현했습니다.",
+    "practice_years": 3.17,
+    "competition_ratio": 30.18,
+    "student_strength": "선생님들의 조언을 잘 반영해 고쳐나갔고 무엇보다 빠지지 않고 꾸준히 학원에 나오는것이 중요하다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

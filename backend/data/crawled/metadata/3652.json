@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3652_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:43:04.541766+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3652"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3652",
+  "normalized_dept": "sculpture",
+  "interview_parsed": {
+    "exam_topic": "(최연소 20대 파일럿이 된 현수가 방송에 나와 웃으며 인터뷰에 응하는 모습을 만드시오.) 웃는 표정은 표현하기가 어렵기 때문에 당시 출제인물을 표현할때, 웃는 기본형 남자를 사실적으로 만드는것에 초점을 두고 표현하려고 했습니다. 그리고 직업이 파일럿이기 때문에 위로 올린 단정한 짧은 머리로 표현했고 제복을 입혀야 한다는 생각에 기본셔츠를 만든 후 어깨에 견장을 표현했습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 10.92,
+    "student_strength": "제 작품이 단점이 없는 작품이 되었으면 좋겠다고 생각했습니다. 그러기 위해 매일 작품사진을 찍고 기록하며 무엇을 틀렸는지, 무엇이 부족한지 고민했습니다. 친구들과 같이 시험을 보다보면 비교를 하게 되고 객관적인 시선을 갖게 됩니다. 그 객관적인 시선을 놓치지 않으려고 노력했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하기가 어렵기 때문에 당시 출제인물을 표현할때, 웃는 기본형 남자를 사실적으로 만드는것에 초점을 두고 표현하려고 했습니다. 그리고 직업이 파일럿이기 때문에 위로 올린 단정한 짧은 머리로 표현했고 제복을 입혀야 한다는 생각에 기본셔츠를 만든 후 어깨에 견장을 표현했습니다"
+  }
 }

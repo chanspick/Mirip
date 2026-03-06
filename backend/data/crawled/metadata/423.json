@@ -14,5 +14,14 @@
     "data/crawled/raw_images/423_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:17:44.010501+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=423"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=423",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 커터 칼과 가위였습니다. 주제가 단절과 소멸 이였는데 아무래도 제시물이 서로 단절을 표현하기 어렵다고 생각되서, 평소 쓰던 구도에 대입하고 커터 칼에 있는 심을 빼서 선생님께서 꼭 강조하셨던 사잇 공간을 많이 해주고 크기도 다양하게해서 지루해보이지 않게 해주었습니다.",
+    "practice_years": 2.92,
+    "competition_ratio": 22.47,
+    "student_strength": "학원에서든 집이든 학교에 있든, 그림에 대한 부족했던 점을 수시로 생각하고 되뇌이면서 복습해왔고, 가장 주요인은 역시 시간을 절대로 헛되게 보내지 않은 것이 주요인 이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하기 어렵다고 생각되서, 평소 쓰던 구도에 대입하고 커터 칼에 있는 심을 빼서 선생님께서 꼭 강조하셨던 사잇 공간을 많이 해주고 크기도 다양하게해서 지루해보이지 않게 해주었습니다."
+  }
 }

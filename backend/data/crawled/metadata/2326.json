@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2326_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:41:49.446358+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2326"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2326",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "봉투에 포장된 고구마와 흰색 털실이 나왔으며 사용하는 구도에 자연스럽게 대입하기 위해 노력했습니다. 약간의 분해 요소를 활용하여 빵 끈을 활용하여 조형하였습니다.중간중간 시험 분위기를 확인하고 그림이 바닥에 깔렸을때를 예상하며 그림의 세기를 조절하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 27.0,
+    "student_strength": "건대 글로컬이 수시 마지막이여서 그런지 계속 집중하지 못했습니다. 계속 입시를 해서 그런가 객관성이 떨어진것 같은 느낌이 들어 시험전날에는 쉬면서 평소에 기록해두었던 오답노트를 보며 쉬었습니다. 아마 이것이 시험 현장에서 평정심과 객관적인 시선을 유지하는 것에 도움이 된 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "약간의 분해 요소를 활용하여 빵 끈을 활용하여 조형하였습니다.중간중간 시험 분위기를 확인하고 그림이 바닥에 깔렸을때를 예상하며 그림의 세기를 조절하였습니다. 또한 3절 4시간이라는 촉박한 시간이 조금이라도 남도록 시간 분배에 신경�㎧윱求�."
+  }
 }

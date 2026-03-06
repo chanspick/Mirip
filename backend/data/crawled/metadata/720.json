@@ -13,5 +13,14 @@
     "data/crawled/raw_images/720_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:30:17.621580+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=720"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=720",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "빨간통에 담긴 줄자와 커터칼이 나왔고, 공간감을 표현하라해서 줄자를 이용해 율동감을 강조했습니다.",
+    "practice_years": 1.75,
+    "competition_ratio": 26.0,
+    "student_strength": "평소, 기출문제 해석과 연습을 통해서 상명대학교가 추구하는 방향을 그림에 담으려고 노력했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라해서 줄자를 이용해 율동감을 강조했습니다."
+  }
 }

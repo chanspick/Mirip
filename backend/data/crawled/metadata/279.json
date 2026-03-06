@@ -13,5 +13,14 @@
     "data/crawled/raw_images/279_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:11:36.983257+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=279"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=279",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "출제물은 삼다수, 맥반석계란, 킷켓초콜릿, 비닐포장이 되어 있는 쇠숟가락, 지퍼백, 수건이었습니다. 일단 제시물이 많았기 때문에 다",
+    "practice_years": 2.5,
+    "competition_ratio": 3.48,
+    "student_strength": "수능 전에는 체력 관리가 가장 중요한 것 같고, 실기 정시특강 기간에는 몸을 사리지 않겠다는 생각으로 정신 무장을 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 문제에 명시 된 비닐백과 수건의 질감 묘사 중심으로 그리고, 그림자를 이용하여 거리감과 공간감을 표현하려고 했습니다."
+  }
 }

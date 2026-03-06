@@ -13,5 +13,14 @@
     "data/crawled/raw_images/264_0.png"
   ],
   "crawled_at": "2026-01-27T13:10:58.795555+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=264"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=264",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "비너스 석고상, 신문, 파프리카, 마른오징어가 나왔다. 석고상의 뒷모습이 나와 아쉬웠지만 표현하는데 어려움은 없었다.",
+    "practice_years": 6.0,
+    "competition_ratio": 4.29,
+    "student_strength": "고집스럽게 끝까지 그림을 완성시켰고, 문제를 파악하고 해결했다. 누구보다 많이 경험하고 연구해서 내 방식을 만들 수 있었다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는데 어려움은 없었다."
+  }
 }

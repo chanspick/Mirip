@@ -13,5 +13,14 @@
     "data/crawled/raw_images/782_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:33:06.451059+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=782"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=782",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "흰 와이셔츠에 베이지 바지 그리고 흰 신발과 빨간색 헤어드라이기를 가지고 문제가 나왔다. 일단 인체가 많이 보이지 않아서 정물과 옷 얼굴에 신경을 많이 썼다.",
+    "practice_years": 4.0,
+    "competition_ratio": 15.71,
+    "student_strength": "안하려고 신경쓰고 내가 제일 잘 그린다고 생각하고 그렸다.",
+    "teacher_feedback": null,
+    "ideation_process": "일단 인체가 많이 보이지 않아서 정물과 옷 얼굴에 신경을 많이 썼다. 베이지와 흰색 옷은 다"
+  }
 }

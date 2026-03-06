@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1658_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:12:26.278263+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1658"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1658",
+  "normalized_dept": "other",
+  "interview_parsed": {
+    "exam_topic": "'어느날 신비한 능력을 얻은 주인공이 용감한 시민상을 받았다, 이 능력으로 어떤 선한 일을 할 것인가' 평소에 연습시험을 볼 때 제 칸만화에 할머니, 요정, 마법사가 거의 패턴처럼 나왔었는데, 실제 시험에서도 요정과 신비한 능력이 있지만 조금 엉터리인 할머니가 제일 먼저 생각나서 이것들을 바탕으로 스토리를 풀어나갔던 것 같아요.",
+    "practice_years": 1.17,
+    "competition_ratio": 3.68,
+    "student_strength": "칸만화의 전체적인 완성도인 것 같아요.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

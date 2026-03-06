@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2050_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:29:50.744267+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2050"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2050",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "평소 학원 선생님께서 제 그림을 보시며 강조하셨던 주제부 키우기를 생각하며 스케치를 했고, 채색을 할 때는 대비에 신경 썼습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.22,
+    "student_strength": "부족한 부분을 복기하고 학원 전임 선생님들의 피드백을 보완하면서 실기를 준비했던 게 주요했던 거 같습니다.",
+    "teacher_feedback": "선생님께 항상 여쭈어보면서 보완했습니다..",
+    "ideation_process": null
+  }
 }

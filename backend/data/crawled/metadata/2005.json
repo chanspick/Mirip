@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2005_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:27:51.016412+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2005"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2005",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "소재 : 철수세미, 빨래집게, 백붓, 백붓비닐커버 소재 같은 경우에는 철 수세미가 나와서 굉장히 당황 했는데 평소 수업을 떠올리며 비슷한 소재를 생각하면서 풀었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 35.03,
+    "student_strength": "스토리텔링을 하는 방법과 대비 요소 등 미술의 기본적인 이론 같은 것을 많이 배워서 그걸 그림에 적용 시키면서 도움을 많이 받은 거 같습니다.",
+    "teacher_feedback": "선생님이 내주신 숙제를 굉장히 열심히 했고요.",
+    "ideation_process": null
+  }
 }

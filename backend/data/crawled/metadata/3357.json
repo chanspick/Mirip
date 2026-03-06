@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3357_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:28:14.863502+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3357"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3357",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "제시어는 따로 없었고, 제시물은 은행잎과 볼트, 너트 였는데, 공간감이 중요하다고 배워서 볼트와 너트를 반복적으로 깔고 색감의 조화를 주기 위해 은행이 떨어져 있는 배치를 주었습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 11.78,
+    "student_strength": "대학교에서 어떤 스타일의 그림을 선호하는지 정확히 분석하고 그걸 토대로 꾸준히 연습했던게 꽤나 중요했던 것 같고, 공간감과 분위기가 잘 나왔던 것 과 바닥에 은행잎을 깔아준게 좋게 작용한 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

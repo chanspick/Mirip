@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3460_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:33:14.291303+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3460"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3460",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "[나무집게, 쇠구슬] 가장 어려웠지만 가장 재미있었던 주제로서 그동안 지적 받았던 부분은 고쳐나가며 완성도를 많이 높혔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 14.78,
+    "student_strength": "궁금한 점, 부족한 점은 모두 선생님께 물어보고 배워나가며 발전한 그림이 합격의 주요인이 되지않았나 싶습니다.",
+    "teacher_feedback": "선생님께 물어보며 채워나갔고 그동안의 합격작들을 보며 배울 점들을 많이 챙겼습니다..",
+    "ideation_process": null
+  }
 }

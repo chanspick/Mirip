@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2149_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:34:06.708413+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2149"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2149",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "구강스프레이와 병따개,집게핀이 나왔습니다 선재위주로 평소 그림연습을 했다가 선재가 안나와서 당황했지만 집게핀과 분사된 물을 사용해 선재로 활용했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 9.55,
+    "student_strength": "조건을 완벽하게 이해하는것이 가장 중요하고, 공간감이 느껴지는 것과 선재를 어떻게든 활용해낸 점이라고 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": "선재위주로 평소 그림연습을 했다가 선재가 안나와서 당황했지만 집게핀과 분사된 물을 사용해 선재로 활용했습니다. 그리고 집게핀의 용도를 활용한 그림을 그렸습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1331_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:57:12.331736+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1331"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1331",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "학원에서 선생님들이 조언해주신 것들을 생각하며 그림에 표현하도록 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 2.92,
+    "student_strength": null,
+    "teacher_feedback": "피드백 받으면서 준비했습니다..",
+    "ideation_process": "표현하도록 노력했습니다."
+  }
 }

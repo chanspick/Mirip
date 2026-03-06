@@ -13,5 +13,14 @@
     "data/crawled/raw_images/306_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:47.626745+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=306"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=306",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "자켓을 입고 펜을 쥐고 서있는 여자가 나왔다.",
+    "practice_years": 3.0,
+    "competition_ratio": 6.14,
+    "student_strength": "매순간 즐길 수 는 없었겠지만, 그림을 좋아하고 즐기는 거야 말로 순간순간 타인과 차별화 될 수 있는 것이라고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

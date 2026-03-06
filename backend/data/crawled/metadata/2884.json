@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2884_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:06:42.455189+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2884"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2884",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "당일 출제문제는 곰인형, 쇠사슬, 크래커과자였습니다. 받자마자 개체들의 특징및 물성을 적고, 그 물성을 어떻게 보여줄지 빠르게 생각했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 39.69,
+    "student_strength": "가장 큰 부분은 시간과 노력과 간절함이라고 생각합니다. 하루의 대부분의 시간을 투자해서 그림을 그렸고 학원 선생님들께서도 많은 시간을 써서 도와주신 부분이 가장 크다고 생각합니다. 그 소중한 시간에서 1분이라도 허투루 쓰지 않도록 노력했고 수시에서 꼭 합격해야한다는 간절함을 가지고 임했습니다.",
+    "teacher_feedback": "선생님의 말씀에 학원에서 시험을 볼 때마다 속도를 높이려고 노력했습니다.",
+    "ideation_process": "생각했습니다. 그래서 상대적으로 형태가 예쁜 곰인형을 주제부로 정하고 단단한 쇠사슬과 잘 부스러지는 크래커과자의 대비를 보여주기 위해 포인트 부분에 쇠사슬을 공으로 말아 크래커가 부서지는 연출을 넣어줌과 동시에 물성을 표현하였습니다."
+  }
 }

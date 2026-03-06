@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2597_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:53:44.526798+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2597"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2597",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "산업디자인의 안경과 만년필을 주제로 하는 만큼 렌더링이 적절히 들어가는 것이 좋다고 판단했고 물속에서도 쓸 수 있는 만년필과 빛이 나오는 수경을 이용하여 바닷속에서 광대물고기의 모습과 특징을 적는 내용을 표현했습니다. 애초에 지정문제인 만큼 전날 그냥 그림을 계속해서 그리고 외웠습니다.",
+    "practice_years": null,
+    "competition_ratio": 4.5,
+    "student_strength": "솔직히 저는 수시 1차에 붙고 금방 나갈 수 있다는 생각에 많이 방심했던 것 같습니다. 그러나 막상 저 혼자만 남겨지고, 주위의 압박감이 더 심해지니 수시 2차 기간에는 남은 실기시험에 대해 간절함이 커졌고, 그 간절함이 저를 더 성장시켰다고 생각합니다,",
+    "teacher_feedback": null,
+    "ideation_process": "애초에 지정문제인 만큼 전날 그냥 그림을 계속해서 그리고 외웠습니다."
+  }
 }

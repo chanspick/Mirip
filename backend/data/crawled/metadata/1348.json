@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1348_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:58:02.778003+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1348"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1348",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "흰티 상의에 빨강 긴치마, 흰 양말을 신고 책을 보며 앉아 있는 여성. 최대한 관찰하며 열성을 다해 그렸다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.0,
+    "student_strength": "자신감과 학원 선생님의 가르침덕분이 아닐까. 감사해요 선생님~",
+    "teacher_feedback": "선생님의 차분한 어조와 친절한 설명 덕분에 잘 준비할 수 있었다.",
+    "ideation_process": "최대한 관찰하며 열성을 다해 그렸다."
+  }
 }

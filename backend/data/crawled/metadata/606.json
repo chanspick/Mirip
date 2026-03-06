@@ -13,5 +13,14 @@
     "data/crawled/raw_images/606_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:25:27.129509+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=606"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=606",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "상당히 묘사 거리가 많은 다리미와 상황의 반전이 나왔었는데요 먼저 디자인 구상을 하고 2시간 동안 전체적으로 소묘를 한 후에 디자인을 짧게 하고 다시 소묘를 다듬었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.86,
+    "student_strength": "먼저 말씀드릴것은 시험에 온 힘을 쏟아부어라입니다. 평소에 자신의 컨디션에 따라 그림의 정도를 조절했다면 시험당일만큼은 정말 제 체력을 최대한 끌어올렸습니다. 그리고 그동안 배운것들과 핵심요소들을 생각하며 그 그림에 담아냈습니다. 두번째는 철저한 계획입니다 그림에는 계획이 필요합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "구상을 하고 2시간 동안 전체적으로 소묘를 한 후에 디자인을 짧게 하고 다시 소묘를 다듬었습니다. 디자인에서는 유채색과 무채색으로 반전의 상황이 확실하게 보이게 표현했구요"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2780_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:02:02.463605+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2780"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2780",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "서경대학교는 와인잔과 얼음이 나왔고 제시어는 진동이었습니다. 일단 두 사물 모두 무채색의 사물이기 때문에 색감을 다르게 채색했고 공간 전체의 진동으로 인해 물과 와인이 튀기면서 수많은 물방울들이 튀는 동사형을 연출했습니다.",
+    "practice_years": 2.42,
+    "competition_ratio": 7.17,
+    "student_strength": "다른 학원과는 다른 이론수업이 가장 큰 이유라고 생각합니다. 내 그림이 어떻게 하면 잘 보일 수 있는 그림인지 자세하게 알려주시고 그 내용을 반복해서 계속 알려주셨기 때문에 더더욱 중요한 내용이라는 것을 알고 준비를 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "일단 두 사물 모두 무채색의 사물이기 때문에 색감을 다르게 채색했고 공간 전체의 진동으로 인해 물과 와인이 튀기면서 수많은 물방울들이 튀는 동사형을 연출했습니다."
+  }
 }

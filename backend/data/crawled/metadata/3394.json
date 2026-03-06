@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3394_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:30:05.897752+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3394"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3394",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "지나친 엉킴이라는 주제였고 메스감을 잘 살릴 수 있는 전에 만들었던 작품을 주제에 맞춰 풀어나갔습니다",
+    "practice_years": 2.5,
+    "competition_ratio": 8.0,
+    "student_strength": "제가 잘 하는 부분을 잘 살리고 크기나 섬세하게 만든 부분이 좋게 평가된것 같습니다",
+    "teacher_feedback": "선생님과 피드백을 주고 받으며 보완했습니다.",
+    "ideation_process": null
+  }
 }

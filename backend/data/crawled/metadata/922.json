@@ -13,5 +13,14 @@
     "data/crawled/raw_images/922_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:39:05.411599+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=922"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=922",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "선인장,우산,싱크대 수전 주제는 단순하였지만 한색,무채색 계열의 소재들이라 최대한 제공된 사진의 채도 범위에서 크게 벗어나지 않을정도로 채도를 높혔고 주제부 연출에 신경썼습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 23.2,
+    "student_strength": "차별성이 느껴지는 구도라고 생각합니다.",
+    "teacher_feedback": "선생님께서 설명해주신 이론과 기술을 배울 때 단순히 습득 후 활용하지 않고 가르쳐주신 점들이 어떻게 왜 그림을 효과적으로 만드는지 의문점을 가지고 혼자 시도하고 자료를 찾아보며 이해하면서 실.",
+    "ideation_process": null
+  }
 }

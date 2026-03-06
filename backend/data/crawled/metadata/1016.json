@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1016_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:43:11.176441+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1016"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1016",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "전구가 나왔기에 뒤에 물체를 두어 투명인 재질을 더 잘 나타날수 있게 하였고, 선재로 사용할 수 있는 테이프는 비어보이는 곳으로 지나가게 하여 공간분할을 더 해주었습니다.",
+    "practice_years": 4.25,
+    "competition_ratio": 8.3,
+    "student_strength": "학원에서 배운 것을 최대한 활용하였고 조금의 운도 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

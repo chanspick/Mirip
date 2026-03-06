@@ -13,5 +13,14 @@
     "data/crawled/raw_images/913_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:38:41.423440+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=913"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=913",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "다군에서 노끈이랑 골프공으로 화면을 연출하는 주제가 나왔는데, 선제에 자신이 있었던 터라 화면에서의 율동감을 적극적으로 사용하여 리듬감이 느껴지도록 표현하였다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.5,
+    "student_strength": "처음 문제를 받았을때 바로 생각나는것도 한번 더 점검하여 아이디어 스케치를 충분히 하고 들어갔다. 그래서 화면에서의 소재의 연출과 색과 명도 강약을 풍부하게 사용하여 시간안에 완성도를 많이 높였던게 좋았다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

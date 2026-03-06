@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1696_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:14:14.741090+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1696"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1696",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "도시에 정체모를 괴물(죽은 좀비)에게 쫓기다 골목에 가로 막혀 도망치기 힘들어졌다.",
+    "practice_years": 3.0,
+    "competition_ratio": 9.47,
+    "student_strength": "게임 대신 그림 그리기를 좋아하여 평소에도 그림을 자주 그리는 편이였고, 그 덕분에 입시를 할 때에도 다른 친구들에 비해 인체적인 부분과 드로잉이 좋았던 것 같습니다. 그 뿐만 아니라 20년 경력의 베테랑 원장선생님 덕분에 저의 장점을 극대화 시킬 수 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "골목에 가로 막혀 도망치기 힘들어졌다. 였고, 평소에 좀비와 크리쳐를 좋아했기 때문에 잘 대처 할 수 있었던 것 같습니다.,"
+  }
 }

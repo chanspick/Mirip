@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3846_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:54:04.300084+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3846"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3846",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "드릴, 목장갑, 향초였으며 사물의 물성과 크기대비를 생각하며 그리려했다. 평소 하던대로 침착히 그려나갔다.",
+    "practice_years": 2.75,
+    "competition_ratio": 16.67,
+    "student_strength": "선생님이 시키시는대로 열심히 꾸준히하고 나 의 강점과 약점을 파악하고 기본기를 놓치지 않는 것이다.",
+    "teacher_feedback": "선생님의 피드백을 메모장에 적어두 고 다음 시험에서 고쳐나가려 했다..",
+    "ideation_process": "평소 하던대로 침착히 그려나갔다."
+  }
 }

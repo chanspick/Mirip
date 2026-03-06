@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3260_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:23:38.749092+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3260"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3260",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "튜브형 물감, 망원경, 레고블럭, 회중시계 이렇게 4개의 개체나 나와서 당황스러웠지만, 그래도 인공물에는 자신 있어서 물감을 크게 배치하고 나머지는 짜임새 있게 배치하였습니다. 특히 레고블럭 때문에 괜히 산만해질까 신경쓰며 구성하였습니다",
+    "practice_years": 2.17,
+    "competition_ratio": 15.0,
+    "student_strength": "최선을 다해서 그린게 큰 요인인거 같습니다. 제시된 물감사진에 물감 종류가 여러개였는데 그중에 레터링이 가장 많은 물감을 선택하여 최대한 비슷하게 그리려고 했습니다",
+    "teacher_feedback": "선생님의 피드백을 적어 놓고 새로운 그림을 그릴 때마다 틈틈이 확인했습니다..",
+    "ideation_process": "특히 레고블럭 때문에 괜히 산만해질까 신경쓰며 구성하였습니다"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/332_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:13:53.346251+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=332"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=332",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "여러 소재들을 주어준 후 몇 가지 조건을 충족시킨 후 배치하는 문제였는데, 그간 학원에서 배웠던 것을 토대로 침착하게 접근하였습니다. 어떤 소재가 주제부에 들어가야 하는지 고민하였고, 각 소재들의 특성들을 살리는 것에 초점을 맞췄습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 3.48,
+    "student_strength": "꾸준함이 아닐까 생각합니다. 입시기간 동안 학원에 지각한다거나 아프다고 빠지는 일도 없었고, 항상 초심을 잃지 말자는 마음을 가지고 입시에 진중하게 임했습니다. 또한 선생님의 지적을 귀담아 들었던 것도 합격에 큰 도움이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "접근하였습니다. 어떤 소재가 주제부에 들어가야 하는지 고민하였고, 각 소재들의 특성들을 살리는 것에 초점을 맞췄습니다."
+  }
 }

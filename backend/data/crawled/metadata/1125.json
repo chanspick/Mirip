@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1125_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:08.406864+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1125"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1125",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "핸드폰과 화분이 나왔는데 예상치못한 주제여서 약간 당황 했지만 평소에하던 구도로 완성도를 높이자고 생각했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 12.5,
+    "student_strength": "기본구도에서 포인트쪽에는 컬러변경 물성연출등 재미를 준게 합격요인이 된 것 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2449_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:47:11.797714+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2449"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2449",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "도토리, 못, 가리비가 나왔는데 깔끔하게 그리는 나의 장점을 최대한 살리면서 내가 잘 그리는 인공물을 중점으로 나의 단점들을 최소화하면서 반대로 장점들을 살릴 수 있도록 노력했다",
+    "practice_years": 3.0,
+    "competition_ratio": 12.96,
+    "student_strength": "주변 사람들의 도움이 제일 컸던 것 같다. 부모님은 내가 입시 스트레스로 힘들어하지 않게 도와주시고 입시를 계속 할 수 있도록 뒷바라지 해주셨다. 학원 선생님들은 시험보기 바로 전 날까지도 그림 실력을 올려주셨고, 잘 그릴 수 있게 가르쳐주셨다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3930_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:58:30.818498+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3930"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3930",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "중앙대 시험문제는 ‘어릴 적에 친구들과 찍은 사진을 보며 피식 웃는 40대 여자’ 가 나왔습니다 실기 시험 전날에 선생님께서 하신 말씀을 다",
+    "practice_years": null,
+    "competition_ratio": 17.08,
+    "student_strength": "학원 강사선생님들의 열정있는 가르침과 제가 여쭤보는 모든 질문에 성심성의껏 다 알려주신게 큰 도움이 되었던 것 같습니다 그래서 작은 것까지 질문을 많이 하면서 계속 실기에 대해 생각을 하면 스스로 실기력을 기르는데에 도움이 될 수 있을 것 같습니다 그리고 합격작이나 시범을 보여주시는 걸 사진찍고 계속 관찰하면서 잘한 작품을 눈에 익혀 자신의 작품에 나올 수.",
+    "teacher_feedback": "선생님들의 시범의 과정과 순서를 따라하려고 하고 시험을 본 후에는 부족한 점을 정리하며 다음 시험에 반영하려 노력했습니다 그리고 시간 배분 연습을 꾸준히 하여 제한된 시간 안에서도 완성을 할.",
+    "ideation_process": "실기 시험 전날에 선생님께서 하신 말씀을 다 기억하려고 노력했고 해보지 않은 것은 시험장에서 도전하는 건 좀 위험하다고 하신게 생각나서 시험장에서는 안해본 건 하지 않으려고 했습니다"
+  }
 }

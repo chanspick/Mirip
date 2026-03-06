@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2965_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:10:21.635830+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2965"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2965",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "생수병, 아보카도가 나왔습니다 아보카도로 생수병을 찌그러트리고 물이 팍 튀는 듯한 연출을 했습니다",
+    "practice_years": null,
+    "competition_ratio": 12.33,
+    "student_strength": "시험 보기 전에 문득 생각나서 아보카도 시범을 다시 한번 보고 들어갔는데 평소에도 자신있었던 개체라 운이 좋았습니다",
+    "teacher_feedback": "선생님께서 학교별로 나눠서 시험을 보게 해주셨기에 각 학교 스타일에 맞게 준비할 수 있었습니다.",
+    "ideation_process": "아보카도로 생수병을 찌그러트리고 물이 팍 튀는 듯한 연출을 했습니다"
+  }
 }

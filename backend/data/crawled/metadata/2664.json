@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2664_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:56:45.219687+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2664"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2664",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "운동화로 새 세 마리를 원근감 있게 그리라는 주제였습니다. 어떤 종류의 새를 세 가지 그릴지에 초점을 맞추었고, 형광펜은 거의 써보지 않았던 재료라 색연필을 주로 사용하려고 계획했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 4.33,
+    "student_strength": "항상 선생님들께서 ‘넌 그림에서 표현하고 싶은 것이 뭔지 확고하게 보이고 그게 큰 장점이다’라고 하셨었는데, 이번 시험에서도 제가 주제와 어울린다고 판단한 부엉이라는 새를 명확히 정한 뒤 전달력이 강한 그림을 그렸기 때문에 합격할 수 있었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 부엉이의 얼굴, 특히 눈 부분을 포인트로 정했고 주변에 신발끈들을 그려 양선면점을 모두 사용해 집중시키려고 했습니다."
+  }
 }

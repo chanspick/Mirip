@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1018_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:43:16.192732+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1018"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1018",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "집게, 에이스과자, 물병을 가지고 질감, 형태의 특성을 살리라고 나왔습니다. 집게의 집는 특징을 최대한 살리고, 과자가 쪼개지는 물적 특성을 표현하고자 고민을 많이했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 22.7,
+    "student_strength": "시험보는 학교의 합격작들을 최대한 많이 찾아보고 분석했으며, 그림을 그릴때마다 내 그림의 단점들을 최소 하나씩이라도 고쳐나가려고 신경 쓴 점이라고 생각합니다.",
+    "teacher_feedback": "선생님들께 물어보고 체크하며 자주 실수하는 부분들을 메모해뒀습니다.",
+    "ideation_process": "표현하고자 고민을 많이했습니다."
+  }
 }

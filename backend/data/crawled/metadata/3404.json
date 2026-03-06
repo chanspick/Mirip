@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3404_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:30:35.479842+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3404"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3404",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "면접전형이여서 실기는 보지 않았습니다. 면접 당일날은 학원에서 평소에 실기를 준비하면서 면접도 연습을 하였습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 11.5,
+    "student_strength": "선생님의 피드백을 기록한 노트를 활용해, 제가 자주 실수하는 부분이나 주의해야 할 점을 요약하여 노트 뒷면 표지에 정리를 하였고 선생님께서 면접에 중요한 것과 생기부에서 중요한 내용들을 체크해주셔서 체크해주신 부분을 더 열심히 공부하였습니다.",
+    "teacher_feedback": "선생님의 피드백을 적은 공책을 따로 만들어서 매일 보면서 고쳐야 할 부분을 고쳤고, 선생님의 시범이나 개인적으로 자주 사용하는 물체나 레이어를 묘사해 놓은 노트를 만들어서 시험에 그려 놓은.",
+    "ideation_process": "면접 당일날은 학원에서 평소에 실기를 준비하면서 면접도 연습을 하였습니다. 미리 준비를 한만큼 긴장이 좀 되긴 했지만 질문에 대한 답변을 최대한 자신있게 대답하려고 노력했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1372_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:59:09.644522+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1372"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1372",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "양배추, 망치, 전화선 망치가 상대적으로 무겁고 어두우니깐 양배추를 더 예쁘고 싱싱하게 그리려고 했고 명도 차이를 더욱 신경쓰는 것 같습니다.",
+    "practice_years": 2.42,
+    "competition_ratio": 10.96,
+    "student_strength": "주제부의 적극적인 연출과 정확한 문제풀이라고 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

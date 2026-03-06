@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1620_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:10:42.579798+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1620"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1620",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "어린이 터널 장난감과 led전구 장치를 이용해 어린이 놀이기구를 디자인하는 문제였습니다. 저는 나무를 모티브로 한 올라갈 수 있는 놀이기구를 디자인하였습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 23.0,
+    "student_strength": "평소 시험을 준비할 때 문제풀이 방법과 시간분배 요령등 선생님께 피드백을 많이 받은 부분이 중요하게 작용했으며, 많은 그림들 사이에서 남들과 달라보일 수 있는 접근으로 그린 것이 도움이 되었다고 생각합니다. 평소에 선생님의 칭찬덕분에 자신감을 잃지 않은 것이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님께서 대학유형별 문제풀이 방식의 수업을 해주셔서, 많은 피드백을 받앗으며, 표현력이 부족했던 저에게는 시범수업이 큰 도움이 되었습니다.",
+    "ideation_process": "저는 나무를 모티브로 한 올라갈 수 있는 놀이기구를 디자인하였습니다. 시험전 다양한 주제를 많이 다루어봤고, 특히 출제주제가 제가 잘 할수 있는 문제유형이었습니다."
+  }
 }

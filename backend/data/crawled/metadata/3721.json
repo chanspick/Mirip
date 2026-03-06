@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3721_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:47:19.167838+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3721"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3721",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "제시물 2개가 나오던 평소와 다르게 제시물이 5개가 나와서 조금 당황했지만 차분하게 조건에서 나타난 반복 균형 대칭 변화의 특성이 잘 드러나도록 구성하였습니다. 제시물이 많아 화면에 개체 전체가 잘보이게 하기보다는 개체의 특징적인 부분들을 위주로 그렸고 주제부에서는 밀도감을 높이기 위해 다양한 축을 사용하여 개체를 배치하고 배경은 공간의 그리드를 명확하게 나타내기 위해 테이프를 격자 형식으로 배치했습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 11.0,
+    "student_strength": "내가 무엇을 못하고 잘하는 지를 파악하는 것이 굉장히 중요하다고 생각합니다. 매일매일 시간이 남을때마다 그림을 보면서 그 그림의 장점을 나의 것으로 만들기 위해 노력하였고 합격작을 분석하면서 왜 합격했는지에 대해, 또 나라면 어떻게 문제를 풀어냈을지에 대해 생각하였습니다. 또 나의 단점에 대해 까먹지 않기위해 메모를 하는 습관을 들였습니다",
+    "teacher_feedback": "선생님이 지적한 부분을 틀리지 않으려고 노력했습니다.",
+    "ideation_process": "제시물이 많아 화면에 개체 전체가 잘보이게 하기보다는 개체의 특징적인 부분들을 위주로 그렸고 주제부에서는 밀도감을 높이기 위해 다양한 축을 사용하여 개체를 배치하고 배경은 공간의 그리드를 명확하게 나타내기 위해 테이프를 격자 형식으로 배치했습니다."
+  }
 }

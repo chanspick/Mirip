@@ -13,5 +13,14 @@
     "data/crawled/raw_images/501_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:20:59.605566+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=501"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=501",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 트럼펫과 소방호스가 나왔고 학원에서 준비한대로 그려내고 트럼펫 묘사 할 때 선생님이 보여주신 시범을 생각하면서 천천히 그려갔습니다.",
+    "practice_years": 1.67,
+    "competition_ratio": 8.92,
+    "student_strength": "학원선생님께서 기출문제를 하나하나 시범 보여주신것이 제일 도움이 됐고 시험도 하나도 빠짐없이 한번이나 두번씩 본게 주요인 인것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

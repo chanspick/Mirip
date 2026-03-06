@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1031_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:43:50.389053+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1031"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1031",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "주제는 ‘위대한 발견’ 이었다. 제시물은 커피 여과지 1장과 하리보 골드베렌 젤리 1봉지였다.",
+    "practice_years": 4.17,
+    "competition_ratio": 6.5,
+    "student_strength": "스스로 다른 친구들과 같은 생각을 두고 싸우려고 하지 않고 내가 잘할 수 있는 방법으로 하려고 했고 개인적인 발상을 밀고 나간 게 큰 도움이 되었던 것 같다.",
+    "teacher_feedback": "선생님께서 가르쳐주시는 아이디어 도출 방법 지침서를 많이 참고하면서 준비하였다.",
+    "ideation_process": "제시물은 커피 여과지 1장과 하리보 골드베렌 젤리 1봉지였다. 최대한 ‘위대한 발견’이라는 말을 쉽게 풀어서 다른 의미를 찾아보려고 했다."
+  }
 }

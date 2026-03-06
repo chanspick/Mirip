@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2021_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:28:33.988213+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2021"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2021",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "처음에 문제와 밴댕이를 받았을때 살짝 당황했지만, 침착하게 문제를 하나하나 뜯어보며 요구하는 바를 파악했습니다. 조급해하지 않고 문제에 대해 내가 말하고자하는 바에 대해 생각을 한게 중요하게 작용한 것 같습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "선생님께: 선생님들 덕분에 짧은 시간에 아주 큰 변화를 할 수 있었고, 청에서 얻은 가르침은 입시 뿐만 아니라 앞으로 미술작업을 할때도 잊지 않겠습니다. 청미술학원에서 입시준비를 한 것은 최선의 선택이었습니다. 가르쳐주셔서 감사합니다!",
+    "teacher_feedback": "선생님들은 무작정 “이렇게 해!”라는 단순한 세뇌가 아닌, 아이디어에 대한 대화와 다양한 시도를 통해 제 나름대로의 길을 찾게 인도해주셨습니다.",
+    "ideation_process": "조급해하지 않고 문제에 대해 내가 말하고자하는 바에 대해 생각을 한게 중요하게 작용한 것 같습니다."
+  }
 }

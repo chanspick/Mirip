@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3655_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:43:21.099612+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3655"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3655",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "(봄날의 햇살을 맞는 7살 여자아이) 일단 어린아이가 시험문제로 나와서 어린아이의 비례와 크기를 고려하며 진행했습니다. 어린아이가 시험문제로 출제될 경우, 기본기로만 작품이 눈에 띄기에는 어렵기 때문에 머리스타일이라던지 옷에서 끼를 부렸습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 31.13,
+    "student_strength": "제 작품이 단점이 없는 작품이 되었으면 좋겠다고 생각했습니다. 그러기 위해서 매일 작품사진을 찍고 기록하며 무엇을 틀렸는지, 무엇이 부족한지 고민했습니다. 친구들과 같이 시험을 보다보면 비교를 하게 되고 객관적인 시선을 갖게 됩니다. 그 객관적인 시선을 놓치지 않으려고 노력했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "어린아이가 시험문제로 출제될 경우, 기본기로만 작품이 눈에 띄기에는 어렵기 때문에 머리스타일이라던지 옷에서 끼를 부렸습니다. 저의 경우에는 양갈래머리를 하고 멜빵을 입혔습니다."
+  }
 }

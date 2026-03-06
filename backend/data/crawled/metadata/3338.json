@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3338_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:27:20.008143+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3338"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3338",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제문제로 [쇠구슬, 나무집게]가 출제가 되었으며, 문제은행 대학이어서 학원에서 미리 준비를 해봤기 때문에 문제지를 받자마자 스케치를 떴습니다. 전 날 학원에서 피드백 받았던 것을 계속 떠올리며 실수하지 않으려 최선을 다해 그렸습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 14.78,
+    "student_strength": "평소 선생님께 그림 관련 질문을 많이 드렸는데, 제 그림에 대한 피드백을 받으면서 저의 단점을 더 잘 파악할 수 있었습니다. 선생님께 피드백 받았던 것을 항상 메모장에 적어놨었는데, 지적 받았던 부분을 하나 둘씩 고쳐나가니 실력이 더 빠르게 늘 수 있었던 것 같습니다.",
+    "teacher_feedback": "선생님께서 해주셨던 피드백과 함께 집에서 다시 살펴봤습니다.",
+    "ideation_process": "전 날 학원에서 피드백 받았던 것을 계속 떠올리며 실수하지 않으려 최선을 다해 그렸습니다."
+  }
 }

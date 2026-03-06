@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3559_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:38:02.020637+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3559"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3559",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "(1)일상의 한 공간을 떠올렸을 때 천장, 벽, 바닥에서 각각 볼 수 있는 대상 세 가지를 사실적으로 그리시오. (2)<답안 1>에서 표현한 세 가지 대상을 소재로 ‘()을(를) 위한 기념비’를 만드시오.",
+    "practice_years": 7.0,
+    "competition_ratio": 6.15,
+    "student_strength": "끊임없이 질문한 게 제 합격 노하우가 아닐까 싶습니다. 여러 선생님들의 의견을 듣고 어떤 방향으로 발전을 시켜야할지 끊임없이 고민했습니다. 쓰잘데기 없다고 생각될 수도 있는 질문을 다 진지하게 받아주신 선생님들이 제 합격에 큰 영향을 미쳤다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "풀어나갔던 것 같습니다."
+  }
 }

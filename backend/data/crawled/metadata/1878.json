@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1878_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:22:19.607735+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1878"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1878",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "그날 문제는 골프공.골프장갑.골프모자가 나왔었습니다.과에맞게 준비했듯 제시물중 섬유같은걸 간단하게 넘어가지않고 다양하게 선재로 사용하고 열심히 묘사를 놓치지 말아야겠다는 생각으로 그렸습니다.또 골프공이 나왔을때 다른 학생들은 골프공의 단면에 일정한굴곡때문에 다들 작게 그릴거라는 생각에 제 주제브 골프공을 크게 다른색으로 그려넣어 제 그림이 좀 더 잘보이게 그렸습니다.",
+    "practice_years": 1.83,
+    "competition_ratio": 31.58,
+    "student_strength": "그림을 그릴때의 집중력과 주제를 해석하는 능력이라고 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

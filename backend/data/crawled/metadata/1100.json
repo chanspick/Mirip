@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1100_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:47:02.772015+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1100"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1100",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "기하학적 형상으로 '멜랑콜리' 를 표현하시오 저는 이주제를 보고 주변 외로운 형상들이 뭐가있는지 찾아보다가 건물 기둥이 혼자 서있는게 인상깊어서 원기둥을 만들었습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 9.27,
+    "student_strength": "원장선생님의 말씀이 도움이 많이 되었습니다",
+    "teacher_feedback": "선생님들 말씀만 잘 듣고 열심히 했습니다.",
+    "ideation_process": "표현하시오 저는 이주제를 보고 주변 외로운 형상들이 뭐가있는지 찾아보다가 건물 기둥이 혼자 서있는게 인상깊어서 원기둥을 만들었습니다"
+  }
 }

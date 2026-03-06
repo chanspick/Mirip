@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2170_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:35:01.242774+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2170"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2170",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "문제를 받고 완전히 새로운 걸 그리는 것이 아닌 기존에 했던 것들에서 주제에 맞게 재해석해서 그렸습니다. 시간 배분을 해놓고 정해진 시험 시간 동안 성실하게 문제에 대한 답을 그려내려고 노력했던 것 같습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "입시 미술은 그저 기계처럼 사물을 똑같이 재현하는 그림이라고 생각했습니다. 왜 그림을 그릴 때마다 매번 그림에 대해 생각해야 하나 의구심이 들었던 적이 있었습니다. 하지만 학원에 다니며 그동안 했던 생각들이 얼마나 틀에 박힌 어린 생각이었는지 깨닫게 되었습니다. 단순히 입시를 준비하는 학생이 아니라 앞으로 작가로서 미술을 하기 위해 필요한 것을 배웠습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "시간 배분을 해놓고 정해진 시험 시간 동안 성실하게 문제에 대한 답을 그려내려고 노력했던 것 같습니다. 시험장에선 자신을 의심하지 말고 당장 보는 시험에서 최선의 그림을 그리고 오자는 생각으로 시험에 임하시면 좋습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3535_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:36:51.561795+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3535"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3535",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "바다거북이, 너트 주제:인공지능,AI '난 이제 죽었구나'라고 생각했다. 하지만 끝까지 포기하지 않는 자가 합격한다는 원장선생님의 말씀을 떠올리고 일전에 칭찬받았던 구도를 응용하여 그림을 완성하였다.",
+    "practice_years": 3.0,
+    "competition_ratio": 20.75,
+    "student_strength": "완벽하다는 평가가 나올 정도로 깔끔하게 정리된 마무리가 중요하다고 생각한다. 깔끔한 그림을 그리기 위해서는 평소 붓의 상태를 항상 좋은 상태로 관리하는 것이 중요하다.",
+    "teacher_feedback": null,
+    "ideation_process": "하지만 끝까지 포기하지 않는 자가 합격한다는 원장선생님의 말씀을 떠올리고 일전에 칭찬받았던 구도를 응용하여 그림을 완성하였다. 묘사를 과하게 하기보다는 예쁜 색감과 깔끔한 정리를 하는 것에 더욱 집중하였다."
+  }
 }

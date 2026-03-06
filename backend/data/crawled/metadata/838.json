@@ -13,5 +13,14 @@
     "data/crawled/raw_images/838_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:35:29.906847+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=838"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=838",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "인하대는 키보드 피아노와 이어폰, 휴지, 악보 4가지 사물이 나왔습니다. 무채색 계열이 많았기 때문에 이어폰의 색을 빨간색으로 바꿔야겠다고 생각했고 휴지의 심을 크게 확대하여 갈색계열을 보여주었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 27.6,
+    "student_strength": "학원에서 매일 해주신 평가가 큰 도움이 되었습니다. 사람마다 장단점이 다르기 때문에 획일화하여 진행하는 수업보다는 개개인의 단점을 보완할수있었고 나중에는 배웠던 이론들을 적용하고 발전하고 응용하는 풀시험을 보면서, 장점을 늘리며 속도 트레이닝까지 학습할수있었습니다.",
+    "teacher_feedback": "선생님께서 피드백해주시면서 옳고 그름의 기분을 확실하게 배울수 있었고, 속도트레이닝 선연습 등 한번에 많은 것을 배울 수 있는 시간이였습니다.",
+    "ideation_process": "무채색 계열이 많았기 때문에 이어폰의 색을 빨간색으로 바꿔야겠다고 생각했고 휴지의 심을 크게 확대하여 갈색계열을 보여주었습니다. 확대된 휴지심에서 악보를 타고 피아노가 나오게 전체적인 배치 컨셉을 잡았고, 이어폰의 꽂는 부분이 피아노를 누르면서 악보의 음표가 날라오며 음악이 느껴지는 공간을 디자인하였습니다."
+  }
 }

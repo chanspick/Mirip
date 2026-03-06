@@ -13,5 +13,14 @@
     "data/crawled/raw_images/393_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:16:27.797640+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=393"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=393",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "(구찌)향수,나사못,노란고무줄 향수 묘사를 잘 해야겠다고 생각하였고, 세가지 물체가 조화롭게 보이도록 배치하려고 노력했다.",
+    "practice_years": 5.0,
+    "competition_ratio": 31.13,
+    "student_strength": "미술학원 안에서 최대한 할 수 있는 걸 하려고 했고, 그 날 내가 무엇을 배우고 얻었는지 생각했다. 내가 못그리는 물체는 항상 학원 1-2시간 일찍가서 다시 그려봤던 것 같다.",
+    "teacher_feedback": "선생님이 해주신 말씀들을 적고 내게 부족한 부분들을 꼭 적어서 고치려고 노력했다.",
+    "ideation_process": null
+  }
 }

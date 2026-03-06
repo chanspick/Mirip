@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2081_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:31:11.625665+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2081"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2081",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "많이 떨렸지만 청에서 자주 시험을 봤기에 긴장이 금방 풀렸고 선생님들이 어떻게하면 잘 그릴수 있을지 방법을 잘 가르켜 주셔서 합격 할수 있었던거같아요.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "실력을 많이 향상 시켜주셔서 감사하고 선생님들 덕분에 동양화가 더 좋아졌어요🤍",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

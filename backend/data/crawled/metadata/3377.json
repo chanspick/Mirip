@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3377_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:29:14.908620+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3377"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3377",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "지구 밖 우주에서 나타난 괴물 로봇이 지구의 도시를 파괴하고 있어 사람들이 혼비백산한 모습으로 도망치고 있다. 여전사인 주인공이 괴물 로봇과 치열하게 싸우고 있는 상황을 표현하시오.가 주제였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 27.75,
+    "student_strength": "피드백을 듣고 자신의그림에 빠르게 적용하여 단점을 없애고, 잘하거나 자신있는 부분은 개체연구를 하여 더 극대화시키는 것이 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님께 물어 궁금증을 바로바로 해결했고, 피드백을 적극 수용했습니다.",
+    "ideation_process": "표현하시오.가 주제였습니다. 주제를 받고 준비했었던 출제유형이 나와 다행히 주제풀이에서는 시간을 쓰지 않았지만 로봇이나 여전사의 코스튬이나, 형태등 미래적인 도시의 풍경을 중점으로 생각하여 상황을 표현했습니다."
+  }
 }

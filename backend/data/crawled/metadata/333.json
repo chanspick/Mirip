@@ -13,5 +13,14 @@
     "data/crawled/raw_images/333_0.png"
   ],
   "crawled_at": "2026-01-27T13:13:55.831570+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=333"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=333",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "크리스마스 트리 장식에 나올법한 지팡이와 전구였는데 각기 다른 질감에 어떻해 대비를 자연스럽게 주면서 과감한 연출을 할지 고민했던 것 같습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 15.5,
+    "student_strength": "무조건 합격할 수 있다는 믿음을 선생님께서 주셨고,,,, 내 단점이 무엇인지 빨리 파악하고 내 장점을 최대한 살릴 수 있도록 지도 받았습니다.",
+    "teacher_feedback": "선생님께서 경희대실기 방향을 잘 잡아주셨던 것 같고,,, 디자인에서는 많은 개체수보다는 제가 잘 할수 있는 부분을 부각시키려고 노력했고 소묘는 다양한 연필을 많이 사용해서 타거나 약해지지 않.",
+    "ideation_process": null
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1836_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:20:31.346523+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1836"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1836",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "딸기, 와인오프너, 줄넘기가 출제되었고 시험전 미리 출제된 기출주제들이 있었기 때문에 최대한 많은 주제들을 ��습해 보려고 하였습니다. 소재를 활용하여 연출에 중점을 두고 준비했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 9.2,
+    "student_strength": "개인별로 부족한 부분들 늘 꼼꼼히 체크해주셨고 학교유형에 맞춰 구도를 연구하는등 학생 개인마다 되게 심도있게 피드백을 해주셨습니다. 덕분에 그림에 대해 많이 알게 되고 소재의 활용방법이나 연출법등 많이 공부한게 좋은 결과를 만들었다고 생각합니다.",
+    "teacher_feedback": "선생님께서 저를 예비반때부터 입시생이라고 부르실 만큼 기초디자인 과목에 대해 관심이 많았습니다.",
+    "ideation_process": "소재를 활용하여 연출에 중점을 두고 준비했습니다."
+  }
 }

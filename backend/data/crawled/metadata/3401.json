@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3401_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:30:25.996330+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3401"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3401",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "꽁치와 찢어진 비닐에 감싸져있는 나무 피라미드 블럭이 출제되었습니다. 블럭을 소묘하면서 형태를 관찰했는데 블럭 낱개를 쌓아놓은게 아니라 여러 개가 한 줄로 이어져있는 부분이 보여서 디자인 쪽에서도 해당 형태가 잘 보일 수 있도록 스케치했고, 꽁치는 생물이기 때문에 최대한 얼굴 쪽을 강조해서 생동감 있게 표현하려고 했습니다.",
+    "practice_years": 2.58,
+    "competition_ratio": 45.67,
+    "student_strength": "소묘와 디자인 양쪽의 전체적인 완성도와 정리감, 꽁치의 여러가지 시점과 블럭의 형태 관찰이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "블럭을 소묘하면서 형태를 관찰했는데 블럭 낱개를 쌓아놓은게 아니라 여러 개가 한 줄로 이어져있는 부분이 보여서 디자인 쪽에서도 해당 형태가 잘 보일 수 있도록 스케치했고, 꽁치는 생물이기 때문에 최대한 얼굴 쪽을 강조해서 생동감 있게 표현하려고 했습니다."
+  }
 }

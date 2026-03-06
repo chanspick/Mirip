@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2707_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:58:41.906261+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2707"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2707",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 출제 문제는 물병과 테니스공이였습니다. 문제를 받고 연습했던 것 보다",
+    "practice_years": 2.0,
+    "competition_ratio": 10.06,
+    "student_strength": "합격 주요인은 멘탈 관리 였던 것 같습니다. 선생님들께서 멘탈 관리에 도움을 주셨고, 하기 싫다는 마음이 들어도 마음 가짐을 바꾸려고 노력하였던 게 생각이 납니다.",
+    "teacher_feedback": "선생님들께 밤 늦게까지 스케치 연습한 것들과 타원 연습 한 그림들을 보내며 피드백을 박고 틀린 것들을 고치면서 잠을 줄여가며 실기준비를 하였습니다..",
+    "ideation_process": "문제를 받고 연습했던 것 보다 빠르고 정확하게 시간을 정하여 실기에 임했으며, 스케치는 30분 안으로 끝내고 빈 곳 없이 초벌과 중벌을 1시간 안에 끝내 남은 시간 동안 물체들의 묘사에 집중하였고 원경에 있는 물체까지 놓치지 않고 묘사하였습니다."
+  }
 }

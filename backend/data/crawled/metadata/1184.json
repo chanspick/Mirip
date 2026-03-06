@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1184_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:50:40.339449+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1184"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1184",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "<인간이 만든 물건으로 구축된 문화는 항상 화를 자초할 위험이 도사리고 있다.> 라는 문장을 주제로 두고, 인간이 만든 돌도끼, 수류탄, 총, 검 총 4가지의 도구가 인간 뿐 만아니라 자연까지 괴롭게 하고 있다고 풀이했다. 나아가 또 어떤 것을 해롭게 할지 모르는 위험성에 대해 자각해야 한다고 풀어나갔다.",
+    "practice_years": 3.0,
+    "competition_ratio": 11.93,
+    "student_strength": "전임 선생님께서 가르쳐주신 방향과 방식을 따르는 것도 중요하지만, 가장 중요한 것은 자기 자신의 의지라고 생각한다. 성실하게 꾸준히 입시에 전념하다 보면 합격한 자신을 볼 수 있다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "나아가 또 어떤 것을 해롭게 할지 모르는 위험성에 대해 자각해야 한다고 풀어나갔다."
+  }
 }

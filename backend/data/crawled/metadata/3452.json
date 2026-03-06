@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3452_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:32:51.541023+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3452"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3452",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "테이프와 박스로 탁상용 시계를 만드는 문제였는데 학원에서 시계를 만들어본 기억을 떠올려 문제를 풀었습니다. 탁상시계 중 구조적인 시계를 생각하다가 괘종시계를 가장 먼저 떠올렸습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 16.87,
+    "student_strength": "시험장에서도 평소처럼 그려내고 문제를 끝까지 파고든 점 때문에 합격할 수 있었다고 생각합니다. 그림을 잘 그리는 사람은 많지만 출제의도까지 파악하면서 그리는 사람은 많지 않기 때문에 그런 부분에서 차별점을 만들었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "탁상시계 중 구조적인 시계를 생각하다가 괘종시계를 가장 먼저 떠올렸습니다. 제시 사물을 분석해 봤을 때에도 테이프는 '찌익' 뜯어서 사용하는 제품이니까 유연한 곡선의 느낌/붙여져있는 느낌을 살리고, 상자는 열고 닫는, 안에 무언가를 담을 수 있다는 특징을 살려 상자의 열린 모습을 디자인에 적용시켰습니다."
+  }
 }

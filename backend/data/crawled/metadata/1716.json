@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1716_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:15:12.363362+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1716"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1716",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "도시에서 정체불명의 무언가가 나왔을 때 구석까지 몰린 상황의 다음 장면을 상상해서 그리는 거였고 열심히 생각했던 것 같습니다",
+    "practice_years": 1.5,
+    "competition_ratio": 9.74,
+    "student_strength": "학원에서 가르쳐 주시는 부분들이 매우 도움이 되었다고 생각합니다.",
+    "teacher_feedback": "선생님께서 저의 상태를 파악하여, 장점은 키워주시고 부족한 영역에 대해 많이 알려주셨습니다.",
+    "ideation_process": null
+  }
 }

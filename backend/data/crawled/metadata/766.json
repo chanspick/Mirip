@@ -13,5 +13,14 @@
     "data/crawled/raw_images/766_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:32:17.253805+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=766"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=766",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "울산대는 예상 주제가 미리 발표되어 있어 학교여서 출제되어 있는 주제를 미리 연습해보았습니다 제시 물이 뭐가 나올지 모르는 다른 학교들에 비해 시험 당일 당황하지 않고 평소에 연습했던 대로 구성하고 완성도에 집중을 하였다",
+    "practice_years": 3.0,
+    "competition_ratio": 7.75,
+    "student_strength": "실기시험 전날까지 예상 주제의 개체 제시물을 연습한 것이 시험 당일 깔끔한 마무리에 도움이 되어 합격의 주요 요인이라 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": "제시 물이 뭐가 나올지 모르는 다른 학교들에 비해 시험 당일 당황하지 않고 평소에 연습했던 대로 구성하고 완성도에 집중을 하였다"
+  }
 }

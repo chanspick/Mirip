@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1120_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:47:55.190529+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1120"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1120",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "20대 여자모델이였습니다. 측면에서의 기울기, 삼각형모양의 긴 목의 비례, 0.7정도의 하안부에 턱 비례가 매우 짧은, 올라간 눈, 우 한듯한 표정의 양있는 입술등 특징이 많아서 이미지를 잡기가 쉽겠다고 생각했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 12.9,
+    "student_strength": "같이 입시를 준비하는 학생들의 작품들도, 선생님의 팁들도 학원생들이 자유롭게 볼 수 있게 정리되어있어서 보고 배울 수 있는 좋은 예시작이 굉장히 많았습니다. 올려놓은 실기영상과 제가 직접 조소하는 영상을 찍어보고 그것을 손동작 하나하나까지 비교해 보거나, 무턱대고 일단 따라해보라고 해주셨던 말이 큰 도움이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 예상대로 초반부터 닮기가 빠르게 나오기 시작해서 남은 시간에 사진을 하나하나 분석하며 모델의 세부적인 부분까지 닮기를 계속 찾으려고 노력했습니다."
+  }
 }

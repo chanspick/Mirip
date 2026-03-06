@@ -13,5 +13,14 @@
     "data/crawled/raw_images/442_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:18:30.389218+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=442"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=442",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "통신기기와 단절 이였고, 학원에서 거의 비슷한 문제로 그렸던 적이 있어서 수월하게 풀어나갔습니다. 노력과 운은 비례하는 것 같다고 생각했습니다.",
+    "practice_years": 1.67,
+    "competition_ratio": 9.0,
+    "student_strength": "주위 환경에 휩쓸리지 않고 성적을 포기하지 않은 점과, 많은 주제를 그려본 것이 유효했던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다."
+  }
 }

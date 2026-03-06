@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3574_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:38:44.363790+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3574"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3574",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 마이크와 넥타이, 압정이었습니다. 문제를 받고 가장 먼저 한 것은 주제부의 물체를 정하는 것이었습니다.",
+    "practice_years": null,
+    "competition_ratio": 4.6,
+    "student_strength": "물체의 특성을 살리려고 하였고 시간 안에 할 수 있는 최대한의 완성을 하려고 한 점이라고 생각합니다. 또한 평소 연습했던 그림들을 계속 생각하며 일관성 있게 그릴 수 있도록 하였습니다.",
+    "teacher_feedback": "선생님들이 해주신 피드백을 고칠 수 있도록 노력하고 부족한 문제들을 어떻게 개선할 수 있을지 계속 생각하였습니다.",
+    "ideation_process": "문제를 받고 가장 먼저 한 것은 주제부의 물체를 정하는 것이었습니다. 이때 선생님들이 항상 강조하는 점들을 계속 생각하며 주제부와 부주제부를 선정하였고 물체들을 적절한 구도에 배치하며 화면을 채울 수 있도록 하였습니다."
+  }
 }

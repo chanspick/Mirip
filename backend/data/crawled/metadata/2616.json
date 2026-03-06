@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2616_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:34.582296+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2616"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2616",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "다양한 사람들이 모여 밥을 먹는 함바집을 그리는 문제였습니다. 중심인물에게 시선이 흐를 수 있도록 빛을 연출하고 글의 분위기를 표현해낼 수 있는 명도를 중요하게 생각하면 문제를 풀어나갔습니다.",
+    "practice_years": 7.0,
+    "competition_ratio": 12.0,
+    "student_strength": "의도적으로 만들어 준 빛의 흐름을 좋게 봐주신 것 같습니다.",
+    "teacher_feedback": "피드백을 받는 수업이라 생각합니다.",
+    "ideation_process": "중심인물에게 시선이 흐를 수 있도록 빛을 연출하고 글의 분위기를 표현해낼 수 있는 명도를 중요하게 생각하면 문제를 풀어나갔습니다."
+  }
 }

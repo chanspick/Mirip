@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2609_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:16.059557+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2609"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2609",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "색종이와 가위가 나왔습니다. 문제를 받고서 이미 연습해 보았던 주제들이어서 처음엔 크게 어려움이 없었습니다.",
+    "practice_years": 1.92,
+    "competition_ratio": 3.5,
+    "student_strength": "무조건 선생님 말을 따르는 게 가장 빠르고 확실하게 실력을 키울 수 있는 방법인 것 같습니다. 저도 처음엔 고집을 부렸지만 어느 순간 군말 없이 따르게 되니 보다 수월하게 좋은 그림을 그릴 수 있었던 것 같습니다.",
+    "teacher_feedback": "피드백을 더 받은 적도 있었고, 이 그림은 끝까지 꼭 완성하고 싶다거나 완성도로는 피드백이 없을 정도로 열심히 해보고 싶은 그림이 있으면 일찍 나와서 더 그리기도 했습니다.",
+    "ideation_process": "문제를 받고서 이미 연습해 보았던 주제들이어서 처음엔 크게 어려움이 없었습니다. 형태력이 부족했던 저에겐 가위에서 형태를 최대한 틀리지 않기 위해 무난한 시점을 선택했고, 색종이에서 재미를 주기 위해 다양한 형태를 그렸습니다."
+  }
 }

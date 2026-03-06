@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3012_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:12:27.650059+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3012"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3012",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "참외, 손톱깎이, 스프레이 공병이 나왔습니다. 각 사물을 메인에 뒀을 때 어떻게 그려야할까 생각했고 무슨 사물을 주제에 두던지 제일 잘 그릴 수 있는가를 생각했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 21.28,
+    "student_strength": "매일 올라오는 수업 스케줄로 하루에 얼마나 많은 그림을 그릴 수 있는지 알 수 있었고, 때에 따라 필요한 수업들을 추가해주셔서 부족한 건 바로 보완할 수 있고 잘 하는 건 더 보기 좋게 그릴 수 있었던 것 같습니다. 단계별 트레이닝을 통해 부족한 단계를 보완할 수 있어서 좋았습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 공병을 크게 그려서 참외가 쏟아지고 손톱깎이로 참외를 깨무는 동사형을 잡았습니다."
+  }
 }

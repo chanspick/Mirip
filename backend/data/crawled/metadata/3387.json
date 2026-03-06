@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3387_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:29:45.043914+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3387"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3387",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "노리개와 홀로그램 컵 두개가 나왔는데, 우선 연출을 화려하게 하는것이 조금 어렵겠다 생각하여 주어진 개체를 표현하는데에 집중했던 것 같습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 7.95,
+    "student_strength": "주어진 조건을 다 잘 지킨 요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는데에 집중했던 것 같습니다. 주변에서 아무리 화려하게 그려도 휘말리지 않고 저는 저대로 그렸어요."
+  }
 }

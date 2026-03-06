@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1849_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:21:04.913082+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1849"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1849",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "남서울대에서는 바닷가재와 핀으로 부드러움을 표현하라는 문제였는데, 핀으로 뼈대와 부드러운 흐름을 나타내고 바닷가재를 주제부로 앞으로 돌출되는 표정을 보여주려했습니다. 문제은행 학교이다보니 미리 연습을 많이 해봤기에 연습한만큼 표현하려고 했습니다.",
+    "practice_years": 4.75,
+    "competition_ratio": 8.04,
+    "student_strength": "주제어 풀이가 가장 중요하다고 생각합니다.",
+    "teacher_feedback": "선생님이 해주시는 말씀 하나하나를 기억해서 고쳐나가려했고 집에서도 혼자 많이 그려보거나 그림자료를 자주 찾아보고 써먹을 수 있는 건 전부 써보려고했습니다.",
+    "ideation_process": "표현하라는 문제였는데, 핀으로 뼈대와 부드러운 흐름을 나타내고 바닷가재를 주제부로 앞으로 돌출되는 표정을 보여주려했습니다. 문제은행 학교이다보니 미리 연습을 많이 해봤기에 연습한만큼 표현하려고 했습니다."
+  }
 }

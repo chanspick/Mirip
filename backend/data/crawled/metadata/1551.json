@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1551_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:07:28.046970+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1551"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1551",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "드론 컨트롤러가 나왔고 문제를 받자마자 이와 어울리는 물체와 구도가 뭘까 생각하며 머리로 접목시키며 구도를 짰다.",
+    "practice_years": 3.67,
+    "competition_ratio": 47.48,
+    "student_strength": "대학교가 평소에 원할만한 독특한 상상력을 내보일 수 있는 구도와 주제어가 나오진 않았지만, 내 그림에 재밌는 요소가 많이 숨어있어 합격했다 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

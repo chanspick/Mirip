@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3132_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:17:52.564228+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3132"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3132",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "휴지, 돼지저금통, 커피포트로 '다이나믹 코리아' 를 나타내라 했다. '다이나믹 코리아' 라는 제시어를 보자마자 머릿속에서 풍악이 올려졌고, 풍물놀이를 나타내야겠다는 생각을 했다.",
+    "practice_years": 2.33,
+    "competition_ratio": 12.38,
+    "student_strength": "제시어인 '다이나믹 코리아'에서 다들 다이나믹은 잘 나타냈지만 코리아는 나타내기 어려웠을텐데 나는 코리아의 특성을 잘 살려 합격 할 수 있었던 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "'다이나믹 코리아' 라는 제시어를 보자마자 머릿속에서 풍악이 올려졌고, 풍물놀이를 나타내야겠다는 생각을 했다. 큰 커피포트 속에서 돼지저금통들이 신나게 나오고, 메인 돼지저금통은 휴지를 이용해 상모 돌리기를 표현했다."
+  }
 }

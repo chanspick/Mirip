@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3713_0.png"
   ],
   "crawled_at": "2026-01-27T15:46:53.272625+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3713"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3713",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "'필름, 디지털카메라의 특징과 조형요소를 활용하여 화면을 구성하고 표현하시오.' 라는 문제를 받았습니다. 카메라의 기능적 특성을 활용하여 필름으로 손을 만들어 조작하는 모습을 형상화 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 14.65,
+    "student_strength": "지원학교의 출제되는 문제의 특징을 파악하고, 선생님의 피드백에 맞추어 단점을 극복하려고 한 것이 좋은 결과를 이끌어 낸 것 같습니다.",
+    "teacher_feedback": "선생님의 말씀을 찾아보고 따로 정리해둔 것들이 매우 큰 도음이 되었습니다..",
+    "ideation_process": "표현하시오.' 라는 문제를 받았습니다. 카메라의 기능적 특성을 활용하여 필름으로 손을 만들어 조작하는 모습을 형상화 했습니다."
+  }
 }

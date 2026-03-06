@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1491_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:04:43.771983+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1491"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1491",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "호서대- 문제은행 학교이지만 화면을 구성할 때도 신경을 많이 썼습니다. 믹서기와 나팔꽃의 조형을 가장 우선적으로 생각했고, 면적대비를 통해 대비감을 주었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 9.25,
+    "student_strength": "마지막까지 기본기를 생각했고 정말 '누구보다 동사형을 잘 보이게 그리자'라는 생각으로 그렸습니다. 양감을 빵빵하게 살리려 했고 이미지를 관찰하면서 작은 디테일까지 다 찾으려고 노력했습니다. 무엇보다 정말 끝까지 최선을 다해서 그리려고 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "믹서기와 나팔꽃의 조형을 가장 우선적으로 생각했고, 면적대비를 통해 대비감을 주었습니다. 믹서기 날에 나팔꽃이 스쳐서 꽃잎이 날아가는 동사형을 연출했습니다."
+  }
 }

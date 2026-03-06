@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1115_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:47:41.327592+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1115"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1115",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "문제는 \"면접에서 다음차례를 대기하며 마음을 다잡는 20대후반 남성을 제작하시오\"였고 전날 자신이 자신있던 표정 5가지 연습중 한 표정을 거의 그대로 만들었었어요. 입을 꾹 다물고 아래를 바라보며 다짐하는 그런 표정을 보여주려고 하였고 해부학적으로 조금 강하게 잡아서 일단 제가 아는 건 다",
+    "practice_years": 1.17,
+    "competition_ratio": 16.08,
+    "student_strength": "기노트 강박증같은게 있어서 어렸을때부터 뭔가를 배우면 무조건 노트에 정리를 해서 머리로 이해를 해야지 몸으로 실천할수있는 스타일이라 배운건 다 실기노트를 만들어서 정리를 해놨었어요.",
+    "teacher_feedback": "선생님들께서 정말 체계적으로 초반 10분 부터 하나하나 쪼개서 잡아주셔서 정말 많이 늘었고 모르는게 있으면 바로바로 시범 보여주시고 실기할때 꿀팁같은걸 많이 알려주셔 정말 좋았어요.",
+    "ideation_process": "입을 꾹 다물고 아래를 바라보며 다짐하는 그런 표정을 보여주려고 하였고 해부학적으로 조금 강하게 잡아서 일단 제가 아는 건 다 보여주고 오자 라고 생각했었어요."
+  }
 }

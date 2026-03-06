@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3095_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:16:12.727922+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3095"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3095",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "여러 부품들과 스피커 우퍼로 탁상용 스피커를 만드는 문제였고 구조적인 부분을 정확하게 표현하면서도 작은 볼거리들을 추가하여 심심하지 않도록 그렸습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 4.12,
+    "student_strength": "선생님께서 부족한 부분을 지적만 하지 않으시고 어떻게 보완해 나가야 하는지 구체적인 방향성을 잡아 주셨고, 그 피드백을 시험장에서 빼먹지 않고 적용한 것이 좋은 결과를 만들 수 있었던 것 같습니다.",
+    "teacher_feedback": "피드백 받는 형식으로 준비하였습니다..",
+    "ideation_process": "표현하면서도 작은 볼거리들을 추가하여 심심하지 않도록 그렸습니다."
+  }
 }

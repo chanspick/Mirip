@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1387_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:59:53.000898+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1387"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1387",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "주황색 용기와 뚜껑, 글루건심으로 아웃포커싱 기법을 사용하여 '만날 생각에 수줍은...' 을 표현",
+    "practice_years": 2.5,
+    "competition_ratio": 5.82,
+    "student_strength": "느리더라도 꾸준히 지적받은 단점을 고치고 장점을 살려 그린 것이 가장 영향을 끼쳤다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

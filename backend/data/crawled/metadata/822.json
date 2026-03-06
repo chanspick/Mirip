@@ -13,5 +13,14 @@
     "data/crawled/raw_images/822_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:34:49.672789+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=822"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=822",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 14.93,
+    "student_strength": null,
+    "teacher_feedback": "선생님들로부터 배운 것들을 따라하는 것에서 그치지 않고, 어떻게 나의 그림에서 자기화해 활용할 수 있을까 고민했습니다.",
+    "ideation_process": null
+  }
 }

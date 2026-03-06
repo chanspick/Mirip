@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1709_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:14:52.497149+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1709"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1709",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "대나무 광목천과 유리구슬이였는데 사실 세가지 개체 모두 수업시간에 선생님 시범을 보며 익혀 왔더터라 사물이 까다롭지 않았습니다. 대신 유리구슬을 통한 굴절과 대나무의 형태에 조금더 집중하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 23.06,
+    "student_strength": "평소 수업시간에 선생님 말씀을 듣고 대나무시범을 보면서 대나무의 형태 및 특징적인 부분을 습득하였고 유리구슬에 대한 굴절 및 표현에 있어서도 수업을 진행했었기 때문에 마치 미리 준비한것처럼 조금은 쉽게 풀어낼 수 있었습니다. 그게 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "대신 유리구슬을 통한 굴절과 대나무의 형태에 조금더 집중하였습니다."
+  }
 }

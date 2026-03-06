@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2465_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:47:53.651284+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2465"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2465",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "자신이 했던 거짓말이 얼굴에 나타나기 시작한 순간이라는 주제가 나왔습니다. 거짓말을 하는 주인공의 표정을 중심으로 표정만 가리면 아무도 거짓말을 눈치 채지 못한다는 내용으로 스토리를 짰었습니다",
+    "practice_years": null,
+    "competition_ratio": 14.11,
+    "student_strength": "운도 있는 것 같지만 남들과 다른 독특한 스토리가 합격에 큰 도움이 됐다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "거짓말을 하는 주인공의 표정을 중심으로 표정만 가리면 아무도 거짓말을 눈치 채지 못한다는 내용으로 스토리를 짰었습니다"
+  }
 }

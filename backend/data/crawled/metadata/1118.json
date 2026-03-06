@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1118_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:47:49.503146+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1118"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1118",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "문제를 받고 어떻게 발상하여 풀어나갔는가? 줄자, 안경, 호일접시가 나와서 선의 활용도를 높여주기 위해서 줄자를 사용해 공간을 만들고 선의 굵기나 길이를 다양하게 사용하였다. 주제부는 눈에 띄기위해 무채색으로 채색하되, 주제부와 줄자를 웜톤과 쿨톤으로 구분해주었다.",
+    "practice_years": 3.0,
+    "competition_ratio": 19.0,
+    "student_strength": "학원 담임선생님께서 강조하신 내용을 그림에 담기위해 노력했다.",
+    "teacher_feedback": null,
+    "ideation_process": "발상하여 풀어나갔는가? 줄자, 안경, 호일접시가 나와서 선의 활용도를 높여주기 위해서 줄자를 사용해 공간을 만들고 선의 굵기나 길이를 다양하게 사용하였다. 주제부는 눈에 띄기위해 무채색으로 채색하되, 주제부와 줄자를 웜톤과 쿨톤으로 구분해주었다."
+  }
 }

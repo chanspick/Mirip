@@ -13,5 +13,14 @@
     "data/crawled/raw_images/802_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:33:57.952134+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=802"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=802",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "민무늬 원통형의 usb가습기가 분리되어 나왔고, 연결을 표현하라는 주제였다. ‘연결’이라는 단어에서 연상되는 내용들을 폭넓게 구상해서 현실과 가상공간의 연결이라는 내용을 생각했다.",
+    "practice_years": null,
+    "competition_ratio": 14.19,
+    "student_strength": "두 가지 유형의 실기가 다 부족하면 안�쨈募� 생각으로 부족한 부분을 반복해서 연습했다. 또, 그만큼 선생님이 시범을 해 주시거나 조언을 해 주시면서 자주 챙겨주신 점이 컸다. 그래서 그만큼 완벽하게 할 순 없었지만 비교적 수월하게 할 수 있었던 것 같다.",
+    "teacher_feedback": "선생님이 자주 시범과 많은 자료를 만들어 주시기 때문에 그때 그때 필요한 것을 볼 수 있다는 것이 좋았다.",
+    "ideation_process": "표현하라는 주제였다. ‘연결’이라는 단어에서 연상되는 내용들을 폭넓게 구상해서 현실과 가상공간의 연결이라는 내용을 생각했다."
+  }
 }

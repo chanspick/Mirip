@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2997_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:11:48.140453+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2997"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2997",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "일회용 포장용기와 계량스푼으로 제시어는 중첩이 나왔습니다. 학원에서 다른 모양이지만 계량스푼을 그린 적이 있어 그닥 어렵지 않았습니다.",
+    "practice_years": null,
+    "competition_ratio": 62.92,
+    "student_strength": "시간 분배를 적절히 하고, 주변환경에 흔들리지 않고 집중하는 태도였다고 생각합니다.",
+    "teacher_feedback": "선생님의 피드백을 유의 깊게 듣고 실행하려고 노력했습니다.",
+    "ideation_process": "학원에서 다른 모양이지만 계량스푼을 그린 적이 있어 그닥 어렵지 않았습니다. 포장용기의 질감과 물성을 살리는 것에 중점을 뒀습니다."
+  }
 }

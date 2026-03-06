@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3036_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:13:30.911504+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3036"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3036",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "해파리와 고양이를 조합해서 반려 로봇을 만들고, 반려 로봇이 어린이와 함께하는 상황을 표현하라는 문제였습니다. 저는 아이디어 스케치를 하기 전 10분동안 문제를 해석하며 출제자의 의도를 파악해보려고 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.6,
+    "student_strength": "문제 해석을 잘 했고 로봇에 기능을 줘서 조금 더 발상적으로 표현한 것이 차별성이 있었던 것 같습니다. 기출문제를 기반으로 학교가 원하는 그림 스타일을 파악하는게 중요하다고 생각하는데, 21년도 기출에서 질감표현을 강조했기 때문에 이번 문제에서도 출제자의 의도를 간파하고 고양이 털 질감 표현을 성실히 한 것이 합격 요인 중 하나였던 것 같습니다.",
+    "teacher_feedback": "선생님께서 나눠주신 문제지를 풀고, 완성 후에 평가받은 내용을 기반으로 보완해서 스케치를 하나 더 해보는 식으로 준비했습니다.",
+    "ideation_process": "생각했습니다. 저는 처음에 아이와 함께 뛰어노는 로봇, 요리하는 로봇, 아이를 재우는 로봇 등을 떠올렸는데 그중에서도 아이를 재우는 로봇을 그리게 되었습니다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2036_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:29:13.556575+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2036"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2036",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "상명대에서는 삼선 슬리퍼와 멀티탭이 나왔고, 한밭대에서는 스톱워치, 청진기, 와인, 와인잔이 나왔으며, 각 사물을 점, 선, 면으로 생각하여 기본 조형으로서 할 수 있는 역할과 각 사물의 기능 등을 분석해 그에 맞는 조화를 찾아냈습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "항상 저와 제 그림을 의심하며 겸손하려 노력했고, 모든 그림에서 배울 점을 찾았습니다. 또한 제 자신의 그림에 대한 기대치와 기준점을 최대한 높여 항상 그 기준점에 도달하기 위해 노력하며 연습했던 것이 합격하는데 큰 도움이 된 거 같습니다.",
+    "teacher_feedback": "선생님들의 피드백을 종합하여 그림을 보완해가며 부족한 점을 찾았고, 항상 기본에 충실하려 노력했습니다..",
+    "ideation_process": null
+  }
 }

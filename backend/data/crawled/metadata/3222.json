@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3222_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:21:54.336175+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3222"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3222",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 얼굴을 찡그린 채로 고개를 틀고 있는 중년 여성의 사진이었습니다. 8각도 사진들 중 정면과 측면 사진이 없어 처음 시험문제를 접했을 때는 조금 당황하였으나 평소 학원에서 연습한 대로 침착하게 문제를 풀어나갔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 9.5,
+    "student_strength": "학원에서 이미 다양한 표정과 다양한 동세들은 물론이며 이외에도 정말 창의적인 문제들로 미리 연습해 본 덕에 시험장에서 긴장하지 않은 채로 시험에 임할 수 있었고, 정면과 측면 사진이 없이도 모델의 양을 정확히 맞출 수 있도록 지도해 주셔서 조금 더 수월하게 문제를 풀었던 거 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "8각도 사진들 중 정면과 측면 사진이 없어 처음 시험문제를 접했을 때는 조금 당황하였으나 평소 학원에서 연습한 대로 침착하게 문제를 풀어나갔습니다."
+  }
 }

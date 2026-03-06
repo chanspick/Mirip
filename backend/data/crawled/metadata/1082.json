@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1082_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:46:12.597042+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1082"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1082",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "곰돌이 인형과 끈, 크리스마스 트리볼, 슬리퍼가 소재로 나왔습니다. 곰돌이 인형은 여러개 넣는것보다",
+    "practice_years": 3.0,
+    "competition_ratio": 9.8,
+    "student_strength": "학원에서 그냥 그림 1장을 가르쳐주시는게 아니고 그림을 그리는 방법, 원리를 가르쳐 주시기 때문에 어떤 물체든지 어떻게 그려야하나 같은 막막한 생각이 전혀 없어지고, 그림 그리는것이 즐거워졌습니다. 문제풀이는 평소 연습할때 정답에 가깝게 풀이하도록 유도해주시고 그런 연습을 수없이 반복했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 그리고 나머지는 서로 연관성을 짓는것에 중점을두고 그렸습니다."
+  }
 }

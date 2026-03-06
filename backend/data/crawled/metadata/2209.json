@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2209_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:36:43.099114+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2209"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2209",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "“주제는 스마트폰으로 대화를 잃은 가족의 모습” 이 나왔습니다. 이 주제를 처음 봤을때, 스마트폰으로 대화를 잃는다면 누가 가장 힘들어할까 생각을 하다가 학교에서 따돌림 당하는 아이가 가족들의 스마트폰중독으로 필요한 관심을 못받는다면? 하는 생각이 들었습니다.",
+    "practice_years": null,
+    "competition_ratio": 6.29,
+    "student_strength": "만화학원 선생님께서 대학별로 실기준비를 시켜주셨고 시험장에서 스토리의 반전이나 하이라이트 부분과 그림의 밀도가 높았던 것 덕분인 것 같습니다.",
+    "teacher_feedback": "선생님들의 시범과 강평과 조언으로 그 부분을 신경 쓸 수 있었습니다..",
+    "ideation_process": "이 주제를 처음 봤을때, 스마트폰으로 대화를 잃는다면 누가 가장 힘들어할까 생각을 하다가 학교에서 따돌림 당하는 아이가 가족들의 스마트폰중독으로 필요한 관심을 못받는다면? 하는 생각이 들었습니다. 그렇게 저는 가족들이 핸드폰을 하다가 주인공이 집에서 사라진 것을 뒤늦게 알고 찾아다니고, 주인공의 따돌림 사실을 알게되며 그 이후로 가족들이 핸드폰을 내려놓고 주인공을 도와주며, 이후 정상적인 가족의 모습이 되는 스토리를 표현했습니다."
+  }
 }

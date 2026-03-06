@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2604_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:02.959874+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2604"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2604",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "에어팟과 완두콩이었는데 한번도 안해본구성이여서 놀랏지만 빠르게 하던구성대로 구성하여 풀어갔다",
+    "practice_years": 2.0,
+    "competition_ratio": 5.9,
+    "student_strength": "너무 특이한 묘사나 구도보단 안정감있는 구도와 단단한 덩어리가 합격의 중요한 요인같다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

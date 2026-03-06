@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3858_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:54:47.935083+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3858"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3858",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "마요네즈와 캐릭터가 그려진 수저 세트의 조형적특성을 활용하여 구성 및 표현하라는 문제였습니다. 단순한 수저세트가 아닌 디테일이 많은 개체가 제시 된 것으로 보아 수저세트의 세부적인 디테일을 강조하는 것이 유리한 풀이가 될 것 같다고 생각했습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 35.0,
+    "student_strength": "짧은 고사시간 특성상 주변을 둘러 봤을 때 마요네즈 물성표현이 주가 되는 그림이 많았고, 캐릭터 프린팅의 디테일을 챙긴 그림은 거의 없었습니다. 이러한 점에서 캐릭터 수저세트의 세부적인 디테일을 꼼꼼히 표현한 것이 가산점이 된 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 마요네즈의 물성을 적극적으로 활용하고 포크의 형태를 정확하게 표현하려고 노력했습니다."
+  }
 }

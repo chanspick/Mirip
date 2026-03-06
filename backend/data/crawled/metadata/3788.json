@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3788_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:50:54.764939+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3788"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3788",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "생전 처음보는 물체가 나와서 당황하고 시작했었어요. 연필은 많이 그려봐서 익숙했는데 파란색 입체 도형은 단순하게 보일 수도 있겠다",
+    "practice_years": 1.5,
+    "competition_ratio": 9.53,
+    "student_strength": "실기 준비할 때 전임 선생님께서 알려주신 내용을 꼭 기억하고 다음번 그림을 그릴 때 따라했던 방법이 실기력을 높일 수 있었어요. 시점 별로 스케치 해오는 숙제가 있었는데 구도 잡을 때나 제가 원하는 시점으로 연출할 때 활용할 수 있어서 시험장에서 누구보다 빨리 스케치를 뜰 수 있었어요.",
+    "teacher_feedback": "선생님들이 알려주시는 꿀팁들 필기를 열심히 했어요.",
+    "ideation_process": "연필은 많이 그려봐서 익숙했는데 파란색 입체 도형은 단순하게 보일 수도 있겠다 싶었어요."
+  }
 }

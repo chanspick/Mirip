@@ -13,5 +13,14 @@
     "data/crawled/raw_images/850_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:36:00.676036+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=850"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=850",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "당시 주제가 태풍이 일어난 직후 그 장소에 서있는 상황을 그리는 것이었는데 처음에는 생각이 나지 않아 잠시 막혔지만 평소 연습했던 것들을 최대한 활용해서 주제가 잘 보이게 한다는 것을 중점으로 했습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 8.0,
+    "student_strength": "시험을 보기 전에 선생님이 말씀해 주셨던 문제점들을 생각했습니다 시험을 보면서도 계속 실수 하던 것들을 조심하면서 배웠던 것을 최대한 활용했던게 관건이었다고 생각합니다.",
+    "teacher_feedback": "선생님들이 알려주시는 것들을 최대한 잊지 않고 활용하려고 했고 집에 와서 크로키와 개체연습이나 개인적으로 약한 부분을 중점으로 연습했습니다..",
+    "ideation_process": null
+  }
 }

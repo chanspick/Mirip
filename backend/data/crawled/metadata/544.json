@@ -13,5 +13,14 @@
     "data/crawled/raw_images/544_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:22:48.408891+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=544"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=544",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "병뚜껑과 삼색볼텐이 출제되어 제시물의 조형적 특성과 물성을 활용하여 구성하라고 하였습니다. 병뚜껑의 반사와 삼색볼펜의 3가지 색깔을 활용하여 화면을 구성하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 9.07,
+    "student_strength": "건국대에서 요구하는 문제를 정확하게 그림에 잘 보여주는것이 중요한 것 같습니다. 건국대는 항상 제시물의 물성특징 및 조형성을 중요시 여기는 학교이기 때문에 이부분을 집중 공략하는 것이 좋은 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "병뚜껑의 반사와 삼색볼펜의 3가지 색깔을 활용하여 화면을 구성하였습니다."
+  }
 }

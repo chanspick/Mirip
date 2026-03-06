@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1309_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:56:11.240631+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1309"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1309",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "경성대는 꽃, 밧줄, 거울이였고 영남대는 오이, 지퍼, 물이든 컵 이였습니다 나온 물체들의 연관성을 생각하며 각 특징들을 잘 보일 수 있도록 풀어나갔습니다",
+    "practice_years": 2.83,
+    "competition_ratio": 9.1,
+    "student_strength": "평소 어렵다고 생각했던 부분들을 선생님들께 질문하여 도움받아 시험전에 많이 연습해 갔었고 문제를 받은 후 출제문제들의 특징을 먼저 생각해 본 후 풀어나간 것이 합격에 도움이 되었다고 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": "나온 물체들의 연관성을 생각하며 각 특징들을 잘 보일 수 있도록 풀어나갔습니다"
+  }
 }

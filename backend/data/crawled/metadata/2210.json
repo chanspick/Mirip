@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2210_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:36:45.648158+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2210"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2210",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 9.53,
+    "student_strength": "선생님을 믿고 따른, 그 믿음을 보여준 평촌가우디를 선택한 것이 합격의 노하우 아닐까 싶습니다",
+    "teacher_feedback": "선생님들께서 지적해 주신 부분을 고치려고 노력하며 매번 그림의 부족한 부분을 분석하려고 했습니다.",
+    "ideation_process": null
+  }
 }

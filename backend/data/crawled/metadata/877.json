@@ -13,5 +13,14 @@
     "data/crawled/raw_images/877_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:37:09.484622+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=877"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=877",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 출제문제는 빨간색 줄자와 커터칼이 나왔습니다. 그리고 이들의 관계성을 나타내라는 주제어가 나왔습니다.",
+    "practice_years": null,
+    "competition_ratio": 26.6,
+    "student_strength": "실기력 기본적으로 당연히 되어야 하고, 내신공부도 중요하구나 라는걸 �틈騁努윱求�. 또 실기장에서 출제의도를 잘 분석해서 얼마나 실기주제를 똑똑하게 풀어나갔는가 가 합격의 주 요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 그래서 커터칼과 줄자의 관계성이라는 주제어를 살리면서 선제를 예쁘게 쓸 수 있을만한 것을 생각하다가 줄자를 반을 갈라 열었습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1971_0.png"
   ],
   "crawled_at": "2026-01-27T14:26:22.704333+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1971"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1971",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "“긴장감”이라는 키워드와 각 물체의 특성을 생각하여 집게로 인해 에어캡이 찢어지기 직전까지 당져지고, 에어캡의 공기주머니가 뾰족한 볼펜심에 의해 터지기 직전인 상황을 표현하였습니다. 또, 문제 중 “창의적”이라는 단어가 있어 불안한 마음에 발상을 더해 “새가 지키는 알이 공격당하는 긴장되는 상황”까지 표현하였습니다.",
+    "practice_years": 1.67,
+    "competition_ratio": 5.52,
+    "student_strength": "국민대학교는 그림 테크닉보다는 문제 분석 및 조건 지키기가 더 중요하다고 생각하기 때문에 문제 의도 파악에 힘썼습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "발상을 더해 “새가 지키는 알이 공격당하는 긴장되는 상황”까지 표현하였습니다. 디자인과보다"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/614_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:25:47.284757+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=614"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=614",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "비닐장갑, 고무줄을 실물로 주고 ‘혁신적 변화’를 표현하라는 주제였습니다. 제가 생각하는 ‘혁신적 변화’는 비닐장갑을 어떠한 기능을 가진 물체로 변화시켜 획기적인 일을 하는 것이라고 생각했고, 그것을 토대로 문제를 풀어나갔습니다.",
+    "practice_years": 1.75,
+    "competition_ratio": 7.42,
+    "student_strength": "학원 선생님들의 평가와 조언을 명심하여 시험장에서 그렸던 것, 평소에 약했던 부분의 개체묘사를 열심히 하거나 보았던 것이라고 생각합니다.",
+    "teacher_feedback": "선생님의 조언과 미대입시 잡지, 핀터레스트 등을 통해 표현이나 구도 등을 참고해 제 그림에 반영하려고 노력했습니다..",
+    "ideation_process": "표현하라는 주제였습니다. 제가 생각하는 ‘혁신적 변화’는 비닐장갑을 어떠한 기능을 가진 물체로 변화시켜 획기적인 일을 하는 것이라고 생각했고, 그것을 토대로 문제를 풀어나갔습니다."
+  }
 }

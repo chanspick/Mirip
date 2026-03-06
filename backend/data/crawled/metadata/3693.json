@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3693_0.png"
   ],
   "crawled_at": "2026-01-27T15:45:49.506413+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3693"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3693",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "야구공과 페인트 붓이 제시물로 나왔고 통일과 변화에 기초하여 야구공과 페인트붓의 상관관계를 연출하려 노력했습니다.",
+    "practice_years": 2.08,
+    "competition_ratio": 5.86,
+    "student_strength": "결국엔 사물을 같은 시간내에 누가 더 빠르고 정확하게 그려내는냐는 것과 사물과 사물의 연관성을 어떻게 연출할 것인가가 가장 중요하다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

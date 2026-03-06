@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1711_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:14:58.191505+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1711"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1711",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "호박과 판사봉 붓 팔레트가 나왔는데요 각 물체가 가지고 있는 특성을 파악해서 구도를 짜고 망치가 호박을 쳐서 물감과 호박 조각이 역동적으로 튀어나오는 것을 표현하려고 했습니다",
+    "practice_years": 5.0,
+    "competition_ratio": 10.86,
+    "student_strength": "개체 자체의 깔끔함과 개체의 선명도에 집중해서 밑 색을 깔고 외각 정리를 하여 선명한 그림을 그리려고 노력했습니다.",
+    "teacher_feedback": "선생님이 저의 부족한 부분을 피드백해 주시면 다음날 최대한 빨리 와서 미흡했던 부분을 고칠 수 있을 때까지 반복 연습했습니다.",
+    "ideation_process": "각 물체가 가지고 있는 특성을 파악해서 구도를 짜고 망치가 호박을 쳐서 물감과 호박 조각이 역동적으로 튀어나오는 것을 표현하려고 했습니다"
+  }
 }

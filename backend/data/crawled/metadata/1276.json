@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1276_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:54:42.017542+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1276"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1276",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "94마스크를 턱까지 착용한 30대 남자 문제를 받고 너무 당황했지만 학원에서 평소에 연습하던데로 침착하게 이문제를 출제한 의도가 무었이며 무었을 보려고 하는가 등을 파악한 후 실기 시험에 차분하게 임했다",
+    "practice_years": 4.0,
+    "competition_ratio": 7.27,
+    "student_strength": "4시간이라는 길면 길고 짧으면 짧은 시간동안 내 작품에 빠져들지 않고 최대한 객관적으로 평가하는 사람의 시선으로 바라보려고 노력하며 제작해 나갔다 욕심부리지 않고 평소 배우던대로 잘 과정을 밟아 나가서 안정적인 완성까지 가서 최초합격 할수 있었다고 생각한다",
+    "teacher_feedback": "선생님들의 피드백을 수용하며 같이 문제점을 풀어 나가는 노력을 많이했다 평소에 하는 모든 수업을 필기노트에 꼼꼼하게 기록하며 무었을 잘했고 어떤점이 아쉽고 더 발전하려면 어떤노력을 해야하는지.",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2228_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:37:32.390091+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2228"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2228",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "철 수세미, 붓 커버, 붓, 빨래집게가 제시물이였는데, 사물간의 이야기를 생각하고 최대한 눈에 띄게 보이려 노력했습니다.",
+    "practice_years": 2.83,
+    "competition_ratio": 35.03,
+    "student_strength": "자기 자신의 그림을 객관적으로 보는 노력이 합격의 주요인이었다고 생각합니다. 그림을 그리다보면 ‘나 이정도면 괜찮지 않을까?’ 하고 손놓아버릴 때가 있는데, 저는 제 그림을 볼 때 다른 사람그림인 것 처럼 보고 문제점이 무엇인지 파악해서 고쳐나가려고 노력했습니다.",
+    "teacher_feedback": "선생님께 피드백 받은 내용부터 문제점, 해야하는 것까지 모두 기록해놓고 반복적으로 보며 실기 공부를 했습니다.",
+    "ideation_process": null
+  }
 }

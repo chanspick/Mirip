@@ -13,5 +13,14 @@
     "data/crawled/raw_images/923_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:39:07.956950+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=923"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=923",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "종이공으로 만들수있는 접힌종이 ,의자- 가벼움을 표현하시오(의자는 평면표현만 가능,무채색만 가능, 종이공은 보색대비활용해야함)/ 의자에서 나올수있는 모든 평면형태를 연습지에 그려놓고 최대한 다양하게 나올수있게 적절히 배치 하고 의자에 어울리는 자리에 공을 배치했다. 공이 오래 걸릴것 같아 아는 보색중에 채색잘할수 있는걸로 두가지만 사용하고 가벼움은 그림자로 표현할수 있을것 같았다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.67,
+    "student_strength": "안정적 구도, 뒤지지않는 채색력, 운",
+    "teacher_feedback": "선생님들이 만들어주는 문제, 건대기출..) .이틀에 세장정도 시험.",
+    "ideation_process": "표현하시오(의자는 평면표현만 가능,무채색만 가능, 종이공은 보색대비활용해야함)/ 의자에서 나올수있는 모든 평면형태를 연습지에 그려놓고 최대한 다양하게 나올수있게 적절히 배치 하고 의자에 어울리는 자리에 공을 배치했다. 공이 오래 걸릴것 같아 아는 보색중에 채색잘할수 있는걸로 두가지만 사용하고 가벼움은 그림자로 표현할수 있을것 같았다."
+  }
 }

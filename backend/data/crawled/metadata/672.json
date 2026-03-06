@@ -13,5 +13,14 @@
     "data/crawled/raw_images/672_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:28:15.141319+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=672"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=672",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 5.0,
+    "competition_ratio": null,
+    "student_strength": "고3시절 생각보다 낮은 수능 성적에 재수를 하겠다던 제게 할 수 있다며 붙여 주시겠다고 말씀 하신 약속을 믿고 정시를 준비해 상향으로 지원한 대학교에 합격할 수 있었지만 과가 맞지 않아 학교를 다니며 고민하던 중 선생님과 다시 상담을 하고 반수를 도전하기로 결심 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

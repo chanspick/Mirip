@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2137_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:33:36.044565+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2137"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2137",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "100년 후의 미래에 당신의 마을에 있을것 같은 물건(운송기기,제품,집,등 자유롭게) 를 상상하고 디자인하시오. 라는 사실상 자유라고 할수있는 주제가 출제되었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 10.0,
+    "student_strength": "아무래도 실기장에 가서 예상치 못한 주제를 만나게 되면 많이 당황하게 되는데 학원에서 다양한 주제로 수업하여 탄탄하게 대비를 해준 것이 많이 도움이 되었던것 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "라는 사실상 자유라고 할수있는 주제가 출제되었습니다. 문제를 받자마자 평소에 수업을 진행하였던 주제 중 미래적인 소재를 선택하여 자신있게 진행하였습니다"
+  }
 }

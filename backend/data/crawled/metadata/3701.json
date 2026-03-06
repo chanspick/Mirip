@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3701_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:46:13.921154+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3701"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3701",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 큐브, 백열전구, 노끈이었습니다. 다양한 색을 보여줄 수 있는 큐브가 주제부에 여러 개 나오게 되면 어지러운 느낌을 줄 것 같아서 주제부에 백열전구를 적극적으로 활용하고 큐브로 포인트를 주었습니다.",
+    "practice_years": null,
+    "competition_ratio": 16.27,
+    "student_strength": "주변 학생들의 그림을 둘러보니, 큐브를 못 그린 학생들은 거의 없었지만 백열전구의 양감 또는 완성도가 거의 나지 않는 학생들이 대다수였습니다. 복잡한 개체인 큐브와 기본소재인 전구의 완성도가 높고 세 가지 개체의 짜임새가 좋아 보였던 것이 합격의 요인이었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "다양한 색을 보여줄 수 있는 큐브가 주제부에 여러 개 나오게 되면 어지러운 느낌을 줄 것 같아서 주제부에 백열전구를 적극적으로 활용하고 큐브로 포인트를 주었습니다. 조각조각 분리할 수 있는 큐브의 특징도 보여주며, 큐브의 채도가 높은 만큼 노끈의 채도를 낮추어 채색하였습니다."
+  }
 }

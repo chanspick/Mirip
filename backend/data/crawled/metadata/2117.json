@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2117_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:32:44.526993+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2117"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2117",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "딸기 나뭇가지 고글로 자유롭게 기초디자인 하시오 생각보다 쉽게 풀려서 평소에 잘 사용하던 구도에서 주제부를 최대한 재미있게 풀어갈려고했고, 손도 최대한 빨리 움직여서 밀도를 최대화 시켰다",
+    "practice_years": 2.5,
+    "competition_ratio": 7.9,
+    "student_strength": "자만하지는 않았지만 더 잘할거라는 자신감을 항상 가졌다 . 그리고 안좋은 결과가 와도 너무 낙담하지않고 나중에 더 잘한다는 마인드를 가졌다",
+    "teacher_feedback": "선생님이 지적하시는걸 항상 마음속에서 생각하며 고치려고 노력했고, 칭찬을 받아도 속으로 계속 부족하다고 생각하며 더 잘하려고 노력했다.",
+    "ideation_process": "쉽게 풀려서 평소에 잘 사용하던 구도에서 주제부를 최대한 재미있게 풀어갈려고했고, 손도 최대한 빨리 움직여서 밀도를 최대화 시켰다"
+  }
 }

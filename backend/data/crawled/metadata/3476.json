@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3476_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:34:00.350937+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3476"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3476",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "가상과 현실이 뒤섞인 세상을 만화로 표현하시오. 저는 스토리를 짜는 것이 자신이 없었기 때문에 실전에서는 스토리에 시간을 쓰지 않고 드로잉과 완성도에 신경을 더 썼습니다.",
+    "practice_years": 1.75,
+    "competition_ratio": 14.81,
+    "student_strength": "학원 선생님께서 청주대는 드로잉을 중요하게 본다고 하셔서 실기 전날까지 드로잉 연습을 했고 그것을 당일에 잘 활용했기 때문에 붙을 수 있었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 저는 스토리를 짜는 것이 자신이 없었기 때문에 실전에서는 스토리에 시간을 쓰지 않고 드로잉과 완성도에 신경을 더 썼습니다."
+  }
 }

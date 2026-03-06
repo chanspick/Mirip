@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1570_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:08:21.178028+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1570"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1570",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "모두 비가변 사물에 기능은 확실하지만 잘 어울리지 않는 사물들이라 비교적 기능을 나타내기 쉬운 손톱깎이들을 잘 보여주고 주제부에 고채도의 연필깎이를 넣어서 잘 보이도록 하려고 의도했습니다. 확대 축소와 공간감을 위해 가위의 손잡이를 확대했고, 작은 요소를 만들기 어려웠지만 어떻게든 동사형과 확대 축소를 보여주기 위해 노력했습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 7.2,
+    "student_strength": "그리드와 조형인 것 같습니다. 평소 모든 그림이 그리드와 조형이 좋은 것은 아니었지만, 합격작에서는 그리드나 조형이 안정적으로 나온 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "확대 축소와 공간감을 위해 가위의 손잡이를 확대했고, 작은 요소를 만들기 어려웠지만 어떻게든 동사형과 확대 축소를 보여주기 위해 노력했습니다."
+  }
 }

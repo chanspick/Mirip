@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2722_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:59:23.436983+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2722"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2722",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "손자의 재롱잔치를 보고있는 80대 할아버지였다. 문제를 보고 최대한 연령대에 맞게, 문제에 맞는 감정이 최대한 잘 드러나게해야겠다고 생각을 하고 접근하였다.또한 명절날 시골로 내려온 손녀의 재롱잔치를 보는 시골 할아버지같은 좀 더 자세한 설정을 부여하여 접근하였다.또한 최대한 하나라도 볼거리를 더 만들어야겠다",
+    "practice_years": 2.92,
+    "competition_ratio": 15.0,
+    "student_strength": "우선 선생님께서 워낙 뽑는 인원이 적기 때문에 작품이 최대한 튀어보일 수 있게 하라는 조언을 해주셨었다.",
+    "teacher_feedback": null,
+    "ideation_process": "접근하였다.또한 명절날 시골로 내려온 손녀의 재롱잔치를 보는 시골 할아버지같은 좀 더 자세한 설정을 부여하여 접근하였다.또한 최대한 하나라도 볼거리를 더 만들어야겠다 생각하여 밀닢모자등의 기물도 만들고,이빨 하나도 빼는 등의 재미요소들을 추가하였다."
+  }
 }

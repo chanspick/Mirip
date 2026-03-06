@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3534_0.png"
   ],
   "crawled_at": "2026-01-27T15:36:48.649201+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3534"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3534",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "럭비공, 축구공, 직조 패턴 공이 두 개나 출제되어서 당황했다. 하지만 중앙대를 연습하는 동안 항상 문제가 어렵다고 생각했어서 금방 받아들이고 최대한 빠르게 완성하려고 노력했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.0,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "하지만 중앙대를 연습하는 동안 항상 문제가 어렵다고 생각했어서 금방 받아들이고 최대한 빠르게 완성하려고 노력했다."
+  }
 }

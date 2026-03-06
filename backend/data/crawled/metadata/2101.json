@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2101_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:32:02.945227+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2101"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2101",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "모래시계와 아이콘으로 ‘미래첨단 세계’를 그리시오 였고 최대한 세련되어 보이게 그리고 연결망같은 느낌을 줘서 보이는게 전부가 아닌 더 넓게 구축되어있는 미래첨단세계를 나타내려고했다",
+    "practice_years": 3.08,
+    "competition_ratio": 49.67,
+    "student_strength": "다른 학원과 달리 각자 스타일에 맞게 지도를 해주셔서 나의 개성을 살려서 그릴 수 있던 것이 제일 도움이 되었던 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

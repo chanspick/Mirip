@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2419_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:45:53.238727+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2419"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2419",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "상황연출을 재밌게 표현할만 것을 고구마로 주제를 잡았고,고구마의 껍질을 벗겨낼수도 찢어질수도 또 안에 있는 속살이 보이도록 많은 상황연출을 해주었습니다. 털실같은 경우엔 쨍한 파란색으로 해주었고 털실의 날림,끊어짐,김장감,느슨함 등의 상황연출을 해주어 고구마와 털실의 관계를 정확하게 표현하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 27.56,
+    "student_strength": "선생님이 주신 예상기출문제를 미완성없이 그리고 감평도 잘 듣고 학원도 잘 나오고..최선을 다 하는것이 중요하다고 생각합니다.",
+    "teacher_feedback": "선생님이 주신 기출문제를 열심히 하였고 실기가 얼마 안남았을땐 매일 나와 그림을 그렸습니다.",
+    "ideation_process": "털실같은 경우엔 쨍한 파란색으로 해주었고 털실의 날림,끊어짐,김장감,느슨함 등의 상황연출을 해주어 고구마와 털실의 관계를 정확하게 표현하였습니다."
+  }
 }

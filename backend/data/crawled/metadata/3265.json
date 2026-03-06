@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3265_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:23:52.393948+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3265"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3265",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "선풍기와 노끈이 나왔다. 노끈이 태풍처럼 휘날리는 연출을 하여 선풍기의 바람을 표현했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 29.25,
+    "student_strength": "선풍기의 정확한 형태와 선풍기의 특성을 살린 연출 덕분이라고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "노끈이 태풍처럼 휘날리는 연출을 하여 선풍기의 바람을 표현했다."
+  }
 }

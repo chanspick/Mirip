@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1850_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:21:07.518496+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1850"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1850",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "당일 출제문제는 휴가철 해변을 상황표현하는것이었고 , 받고나서 인물들이 즐거운 물놀이를 하는 상황을 상상했고 물 표현에 집중해야겠다고 생각했습니다.",
+    "practice_years": null,
+    "competition_ratio": 17.0,
+    "student_strength": "합격의 주요인은 선생님의 피드백이라고 생각합니다. 선생님의 피드백덕분에 고사장에서도 그림을 잘 완성할 수 있었다고 생각합니다.",
+    "teacher_feedback": "선생님이 말해주시는 피드백을 듣고 그림에서 고쳐야 할 점이나 안 좋은 버릇들을 체크해 그림을 바꿔나가면서 실기준비를 했습니다..",
+    "ideation_process": "생각했습니다."
+  }
 }

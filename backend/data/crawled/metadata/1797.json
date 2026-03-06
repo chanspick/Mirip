@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1797_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:18:50.263605+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1797"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1797",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "토마토와 분무기가 나왔는데 토마토를 가공한 모양을 이용해 나만의 제시어를 넣어 반복감 리듬감을 나타내었습니다.",
+    "practice_years": 1.25,
+    "competition_ratio": 12.77,
+    "student_strength": "토마토를 가공해 반복감을 나타내 조형감 있게 나타낸게 차이점이지 않았을까 생각합니다",
+    "teacher_feedback": "선생님께서 피드백 해주신 것들을 듣고 문제점 개선을 위해 노력했습니다..",
+    "ideation_process": null
+  }
 }

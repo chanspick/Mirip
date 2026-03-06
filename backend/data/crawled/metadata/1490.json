@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1490_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:04:40.971032+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1490"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1490",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "수시 때보다 쉬운 사물이 나와서 더 조형적으로 동사형을 잘 보여줘야 한다고 생각했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 9.15,
+    "student_strength": "마지막까지 기본기를 생각했고 정말 '누구보다 동사형을 잘 보이게 그리자'라는 생각으로 그렸습니다. 양감을 빵빵하게 살리려 했고 이미지를 관찰하면서 작은 디테일까지 다 찾으려고 노력했습니다. 무엇보다 정말 끝까지 최선을 다해서 그리려고 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 레고로 자동차를 만들었고, 레고 자동차가 긴장감 있게 쇠사슬에 걸리며 부러지고, 쇠사슬이 블록을 내리쳐 깨는 동사형을 연출하였습니다"
+  }
 }

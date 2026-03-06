@@ -13,5 +13,14 @@
     "data/crawled/raw_images/307_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:50.187744+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=307"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=307",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.0,
+    "competition_ratio": 3.67,
+    "student_strength": "정말 열심히 그렸다. 조금 더 간절한 사람이 합격한다는 말을 실감할 정도로 열심히 그렸다.",
+    "teacher_feedback": "선생님들이 특히 자주 강조하신 것도 구성에 대한 부분이었어서 정말 많은 연습을 했다.",
+    "ideation_process": null
+  }
 }

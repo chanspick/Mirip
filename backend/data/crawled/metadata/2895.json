@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2895_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:07:12.682390+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2895"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2895",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "빨래집게와 안경, 그리고 붉은 체크 무늬 뚜껑이 달린 투명 유리병이 출제되었다. 제시된 빨래집게가 초록색 계열이어서 붉은 무늬와 보색으로 대비될 수 있게 맞닿게 배치했고 집게에 의해 안경이 부서지는 연출, 안경알에 투과된 사물의 세밀한 묘사에 신경써 그림을 완성했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 26.8,
+    "student_strength": "합격의 주 요인은 강하면서도 가벼운 분위기가 주도하는 채색에 있다고 생각한다. 각각의 색을 살리기 위한 소재의 배치와 동일한 색 내에서도 포인트가 되는 부분의 색만을 다른 부분과 달리하는 등의 방식이 이를 잘 나타내 주었다고 생각한다",
+    "teacher_feedback": "선생님께서도 장점은 가지고 있으나 단점이 그 장점을 가리는 것이 문제라고 하셨고 단점을 줄임으로서 장점이 자연히 드러날 수 있는 그림을 그리라고 말씀해주셨다..",
+    "ideation_process": "제시된 빨래집게가 초록색 계열이어서 붉은 무늬와 보색으로 대비될 수 있게 맞닿게 배치했고 집게에 의해 안경이 부서지는 연출, 안경알에 투과된 사물의 세밀한 묘사에 신경써 그림을 완성했다. 또한 산뜻한 느낌을 주기 위해 색 명암법 위주의 채색으로 강하면서도 무겁지 않은 채색을 하기 위해 신경썼다."
+  }
 }

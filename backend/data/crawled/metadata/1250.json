@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1250_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:53:34.886913+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1250"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1250",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "기초소양 소대로 깃털, 전구, 애플워치가 나왔습니다. 평소에 연습하던 비슷한 소재가 나와서 평소 실력대로 하였습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 44.0,
+    "student_strength": "가천대에서 원하는 정답을 그리는 것이 중요했던 것 같습니다. 학원에서 준비해준 가천대에 대한 정보를 통해 원하는 그림에 대해 고민하고 그린 것이 요인이 된 것 같습니다.",
+    "teacher_feedback": "선생님이 내주신 예상 문제와 채색법을 맞춰 연습했습니다.",
+    "ideation_process": "평소에 연습하던 비슷한 소재가 나와서 평소 실력대로 하였습니다. 소재가 가진 특징을 살려 그리기 위해 노력하였습니다."
+  }
 }

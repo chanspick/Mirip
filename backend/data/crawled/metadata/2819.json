@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2819_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:03:47.967577+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2819"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2819",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "다행히도 학원에서 그려보았던 물체들이 나와 당황하지않고 평소 하던대로 그림을 그려나갔습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 8.84,
+    "student_strength": "선생님과 잘하는 친구들을 닮아가려 노력했던 것이 주요인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

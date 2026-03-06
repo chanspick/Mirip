@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2682_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:57:33.515715+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2682"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2682",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "샤넬 향수와 가죽숄더빽 그리고 실로 만들어진 무늬가 있는 머리끈 였습니다. 일단 묘사할 것이 많고 조형적으로도 예쁜 향수를 주제부에 배치를 하였고 가방의 손잡이로 향수를 감싸면서 집중력과 조형적인 이미지를 만들어냈습니다.",
+    "practice_years": 1.42,
+    "competition_ratio": 8.4,
+    "student_strength": "선생님들께서 제 평소 그림이 중앙대성격의 그림과 비슷하다, 그림의 구도가 힘이 있다라는 말씀을 자주 해주셨는데 아마 정말 그런 이유에서 붙었지 않았나 싶습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "일단 묘사할 것이 많고 조형적으로도 예쁜 향수를 주제부에 배치를 하였고 가방의 손잡이로 향수를 감싸면서 집중력과 조형적인 이미지를 만들어냈습니다. 또한 머리띠를 가방 손잡이에 걸쳐 주제부 포인트를 만들어냈습니다."
+  }
 }

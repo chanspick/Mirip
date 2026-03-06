@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2182_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:35:32.601922+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2182"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2182",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "머그컵, 은박 베이킹컵을 이용하여 상승을 표현하시오. 빠른 시간 내의 주제를 해석하고, 아이디어와 연출력을 보여주기 위해 노력했습니다.",
+    "practice_years": null,
+    "competition_ratio": 64.75,
+    "student_strength": "미술 입시와 관련된 정보와 참고할 만한 자료들을 열심히 찾았고, 그림과 관련되어 나태해지지 않으려 했습니다. 그림의 부족한 점을 늘 기억해 고치려 했고 다양한 재료를 사용하려고 한 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 빠른 시간 내의 주제를 해석하고, 아이디어와 연출력을 보여주기 위해 노력했습니다."
+  }
 }

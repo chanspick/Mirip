@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3711_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:46:46.485724+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3711"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3711",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "당일 출제 문제는 압정,나뭇잎,선재(포장 끈 이었습니다 평소 긴장을 많이 하는 편이라 최대한 준비한대로 풀어내려고 했습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 14.77,
+    "student_strength": "포기하지 않고 버텼기 때문에 합격이라는 순간을 맞이 할수 있었던것 같습니다. 입시생활 중 에는 많은 힘듦과 지침이 있는데 그런 순간들 마다 많은 선생님 들의 응원과 노력이 느껴저 멘탈을 부여잡을 수 있었던것 같습니다.",
+    "teacher_feedback": "선생님들과 고민하고,수정 했습니다 여러 스케치들을 계속해서 외웠고 집,학원 상관없이 집에 와서도 스케치를 봤던거 같습니다.",
+    "ideation_process": "평소 긴장을 많이 하는 편이라 최대한 준비한대로 풀어내려고 했습니다."
+  }
 }

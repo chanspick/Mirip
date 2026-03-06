@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3484_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:34:23.394982+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3484"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3484",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "키보드, 충전기, 드라이버가 출제되었습니다. 사물을 깨거나 분해하지 말라는 조건이 있었기 때문에 조형적 배치와 공간감을 확실하게 표현해야겠다고 생각했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 32.1,
+    "student_strength": "합격의 기준을 학원에서 확실하게 배웠고 내가 그 기준에 들어가지 못하면 아무리 열심히 해도 불합격이라는 생각을 하며 최선을 다했기에 합격한 것 같습니다.",
+    "teacher_feedback": "피드백은 그림일기에 적어 실수를 반복하지 않도록 주의했습니다.",
+    "ideation_process": "생각했습니다. 키보드 버튼의 실루엣이 잘 보이는 각도와 높이를 신경 써서 잡았고, 키보드 구조를 깔끔하고 정확하게 표현하려 했습니다."
+  }
 }

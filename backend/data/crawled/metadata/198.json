@@ -14,5 +14,14 @@
     "data/crawled/raw_images/198_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:08:13.475314+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=198"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=198",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제당시 문제는 Design korea, Design city 였습니다. 상명대는 50개 주제가 미리 나오기때문에 준비한대로 그렸습니다.",
+    "practice_years": 2.75,
+    "competition_ratio": 28.28,
+    "student_strength": "학원선생님의 말씀을 잘 듣고 꾸준히 그림을 그리는게 중요하다고 생각합니다.",
+    "teacher_feedback": "선생님께서 가르쳐 주시는대로 따라갔습니다..",
+    "ideation_process": "상명대는 50개 주제가 미리 나오기때문에 준비한대로 그렸습니다."
+  }
 }

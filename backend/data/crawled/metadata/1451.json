@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1451_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:02:56.067169+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1451"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1451",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "주전자와 새우가 나왔습니다. 당일에 엄청 긴장됩니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 32.95,
+    "student_strength": "그림 그릴 때 마치 학원에서 그린다고 생각하며 그렸어요.",
+    "teacher_feedback": null,
+    "ideation_process": "구상하는게 중요하다고 느꼈어요."
+  }
 }

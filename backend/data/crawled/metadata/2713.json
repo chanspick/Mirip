@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2713_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:58:58.957610+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2713"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2713",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "영상영화학과는 움직임이라는 주제에 마시멜로, 털실, 플라스틱 튜브, 긴 풍선, 스펀지가 나왔는데 영화학과인 만큼 문제의 출제의도가 무엇인지 계속 생각하며 5개의 물체를 주제에 맞게 배치하려고 했고, 학원에서 준비했었던 영상 촬영 기법중 하나인 패닝샷을 사용하여 그림을 그려냈습니다. 산업디자인과는 실기고사에서는 처음으로 전체 소묘가 나왔고, 조건이 굉장히 까다로웠던 만큼 해석에 많은 시간을 썼습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 23.59,
+    "student_strength": "다들 미대입시는 재능있는 사람이 성공한다고 하지만 저는 꾸준함과 성실함, 노력만 있다면 누구든 원하는 학교에 합격할 수 있을 것이라 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": "산업디자인과는 실기고사에서는 처음으로 전체 소묘가 나왔고, 조건이 굉장히 까다로웠던 만큼 해석에 많은 시간을 썼습니다. 그러나 문제 내용 자체는 학원에서 준비하던 것과 크게 다르지 않은 문제가 나와서 구도에서 만큼은 평소에 쓰던 구도를 사용해서 어렵지 않게 문제를 풀어나갔습니다."
+  }
 }

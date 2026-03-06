@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3782_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:50:36.751677+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3782"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3782",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 4.72,
+    "student_strength": "특별한 노하우보다는 자신의 현재 실력을 정확히 인지하고, 선생님들과 소통하면서 끈기있게 준비하는 것이 중요한 것 같습니다.",
+    "teacher_feedback": "선생님들께 적극적으로 질문을 하고 배운 내용을 여러번 다시 해보면서 숙달에 신경을 썼습니다.",
+    "ideation_process": null
+  }
 }

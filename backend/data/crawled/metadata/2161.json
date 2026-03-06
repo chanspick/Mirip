@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2161_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:34:37.740158+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2161"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2161",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "기본도형을 배치하고 질감표현을 하는 문제였다. 조건이 너무 많아서 그 조건을 모두 지키면서 어떻게 하면 내 그림이 더 잘 보일 수 있을지 고민했다.",
+    "practice_years": 5.0,
+    "competition_ratio": 10.74,
+    "student_strength": "문제에서 주어진 많은 조건들을 지켰고, 내가 평소에 지적 받았던 것들을 시험장에서 하지 않았기 때문에 합격했다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "조건이 너무 많아서 그 조건을 모두 지키면서 어떻게 하면 내 그림이 더 잘 보일 수 있을지 고민했다."
+  }
 }

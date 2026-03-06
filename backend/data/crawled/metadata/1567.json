@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1567_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:08:12.832076+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1567"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1567",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "일회용 면도기, 땅콩, 녹차티백 3종류가 출제 되었는데 녹차티백의 터질것 같은 긴장감과 일회용 면도기로 땅콩 껍질을 긁어내는 연출을 하는게 사물의 특성이 잘 드러나는것 같아서 연출함",
+    "practice_years": 2.0,
+    "competition_ratio": null,
+    "student_strength": "실기준비를 하며 학원에서 매일 그림을 많이 그려본 경험이 가장 도움이 되었던것 같다. 합격 재현작을 찾아보며 학교 유형별 실기준비를 할때 참고하였고 그림들을 보며 묘사하는 방법 개체표현 방법 또는 스케치 구성드을 많이 참고하였다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

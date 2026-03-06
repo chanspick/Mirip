@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1021_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:43:23.971485+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1021"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1021",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "출제되었던 주제가 ‘셀카를 찍으며 재미있는 표정을 짓는 소녀상을 제작하시오’였어요. 저는 ‘재미있는 표정’에서 ‘어떤 재밌는 표정을 하지?’, ‘너무 안해봤던 표정은 너무 위험요소가 많은데..’, ‘좀 더 예쁘고 소녀스러우면서 작품에 볼거리가 많게끔 흥미를 끌 수 있는 표정과 방법은 무엇일까?’라는 고민과, ‘소녀상’이라는 연령대를 보고 ‘소녀상이면 10대를 만들어야 할까 20대를 만들어야 할까?’라는 고민을 하면서 혼란이 왔었어요.",
+    "practice_years": 2.5,
+    "competition_ratio": 4.17,
+    "student_strength": "드로잉을 엄청 많이하고, 쌤들마다 다 해주시는 개별평가를 핸드폰메모장에 다 적어두고 수시로 쭉 읽어보면서 저의 실기 스타일, 장단점을 분석하면서 문제가 나왔을 때 철저하게계산하고 구상해 나가는 치밀함이 중요한 것 같아요.",
+    "teacher_feedback": "선생님들의 체계적인 트레이닝과 원장선생님의 각별한 관심과 조언들로 정말 많은 실기 정보력을 늘린 것 같아요.",
+    "ideation_process": "구상하고 계획을 철저하게 세웠어요. 나의 강점과 약점을 떠올리면서 어떻게하면 강점을 더 드러내면서 약점을 보완할 수 있을까 고민을 많이 했던 것 같아요."
+  }
 }

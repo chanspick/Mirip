@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1073_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:45:49.265168+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1073"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1073",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "얼음을 들거나 미는 여성이 출제되었을때 남들이 생각해내지 못한 자세이면서 가로로 부피가 크게나오는 자세를 그려야겠다고 생각했다. 그래서 얼음을 등에업는 자세를 표현하였고 큰 얼음을 등에 업어 옷이 젖고 물이 떨어지며, 지나온 길에 물발자국이 남는 디테일을 살렸으며 얼음의 무게에 괴로워하는 여성의 표정을 강조하였다.",
+    "practice_years": 3.0,
+    "competition_ratio": 11.54,
+    "student_strength": "학원 선생님들의 꾸준한 가르침과 피드백이 가장 컸다고 생각한다. 회화의 기본에 충실하며 기복이 없게끔 이끌어 주셨던 원장님들께 감사드린다.",
+    "teacher_feedback": "선생님들의 지도에 무조건 따르며 준비했다.",
+    "ideation_process": "표현하였고 큰 얼음을 등에 업어 옷이 젖고 물이 떨어지며, 지나온 길에 물발자국이 남는 디테일을 살렸으며 얼음의 무게에 괴로워하는 여성의 표정을 강조하였다. 소묘는 모래가 물과 섞여 시간이 지나 부서지고 갈라지고 딱딱해지고 쓰러지는 질감표현을 강조 해야겠다"
+  }
 }

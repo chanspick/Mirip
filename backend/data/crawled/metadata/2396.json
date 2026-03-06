@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2396_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:44:53.141057+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2396"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2396",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "손목시계와 칠교놀이가 나왔는데 처음에 손목시계가 굉장히 어렵다고 판단되어 멘탈이 흔들렸었는데 최대한 학원에서 배운대로 그리려고 노력했고 칠교놀이는 색상이 다양한게 특징이기 때문에 색상을 다양하게 쓰되 반복적으로 나타내려고 노력했습니다.",
+    "practice_years": 1.67,
+    "competition_ratio": 20.9,
+    "student_strength": "항상 제 그림에 부족함을 느끼고 학원에서도 학원 밖에서도 구성에 대해 계속 생각하고 어떻게 해야 효과적으로 그림을 완성해 나갈 수 있는지 고민했던 것 같습니다. 그럼에도 불구하고 자신의 그림에 자신감을 가지고 항상 그림에 임했던 것 같습니다.",
+    "teacher_feedback": "선생님께서 프린트해 주신 주제로 시험을 본 뒤 피드백을 받고 보완해 나갔습니다..",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3441_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:32:19.309267+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3441"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3441",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "미니 청소기. 가죽끈, 붓이 나왔고, 문제를 받자마자 청소기를 최대한 활용하려고 했다",
+    "practice_years": 2.58,
+    "competition_ratio": 7.33,
+    "student_strength": "매일 학원에 나와서 그림을 그린 것이 주 요인이라고 생각한다.",
+    "teacher_feedback": "피드백을 받으면 바로바로 정리를 해서 다음번에 그런 실수를 하지 않도록 노력했다..",
+    "ideation_process": "가죽끈, 붓이 나왔고, 문제를 받자마자 청소기를 최대한 활용하려고 했다"
+  }
 }

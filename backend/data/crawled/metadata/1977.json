@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1977_0.png"
   ],
   "crawled_at": "2026-01-27T14:26:38.215511+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1977"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1977",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "개념 주제가 나와서 처음 문제지를 보고 당황했다. 주제에 맞게 크게크게 그리고, 주제를 틀리지 않으려 개수제한에 딱 맞게 제시물 개수를 다",
+    "practice_years": 1.25,
+    "competition_ratio": 3.31,
+    "student_strength": "시험장에서 그림을 아주 잘 그리진 않은 거 같다. 그래도 평소 자주 틀리던 부분 틀리지 말고 하던대로만 하고 오자는 생각으로 그려서 감점이 많지 않았던 것 같고, 면접 때 자신있게 얘기했던 것도 영향이 있었던 것 같다.",
+    "teacher_feedback": "선생님들이 고치라고 하는 거 고치고 말을 잘 들으면 훨씬 그림이 좋아지더라.",
+    "ideation_process": "주제에 맞게 크게크게 그리고, 주제를 틀리지 않으려 개수제한에 딱 맞게 제시물 개수를 다 써서 그렸다"
+  }
 }

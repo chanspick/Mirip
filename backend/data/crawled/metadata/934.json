@@ -13,5 +13,14 @@
     "data/crawled/raw_images/934_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:39:36.275563+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=934"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=934",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "광각렌즈로 본 공간. 지문을 꼼꼼히 읽고 출제자의 의도를 유추하여 출제자가 원하는 그림을 그리려 노력했다.",
+    "practice_years": 4.0,
+    "competition_ratio": 19.57,
+    "student_strength": "입시를 하는 동안에는 정말 입시생각만 하며 온 힘을 쏟아부었다. 또한 공부도 꾸준히 하며 수능에서 좋은 점수를 받았기에 도움이 되었다 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 그렸고 바퀴가 굴러오면서 광각렌즈를 통해 봤기 때문에 더 크고 웅장하고 무섭게 보이고, 역광으로 표현하여 더욱더 무서움을 극대화 했습니다. 그림자안에 갇힌 전자부품이 더 무섭겠죠!"
+  }
 }

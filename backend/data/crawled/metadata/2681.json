@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2681_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:57:30.889656+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2681"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2681",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "귤, 털장갑, 스탠드 조명이 나왔습니다. 이 세 개 물체들 중에서 가장 화사한 게 귤이라고 생각해, 귤을 중심으로 문제를 풀었습니다",
+    "practice_years": null,
+    "competition_ratio": 9.11,
+    "student_strength": "선생님의 피드백을 계속 생각하면서 시험을 본 것이 합격의 요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "이 세 개 물체들 중에서 가장 화사한 게 귤이라고 생각해, 귤을 중심으로 문제를 풀었습니다"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1565_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:08:07.222574+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1565"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1565",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "'지리산 뻐꾹새'라는 시가 나와 시의 분위기에 맞는 포스터 디자인을 하는 것이 주제였습니다. 시험 전 준비했던 그림들과 크게 벗어나지 않아 당황하지 않고 '시각디자인학과'에 맞게 화면 레이아웃을 짰습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 9.87,
+    "student_strength": "다른 사람들과 달리 화면구성면에서 레이아웃을 시각디자인적으로 짰고, 어둠부분의 블랙을 확실히 밀어멓어 그림의 힘을 줬으며, 자연물 드로잉이 합격 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님들의 노하우와 지도로 어렵지 않게 준비할 수 있었습니다..",
+    "ideation_process": "시험 전 준비했던 그림들과 크게 벗어나지 않아 당황하지 않고 '시각디자인학과'에 맞게 화면 레이아웃을 짰습니다. 블랙이 부족하면 그림의 힘이 떨어지기 때문에 화면의 일부를 블랙으로 누르며 구성을 하였고, 뻐꾹새같은 경우도 평소하던 드로잉으로 어렵지 않게 그려나갈 수 있었습니다."
+  }
 }

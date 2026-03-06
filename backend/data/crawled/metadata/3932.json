@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3932_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:58:41.211669+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3932"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3932",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "문제는 '시골에서 상경한 60대 할머니가 도시의 소음을 듣고 고통스러워하는 모습을 제작하시오.'였습니다. 시골에서 상경한 할머니라면 어떻게 생겼고 어떤 옷을 입을지 상상하며 만들었습니다.",
+    "practice_years": 1.33,
+    "competition_ratio": 16.45,
+    "student_strength": "얼굴뿐만 아니라 뒤쪽 머리카락, 기물까지 열심히 묘사하였습니다. 다들 똑같은 모양의 셔츠를 만들어서 다른 디자인의 옷과 모자를 만든 제 작품이 눈에 띄었던 것 같습니다.",
+    "teacher_feedback": "선생님의 손쓰는 방법을 그대로 따라 하려고 했습니다.",
+    "ideation_process": "시골에서 상경한 할머니라면 어떻게 생겼고 어떤 옷을 입을지 상상하며 만들었습니다. 표정은 다"
+  }
 }

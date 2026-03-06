@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3069_0.png"
   ],
   "crawled_at": "2026-01-27T15:15:00.976723+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3069"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3069",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제진이 의도한 모든 요소를 완벽하게 이해했다는 것을 보여주고 싶어 어느 하나라도 빠지지 않도록 하면서도 간결하게 표현하려고 했습니다. <문제1> 자음의 창제원리를 이용해 순음, 치조음, 연구개음을 조음 위치에 따라 배치했습니다.",
+    "practice_years": null,
+    "competition_ratio": 6.81,
+    "student_strength": "105명의 지원자 사이에서 교수님의 눈에 띄도록 독보적인 스타일을 가지고 있었던 것이 합격에 있어서 좋은 영향을 준 것 같습니다. 고3은 합격하기 어렵다는 통설을 깰 수 있었던 저만의 노하우라고 생각합니다. 면접에서는 대중적으로 알려져 있으면서도 색이 강렬한 영화 작품을 언급해 교수님들의 기억에 남을 수 있었던 것 같습니다.",
+    "teacher_feedback": "피드백 내용 및 참고자료를 모아서 정리하고 실기시험이 가까워졌을 때 정리해둔 자료를 요약해 시험장에서 고려해야 할 사항들을 되새겼습니다.",
+    "ideation_process": "표현하려고 했습니다. <문제1> 자음의 창제원리를 이용해 순음, 치조음, 연구개음을 조음 위치에 따라 배치했습니다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/747_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:31:28.231776+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=747"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=747",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "치아가 보이게 웃고있는 20대 여성의 사진이 출제 되었습니다. 웃고있는 표정이라 처음에는 당황했지만 그동안 연습해왔던 것과 다를 거 없다는 생각으로 자신감을 갖고 시험에 임했습니다.",
+    "practice_years": 1.83,
+    "competition_ratio": 21.33,
+    "student_strength": "하루하루 내 실기의 단점을 줄여가는것이 중요했습니다. 실기를 하면서 자신감이 떨어지는 일이 많았지만, 자신감을 갖고 선생님을 믿고 따르는 것이 정말 실기 향상에 도움을 줘서 합격이라는 길까지 올수 있었습니다. 모델의 작은양을 찾아가고 소홀한 부분 없이 실기를 하는 것이 합격의 주요인 같습니다.",
+    "teacher_feedback": "선생님들이 알려주시는 피드백을 통해서 실기의 문제점을 파악했습니다.",
+    "ideation_process": "생각했습니다."
+  }
 }

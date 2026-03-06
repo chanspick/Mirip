@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1755_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:17:02.005539+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1755"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1755",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "와인잔과 치수를 재는 줄자가 나왔습니다. 출제된 사물의 특징을 생각하면서 와인잔의 투명성을 부각하기 위해 뒤로 굴절 되는 것과 줄자는 부드럽게 휘는 것을 생각하며 최대한 사물의 특징을 적극적으로 사용하려고 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 11.87,
+    "student_strength": "포기 하지 않고 열심히 그리고 시험장에서 만큼은 자기 자신을 믿는 에너지를 시험장 끝까지 밀고 나가야 된다고 생각합니다. 의심이 들어도 그 생각을 뒤로 젖히고 그 순간에만 집중하고 그림을 이끌어 나가는 용기도 필요하다고 생각합니다.",
+    "teacher_feedback": "선생님을 믿고 선생님이 해주시는 피드백을 적극 수용하며 부족한 점을 채워 나갔습니다.",
+    "ideation_process": "출제된 사물의 특징을 생각하면서 와인잔의 투명성을 부각하기 위해 뒤로 굴절 되는 것과 줄자는 부드럽게 휘는 것을 생각하며 최대한 사물의 특징을 적극적으로 사용하려고 했습니다."
+  }
 }

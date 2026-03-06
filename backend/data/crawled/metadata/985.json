@@ -13,5 +13,14 @@
     "data/crawled/raw_images/985_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:41:49.638848+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=985"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=985",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "그 날 시험문제는 치약과 칫솔이라는 제시어와, 가치의 위계 변화가 혁신이 된다는 내용의 제시문이 나왔습니다. 일단 제시문의 핵심을 문장으로 정리하고 나서 가치 위계의 변화가 혁신을 가져온 사례가 무엇이 있는지, 이 제시문이 무엇에 대한 설명일지 생각해봤어요.",
+    "practice_years": 2.75,
+    "competition_ratio": 4.16,
+    "student_strength": "시험을 보는 동안에는 나름대로 자신있게 그렸는데, 다 그리고 나와서 생각해보니까 문제풀이가 학원에서 했던 것보다 부족했구나 느꼈어요. 그럼에도 불구하고 합격할 수 있었던건 학원 선생님들께서 문제풀이를 정말 디테일하게 수업해주셨기 때문인 것 같아요.",
+    "teacher_feedback": "선생님께서 제가 쓴 글을 일대일로 첨삭해주시면서 방향을 알려주신게 도움이 많이 됐던 것 같아요.",
+    "ideation_process": "일단 제시문의 핵심을 문장으로 정리하고 나서 가치 위계의 변화가 혁신을 가져온 사례가 무엇이 있는지, 이 제시문이 무엇에 대한 설명일지 생각해봤어요. 세속적이고 천하게 여겨지던 것이 가치있는 것으로 재평가된 사례로 힙합음악이나 기존의 가치를 거부한 사조의 현대미술작품들 등이 떠올랐습니다."
+  }
 }

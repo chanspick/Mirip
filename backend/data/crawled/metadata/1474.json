@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1474_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:03:56.697115+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1474"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1474",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "제시된 사물은 오이, 거울, 목도리가 나왔고 평소 자연물을 학원에서 준비를 해왔기 때문에 어렵기 않게 풀어 나갔던 것 같습니다. 거울의 특성을 잘 보여주기 위해 노력했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 9.5,
+    "student_strength": "지나온 그림을 계속해서 보고 코멘트를 달아 복습하고 선생님께서 평가해주시는 말씀들을 그림에 보완해 나갈려고 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "거울의 특성을 잘 보여주기 위해 노력했습니다."
+  }
 }

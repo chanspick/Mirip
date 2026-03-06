@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1249_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:53:32.017519+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1249"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1249",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "제시어 돌도끼와 지문에는 인간이 만든 물건은 항상 화를 초래한다는 내용이 판도라 와함께 나왔습니다. 판도라의 상자는 원래 세상에 모든 질병과 악을 내보내고 아직 무엇인지 모르는 희망이 남아있는 상자인데 ,인간의 발명은 화를 초래한다는 부분에서 꼭 그렇지만은 않을수 있다는 발전가능성을 설명하고자 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 13.69,
+    "student_strength": "원래는 제가 부정적인 지문이 나오면 더 부정적으로 그리는 편인데 평소 수업 중 선생님 께서 부정을 긍정으로 바꿔보라고 계속 피드백해주신 덕분에 부정의 내용을 담은 그림사이에서 눈에 잘 띄었던게 합격의 주요인 같습니다.",
+    "teacher_feedback": "선생님의 피드백을 기준으로 부족한부분을 보완했습니다..",
+    "ideation_process": "판도라의 상자는 원래 세상에 모든 질병과 악을 내보내고 아직 무엇인지 모르는 희망이 남아있는 상자인데 ,인간의 발명은 화를 초래한다는 부분에서 꼭 그렇지만은 않을수 있다는 발전가능성을 설명하고자 했습니다."
+  }
 }

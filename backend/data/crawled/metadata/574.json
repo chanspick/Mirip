@@ -13,5 +13,14 @@
     "data/crawled/raw_images/574_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:24:04.618784+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=574"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=574",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "이화여대는 기본만 질 지키자고 생각하며 풀었습니다.",
+    "practice_years": 1.25,
+    "competition_ratio": null,
+    "student_strength": "저의 작년 입시와 비교해보았을 때, 현재의 그림에 안주하거나 무언가에 의지하지 않고 계속해서 높은 목표를 좇은 것이 주요한 차이였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2083_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:31:16.802967+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2083"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2083",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험장에서는 제한을 많이 두는 것 같지만 대담하게 내 그림을 그렸던것이 큰 도움이 된것같습니다",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "여러 선생님이 계셔서 다양한 방식이나 접근법을 접할 수 있었고 저에게 필요한 부분을 발전시킬 수 있었습니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

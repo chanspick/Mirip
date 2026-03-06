@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2562_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:52:11.327848+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2562"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2562",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "새우와 소방호스 주제가 나왔습니다. 문제은행이었기 때문에 시험장에서 밀도 높게 그리려고 했어요.",
+    "practice_years": 2.0,
+    "competition_ratio": 10.86,
+    "student_strength": "선생님들께서 해주신 피드백을 그대로 받아들이고 고치려고 했습니다. 제 실기실력이 부족한걸 알고있었기 때문에 수업시간보다 일찍와서 자습을 하는 노력을 꾸준히 했고 차근차근 실력을 쌓아갔습니다.",
+    "teacher_feedback": "피드백 받은 걸로 그림을 보완하거나 자신 없는 사물 개체연습을 했어요.",
+    "ideation_process": "문제은행이었기 때문에 시험장에서 밀도 높게 그리려고 했어요. 학원에서 연습한대로 타임테이블을 맞추려고 했습니다."
+  }
 }

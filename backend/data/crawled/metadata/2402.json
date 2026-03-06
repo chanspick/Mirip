@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2402_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:45:08.593407+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2402"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2402",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "‘고양이, 물, 우주선, 최소 사람 2명을 이용하여 상황을 표현하시오’ 라는 주제를 받았었고, 마침 관련된 주제로 모의시험을 봤었던 경험이 있었기에 큰 어려움 없이 풀어나갔습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 6.0,
+    "student_strength": "중학교때부터 현재까지 꾸준히 그림에대한 흥미를 느끼고 펜을 놓지 않았기에 합격할 수 있었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오’ 라는 주제를 받았었고, 마침 관련된 주제로 모의시험을 봤었던 경험이 있었기에 큰 어려움 없이 풀어나갔습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/231_0.png"
   ],
   "crawled_at": "2026-01-27T13:09:36.463141+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=231"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=231",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "경희대와 동국대의 경우에는 사진종목이였는데 초반에 서두르지않고 모델파악부터 시작하며 측면과 균형, 큰 실루엣을 맞추기위해 계속 멀리나가보며 만들었다. 가천대의 경우는 초반에 급히 만들지않고 천천히 생각해 아이디어를 쭉 적어나가며 조합했다.",
+    "practice_years": 1.0,
+    "competition_ratio": 5.0,
+    "student_strength": "평소 조소일기를 매일쓰면서 단점을 보완하려 한것이 도움이 된것같다.",
+    "teacher_feedback": "선생님들의 지적사항및 보완점을 최대한 고치려고 노력하며 임했다.",
+    "ideation_process": "가천대의 경우는 초반에 급히 만들지않고 천천히 생각해 아이디어를 쭉 적어나가며 조합했다."
+  }
 }

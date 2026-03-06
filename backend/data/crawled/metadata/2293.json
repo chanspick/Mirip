@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2293_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:40:22.146086+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2293"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2293",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "놀라운 마술을 보고있는 10살 남자아이가 출제문제였다. 남자아이를 만든 경험이 있었으나 썩 잘 만들지 못했어서 겁이 났었습니다.",
+    "practice_years": 4.25,
+    "competition_ratio": 13.38,
+    "student_strength": "수업시간보다 일찍 와서 무표정 남자기본 양을 만들거나 선생님께서 항상 자료의 중요성을 강조하셨어서 미리 예고해준 주제에 맞는 자료들(표정, 연령, 헤어스타일)을 꼼꼼히 찾았습니다. 사실 강남헤라클레스에 다닌 게 제 합격의 비결이라고 생각합니다~^^",
+    "teacher_feedback": null,
+    "ideation_process": "남자아이를 만든 경험이 있었으나 썩 잘 만들지 못했어서 겁이 났었습니다. 하지만 그에 대한 선생님의 피드백들을 하나하나 되새기며 만들어나갔습니다."
+  }
 }

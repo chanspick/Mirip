@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2372_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:43:49.112621+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2372"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2372",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "누룽지와 계량컵이 출제되었고 계량컵끼리 겹치는걸 보여주면 좋을 것 같다고 생각해서 그 내용을 중심으로 풀어나갔습니다.",
+    "practice_years": 7.0,
+    "competition_ratio": 43.36,
+    "student_strength": "레터링을 꼼꼼하게 쓴거랑 계량컵이 겹쳐지는 내용을 넣었던 것이 좋은 점수를 받았던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 그 내용을 중심으로 풀어나갔습니다."
+  }
 }

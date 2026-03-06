@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3595_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:39:53.339791+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3595"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3595",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "\\평면은 속도와 탄성, 입체는 치유와 희망을 표현하는 문제였습니다. 평면에서는 잔상을 최대한 잘 활용해야겠다는 생각을 했고 입체에서는 치유와 희망이 추상적인 제시어인 만큼 두 사람이 서로를 안아주는 구체적인 상황을 표현해야겠다고 생각했습니다.",
+    "practice_years": 1.75,
+    "competition_ratio": 6.66,
+    "student_strength": "치유와 희망이 추상적인 제시어인 만큼 치유를 두 사람이 안아주는 상황으로 표현하고 뒤에 원으로 희망적인 분위기를 표현한 것이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다."
+  }
 }

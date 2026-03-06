@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1749_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:16:45.671844+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1749"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1749",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "사물의 기능, 형태. 질감을 고려하여 남들보다",
+    "practice_years": 1.08,
+    "competition_ratio": 31.58,
+    "student_strength": "공휴일과 일요일에 학원을 나오는 등 남들보다 그림을 한 장이라도 많이 그리기 위해 노력하였고 수시에서 꼭 끝을 내겠단 마음가짐이 합격에 큰 영향을 미친 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "질감을 고려하여 남들보다 튈수 있는 구도를 짜기 위해 노력했습니다."
+  }
 }

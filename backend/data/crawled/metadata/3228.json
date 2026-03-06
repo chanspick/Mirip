@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3228_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:22:09.831900+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3228"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3228",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "고양이와 해파리의 특징으로 조합하여 반려로봇을 만들고 어린이와 함께하는 상황을 표현하시오. 학원에서 해봤던 과정으로 특징을 먼저 적고 컨셉을 잡은 후 비주얼을 만들었습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 3.27,
+    "student_strength": "항상 그림에 관심을 주셔서 감사했습니다. 좋은 점, 수정해야할 점 다 말씀해주셔서 너무 도움이 되었고, 그림이 잘 안나올 때 마다 격려해주셔서 슬럼프 없이 끝까지 입시를 할 수 있었습니다. 그리고 그림에서 아쉬웠던 점을 다음 그림에서 보완해 나가며 조금이라도 더 좋은 그림을 만드려고 노력했던 점인 것 같습니다.",
+    "teacher_feedback": "선생님들께 궁금한 점이 있으면 바로바로 물어보며 실력을 늘리려했습니다..",
+    "ideation_process": "표현하시오. 학원에서 해봤던 과정으로 특징을 먼저 적고 컨셉을 잡은 후 비주얼을 만들었습니다."
+  }
 }

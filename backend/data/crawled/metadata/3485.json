@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3485_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:34:26.284670+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3485"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3485",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "키보드, 드라이버, 충전기가 나왔습니다. 제시된 사물 자체가 조형적으로 키보드(면), 드라이버(비가변 선), 충전기(가변 선)이었기 때문에 조형적인 역할을 정확하게 구분하여 배치하는 것에 가장 신경을 많이 썼습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 32.1,
+    "student_strength": "제가 합격할 수 있었던 이유는 노력의 질이 달랐기 때문이라고 생각합니다. 입시생이라면 당연히 각자 노력을 하고 있을 텐데, 정확한 기준을 가지고 노력하는 것이 가장 중요하다고 생각합니다. 학원에서 배운 올바른 교수님들의 채점 기준을 가지고 그 눈높이에 맞추려고 노력한 것이 가장 큰 이유라고 생각합니다.",
+    "teacher_feedback": "선생님께 따로 요청하여 작년 합격생의 우수작을 많이 참고했습니다.",
+    "ideation_process": "제시된 사물 자체가 조형적으로 키보드(면), 드라이버(비가변 선), 충전기(가변 선)이었기 때문에 조형적인 역할을 정확하게 구분하여 배치하는 것에 가장 신경을 많이 썼습니다. 배치만으로는 높은 경쟁률을 뚫기 어려울 것 같아 바닥에 키보드를 삽입해 깊은 공간감을 내려고 노력했습니다."
+  }
 }

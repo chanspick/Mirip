@@ -13,5 +13,14 @@
     "data/crawled/raw_images/425_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:17:49.262284+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=425"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=425",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "바이올린을 소재로 자신이 상상하는 꿈의 세계를 표현하라는 제시어가 나왔으며, 단순한 상황연출 보다 구체적 상황을 표현하고자 하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 25.07,
+    "student_strength": "우선은, 작년 수시 정시 기출을 계속 연습한 것이 큰 도움이 된 것 같습니다. 올해 제시어가 작년 수시정시 합해진 주제라고 생각되었으며 선생님과 늦게까지 그 주제를 물고 늘어지며 연습해본 것이 결정적인 요인이라고 생각합니다.",
+    "teacher_feedback": "선생님께서 알려주신 데로 제시어를 잘 보여줄 수 있는 시점과 공간 등을 제시하고자 노력을 많이 하였습니다..",
+    "ideation_process": "표현하라는 제시어가 나왔으며, 단순한 상황연출 보다 구체적 상황을 표현하고자 하였습니다."
+  }
 }

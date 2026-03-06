@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1056_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:44:59.896041+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1056"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1056",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "두루마리휴지, 면도날, 지퍼백, 문제은행이 있었기에 미리 생각해온 구도에 맞춰 풀어나갔습니다. 휴지는 날려서 움직임을 주고 면도날은 금속처럼 무겁게 톤을 올렸고 지퍼백은 뒤에 비치는것이 보이도록 배치했습니다.",
+    "practice_years": 2.42,
+    "competition_ratio": 5.7,
+    "student_strength": "수능과 실기 준비를 균형있게 한 것이라고 생각합니다.",
+    "teacher_feedback": "선생님의 지도 하에 예상 문제로 시험을 보는 식으로 준비했습니다.",
+    "ideation_process": "풀어나갔습니다. 휴지는 날려서 움직임을 주고 면도날은 금속처럼 무겁게 톤을 올렸고 지퍼백은 뒤에 비치는것이 보이도록 배치했습니다."
+  }
 }

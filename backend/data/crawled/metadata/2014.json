@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2014_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:28:15.445310+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2014"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2014",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제는 다트판 , 천체망원경 , 롤클리너를 이용하여 긴장감과 율동감을 표현하시오 라고 나왔습니 다. 색상과 숫자가 많아 채색하기 귀찮아서 많은 사람들이 피할것 같은 다트판을 주제로 정하였 습니다.",
+    "practice_years": 1.17,
+    "competition_ratio": 14.26,
+    "student_strength": "학원선생님들의 피드백과 조언들이 합격에 많은 영향을 주었고 끝까지 선생님을 믿고 실기 실력 을 올릴려고 노력한것이 합격의 주원인이라고 생각합니다.",
+    "teacher_feedback": "선생님께 피드백을 받으며 오후 수업 타임에는 그 피드백을 고쳐 나가려는 생각으로 그림을 그렸습니다 .매일 하나의 단점이라도 없애려는 마음가짐으로 그 림을 그렸고 나의 장점은 더욱 부각 시키.",
+    "ideation_process": "표현하시오 라고 나왔습니 다. 색상과 숫자가 많아 채색하기 귀찮아서 많은 사람들이 피할것 같은 다트판을 주제로 정하였 습니다."
+  }
 }

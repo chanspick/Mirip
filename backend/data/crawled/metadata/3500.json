@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3500_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:35:10.675534+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3500"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3500",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "압정, 리본, 나뭇잎이 출제되었고 고명도의 무채 사물, 색이 강한 선재와 자유 형태의 면재가 나와서 최대한 특성을 살리기 위해 채색에 신경을 많이 썼습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 14.77,
+    "student_strength": "주제부의 밀도와 연출 및 구성이었던 거 같습니다. 사물다움을 중요하게 생각하여 더 적극적으로 보여주기 위해 연출하고 그에 맞는 밀도로 묘사했습니다. 그리고 무엇보다 많이 도움 된 것은 '승부욕'이었던 거 같습니다.",
+    "teacher_feedback": "피드백을 많이 받았습니다.",
+    "ideation_process": null
+  }
 }

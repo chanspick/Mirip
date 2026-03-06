@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2445_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:47:01.428558+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2445"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2445",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "전구랑 빨대가 나왔고, 문제은행이라 그전에 했던 알약과 빨대 구도에 대입했습니다. 전구가 나와서 전구를 키고 그 빛때문에 빨대 색감을 변하게 했습니다",
+    "practice_years": 6.0,
+    "competition_ratio": 9.1,
+    "student_strength": "구도랑 전구빛을 잘 표현한거 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "전구가 나와서 전구를 키고 그 빛때문에 빨대 색감을 변하게 했습니다"
+  }
 }

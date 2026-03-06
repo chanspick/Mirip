@@ -13,5 +13,14 @@
     "data/crawled/raw_images/784_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:33:11.694894+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=784"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=784",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "남자모델과 여자모델이 바닥에서 반대로 누워있던 포즈였는데, 처음에는 모델이 두명에 다가 누워있는 포즈라 당황했지만 무조건 완성시켜야 겠다는 생각 하나로 침착하게 보이는 대로 그림을 그려나갔습니다. 스케치에서 시간을 조금 더 투자해서 정확히 그리려고 했어요.",
+    "practice_years": 3.0,
+    "competition_ratio": 17.29,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "스케치에서 시간을 조금 더 투자해서 정확히 그리려고 했어요. 밝은 부분보다는 어두움 위주로 밀도를 올리고, 앞에 보이는 부분을 주로 묘사했습니다."
+  }
 }

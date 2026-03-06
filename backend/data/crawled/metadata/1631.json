@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1631_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:11:14.031138+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1631"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1631",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "순수한 사랑의 밀도를 추상적으로 점토를 이용하여 표현하시오 문제를 받고 순수한 사랑과 밀도,추상적을 각각 생각하고 3가지를 합쳐 하나로 표현하려고 풀어나감 순수한 사랑의 밀도를 반구로 이루어진 하트와 속을 파도와 같이 치고 올라오는 질감 표현을 함",
+    "practice_years": null,
+    "competition_ratio": 9.2,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "풀어나감 순수한 사랑의 밀도를 반구로 이루어진 하트와 속을 파도와 같이 치고 올라오는 질감 표현을 함"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1799_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:18:55.485669+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1799"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1799",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 7.98,
+    "student_strength": "저는 제가 그래도 긍정적인편이라고 생각합니다. 저는 슬럼프가 항상 제가 시험 보는 전날에 오는 것 같았습니다. 그래서 전날 많이 긴장하고 그림도 잘 안되니까 걱정이 되었는데 그럴수록 선생님 말씀을 더 귀담아 듣고 피드백을 수용하고 긍정적으로 다 잘될거야라는 말을 속으로 계속 반복하면서 마음에 안정을 주고 극복했던 것 같습니다.",
+    "teacher_feedback": "선생님께서 정해주신 시간 내에 꼭 완성을 해야하는 것이 중요하다고 생각했습니다.",
+    "ideation_process": null
+  }
 }

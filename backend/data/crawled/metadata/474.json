@@ -13,5 +13,14 @@
     "data/crawled/raw_images/474_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:19:51.300765+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=474"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=474",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "평택대 : 팝콘, 커터칼 / 호서대 :트럼펫, 호스 / 백석대 : 동전, 마이크 각 제시물의 물질적인 특성을 잘 살리도록 문제를 풀이해 나갔으며 점,선,면 등 다양한 요소를 쓰려고 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 17.5,
+    "student_strength": "세부학습 이라고 생각합니다. 각 학교에서 문제를 받고 문제를 어떻게 이해하고 풀이해 나갈지도 중요한 요소이고, 물질의 특성이나 구도 등을 어떻게 구현해 내는지도 중요한 부분인 것 같습니다. 저는 특별히 구도를 신경써 문제를 풀이하였고 물체의 형태적, 질감적 특징이 눈에 띄도록 스케치 작업을 하였습니다.",
+    "teacher_feedback": "선생님들이 가르쳐 주신대로 따르고 기초를 놓치지 않기 위해 꼼꼼히 학습하였습니다.",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1860_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:21:33.236539+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1860"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1860",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "전동드라이버, 잉크병, 노끈이 나왔다. 제시물의 특성을 최대한 활용하여 표현하려고 노력했다.",
+    "practice_years": 1.33,
+    "competition_ratio": 4.85,
+    "student_strength": "화면의 전체적인 설정과 그림의 분위기가 좋은 점수를 받은것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "제시물의 특성을 최대한 활용하여 표현하려고 노력했다."
+  }
 }

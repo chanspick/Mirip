@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2740_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:00:13.777062+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2740"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2740",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 5.0,
+    "student_strength": "수능을 망쳐도 어차피 수시가 합격해서 상관없을 거라 착각하고 수능 때 긴장을 하지 않았는데 그것이 오히려 도움이 됐습니다. 물론 평소에 공부를 해둔 덕도 있습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

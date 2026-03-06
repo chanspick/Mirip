@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1057_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:45:02.379224+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1057"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1057",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "‘!’ 재미있는 표정. 나는 셀카를 찍을 때 어떤 표정을 지어서 재미를 더했나 , 머리 속으로 시뮬레이션을 해보기도 하고 직접 표정을 지어보며 감정을 느껴보기도 했다.",
+    "practice_years": 1.58,
+    "competition_ratio": null,
+    "student_strength": "모두의 시선에 나를 맞추지 말고 나의 개성을 떳떳하게 선보이는 것이다. 난 이런 사람이다 하고. 작품을 만들 때 나의 모든 감정을 작품에 담으려 했다. 그리고 두려워 하지 않고 나 자신을 믿었다.",
+    "teacher_feedback": "선생님께 반드시.",
+    "ideation_process": "나는 셀카를 찍을 때 어떤 표정을 지어서 재미를 더했나 , 머리 속으로 시뮬레이션을 해보기도 하고 직접 표정을 지어보며 감정을 느껴보기도 했다. 내가 만드는 이 사람이 정말 지문 속의 사람이 맞는 지."
+  }
 }

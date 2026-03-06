@@ -13,5 +13,14 @@
     "data/crawled/raw_images/708_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:29:46.978625+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=708"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=708",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "학원에서 선생님께서 주셨던 한성대 준비 팁을 잘 생각하며 문제를 풀이 해 나갔습니다. 유리컵,쇠사슬,물방울의 바탕화면을 가진 모니터가 나왔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 24.31,
+    "student_strength": "주제가 어렵던 쉽던 흥분하지않고 신중하게 평소처럼 그리는 것이 중요하다고 생각했습니다. 지금 그리고 있는 이 그림을 보시면 무슨 말씀을 하실지 생각하며 그렸고, 학원 선생님이 강조하신 말씀대로 그린 것이 합격 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님께서 문제점을 지적해주시면 고치려고 노력을 많이 했던 것같습니다.",
+    "ideation_process": "유리컵,쇠사슬,물방울의 바탕화면을 가진 모니터가 나왔습니다. 한성대는 워낙 어려운 개체를 주었던 학교라 당황하지않고 주와 부가 될 개체를 선택해 화면구성을 하였습니다."
+  }
 }

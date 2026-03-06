@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3829_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:53:10.872895+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3829"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3829",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "평소에 연습했던 구도 내에서 필요한 대상을 추가하거나 생략하는 방향으로 안정적인 그림을 그리려고 했습니다. 예상보다",
+    "practice_years": null,
+    "competition_ratio": 5.27,
+    "student_strength": "선생님들께서 제 그림에 대해 진심으로 고민해주시고, 질문에도 깊이 있는 답변을 해주셔서 큰 도움이 됐습니다. 선생님들의 다양한 의견 덕분에 제 작품을 여러 관점에서 바라볼 수 있었고, 그게 제 성장에 큰 영향을 주었습니다. 정말 감사합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "예상보다 시간이 많이 남아서, 남은 시간 동안 스스로 그림을 점검하며 완성도를 높이는 데 집중했습니다."
+  }
 }

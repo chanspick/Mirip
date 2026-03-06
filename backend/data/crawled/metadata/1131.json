@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1131_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:23.645110+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1131"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1131",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "고양이와 꿀벌, 풍선껌으로 율동감과 긴장감을 표현하라는 문제가 나왔고, 긴장감이라하면 풍선껌이 터지는걸 생각하여서 꿀벌과 고양이가 터뜨리게하는걸 메인으로 하고 율동감은 꿀벌들이 무리지어 다니는걸 생각해서 사용했고 나머지는 스토리를 만드는 등 응용하였습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 30.47,
+    "student_strength": "진부하지만 당연히 여기까지 이끌어주신 선생님들의 노력과 노고 덕분이 아닐까합니다. 끝까지 저를 믿어주신 가족들 덕분에 힘내서 할 수 있었고, 잘되고 싶다, 잘하고싶다 라는 생각을 항상 가지고 임했던게 결과로 나온거 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 사용했고 나머지는 스토리를 만드는 등 응용하였습니다."
+  }
 }

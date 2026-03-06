@@ -13,5 +13,14 @@
     "data/crawled/raw_images/595_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:24:58.272649+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=595"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=595",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험장에서의 당황을 줄이기위해 최악의 상황들이 닥쳤을때 어떻게 대처할 지 평소에 미리 생각해놨습니다. 학원에서 평소에 시험연습을 많이 시켜줬기때문에, 시험을 볼때마다",
+    "practice_years": 3.0,
+    "competition_ratio": 4.87,
+    "student_strength": null,
+    "teacher_feedback": "선생님 평가시간에 지적받았던 부분들을 따로 메모해놓고, 그 부분을 계속 되뇌이며 바로바로 고치려 노력했습니다.",
+    "ideation_process": "학원에서 평소에 시험연습을 많이 시켜줬기때문에, 시험을 볼때마다 실전처럼 그려봤던것이 도움이 되어 실제로 시험장에서도 당황하지 않고 차분히 그릴 수 있었습니다."
+  }
 }

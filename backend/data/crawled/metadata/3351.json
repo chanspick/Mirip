@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3351_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:27:57.456768+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3351"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3351",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "문제는 전구와 아보카도가 나왔고 전구를 빨간색으로 사용하면서 주인공인 전구를 잘 보이게 했고 전구와 아보카도 과육의 만나는 표정을 그려 임팩트있는 그림을 그릴려고 노력했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 13.28,
+    "student_strength": "빨간 전구를 주변보다 크게 그린게 주인공을 더 부각시키는데 도움이 되었던 것 같습니다.",
+    "teacher_feedback": "선생님이 주신 자료들을 많이 참고하면서 그렸습니다..",
+    "ideation_process": null
+  }
 }

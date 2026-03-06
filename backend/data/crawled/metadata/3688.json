@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3688_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:45:34.073239+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3688"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3688",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "실기고사 출제문제는 축구공, 게임기, 부츠였으며, 이미지의 특성을 확인하여 부츠를 중심에 두고 축구공, 게임기를 주변에 표현하였습니다. 축구공의 특성인 속도와 탄력감을 활용하여 그림에서 속도감이 느껴지게 디자인하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 11.1,
+    "student_strength": "합격의 주요인은 기초디자인을 오래 쉬었지만 미술학원에서의 커리큘럼에 따라 기초적인 부분부터 복습하며 실기력을 올려 나가서 실기장에서 더욱 잘 그릴 수 있었던 것 같습니다.",
+    "teacher_feedback": "선생님이 가르쳐주신 대로 따라하는것을 위주로 준비하였습니다.",
+    "ideation_process": "표현하였습니다. 축구공의 특성인 속도와 탄력감을 활용하여 그림에서 속도감이 느껴지게 디자인하였습니다."
+  }
 }

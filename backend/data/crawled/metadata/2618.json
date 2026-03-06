@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2618_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:39.934556+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2618"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2618",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "와인이 절반 정도 담긴 와인잔과 얼음이 소재로 출제되었고 주제어로 ‘진동’이 출제되었다. 이전 서경대학교 기출에 비하면 직관적으로 바로 표현이 가능한 주제라고 생각해 일단 안심을 했던 것 같다.",
+    "practice_years": 1.25,
+    "competition_ratio": 7.17,
+    "student_strength": "일단 가장 큰 요인은 선생님들의 커리큘럼과 가르침을 최대한 수용하고 체화시키려했던 것이었다고 생각한다. 선생님들이 늘 말씀하시는 기초이론들, 해선 안될 것들을 잊지 않으려 그림을 그리는 매순간 되새겼다. 나의 욕심과 고집을 눈치채신 쌤들의 조언들을 새기고 또 새겼다.",
+    "teacher_feedback": "선생님들의 가르침을 받아들이려 특히 더 애를 썼다.",
+    "ideation_process": "표현하는 것으로 주제부를 집중시키고 외에 부분은 주제부에 더욱 효과적으로 집중되는 것을 목표로 배치하였다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3057_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:14:27.823704+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3057"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3057",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "꼭두 호랑이 도자기 호랑이가 고개를 꺾어서 바라보는 느낌이 매우 재미있게 느껴져서 동사형을 무언가를 바라본다를 중심으로 설정했습니다. 호랑이가 단일 개체로 나와서 무늬를 따로 쓰거나 깨진 도자기를 활용하여 양선면점 및 포인트 요소를 만들었습니다.",
+    "practice_years": 3.75,
+    "competition_ratio": 22.25,
+    "student_strength": "기본기를 잘 지킨 것이 이유라고 생각합니다. 묘사나 매우 특이한 구도를 시도하는 등 너무 기교만 잔뜩 부리는 것이 아닌, 탄탄하게 양감과 톤을 잡고 외곽을 깔끔하게 정리하여 기교가 장점으로 보일 수 있게 했던 것 같습니다. 또한 학원에서 조형원리를 정확히 알려주셨고, 홍유화로 화면의 가이드를 잡아주셨기 때문에 기본기에 충실한 구성을 할 수 있었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하고자 했습니다. 창의적으로 그리라는 문제 조건이 있어서 합격작 브리핑 내용을 떠올려 스토리텔링을 재미있게 연출하려고 했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/383_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:16:01.649489+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=383"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=383",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "'음악'과 관련된 긴 제시문과 함께 제시어로는 '잠자리'가 나왔습니다. 제시문이 말하고 있는 주제와 키워드를 파악해서 학원에서 집중적으로 연습했던 것에 적용하여 문제를 풀어나갔습니다.",
+    "practice_years": 1.58,
+    "competition_ratio": 13.38,
+    "student_strength": "제시문에 최대한 충실하며 제시문이 말하고자 하는 주제가 잘 보일 수 있게 풀어나갔던 점이 아닐까 생각합니다. 학원에서 잠자리를 연습해본 적이 있었기에 잠자리 소묘를 잘 완성할 수 있었던 것도 좋은 결과를 낼 수 있었던 이유라고 생각합니다.",
+    "teacher_feedback": "선생님께서 알려 주시는 방법을 바탕으로 연습하였고, 지적해주시는 저의 단점을 고쳐나가려고 노력하다보니 과기대 유형에 익숙해 질 수 있었습니다.",
+    "ideation_process": "풀어나갔습니다. 학원에서 알려주신 다양한 방법을 기반으로 제가 잘할 수 있는 구도를 많이 연습해 봤던 경험이 도움이 많이 되었던 것 같습니다."
+  }
 }

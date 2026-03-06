@@ -13,5 +13,14 @@
     "data/crawled/raw_images/243_0.png"
   ],
   "crawled_at": "2026-01-27T13:10:06.736081+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=243"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=243",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "계란, 수건, 지퍼백, 생수병, 키캣, 그리고 숟가락을 실제로 주고, 정물 중 하나를 수건과 함께 지퍼백에 넣고 나머지 정물들은 그 밖에 공간 배치하여 묘사하라는 문제였습니다. 정물들을 왜 실제로 줬을까와 정물들의 특성을 봤을 때, 관찰력과 묘사력이 주 채점기준이라는 생각이 들어 제 앞에 실제로 정물들을 배치하고 끊임없이 관찰하며 그렸습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.95,
+    "student_strength": "적극적인 태도! 아무리 선생님이 잘 가르쳐 주시더라도, 학생 본인이 수동적으로만 따라간다면 실기력이 정체될 수밖에 없다고 생각합니다. 저는 현역 때 입시 실패 요인이 이런 수동적인 태도 때문이었다는 생각이 많이 들었기 때문에, 호기심과 적극성을 가지고 제가 부족한 부분에 대해 항상 생각하고 그 부분을 고치려고 노력했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "정물들을 왜 실제로 줬을까와 정물들의 특성을 봤을 때, 관찰력과 묘사력이 주 채점기준이라는 생각이 들어 제 앞에 실제로 정물들을 배치하고 끊임없이 관찰하며 그렸습니다."
+  }
 }

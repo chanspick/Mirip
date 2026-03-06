@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1706_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:14:43.763959+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1706"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1706",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "도시에서 웜홀들이 열리고 다른 차원의 몬스터들이 쏟아져 나오고 있다. 일인칭 유저가 라이플을 들고 이들과 역동적인 전투를 벌이고 있는 장면을, 유저의 시점에서 자유로운 상상력을 발휘하여 게임상황표현하시오 가 주제였습니다.",
+    "practice_years": 2.17,
+    "competition_ratio": 12.7,
+    "student_strength": "사실 한성대가 게임상황표현을 어떻게 하는지에 대한 정보가 없었어요 선생님이 상황별 가이드라인을 잘 잡아주셔서 그대로 착실하게 준비해서 시험을 대비한것이 가장 큰 합격의 이유라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오 가 주제였습니다. 1인칭 시점이 핵심이라 생각해 주인공에 들일 시간을 게임인터페이스를 디테일하게 그리는 것으로 큰 목표를 잡고 진행했습니다."
+  }
 }

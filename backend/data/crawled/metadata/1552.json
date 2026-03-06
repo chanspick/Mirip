@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1552_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:07:30.832097+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1552"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1552",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 출제된 소재는 배추였고, 문제지에는 어떤 소설의 일부분이 지문으로 등장했어요. 저는 제시된 지문의 내용을 겉만 화려하고 실질적인 가치가 없는것보다는 소박해보이더라도 귀한 가치를 가지고있는것이 좋다라는 내용으로 정리 해석했어요.",
+    "practice_years": 3.0,
+    "competition_ratio": 4.82,
+    "student_strength": "첫번째는 선생님들의 친절한 지도였습니다. 제가 물감사용에는 익숙치않아 어려움을 겪었기도 했고, 과기대 문제풀이를 처음에 많이 헤맨 편인데 원장선생님께서 포기하지 않으시고 계속해서 더 나은방향으로 발전할 수 있도록 지도해주셨어요.ㅎㅎㅎ 또 기본기없이 화려한 묘사만 배우는 것이 아닌, 정말 스스로 그림을 그릴 수 있도록 지도해주셔서 합격할 수 있던것 같아요.",
+    "teacher_feedback": "선생님들께서 물감 양 조절하는것부터 붓질 연습까지 기초부터 세세하게 지도해주셔서 짧은 시간 동안 이지만 탄탄하게 실기준비를 할 수 있었어요!.",
+    "ideation_process": "저는 제시된 지문의 내용을 겉만 화려하고 실질적인 가치가 없는것보다는 소박해보이더라도 귀한 가치를 가지고있는것이 좋다라는 내용으로 정리 해석했어요. 그리고 제시된 소재인 배추가 자연물인 것을 보고 제시문을 해석한 내용과 연결하여 자연에 관한 내용으로 풀이했습니다."
+  }
 }

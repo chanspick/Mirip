@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2915_0.png"
   ],
   "crawled_at": "2026-01-27T15:08:07.572445+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2915"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2915",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "곰인형, 크래커, 쇠사슬의 조형적 특징을 이용하여 화면을 구성하시오 였습니다. 크래커를 좀 더 색다르게 쓸 수 있는 방법을 모색함.",
+    "practice_years": 3.0,
+    "competition_ratio": 39.69,
+    "student_strength": "남들과 다른 구도를 빠른 순발력으 이용하여 과감하게 문제를 진행한 것이 키포인트 였다고 생각함. 특색있는 묘사로 분위기있고 높은 채도를 사용한 것도 한몫 했다고 봄.",
+    "teacher_feedback": "선생님의 가르침을 경청하고 그저 구도맞추기만이 아니라 스스로 나만의 조형과 묘사법을 찾기위해 노력함.",
+    "ideation_process": "크래커를 좀 더 색다르게 쓸 수 있는 방법을 모색함. 크래커를 육면체로 만들어 시선을 집중시켰고 반복을 통해 공간감을 냄."
+  }
 }

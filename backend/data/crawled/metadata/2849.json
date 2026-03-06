@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2849_0.png"
   ],
   "crawled_at": "2026-01-27T15:05:08.530292+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2849"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2849",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "스테이플러, 커피 캡슐, 공책 학원에 있던 단국대 합격작에 커피 캡슐이 있었던 것을 기억하고 그 합격작은 어떻게 했었는지 생각하면서 학원에서 연습한 대로 하고 왔던 것 같습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 24.6,
+    "student_strength": "학원에서 선생님들과 피드백을 하면서 그림을 좋은 방향으로 수정하고 안 좋은 습관같이 불필요한 부분을 바로바로 말씀해줘서 그런 점은 금방 고칠 수 있었고 덕분에 그림에만 집중할 수 있던 것 같습니다.",
+    "teacher_feedback": "선생님들과 전년도 합격작을 분석하기도 하고 예상 문제로 학원에서 자체 테스트를 보거나 집에서 예상 문제로 드로잉을 해보면서 준비했던 것 같습니다..",
+    "ideation_process": null
+  }
 }

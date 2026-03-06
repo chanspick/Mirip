@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2756_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:00:57.048122+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2756"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2756",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "산 정상에 올라 야호 하는 젊은 남자가 나왔고 눈은 웃으면서 호~하는 느낌으로 만들었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.67,
+    "student_strength": "다양한 이미지를 많이 찾아본게 실기향상에 도움이 많이 된거같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

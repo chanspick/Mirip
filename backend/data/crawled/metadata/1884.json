@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1884_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:22:35.197017+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1884"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1884",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "철수세미, 빽붓, 붓 투명 케이스, 빨래 집게가 흑백으로 나왔어요. 처음에 개체 수도 많고 흑백이라 당황을 했는데 침착하게 그렸어요.",
+    "practice_years": 3.0,
+    "competition_ratio": 35.03,
+    "student_strength": "성신여대가 특이한 구도를 좋아한다는 걸 뒤늦게 알았는데 아마 합격의 가장 큰 요인은 패턴 덕이라고 생각합니다 ,, 또 남들은 튀어 보일라고 빨강 파랑으로 보색을 주고 화려하게 했는데 저는 차분하게 평소에 우리가 알고 있는 개체의 색으로 해주었어요. 그리고 구도가 튀니까 색은 최대한 고유색으로 해서 밸런스를 맞춘 것도 큰 요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "처음에 개체 수도 많고 흑백이라 당황을 했는데 침착하게 그렸어요. 색깔을 다양하게 하기 보다"
+  }
 }

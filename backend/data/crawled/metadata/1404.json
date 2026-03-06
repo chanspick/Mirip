@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1404_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:00:40.078027+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1404"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1404",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "실기를 보러가기 며칠 전, 카피를 떴던 작품이 떠오르면서 그 날 주어진 주제에 카피작의 컨셉을 녹여낼 수 있을 것 같다고 생각이 들어 빠르게 스케치에 들어갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": null,
+    "student_strength": "태순쌤께서 강평 때 해주신 말씀과 보조쌤들께서 알려주신 스킬적인 부분들, 그리고 실기 가기 전날마다 쌓여있는 작품들을 하나하나씩 다시 보고 마음에 드는 작품의 구도나 스킬들은 메모에 적어서 실기장 도착하기 직전까지 보면서 머리에 담아두려 한 것이 합격에 영향을 끼쳤다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

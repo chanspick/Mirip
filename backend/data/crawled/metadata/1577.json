@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1577_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:08:40.985446+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1577"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1577",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "문제은행이었기 때문에 주제를 받자마자 미리 준비했던 그림을 생각하면서 고민 없이 시작했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 10.4,
+    "student_strength": "선생님들이 매우 신경 써 주시고 그에 맞춰서 열심히 했기 때문인 것 같아요. 스스로 생각하기에 전 조금 게을렀었는데 빡센 스케줄과 분위기가 저를 잡아줬던 것 같아요. 스스로 열심히 하고 있다고 생각했는데 주변을 둘러보면 아닌 것을 깨닫고 현실 자각을 한 것 같아요. 그래서 스스로에게도 더욱 열심히 하자고 다짐했고 진짜 절실한 사람이 된다는 느낌을 받았어요.",
+    "teacher_feedback": "선생님들께서 항상 말씀하셨던 것들을 지키며 하려고 노력했고, 하나하나 지켜갈수록 그림의 완성도가 올라가는 느낌이 들었어요..",
+    "ideation_process": null
+  }
 }

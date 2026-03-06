@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2313_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:41:15.206955+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2313"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2313",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "주제는 철사끈으로 묶인 비닐봉지에 담긴 고구마와 털실뭉치가 나왔고, 털실뿐만 아니라 고구마의 껍질 또한 선제로 사용하고, 고구마 채도를 높임으로서 다른 그림들과 차이를 두려했습니다.",
+    "practice_years": 1.58,
+    "competition_ratio": 27.56,
+    "student_strength": "선생님과 함께 정한 구도에 최대한 정확히 맞추려했고, 채도가 떨어지거나, 농도가 잘못되지 않도록 신경 썼습니다.",
+    "teacher_feedback": "피드백을 받고 고쳐나가며 퀄리티를 높여나갔습니다..",
+    "ideation_process": null
+  }
 }

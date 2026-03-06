@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3935_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:58:50.961795+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3935"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3935",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "수동 믹서기와 헤드셋이 나왔고 제시어는 파괴와 확산이었습니다. 출제문제를 보고 헤드셋의 소리로 인한 파괴와 확산을 표현해야겠다고 생각했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 24.08,
+    "student_strength": "제시어로 인해 자칫하면 난잡한 그림이 될 수 있었지만 휘둘리지 않고 필요한 부분에서 최소한으로 표현하고 여백을 지켜가며 그린 점이라고 생각합니다.",
+    "teacher_feedback": "선생님의 피드백을 적으면서 다음 시험을 볼 때 실수하지 않도록 노력했습니다..",
+    "ideation_process": "생각했습니다. 또한 색상이 자유인 대학이기에 주제부는 빨강과 초록의 대비로 설정했고 너무 많은 색상을 사용하는 것은 오히려 독이 되기에 나머지는 무채로 진행하였습니다."
+  }
 }

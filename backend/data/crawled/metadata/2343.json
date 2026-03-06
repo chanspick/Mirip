@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2343_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:42:34.073833+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2343"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2343",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "상명대는 문제은행이 있기 때문에 소재를 보자마자 미리 짜놨던 하도를 1시간 이내에 끝내고 채색을 들어갔습니다. 평소 묘사가 부족하다는 지적을 많이 받았기 때문에 묘사를 내 생각보다",
+    "practice_years": 1.42,
+    "competition_ratio": 12.96,
+    "student_strength": "평소 평가를 들을 때 적었던 평가노트, 그리고 주변 친구들과 내가 받은 평가와 그림을 비교하며 나의 부족한 점을 고치고자 했던 부분이 큰 도움이 되었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "평소 묘사가 부족하다는 지적을 많이 받았기 때문에 묘사를 내 생각보다 더 과하게 하고자 노력했습니다."
+  }
 }

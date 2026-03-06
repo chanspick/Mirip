@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1545_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:07:12.568422+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1545"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1545",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "참치캔 종이노끈 사각건전지로 화면구성. 기출문제 풀면서 참치캔을 그려본 적이 있어서, 그 구도를 그대로 사용했다.",
+    "practice_years": 4.0,
+    "competition_ratio": 6.41,
+    "student_strength": "그날 컨디션에 구애받지 않고 성실하게 임하려는 것이 가장 중요하다고 생각된다.",
+    "teacher_feedback": null,
+    "ideation_process": "기출문제 풀면서 참치캔을 그려본 적이 있어서, 그 구도를 그대로 사용했다. 참치내용을 그리지 말라는 조건이 있어서 참치를 건전지로 바꿔서 그렸다."
+  }
 }

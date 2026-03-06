@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3867_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:55:18.167919+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3867"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3867",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "제시물은 삼각 스케일자였고, 주제어는 ‘그림자’였습니다. 어려운 주제가 아니어서 어떻게 하면 눈에 띌 수 있을지 고민했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 16.36,
+    "student_strength": "오랫동안 지도해주신 선생님들의 피드백이 가장 큰 도움이 되었다고 생각합니다. 선생님들께서 제 그림스타일을 잘 알고 계셔서 장점은 극대화하고 단점을 보완할 수 있었습니다. 또 시험 후 아쉬운 부분을 정리한 오답 노트와 숙대용 아이디어 노트를 만든 것도 큰 도움이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "어려운 주제가 아니어서 어떻게 하면 눈에 띌 수 있을지 고민했습니다. 자를 세워 그림자가 길게 드리워지는 모습에서 횡단보도를 떠올렸고, 거기에 신호등과 레고 미니피규어를 추가해 더 직관적으로 표현해주었습니다."
+  }
 }

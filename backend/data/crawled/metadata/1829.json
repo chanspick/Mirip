@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1829_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:20:12.924439+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1829"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1829",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "학원에서 그려봤던 소재가 나와서 다행히 긴장을 덜 했고 침착하게 그려나갔습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 10.4,
+    "student_strength": "학교별로 유형에 맞춰 소재나 주제들을 많이 풀어 본게 도움이 되었었고 기초디자인과 발상형 실기에 따라 원장쌤들의 피드백과 평가들이 주요했다고 생각됩니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

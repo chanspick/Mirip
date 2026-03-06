@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3795_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:51:14.961456+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3795"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3795",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "나침반과 나비, 유리병이 나왔고 연습했던 개체들이 나와서 긴장하지 않고 안정적으로 그릴 수 있었습니다 나침반의 특성과 쓰인 글씨의 형태, 나비의 움직임에 집중하며 그렸습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 26.47,
+    "student_strength": "연습해 본 개체라 자신 있게 그릴 수 있었고 시간분배로 안정적인 완성을 할 수 있었습니다 나침반의 정확한 형태와 나비의 표현력에서 좋은 평가를 받은 것 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "나침반의 특성과 쓰인 글씨의 형태, 나비의 움직임에 집중하며 그렸습니다"
+  }
 }

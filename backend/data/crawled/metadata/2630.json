@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2630_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:55:13.190288+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2630"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2630",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "예상했던 것보다 많이 까다롭다는 생각이 들지는 않았던 것 같습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": null,
+    "student_strength": "성적이 가장 큰 요인이었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "풀어나갔습니다. 또한, 저희 반 담임이셨던 임현민 선생님께서 중요시하셨던 여러 조건에 부합하는지 계속 점검하며 그렸습니다."
+  }
 }

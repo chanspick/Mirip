@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3722_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:47:22.091970+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3722"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3722",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "야구공/페인트붓 페인트붓의 털부분은 유연한 변화를 줄있기때문에 최대한 유연한 움직임이 보이도록 하고 야구공의 실을 이용해 붓의 털을 묶어줘서 변화를 줬습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.86,
+    "student_strength": "붓을 최대한 액티브하게 쓴게 좋게 보였지 않나 싶습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

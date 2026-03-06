@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2035_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:29:11.029861+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2035"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2035",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "제시된사물(물뿌리개,해바라기,우산)의 조형적 특성을 활용하여 화면에 구성하고 표현하시오. 평소 수업시간에 들었던 소재의 연관성에 집중했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 10.9,
+    "student_strength": "선생님의 피드백을 계속해서 생각하며 그리고 한 곳에만 매달리는 게 아니라 한 번씩 그림을 내려놓고 보았다. 전체적으로 다시 보아서 전체적으로 그림을 조율하며 그려 나가려 노력하고 완성도를 올린 게 가장 큰 것 같다.",
+    "teacher_feedback": "선생님이 해주신 피드백을 적어놓고 항상 되새겼다.",
+    "ideation_process": "표현하시오. 평소 수업시간에 들었던 소재의 연관성에 집중했다."
+  }
 }

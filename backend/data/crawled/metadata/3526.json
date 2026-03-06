@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3526_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:36:25.785716+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3526"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3526",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "선생님들의 좋은 가르침과 충고, 사랑 그리고 내신을 포기하지 않은 것이 합격의 요인이라고 생각합니다.",
+    "teacher_feedback": "선생님들의 말씀에 귀 기울이 고 시범을 보여주실 때 집중해서 보고 나서 설명해 주셨던 부분을 나의 그림에 적용하기 위해 노력했습니다.",
+    "ideation_process": null
+  }
 }

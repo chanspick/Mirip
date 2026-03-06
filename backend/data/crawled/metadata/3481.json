@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3481_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:34:14.761395+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3481"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3481",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "접시, 유리컵, 포크, 스푼이 제시물로 나왔습니다. 주제지를 받고 저한테 기회라는 생각으로 그동안 성신여대를 준비하면서 비슷한 주제를 풀었을 때 받았던 피드백을 떠올리며 문제풀이를 했습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 45.52,
+    "student_strength": "아이디어 스케치를 할 때 구성의 실수가 없었기 때문에 합격할 수 있었다고 생각합니다. 그리고 다양한 화면을 정확하게 암기했기 때문에 응용을 더 잘할 수 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "주제지를 받고 저한테 기회라는 생각으로 그동안 성신여대를 준비하면서 비슷한 주제를 풀었을 때 받았던 피드백을 떠올리며 문제풀이를 했습니다."
+  }
 }

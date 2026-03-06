@@ -13,5 +13,14 @@
     "data/crawled/raw_images/623_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:26:10.259601+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=623"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=623",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "회전날 같은 기계가 나왔고, 주제는 상승과 회전 이였다. 소재의 기능적 특성이 주제와 어떻게 매칭될지를 고민했고, 상승은 스케일 대비와 높이로써 표현을 했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.0,
+    "student_strength": "사실 망했다라고 생각되기도 했는데 그럼에도 포기하지 않고 끝까지 정리하고 마무리하려 했던게 제일 큰 원인이라 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "소재의 기능적 특성이 주제와 어떻게 매칭될지를 고민했고, 상승은 스케일 대비와 높이로써 표현을 했다."
+  }
 }

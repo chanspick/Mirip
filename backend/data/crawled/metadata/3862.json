@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3862_0.png"
   ],
   "crawled_at": "2026-01-27T15:54:59.601244+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3862"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3862",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 계산기, 클립, 담요가 나왔었고 단순한 제시물들이기 때문에 힘을 강조하자는 생각을 하였고 계산기가 날아와 담요를 치며 주위 클립들이 부서지는 연출들을 통해 적극적으로 힘을 보여주려 노력하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 35.22,
+    "student_strength": "개체의 특성을 적극적으로 잘 보여주었기 때문이라고 생각합니다.",
+    "teacher_feedback": "선생님이 해주시는 피드백을 적용하여 이전의 실수를 반복하지 않으려 했던 것 같습니다..",
+    "ideation_process": null
+  }
 }

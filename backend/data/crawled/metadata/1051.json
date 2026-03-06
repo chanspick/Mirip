@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1051_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:44:47.183515+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1051"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1051",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 1.0,
+    "competition_ratio": 5.7,
+    "student_strength": "현실이 아니라 길고 긴 꿈이라고 생각하면 감정의 동요가 없다. 너무 과하게 몰입 하지 않고 별 거 아닌 일이라고 생각해야 한다. 물론 쉽진 않지만. 주변의 말을 참고하되, 주체성을 잃으면 안 된다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

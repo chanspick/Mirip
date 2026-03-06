@@ -14,5 +14,14 @@
     "data/crawled/raw_images/927_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:39:18.647671+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=927"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=927",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "원래 모델링만 해와서 표정이 들어간 두상은 거의 해보지 않았는데 사진으로 약간 미소를 짓는 여자가 나와서 당황했다. 하지만 아무리 표정이 있어도 사진 속에 모든 정보가 들어있다고 생각하고 사진을 최대한 정확히 판독하고 모델링에 집중하였다.",
+    "practice_years": 2.08,
+    "competition_ratio": 10.73,
+    "student_strength": "가군 시험을 망친것이 가장 큰 원동력이였던 것 같다. 가군시험을 치고 이 학교가 아니면 안된다는 생각으로 간절하게 했다. 간절하고 절실함에서 나오는 힘이 정말 큰것같다.",
+    "teacher_feedback": null,
+    "ideation_process": "하지만 아무리 표정이 있어도 사진 속에 모든 정보가 들어있다고 생각하고 사진을 최대한 정확히 판독하고 모델링에 집중하였다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2086_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:31:24.599169+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2086"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2086",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "소묘는 문제에서 요구한대로 조건에 맞춰 스스로 정한 시간내에만 완성하려 했다. 조명기구 디자인은 학원에서 그렸었던 디자인을 활용해 과자와 잎맥이 모두 잘 보일 수 있게 그림을 그렸다.",
+    "practice_years": 2.5,
+    "competition_ratio": 7.05,
+    "student_strength": "제시된 개체들을 잘 보이게 활용한 것과 조명기구에 특징적인 점을 보여준것이라 생각한다. 평소 다양한 디자인 상품을 찾아본것이 도움이 된것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "조명기구 디자인은 학원에서 그렸었던 디자인을 활용해 과자와 잎맥이 모두 잘 보일 수 있게 그림을 그렸다."
+  }
 }

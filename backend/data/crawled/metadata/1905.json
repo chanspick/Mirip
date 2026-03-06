@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1905_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:23:29.415999+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1905"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1905",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "시험 당일날 받은 문제에는 흑백사진의 ‘안경’과 제시어 ‘무거움’이 적혀있었습니다. 문제지를 받고 무거움과 관련된 사물들을 하나하나 나열해보면서 그중 다른 친구들과 차별화를 둘 수 있는 사물을 골라 아이디어스케치를 뜨기 시작했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 9.53,
+    "student_strength": ".합격의 주요인 중 하나는 공부와 그림 둘중 어느하나에 쏠리지 않고 병행하는 것이었고, 학원선생님의 피드백을 듣고 자신의 단점을 하나하나 고쳐나가는 것이 주요인이었다고 생각합니다.",
+    "teacher_feedback": "선생님의 피드백을 듣고 그림을 고쳐 완성을 하였습니다.",
+    "ideation_process": "문제지를 받고 무거움과 관련된 사물들을 하나하나 나열해보면서 그중 다른 친구들과 차별화를 둘 수 있는 사물을 골라 아이디어스케치를 뜨기 시작했습니다. 쌍저울위에 쇠공,벽돌,안경 그리고 목장갑을 따로 그렸습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2469_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:48:04.038321+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2469"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2469",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 <악당 우두머리에게 잡혀있는 동료를 구해야 하는데, 눈 앞에 있는 동료에게 한발짝이라도 가까이 가면 자신이 위험에 처하게 되는 긴장감 넘치는 상황을 표현하시오.> 였으며, 운좋게 한성대 유형을 준비하며 그렸던 그림과 당일 출제 되었던 문제가 잘 부합하여 쉽게 풀어내었던 것 같습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 11.65,
+    "student_strength": "미래적인 디자인이 아닌 동양풍 디자인을 활용한 것이 큰 차별점이 되었던 것 같습니다. 또한 운이 많이 작용했던 것 같고, 선생님의 가르침이 합격에 가장 많은 영향을 끼쳤다고 생각합니다.",
+    "teacher_feedback": "선생님의 피드백을 최대한 반영하려 노력했고, 어떻게 하면 시선이 가는 그림을 만들 수 있을지 많이 고민했던 것 같습니다..",
+    "ideation_process": "표현하시오.> 였으며, 운좋게 한성대 유형을 준비하며 그렸던 그림과 당일 출제 되었던 문제가 잘 부합하여 쉽게 풀어내었던 것 같습니다."
+  }
 }

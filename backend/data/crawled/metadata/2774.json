@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2774_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:01:46.447089+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2774"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2774",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "귤, 스탠드등, 털장갑이 나왔는데 여기서 가장 보여주고 싶었던 것은 전등이 귤을 비추는 것이었습니다. 그래서 귤이 아니라 전등을 더 크게 그려서 빛이 나오는 것을 강조해 주었습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 9.11,
+    "student_strength": "학원에서 가르쳐준 것을 매일매일 그림일기로 꼼꼼하게 정리했던 게 많은 도움이 되었습니다. 그날 배운 것을 바로바로 정리하지 않았다면 학원에서 배웠던 것들을 시험장에서 정확하게 활용할 수 없었을 것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그래서 귤이 아니라 전등을 더 크게 그려서 빛이 나오는 것을 강조해 주었습니다. 그리고 털장갑의 패턴을 명확하게 보여주려고 했습니다."
+  }
 }

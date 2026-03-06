@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1042_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:44:21.825403+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1042"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1042",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "철수세미와 때밀이, 그리고 모가 많은 브러쉬가 나왔습니다. 세 가지 물건을 색깔, 크기에 상관없이 배치해 미래의 분위기를 나타내라는 주제였습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 9.52,
+    "student_strength": "입시를 치루면서 마음적인 부분, 물적인 부분에 대한 짐이 있어 죄송한 마음으로 보냈지만, 그래서 반드시 합격해야겠다고 계속 다짐했던 것 같습니다. 제가 자괴감에 빠져있을 때도 옆에서 항상 위로해 주셨고, 기운을 주셨던 선생님이 있어 도움이 많이 되었습니다. 또한 같이 입시를 치렀던 친구들도 많은 도움이 됐습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "세 가지 물건을 색깔, 크기에 상관없이 배치해 미래의 분위기를 나타내라는 주제였습니다. 철 수세미는 세세하게 파고 들어가야 하는 묘사가 많아 시간을 많이 들여야 했기에 최대한 효율적으로, 전체적인 양감을 잡은 채 그 위에 밝음과 어둠을 묘사하는 것으로 철 수세미의 질감을 표현했습니다."
+  }
 }

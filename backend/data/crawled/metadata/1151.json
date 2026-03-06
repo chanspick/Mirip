@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1151_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:49:14.038856+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1151"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1151",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일출제 문제는 줄자랑 용수철 추였고 시험 보기 바로전날 같은 제시어로 시험을 봤었어서 그 구도에 대입했습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 21.36,
+    "student_strength": "시험볼때 정리하면서 깨끗한 느낌을 주려고 노력했고 무리한 컨셉보다는 기본기에 충실해서 합격한 것 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

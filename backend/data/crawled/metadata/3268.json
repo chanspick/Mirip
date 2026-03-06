@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3268_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:24:00.739416+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3268"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3268",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "선인장과 동전 벼과 나왔고, 전날에 선인장 형태를 지적 받았기때문에 선인장 형태에 신경을 썼습니다. 또 동전에 있는 사람 얼굴과 독수리가 잘 보이도록 그렸습니다.",
+    "practice_years": 6.0,
+    "competition_ratio": 7.06,
+    "student_strength": "최대한 여러번 그릴려고 했고, 그렸던 그림들을 스케치를 다시 하고, 지적받았던 것들을 고칠려고 한게 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "또 동전에 있는 사람 얼굴과 독수리가 잘 보이도록 그렸습니다."
+  }
 }

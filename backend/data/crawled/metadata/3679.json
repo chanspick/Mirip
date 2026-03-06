@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3679_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:44:59.480330+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3679"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3679",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "턱이 박히고 눈이 나온 머리를 푼 30대 여성이 나왔으며 평소처럼 편하게 실기하였습니다",
+    "practice_years": 1.33,
+    "competition_ratio": 8.6,
+    "student_strength": "끝나기 직전까지 계속 양을 찾으려고 하였고 정직하고 객관적이게 작품을 보려고 하였습니다",
+    "teacher_feedback": "선생님들의 지시에 따라 실기하였습니다.",
+    "ideation_process": null
+  }
 }

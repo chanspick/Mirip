@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1149_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:49:08.969305+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1149"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1149",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "적색양배추와 망치 콘센트가 나왔는데, 주제가 나와있는 학교다보니, 평소에 학원에서 연습했던대로 당황하지 않고 그림을 그려나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 10.96,
+    "student_strength": "많은 그림들 사이에서 돋보이기 위해, 주제부에는 남들과 다른 하나의 포인트를 그린 것이 도움이 되었다고 생각합니다. 평소에 선생님의 칭찬덕분에 자신감을 잃지 않고 시험장에서 그렸던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

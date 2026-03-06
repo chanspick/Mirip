@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3391_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:29:56.715703+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3391"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3391",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "파란 나비, 코르크마개가 있는 유리병, 나침반이 나왔고 유리병 안에 나침반과 나비를 넣었는데 나침반 추로 유리병을 깨 코르크 마개가 튀어나와 나비가 유리병에서 탈출하는 듯한 이미지를 노렸으며 나비의 움직임이나 잔상 등을 최대한 많이 표현했습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 26.47,
+    "student_strength": "당연하게도 처음 학원을 등록하고 재수까지 무한한 도움과 믿음을 주시고 끝까지 함께해주신 선생님들의 수업과 애정 덕분입니다.",
+    "teacher_feedback": "선생님들의 피드백을 받으며 세 번 네 번씩 그려서 내 것으로 만드려는 노력을 했습니다..",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/639_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:26:51.088053+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=639"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=639",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "경희대는 고2때부터 실기 대회, 수시, 정시 때문에 자주 왔었습니다. 그래서 적당한 긴장과 흥분을 가지고 시험에 임했습니다.",
+    "practice_years": null,
+    "competition_ratio": 4.0,
+    "student_strength": null,
+    "teacher_feedback": "선생님들의 다양한 표현기법을 가까이서 보며 붓을 다루는 법과 묘사에 대한 감각을 폭넓게 경험하고 참고 할수 있었습니다..",
+    "ideation_process": "그래서 적당한 긴장과 흥분을 가지고 시험에 임했습니다. 정물을 받고 조금 당황했지만 모두 같은 생각일거라고 생각하자 다시 평소의 페이스와 집중력을 되찾을수 있었습니다."
+  }
 }

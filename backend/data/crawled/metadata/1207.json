@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1207_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:51:39.313185+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1207"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1207",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험장에서 숙대는 5시간시험으로 다른 학교보다 한 시간 정도 더 주어졌기 때문에 최대한 서두르지 않고 차분하게 그리려고 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": null,
+    "student_strength": null,
+    "teacher_feedback": "선생님들이 지적해주신 부분을 생각하면서 다음 그림을 그릴때 그 부분들을 생각하며 최대한 보안하여 그리려고 했고 사물을 직접 보고 관찰하여 묘사하였습니다.",
+    "ideation_process": "한 시간 정도 더 주어졌기 때문에 최대한 서두르지 않고 차분하게 그리려고 노력했습니다. 기본적인 정물 크기의 비례나 형태를 틀리지 않고 과장하지 않고 그렸던 것 같습니다."
+  }
 }

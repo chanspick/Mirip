@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3343_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:27:34.435881+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3343"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3343",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 다용도칼, 유리구슬, 우산이었는데 개체 3개간의 관계를 만들어서 표정을 지어주는 게 중요하다고 생각하여 칼이 우산을 찌르고 찢어진 우산 사이로 유리구슬이 튀어나오는 내용으로 풀어나갔습니다.",
+    "practice_years": 1.83,
+    "competition_ratio": 4.92,
+    "student_strength": "주변은 대부분 유리구슬을 주제부로 하였는데 빨간색 다용도칼을 주제부로 한 것과 개체 간에 표정을 지어준 것이 합격에 도움이 되었던 것 같습니다.",
+    "teacher_feedback": "피드백을 계속 생각하며 단점을 개선하려고 노력했습니다..",
+    "ideation_process": null
+  }
 }

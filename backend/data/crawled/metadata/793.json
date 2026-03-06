@@ -13,5 +13,14 @@
     "data/crawled/raw_images/793_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:33:34.648761+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=793"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=793",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 스피커 우퍼, 소라껍데기, 컵라면이었고, 문제를 받았을 때 제시물들을 어떻게 연관 지어 재미있는 연출을 할 수 있을까에 대한 고민을 많이 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 40.0,
+    "student_strength": "학교가 선호하는 그림의 스타일을 파악하여 그에 맞는 그림을 그린 것이 합격의 주요 원인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

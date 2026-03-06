@@ -14,5 +14,14 @@
     "data/crawled/raw_images/879_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:37:14.525838+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=879"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=879",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "지각하여 급하게 달려가는 여고생의 두상을 제작하는 것이였고. 여고생이라는 키워드에 맞추어서 최대한 나이댜룰 맞추려고 노렸했습니다, 기물로도 교복을 선택해서 학생같은 느낌을 주려고 노력했습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 21.33,
+    "student_strength": "주제에서 나이대를 크게 나가지 않은게 중요했던것 같습니다. 완성도도요.",
+    "teacher_feedback": null,
+    "ideation_process": "여고생이라는 키워드에 맞추어서 최대한 나이댜룰 맞추려고 노렸했습니다, 기물로도 교복을 선택해서 학생같은 느낌을 주려고 노력했습니다."
+  }
 }

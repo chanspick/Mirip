@@ -14,5 +14,6 @@
     "data/crawled/raw_images/1096_1.png"
   ],
   "crawled_at": "2026-01-27T13:46:51.222952+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1096"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1096",
+  "normalized_dept": "other"
 }

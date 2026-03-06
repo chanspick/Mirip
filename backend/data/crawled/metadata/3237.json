@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3237_0.png"
   ],
   "crawled_at": "2026-01-27T15:22:33.563411+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3237"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3237",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험장에서 이상한 시도를 했다가 망한 적이 많아 평소대로 그렸다.",
+    "practice_years": null,
+    "competition_ratio": 6.0,
+    "student_strength": "선생님께: 그동안 잘 가르쳐주셔서 감사했습니다! 앞으로도 그림 열심히 그려서 선생님들처럼 멋진 미대생이 될게요..",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

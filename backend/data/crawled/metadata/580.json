@@ -13,5 +13,14 @@
     "data/crawled/raw_images/580_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:24:20.079369+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=580"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=580",
+  "normalized_dept": "sculpture",
+  "interview_parsed": {
+    "exam_topic": "경기에 우승해서 몸에 한반도기를 두르고 환호를 지르고 있는 북한 카누 선수를 제작하는 것이었다. 무조건 입을 벌리고 있어야 하는 표정이었는데 너무 과하게 벌리게 될 경우 사람답지 못하게 보일것을 생각해서 웃는 표정을 베이스로 환호를 지른다는 느낌을 살짝 주려고했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.9,
+    "student_strength": "모델링을 한다는 느낌으로 문제에서 요구하는 조건들은 맞추되 사람다움을 계속 생각했기 때문에 내 작품이 좋아보였던 것 같다. 표정에 너무 집중하기 보다는 전체적인 동세나 몸통에서도 자연스러움을 놓치지 않으려고했다.",
+    "teacher_feedback": "선생님들의 평가나 지나가면서 해 주시는 말씀들을 필기노트에 꼭 적어놓고 다음날 실기할때 한번 읽고 실기를 시작했다.",
+    "ideation_process": "생각해서 웃는 표정을 베이스로 환호를 지른다는 느낌을 살짝 주려고했다. 최대한 문제에서 요구하는 표정을 맞추려고는 하되 사람다움을 놓치지 않으려고했다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/369_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:15:26.102692+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=369"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=369",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "Q . 실기를 준비하면서 느낀 점은? 대부분의 학원친구들은 기초디자인이나 발상과표현을 준비했고 서울대에 지원하는 학생들로 서울대반이 따로 꾸려졌습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "Q . 재수를 시작하면서 디자인 레디에 들어왔는데, 작년에는 강원도에서 입시를 하다가 겨울특강 때 멀리 내려와 기초디자인으로 입시학원에 다녔습니다. 흔히 말하는 이름있는 큰 학원들이었는데... 전부 다 똑같은 패턴을 몇가지 암기하는 형식으로 수업을 진행했습니다. ‘이름있는 학원이니까 이렇게 하는게 맞는거겠지..",
+    "teacher_feedback": "선생님께서 직접 면접까지 준비, 관리해주셨습니다..",
+    "ideation_process": "발상과표현을 준비했고 서울대에 지원하는 학생들로 서울대반이 따로 꾸려졌습니다. 서울대반에 배치될 때 처음엔 ‘내가 서울대를..?’하는 생각에 포기할까 생각했지만 원장쌤께서 힘이 되는 말씀도 해주시고 약이되는 채찍질도 해주시면서 다시 한번 마음을 다"
+  }
 }

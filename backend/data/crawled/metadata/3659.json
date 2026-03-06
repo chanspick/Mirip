@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3659_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:43:37.897213+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3659"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3659",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "앵무새, 해바라기, 달걀 껍질로 자유롭게 구성하라 했으며 학원에서 연습했던 거를 떠올리며 그렸다.",
+    "practice_years": 3.5,
+    "competition_ratio": 8.97,
+    "student_strength": "후회하지 않을만큼 열심히 한 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1388_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:59:55.806279+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1388"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1388",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "가위,탁구채,등산로프,주사위,탁구공 위와 등산로프는 선재의 역할, 주사위는 포인트의 역할, 탁구채는 크게 색을 채워주는 역할을 해주는 사물이라는 생각이 들었다. 탁구공은 탁구채와 함께 나오는 연출을 하는 게 적당한 것 같다.",
+    "practice_years": 1.0,
+    "competition_ratio": 20.9,
+    "student_strength": "국어 성적이 안 좋았지만 영어 성적이 잘나왔기 때문에 성적을 맞출 수 있었고, 학원에서 그동안 준비했던 실기 덕분에 합격을 했다.",
+    "teacher_feedback": null,
+    "ideation_process": "탁구공은 탁구채와 함께 나오는 연출을 하는 게 적당한 것 같다."
+  }
 }

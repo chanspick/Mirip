@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1123_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:03.203455+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1123"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1123",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "문제는 면접을 기다리면서 마음을 다잡는 20대 남성이였습니다. 동세, 머리스타일, 생김새와 표정을 주제에 맞게 상상하고 완벽히 정해지고 만들기 시작했습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 16.08,
+    "student_strength": "흙 만지는 시간 외에 드로잉을 많이하고 평소에 자기가 연습했던 것을 시험때 잘 표현해내는 것이 중요하다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "동세, 머리스타일, 생김새와 표정을 주제에 맞게 상상하고 완벽히 정해지고 만들기 시작했습니다."
+  }
 }

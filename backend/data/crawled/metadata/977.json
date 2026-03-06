@@ -13,5 +13,14 @@
     "data/crawled/raw_images/977_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:41:29.226417+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=977"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=977",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "데이비드 호크니의 다시 점 양식을 제시문과 작품을 통해 이해하고, 그 표현기법을 활용하여 정원이라는 공간을 시각화하는 문제였습니다. 국민대가 워낙 새로운 문제를 출제하려는 경향이 있어서 또 새로운 문제가 나올 것이라고 예상은 했지만 너무나 생소한 문제가 나와서 사실 좀 당황했습니다.",
+    "practice_years": null,
+    "competition_ratio": 3.04,
+    "student_strength": "제가 합격한 이유는 끈기, 믿음, 열정 때문이라고 생각합니다. 시험장에서 그림이 마음에 안 들었지만 포기하지 않고 끝까지 그렸기 때문이 가장 큰 것 같습니다. 수업 때도 항상 포기하지 않으려 노력했었고 선생님들께서도 강조한 부분이었기 때문에 시험장에서도 그만큼 완성한 것 같습니다.",
+    "teacher_feedback": "피드백을 받는 순서로 수업을 받았습니다.",
+    "ideation_process": "생각해서 나름의 차별화된 컨셉을 잡고 그리려고 했습니다."
+  }
 }

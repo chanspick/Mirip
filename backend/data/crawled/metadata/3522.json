@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3522_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:36:14.097343+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3522"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3522",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "지구본과 줄자였습니다. 주제부의 지구본으로 아래의 지구본의 육지 부분을 부숴 균열이 일어난 부분에서 전임선생님이 보여주셨던 잔디 질감을 표현하였고, 주제부 지구본 옆에 달이 회전하는 걸 표현하였습니다.",
+    "practice_years": 2.83,
+    "competition_ratio": 28.0,
+    "student_strength": "관찰하는 습관과 긍정적인 마음가짐이 중요한 것 같습니다. 그림이 재밌다고 생각할수록 완성도도 올라오고 마음에 들게 나오는 것 같습니다.",
+    "teacher_feedback": "선생님과 단점을 고치고 강점을 살리면서 준비하였습니다..",
+    "ideation_process": "표현하였고, 주제부 지구본 옆에 달이 회전하는 걸 표현하였습니다. 또한 지구본의 어둠 부분에는 밤이라 생각하고 도시의 불이 켜진 것처럼 연출하였습니다."
+  }
 }

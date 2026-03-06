@@ -1,0 +1,16 @@
+{
+  "total": 3747,
+  "processed": 3629,
+  "skipped_already_parsed": 0,
+  "skipped_no_interview": 117,
+  "skipped_parse_error": 1,
+  "success": 3629,
+  "fields": {
+    "exam_topic": 3404,
+    "practice_years": 3003,
+    "competition_ratio": 3467,
+    "student_strength": 3471,
+    "teacher_feedback": 1730,
+    "ideation_process": 2754
+  }
+}

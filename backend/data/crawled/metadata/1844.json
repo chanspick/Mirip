@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1844_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:20:52.015239+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1844"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1844",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "청각장애인이 새롭게 발명된 기계의 도움으로 난생 처음 소리를 듣게 된 상황을 상황표현하시오. 문제상황에 저를 대입하여 난생 처음 소리를 듣게 되었을 때 느낄 감정을 많이 생각했고, 현재 실생활에 쓰이는 보청기는 귀에 맞게 사이즈가 작기 때문에 표현이 잘 안 될 것 같아 헤드셋 형태의 기계로 잘 보이도록 표현했습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 24.84,
+    "student_strength": "선생님의 피드백을 메모하고 기억하여 적용하는 것과 매시험 마다 목표를 정하고 4시간 동안 목표치를 달성하려고 노력했던게 저의 합격 노하우 같습니다.",
+    "teacher_feedback": "선생님께서 시범 보여주신 것을 응용하려 노력했고 시험을 치고난 후 강평을 할때 해 주신 말씀들과 개선 해야 할 점들을 노트에 적어가며 까먹지 않고 시험대비 연습을 할 때 말씀해 주신 것을 적.",
+    "ideation_process": "표현하시오. 문제상황에 저를 대입하여 난생 처음 소리를 듣게 되었을 때 느낄 감정을 많이 생각했고, 현재 실생활에 쓰이는 보청기는 귀에 맞게 사이즈가 작기 때문에 표현이 잘 안 될 것 같아 헤드셋 형태의 기계로 잘 보이도록 표현했습니다."
+  }
 }

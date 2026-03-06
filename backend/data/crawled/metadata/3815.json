@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3815_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:52:23.823587+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3815"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3815",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "최근 국민대 입시 경향과 다른 문제가 나왔기에 조금 당황했지만, 창의력과 묘사 중 어느 부분에 무게를 둘까 먼저 고민하고, 창의력보다는 문제 직접묘사에 중점을 두기로 했습니다. 또한 컬러선택은 눈이라는 직접적 물체가 있어 파란계열로 하기로 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 3.74,
+    "student_strength": "기본적으로 문제에 기반한 어느정도 정직한 풀이와 면접에서의 설명능력, 또 평균에 들어갈 수 있는 성정도 합격에 중요한 요인들이라 생각합니다.",
+    "teacher_feedback": "원장님과 함께 준비하였고, 이런 연습이 그림적 측면 뿐만이 아니라 문제에 대한 생각방식, 갑작스러운 주제에 대한 멘탈관리에도 큰 도움이 되었습니다.",
+    "ideation_process": "또한 컬러선택은 눈이라는 직접적 물체가 있어 파란계열로 하기로 했습니다."
+  }
 }

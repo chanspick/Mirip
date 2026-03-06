@@ -13,5 +13,14 @@
     "data/crawled/raw_images/378_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:15:49.156018+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=378"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=378",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "재활용과 멀티탭을 활용하여 제시된 물체인 멀티탭을 확실히 주제부에 보여주도록 구도를 구성했으며 전체적으로 돌아가는 화면구성으로 재활용을 표현하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 27.47,
+    "student_strength": "핵심적인 요인은 구도와 주제에 맞게 대응하는 연습이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

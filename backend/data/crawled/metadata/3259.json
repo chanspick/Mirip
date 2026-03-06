@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3259_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:23:36.067921+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3259"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3259",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "회중시계, 레고, 튜브형 물감, 망원경을 이용해 자유롭게 구성하는 문제였으며, 소재가 많기 때문에 주가 되는 소재와 부수적인 소재를 구분하되 4개의 소재가 한눈에 보이는 것이 중요하다고 생각하였고 제시어는 없었지만 최대한 속도감 있는 연출을 하려고 노력했습니다. 또한 레고를 쌓거나 물감을 짜는 등 소재의 기능과 특징이 드러나는 연출을 적극적으로 표현했습니다.",
+    "practice_years": 1.42,
+    "competition_ratio": 15.0,
+    "student_strength": "생각보다 많은 소재가 나왔지만 기출문제를 많이 풀어보았기 때문에 당황하지 않고 진행했던 점이 유리했던 것 같습니다.",
+    "teacher_feedback": "선생님들의 시범을 보며 붓질이나 효과적인 기법을 최대한 따라하며 제 그림에도 적용하기 위해 노력했습니다..",
+    "ideation_process": "또한 레고를 쌓거나 물감을 짜는 등 소재의 기능과 특징이 드러나는 연출을 적극적으로 표현했습니다."
+  }
 }

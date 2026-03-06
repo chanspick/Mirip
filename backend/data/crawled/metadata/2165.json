@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2165_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:34:48.448310+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2165"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2165",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "조건에 맞춰 제시된 사물들로 자유롭게 창의적 구성을 하는 것이었습니다. 처음엔 조건도 너무 많고 제시된 사물의 개수도 많은데다",
+    "practice_years": 3.0,
+    "competition_ratio": 3.16,
+    "student_strength": "실기와 성적의 균형을 잘 맞춰나간 것이 저의 합격의 주요인이라고 생각합니다. 국민대는 워낙 합격 성적대가 높아서 많이 불안했었는데 생각보다 수능성적이 잘 나와서 원하는 학과에 지원할 수 있었고, 또 항상 강평내용을 잘 정리하고 기억해두었다가 시험장에 가서도 잘 적용시키고 온 것이 실기평가에 있어 좋은 요인으로 작용했던 것 같습니다.",
+    "teacher_feedback": "선생님께서 해주시는 강평들을 노트에 정리하고 외워서 다음 그림에 적용시키려고 노력했습니다.",
+    "ideation_process": "처음엔 조건도 너무 많고 제시된 사물의 개수도 많은데다 제시어도 없어서 굉장히 당황했었는데, 평소하던대로 30분동안은 실제로 나눠준 사물들을 사용해보면서 물체들의 특성을 강조할 수 있는 구도로 그림을 완성했습니다."
+  }
 }

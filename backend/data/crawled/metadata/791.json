@@ -13,5 +13,14 @@
     "data/crawled/raw_images/791_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:33:29.332333+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=791"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=791",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "USB 가습기와 연결 잭으로 “연결”을 표현하라는 주제였어요. 가습기 모양은 원기둥으로 단순했기 때문에 어떤 부분을 덧붙여서 심심하지 않게 표현해줘야 하고, 그리고 연결이라는 걸 어떻게 보여줘야 할지 고민을 했어요.",
+    "practice_years": 2.0,
+    "competition_ratio": 14.19,
+    "student_strength": "시험 시간이 촉박해서 완벽한 퀄리티로 그리지 못했다는 점이 아쉬웠어요. 그런데도 합격한 걸 보면, 저희 학원 특유의 색감과 분위기 연출의 몫이 가장 컸던 것 같아요. 그리고 자주 실수 하는 부분을 지적해 주시고 항상 그에 따른 방향을 제시해 주셨던 것을 신경써 왔어요. 그래서 주제를 잘 드러날 수 있게 그릴 수 있었던 것 같아요",
+    "teacher_feedback": "선생님께서 단계별로 자료를 꼼꼼하게 제시해 주시고 실시간으로 시범을 자주 보여주셔서 그 자료들을 따라 그리며 연습을 많이 했어요.",
+    "ideation_process": "표현하라는 주제였어요. 가습기 모양은 원기둥으로 단순했기 때문에 어떤 부분을 덧붙여서 심심하지 않게 표현해줘야 하고, 그리고 연결이라는 걸 어떻게 보여줘야 할지 고민을 했어요."
+  }
 }

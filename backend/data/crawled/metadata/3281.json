@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3281_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:24:36.728520+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3281"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3281",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "제시물로는 해피밀 장난감으로 조립식 강아지 장난감과, 투명 헬멧을 쓴 톰 장난감이 나왔습니다.",
+    "practice_years": 6.0,
+    "competition_ratio": 15.65,
+    "student_strength": "성신여대 소묘 입시의 특성상 사진을 정확하게 옮겨야 되는데, 비율이나 형태가 틀리지 않도록 점검하고 또 확인하는 과정이 가장 중요했다고 생각됩니다. 묘사할 게 없는 제시물인 만큼 덩어리 톤을 세밀하게 쪼개는 걸 우선시했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

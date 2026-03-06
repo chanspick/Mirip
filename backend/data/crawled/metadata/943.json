@@ -14,5 +14,14 @@
     "data/crawled/raw_images/943_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:40:00.396317+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=943"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=943",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "20대 여자모델이 나왔다. 모델의자가 낮았고 모델 얼굴이 작고 아담한 편이셔서 관찰시점 차이가 많이 나서 어려움을 겪었다.",
+    "practice_years": 2.0,
+    "competition_ratio": 3.8,
+    "student_strength": "원래 하던 대로만 하려고 했다. 욕심을 내면 실수가 잘 나오기 때문에 평소 하던 대로, 보이는 대로 만들려고 했다. 특히 시험장에 가면 시험시간이 길기도 하고 손이 빨라져 시간에 여유가 생겨 이미지나 큰 폼에 욕심내기 십상인데 한 번 욕심을 내면 작품에 집착하기 쉬워져 그때마다 계속 멀리 나가서 모델과 비교 관찰했다.",
+    "teacher_feedback": null,
+    "ideation_process": "모델의자가 낮았고 모델 얼굴이 작고 아담한 편이셔서 관찰시점 차이가 많이 나서 어려움을 겪었다. 일단 작품 사이즈가 모델보다"
+  }
 }

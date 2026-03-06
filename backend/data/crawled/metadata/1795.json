@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1795_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:18:44.897457+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1795"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1795",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "문제는 \"양파와 빨래집게로 포스트 코로나와 주거환경에 대해 발상 표현하시오\"였으며 빨래집게와 양파라는 소재가 난해하였으나 코로나 때문에 외출하고 들어오면 바로 빨래를 하고 밥은 외식을 절제하고 집에서 가족들과 먹는 코로나 때문에 바뀐 우리의 일상을 근거로 문제풀이 하였습니다.",
+    "practice_years": 2.67,
+    "competition_ratio": 9.27,
+    "student_strength": "저의 합격 노하우는 의지와 그림을 좋아하는 마음이라고 생각합니다. 입시그림을 그리면서 힘든때도 많았지만 제가 좋아하는 그림이기에 버틸 수 있었고 그것이 좋은 결과로 이어졌다고 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": "발상 표현하시오\"였으며 빨래집게와 양파라는 소재가 난해하였으나 코로나 때문에 외출하고 들어오면 바로 빨래를 하고 밥은 외식을 절제하고 집에서 가족들과 먹는 코로나 때문에 바뀐 우리의 일상을 근거로 문제풀이 하였습니다."
+  }
 }

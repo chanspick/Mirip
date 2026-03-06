@@ -13,5 +13,14 @@
     "data/crawled/raw_images/954_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:40:28.553519+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=954"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=954",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "2020 건국대 정시주제는 형사 / 추격 / 골목길이었으며, 긴박한 상황을 다양한 앵글로 표현하며 풀어나갔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 12.67,
+    "student_strength": "학원 선생님이 강조하셨던 명암대비가 아닐까 생각합니다. 즉, 자신에게 맞는 좋은 선생님을 찾는 게 주 합격요인이 아닐까 싶습니다. 예전에도 학원을 다닌 적이 있지만 가르침의 방식에 불만이 있어 수시 때 제대로 된 지식을 쌓지 못했었던 기억이 있습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하며 풀어나갔습니다."
+  }
 }

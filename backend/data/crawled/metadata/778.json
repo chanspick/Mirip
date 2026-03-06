@@ -13,5 +13,14 @@
     "data/crawled/raw_images/778_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:32:55.665909+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=778"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=778",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "주제는 AI와 함께하는 세상에서 일어날 재미날 일을 표현하시오였습니다 학원에서 풀어보았던 5G 세상에서 일어날 수 있는 일과 흡사해 스토리는 고민하지 않고 들어갈 수 있었습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 10.0,
+    "student_strength": "다양한 종류의 주제를 미리 풀어보고 꼼꼼히 컨펌을 받아 그때그때 문제점을 고쳐 다시 그려보며 준비했기에 합격할 수 있었던 거 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오였습니다 학원에서 풀어보았던 5G 세상에서 일어날 수 있는 일과 흡사해 스토리는 고민하지 않고 들어갈 수 있었습니다"
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1684_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:13:39.996872+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1684"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1684",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.0,
+    "competition_ratio": 9.54,
+    "student_strength": "잘하든 못하든 포기하지 않고 최선을 다해서 한것과 원장쌤의 이야기 그리고 실기노트인거 같다",
+    "teacher_feedback": "선생님이 가르쳐주시는데로 했고 모르는게 있으면 선생님께 여쭤보고 고칠점과 새로 알게된 부분도 실기노트에 정리 하였다.",
+    "ideation_process": null
+  }
 }

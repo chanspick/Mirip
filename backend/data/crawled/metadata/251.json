@@ -13,5 +13,14 @@
     "data/crawled/raw_images/251_0.png"
   ],
   "crawled_at": "2026-01-27T13:10:26.722487+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=251"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=251",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "평소 에도 손이 빠른편인데 시험장에서는 더욱 빨라져서 시간이 남는 편이었다. 그래서 시간분배에 가장 신경을 썼다.",
+    "practice_years": 3.0,
+    "competition_ratio": 13.43,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "그래서 시간분배에 가장 신경을 썼다. 그리는 속도가 빠른 만큼 구도 생각하는 시간이나 스케치하는 시간을 늘렸다."
+  }
 }

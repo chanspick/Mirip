@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2644_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:55:51.361978+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2644"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2644",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "유리병의 뚜껑이 열려있고 스펀지가 그 안에 들어가 잇는 상황을 소묘 유리병과 스펀지를 이용하여 감귤(밀감)을 디자인 제시물의 물성과 특징이 잘 느껴지게 하려고 노력했다.",
+    "practice_years": 2.5,
+    "competition_ratio": 8.36,
+    "student_strength": "선생님들의 서포트와 나의 노력과 성실함이라고 생각한다.",
+    "teacher_feedback": "선생님들의 평가에서 나의 부족한 점을 찾고 평소 수업을 하면서 나의 단점을 의식하며 고치려고 노력했다..",
+    "ideation_process": null
+  }
 }

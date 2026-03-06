@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1634_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:11:22.658868+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1634"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1634",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "핸드폰, 전화기, 안경이 출제돼서 전화기(유선)와 안경을 통해 핸드폰의 용적특성을 보여주었고 핸드폰 배경화면이 보색대비가 강하기에 고유색을 지켜주고 색상변경은 최대한 줄였습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 18.31,
+    "student_strength": "집중감있는 화면 구성과 모든 제시물의 형태가 정확하게 보인점, 당시 고사장에서 전화기를 색상변경하여 메인에 크게 배치한 그림이 많이 보였는데 핸드폰의 고유색상을 살려 메인으로 사용한 게 좋아보였을 듯 합니다.",
+    "teacher_feedback": "피드백을 늘 되새기며 그림의 단점을 개선하려 노력했습니다.",
+    "ideation_process": null
+  }
 }

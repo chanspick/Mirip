@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2306_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:40:56.726961+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2306"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2306",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "주제는 도토리, 가리비, 나사못이 나왔고, 평소 연습하던 대로 기출문제를 그렸다..",
+    "practice_years": 1.75,
+    "competition_ratio": 12.96,
+    "student_strength": "기본기를 탄탄하게 잡아 놨던 게 장점이 된 거 같다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

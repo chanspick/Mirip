@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1502_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:05:14.171331+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1502"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1502",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "‘조합’ 이었는데 처음에는 당황스러웠지만 그동안 연습한 효과와 연출들을 생각하면서 배웠던 것들을 거의 다 그리려고 노력했다.",
+    "practice_years": 2.5,
+    "competition_ratio": 9.35,
+    "student_strength": "학원에서 학교별로 모아 계속 시험을 보고 그 학교의 특색에 맞는 묘사나 연출 방법을 많이 알려준 것과, 숙대를 넣을까 말까 고민할 때 자신감을 잃지 않도록 할 수 있다고 응원해주신 선생님들 인 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "그리려고 노력했다."
+  }
 }

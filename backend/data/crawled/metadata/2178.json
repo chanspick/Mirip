@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2178_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:35:22.169244+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2178"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2178",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "구강스프레이, 병따개, 머리집게를 구성하는 문제가 나왔으며 가장 부피가 큰 구강스프레이를 주제로 쓰고 병따개는 금속으로 표현해 비치도록 표현했습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 8.25,
+    "student_strength": "문제를 꼼꼼하게 여러번 읽어서 조건을 잘 지켰고, 가장 주제가 되는 구강스프레이를 노란색으로 그려서 눈에 잘 보였던 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

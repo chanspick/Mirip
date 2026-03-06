@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3405_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:30:38.576737+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3405"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3405",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 어금니 치통으로 고통스러워하는 중년여성이 나왔습니다. 한쪽 어깨는 올려주고 한쪽은 내려서 고통스러운 동세를 표현하였고 찡그리는 얼굴, 머리카락은 약간 파마한 단발느낌을 내주었습니다",
+    "practice_years": 1.67,
+    "competition_ratio": 21.23,
+    "student_strength": "학원에서 시범, 시험을 보면서 단점과 장점을 보완해주신 선생님들 덕분인거같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "표현하였고 찡그리는 얼굴, 머리카락은 약간 파마한 단발느낌을 내주었습니다"
+  }
 }

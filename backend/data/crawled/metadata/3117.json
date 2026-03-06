@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3117_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:17:11.338727+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3117"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3117",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "1번은 휴지와 비누를 포갠 모습/일부 휴지가 젖은 모습을 소묘하는것이었고, 2번은 두개의 특성을 활용해 주전자를 디자인 휴지를 선재로 사용해 면을 쪼개고 거품을 점재로 활용했습니다. 찻주전자의 기능적인 특징에 비누의 물성을 적용하고 싶어서 주전자를 유리재질로 하고 안에 비누로 차 거름망을 표현했는데...",
+    "practice_years": 1.0,
+    "competition_ratio": 3.65,
+    "student_strength": "공식을 명확하게 정해서 알려주시는 것과 이론 수업이 많아서 이해하고 그림을 그릴 수 있다는 게 가장 큰 것 같습니다. 특히 테크닉적인 부분이 아니라 양감이나 정리감같은 기본적인 부분들에 초첨을 맞춰주시는 게 달랐던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "찻주전자의 기능적인 특징에 비누의 물성을 적용하고 싶어서 주전자를 유리재질로 하고 안에 비누로 차 거름망을 표현했는데... 너무 풀던대로 풀었고 기법을 적용하는 데에 집중해서 정작 두루마리 휴지의 특징적 형태인 말려있는 모양을 쓰지 못한 것이 아쉬웠습니다."
+  }
 }

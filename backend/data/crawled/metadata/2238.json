@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2238_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:37:58.184987+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2238"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2238",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "꼬마전구 와 붕어고리, 평소에 많이 그려봤던 소재라 어렵지는 않았던거 같아요. 꼬마전구의 재질감과 붕어고리의 기능을 표현하는데 중점을 두었습니다.",
+    "practice_years": 2.17,
+    "competition_ratio": 9.7,
+    "student_strength": "질감표현과 공간감에 있어 연속성을 주기 위하여 노력하였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는데 중점을 두었습니다."
+  }
 }

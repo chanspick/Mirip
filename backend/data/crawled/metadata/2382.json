@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2382_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:44:15.161594+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2382"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2382",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제는 만년필 종이 조명등으로 디자이너의 다이나믹한 삶을 표현하시오. 였고 문제지를 받고 리듬감이라 생각하고 평소 자주 쓰던 구도에 리듬감과 추가적인 요소들을 넣어 풀어나갔습니다.",
+    "practice_years": 4.58,
+    "competition_ratio": 26.79,
+    "student_strength": "선명도라고 생각합니다 그림을 그리고 마무리를 하면서 평소그림보다 꽤나 선명하게 나왔다고 생각했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 였고 문제지를 받고 리듬감이라 생각하고 평소 자주 쓰던 구도에 리듬감과 추가적인 요소들을 넣어 풀어나갔습니다."
+  }
 }

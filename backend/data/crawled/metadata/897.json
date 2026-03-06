@@ -13,5 +13,14 @@
     "data/crawled/raw_images/897_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:38:00.191309+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=897"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=897",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "여자 모델이 출제가 되었는데 사진마다 표정이 달라서 사진을 판독하는데 어려움이 있었지만 최대한 정면을 위주로 맞춰가는데에 중점을 두었다",
+    "practice_years": 2.0,
+    "competition_ratio": 10.73,
+    "student_strength": "큰 실루엣을 틀리지않을려고 노력했던 점과 작품을 객관적인 시선으로 보려고 했던 점이 합격 요인이라고 생각한다",
+    "teacher_feedback": null,
+    "ideation_process": "표정이 달라서 사진을 판독하는데 어려움이 있었지만 최대한 정면을 위주로 맞춰가는데에 중점을 두었다"
+  }
 }

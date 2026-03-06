@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3840_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:53:43.521329+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3840"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3840",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "출제 기물은 탁상시계,가위,벨트 였으며,각 기물의 물성을 보여주고자 하였고 학원에서 가르쳐준 기물별 특징성이 드러나는 요소를 적제적소에 집어넣었습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 6.0,
+    "student_strength": "학원에서 여러번의 모의시험에서 얻은 나만의 노하우,선생님의 노하우를 배워 “적용”시킬 수 있었던게 주요인 같습니다. 아무리 아는게 많다고 하더라도 변수가 많은 시험장에서 그걸 적용시키는 것은 숙련이 없으면 할 수 없다고 생각합니다",
+    "teacher_feedback": "선생님께 대학별 특징에 대한 이야기를 듣고 대학별 기출시험 , 모의시험을 치르거나 시범을 보며 실력을 향상시켰습니다.",
+    "ideation_process": null
+  }
 }

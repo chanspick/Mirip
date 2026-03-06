@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1987_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:27:04.234908+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1987"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1987",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "소묘: 크래커의 질감을 나뭇잎으로 바꿔서 부서진 모습 표현 디자인: 크래커와 잎맥의 형태와 질감을 사용해서 조명 디자인/ 조명 주제는 학원에서 너무 많이 했기 때문에 다행이라는 생각이 먼저 들었습니다 우선 교수님들이 소묘를 좋아하실 것 같아서 소묘에 시간을 많이 투자했습니다",
+    "practice_years": 3.5,
+    "competition_ratio": 6.79,
+    "student_strength": "예비반에서부터 했던 디테일 스케치 수업이 형태랑 속도에 큰 도움을 준 것 같습니다 그전에는 빠르다는 생각을 못 했는데 그 이후로 확실하게 속도가 빨라지고 필력이 좋아진 느낌이 들었고 합격에도 영향을 많이 주었습니다.",
+    "teacher_feedback": "피드백 받으면서 이렇게 해야 한다의 기준이 생겼던 것 같습니다.",
+    "ideation_process": "우선 교수님들이 소묘를 좋아하실 것 같아서 소묘에 시간을 많이 투자했습니다 잎맥 묘사를 하나하나 살리고 부서진 잎맥 질감을 강조하면서 표현력과 성실함을 보여드린 것 같습니다"
+  }
 }

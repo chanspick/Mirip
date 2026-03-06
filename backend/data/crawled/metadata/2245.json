@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2245_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:38:16.065842+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2245"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2245",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "경희대는표정이 과한 모델이 나올수 있다는 얘기를 많이 들어서 긴장은 하고 있었기 때문에 당황하진 않았다. 학원에서 배운대로 만들고 마지막에 모델 이미지에 맞춰 고개를 틀거나 살짝씩 고쳤다",
+    "practice_years": 3.0,
+    "competition_ratio": 7.6,
+    "student_strength": "완성을 무조건 해야한다기 보다 모델 이미지를 보면서 최대한 뒤로 자주 나와보았다.",
+    "teacher_feedback": "선생님들이 시키시는데로 했고 내가 매번 틀리는 것들은 메모장에 적어놓고 생각나면 보곤했다 42.",
+    "ideation_process": "학원에서 배운대로 만들고 마지막에 모델 이미지에 맞춰 고개를 틀거나 살짝씩 고쳤다"
+  }
 }

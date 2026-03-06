@@ -13,5 +13,14 @@
     "data/crawled/raw_images/641_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:26:56.188254+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=641"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=641",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험장에서 내주변에 친숙한 학원친구들의 얼굴이 몇몇보였기때문에 긴장되지않았다 그래서 떨지않고 평소처럼 그리고왔다",
+    "practice_years": 2.0,
+    "competition_ratio": 4.0,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "그래서 떨지않고 평소처럼 그리고왔다"
+  }
 }

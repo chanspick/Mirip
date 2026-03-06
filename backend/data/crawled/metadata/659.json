@@ -13,5 +13,14 @@
     "data/crawled/raw_images/659_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:27:42.230960+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=659"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=659",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "양파의 껍질 색과 안경테의 부분이 같은 색상이여서 종이가 매우 중요한역할을 하는 것 같았기 때문에 종이의 분포를 신경써야하는 문제였지 않을까 싶다.",
+    "practice_years": 4.0,
+    "competition_ratio": 5.33,
+    "student_strength": "평소에 선생님이 지적해주시는 부분을 잘 적어두고 계속해서 고쳐나가는 것이 제일 큰 영향이였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

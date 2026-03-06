@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2936_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:09:04.264293+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2936"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2936",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "당일 출제된 문제는 “재활용품을 활용한 인류의 미래를 상황표현하시오.”였다. 시험 전날까지 고민하던 주제가 나와 당황스러웠지만 평소 내가 잘 그릴 수 있다고 생각한 로우앵글 구도를 활용하여 진행했다.",
+    "practice_years": 1.17,
+    "competition_ratio": 11.54,
+    "student_strength": "주어진 시간에 주제가 잘 표현된 그림을 그렸다는 것이 큰 요인이 된 것 같고 주제부의 역동적인 자세가 시선을 끌 수 있었던 것 같다. 가르쳐 주시고 이끌어주신 학원 선생님들 감사드려요! 그림뿐만 아니라 정신적인 부분에서도 많이 배워가는 것 같아요. 살면서 가장 성실했던 해였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오.”였다. 시험 전날까지 고민하던 주제가 나와 당황스러웠지만 평소 내가 잘 그릴 수 있다고 생각한 로우앵글 구도를 활용하여 진행했다."
+  }
 }

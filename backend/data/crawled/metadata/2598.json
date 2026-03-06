@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2598_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:53:47.249440+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2598"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2598",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "상황표현이라는 과목이었던 만큼, 투시를 사용하여 문제를 풀이하고자 하였으나 상황표현을 준비한 예비 애니/만화과 학생들에 비하여 퀄리티가 떨어질 것을 감안해 의미가 있는 그림을 그리기로 했습니다. 하여 오리가족을 구해주는 로봇을 렌더링으로 만들어 그렸습니다.",
+    "practice_years": 1.42,
+    "competition_ratio": 4.5,
+    "student_strength": "할 수 있는 것들을 많이 만드는 것이 좋은 것 같습니다. 저의 경우 발상과 표현 말고도 상황표현이나 무대미술 입시도 함께 진행했었는데, 덕분에 더 다양한 과에 지원할 수 있었고, 붙을 수 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "하여 오리가족을 구해주는 로봇을 렌더링으로 만들어 그렸습니다."
+  }
 }

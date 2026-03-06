@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2822_0.png"
   ],
   "crawled_at": "2026-01-27T15:03:55.867516+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2822"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2822",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "당근, 강판 을 이용하여 분산을 표현하는 문제가 출제되었습니다. 분산이라는 주제어를 받고 학원에서 풀어봤던 확산 주제어가 떠올라 선생님께서 말씀하신 소실점으로부터 확산되는 이미지를 표현하려고 노력했습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 24.0,
+    "student_strength": "선재가 나오지 않았던 상황에서 당근을 길게 갈아 선재로 활용하였다는 점과 강판의 다양한 크기, 주제부에서의 표현력이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님께 질문하여 부족한 부분을 채웠고, 지적 받았던 부분들은 다음 그림에서 지적받지 않도록 고쳐나갔습니다.",
+    "ideation_process": "표현하는 문제가 출제되었습니다. 분산이라는 주제어를 받고 학원에서 풀어봤던 확산 주제어가 떠올라 선생님께서 말씀하신 소실점으로부터 확산되는 이미지를 표현하려고 노력했습니다."
+  }
 }

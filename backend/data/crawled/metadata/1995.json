@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1995_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:27:24.870011+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1995"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1995",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "색연필 여러개와 연필이 꽂힌 컴퍼스/ 솔직히 처음에 받고 둘 다 길쭉한 선재라서 당황했고 컴퍼스를 주제로 쓰려고 하다",
+    "practice_years": 4.0,
+    "competition_ratio": 8.95,
+    "student_strength": "구도!유니온의 큰 장점인 구도 수업을 항상 중요하게 생각하고 시험장에서 배운 구도대로 했더니 붙을 수 있었던 것 같습니다. 그리고 뭔가 멋지고 예쁘게 그리거나 묘사를 엄청 하기보다는 학원에서 배운대로 학생답게 딱 기본기만 지키려고 양감 제대로 잡고 채색할 때도 흐리게 남겨서 대충 그리는 것 처럼 보이지 않게 끝까지 칠해서 그림을 단단하게 그렸습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 색연필은 쓰는 기능을 갖고 있으니까 쓰는듯한 모습을 보여주고 컴퍼스는 바늘 부분으로 고정시켜서 연필로 원을 그리는 게 기능이니까 바늘 부분으로 색연필에 꽂아 색연필 파편이 튀기는 재미요소를 주고 학원에서 강조하던 제시어를 회전으로 정해서 색연필을 깎으면 나오는 나뭇조각을 가변형 선재로 사용해서 포인트 부분에 돌돌 돌려서 밖으로 빠지는 듯한 모습으로 표현했습니다."
+  }
 }

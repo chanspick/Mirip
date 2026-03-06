@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3051_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:14:10.915145+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3051"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3051",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "호랑이 모양 도자기 큰 호랑이와 작은 호랑이로 대비를 넣으려 하였고 도자기의 깨지는 연출을 넣고자 하여 몸통부분이 깨지도록 의도했고 주변 무늬들이 큰 호랑이 주변으로 날리면서 호랑이가 뛰어나오는 것처럼 보이도록 하였습니다. 이 문제풀이를 할 때 고유의 형태를 지키고자 하여 크게 변형하지않고 자료 와 최대한 비슷하게 그려준 것이 제 그림의 포인트가 된 것 같습니다.",
+    "practice_years": 2.92,
+    "competition_ratio": 22.25,
+    "student_strength": "과정별로 시간을 정해서 그리며 손을 더 빨리 움직일 수 있게 하는 트레이님 수업이 합격에 도움이 많이 되었습니다. 트레이닝을 하면 시간 안에 완성을 해야 하다보니 손이 무조건 빨라지게 되고 실전에서도 적용을 하면서 빠르고 정확하게 그림을 그릴 수 있었습니다. 이렇게 체계적인 구조속에서 그림을 그리다 보니 실기력이 저절로 늘었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "이 문제풀이를 할 때 고유의 형태를 지키고자 하여 크게 변형하지않고 자료 와 최대한 비슷하게 그려준 것이 제 그림의 포인트가 된 것 같습니다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/698_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:29:20.971016+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=698"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=698",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "누워 있는 사람 두명이 나왔는데 나는 정면 자리가 나왔다. 누워 있는 사람을 낸 이유가 형태을 정확히 볼 수 있는지 두 사람의 거리표현을 시간 안에 할 수 있는지 보려고 하는것 같았다.",
+    "practice_years": 5.0,
+    "competition_ratio": 21.0,
+    "student_strength": "형태를 정확히 뜨려고 한 것. 묘사 할 수 있는 것은 최대한 한 것. 양을 늘리기 위해 계속 건들인 것. 학생답게 관찰하고 양을 늘릴려고 한게 합격의 주요인같다.",
+    "teacher_feedback": null,
+    "ideation_process": "누워 있는 사람을 낸 이유가 형태을 정확히 볼 수 있는지 두 사람의 거리표현을 시간 안에 할 수 있는지 보려고 하는것 같았다. 그래서 최대한 형태를 정확히 뜨려고 하였고 앞에 있는 발바닥 하나와 머리에 양을 최대한 내려고 하였고 뒤에 있는 머리와 무릎은 진하게 되지않도록 하였다."
+  }
 }

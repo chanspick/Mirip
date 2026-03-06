@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3333_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:27:05.602328+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3333"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3333",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "다이얼시계와 손목시계로 블루투스 헤드셋을 만들어야 했습니다. 학원에서 시험봤던것들을 떠올리며 최대한 제시물의 특징이 잘 보이면서도 재밌게 만들고자 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 18.87,
+    "student_strength": "3절 4시간이라는 짧은 시간동안 새로운 사물을 만들어 완성해야 하기 때문에 완성도가 중요했던 것 같습니다. 그리고 제시물의 다양한 특징을 보여주려고 했습니다.",
+    "teacher_feedback": "선생님께서 피드백해주시는 부분들을 계속 고쳐나갔던것 같습니다.",
+    "ideation_process": "학원에서 시험봤던것들을 떠올리며 최대한 제시물의 특징이 잘 보이면서도 재밌게 만들고자 했습니다. 색상이 자유였기 때문에 헤드셋과 잘 어울릴것 같은 무채색으로 진행했습니다."
+  }
 }

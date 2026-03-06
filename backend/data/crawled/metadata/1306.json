@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1306_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:56:03.595581+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1306"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1306",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "건국대에서는 정사각형에 내접하는 원그림이 나오고 그 그림에서 나올 수 있는 도형 세가지가 소재로 주어졌다. 문제를 읽고 딱 두가지, 도형의 특성을 어떻게 잘 보여줄 것인지 그리고 리듬감이 최대한 잘 보일 수 있을지를 고민한 후 그림을 그려나갔다.",
+    "practice_years": 3.0,
+    "competition_ratio": 6.77,
+    "student_strength": "자료들을 많이 찾아보고 구 자료들을 제때제때 활용한 것이 큰 득점요인이 되었던 것 같다. 실제 시험장에서 머릿속에 많은 리듬감 자료들이 떠올랐고 그 중에서 주어진 도형의 특성이 잘 보일만한 자료를 활용했다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "문제를 읽고 딱 두가지, 도형의 특성을 어떻게 잘 보여줄 것인지 그리고 리듬감이 최대한 잘 보일 수 있을지를 고민한 후 그림을 그려나갔다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/967_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:41:02.652176+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=967"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=967",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "물체들의 평면도를 주고 입체로 만든 후에 그것들로 정원을 구성하고 그것을 데이비드 호크니의 다시점 방식을 적용하여 그리시오 - 기본적으로 국민대는 관찰하여 그리기가 전제되. 어있기때문에 문제지에 나온 호크니의 작품 4가지를 자세히 관찰한 후에 3가지 작품에서 공통된 요소인 포토콜라주기법과 한가지 작품에서 두드러졌던 전체다시점 방식을 모두 시험작안에 적용하였습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 5.81,
+    "student_strength": "학원에서 배웠던 탄탄한 기본기와 이상한 문제에 말리지않고 문제에서 요구하는바를 계속 생각하면서 힌트를 찾는것처럼 문제풀이를 했던 것이 합격의 주 요인이었던 것 같습니다.",
+    "teacher_feedback": "선생님께서 고심해서 만들어 주셨던 예상문제들이 실전에서 많은 도움이 되었습니다.",
+    "ideation_process": "어있기때문에 문제지에 나온 호크니의 작품 4가지를 자세히 관찰한 후에 3가지 작품에서 공통된 요소인 포토콜라주기법과 한가지 작품에서 두드러졌던 전체다시점 방식을 모두 시험작안에 적용하였습니다. 그리고 왜 이작품들을 제시했는지에 중점을 두고 주어진 평면도와 호크니 작품들의 연관성을 생각하여 화면을 구성했습니다."
+  }
 }

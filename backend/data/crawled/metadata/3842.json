@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3842_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:53:49.098764+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3842"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3842",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "헤드셋/ 빨간 카라꽃 / 절구 방망이 가 출제되었으며, 개체의 물성을 활용하고 크기대비를 주며 풀이했습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 5.05,
+    "student_strength": "확실한 포인트 설정과 포인트, 주제부 정리감이라고 생각합니다.",
+    "teacher_feedback": "선생님께 피드백 받은 부분을 고쳐나가며 준비하였습니다..",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/630_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:26:28.074719+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=630"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=630",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "학원에서 연습한 소재가 나와서 준비한대로 부담없이 시험을 친거같아요. 인형의 형태를 꼼곰하게 체크하고 시계의 연출을 재미있게 하면서 공감감있는 배치하고 실수없이 연습한대로 완성할려고 노력했었다.",
+    "practice_years": 3.0,
+    "competition_ratio": null,
+    "student_strength": "학기초부터 선생님들과 상담을 통해 대학설정을 하고 대학에 맞춰 실기준비를 한것이 많은 도움이 된것 같다. 목표한 학교의 합격작 분석과 학교유형을 잘 파악해 준비한 것이 합격비결인거 같아요",
+    "teacher_feedback": "피드백을 통해 실수하는 부분을 체크해서 실기력을 높이기 위해 노력했었다..",
+    "ideation_process": "인형의 형태를 꼼곰하게 체크하고 시계의 연출을 재미있게 하면서 공감감있는 배치하고 실수없이 연습한대로 완성할려고 노력했었다."
+  }
 }

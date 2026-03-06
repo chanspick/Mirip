@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2256_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:38:44.991237+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2256"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2256",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "웃고 있는 노년 이 출제 되었는데 바로 전날 성별만 다른 주제를 했었다. 다행이 침착하게 문제를 풀어 갔다",
+    "practice_years": 3.0,
+    "competition_ratio": 11.23,
+    "student_strength": "주제두상은 기본기가 가장 중요한것 같다. 기본적인 사람을 만들고 그위에 주제를 표현한것이 큰 도움이 되었다",
+    "teacher_feedback": null,
+    "ideation_process": "다행이 침착하게 문제를 풀어 갔다"
+  }
 }

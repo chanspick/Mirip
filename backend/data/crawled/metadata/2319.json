@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2319_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:41:31.187169+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2319"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2319",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "와인과 와인잔이 나왔는데 평소에 인공물에 자신이 없어서 걱정했지만 한 번 해보았던 개체라 조금 더 쉽게 풀이할 수 있었습니다. 자와 컴퍼스 사용이 금지되어 조금 당황했지만 그만큼 더 형태를 잘 떠내겠다는 마음가짐으로 시험을 시작하였습니다.",
+    "practice_years": 1.58,
+    "competition_ratio": 13.0,
+    "student_strength": "잘하나 못 하나 매일 휴일에도 학원에 꾸준히 나와서 그림을 그리고 연구했던 것이 보이지 않는 곳에서 많은 도움이 되었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "자와 컴퍼스 사용이 금지되어 조금 당황했지만 그만큼 더 형태를 잘 떠내겠다는 마음가짐으로 시험을 시작하였습니다. 그 덕인지 시험치는 내내 속도가 붙고 자신감이 생겨 잘 마무리 할 수 있었습니다."
+  }
 }

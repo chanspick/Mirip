@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1186_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:50:45.765548+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1186"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1186",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "양배추와 전선, 망치가 나왔는데, 하필이면 스케치를 수정해야됐던 문제를 만나서 당황했습니다. 문제은행이 있는 학교라 그런지 시작한지 30분 만에 채색에 들어가는 소리가 들렸지만 최대한 신경쓰지 않고 스케치에 집중하도록 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 16.83,
+    "student_strength": "망치의 블랙색감을 일반적인 블랙이 아닌 개성있는 색감으로 표현했던 점이 합격요인인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "문제은행이 있는 학교라 그런지 시작한지 30분 만에 채색에 들어가는 소리가 들렸지만 최대한 신경쓰지 않고 스케치에 집중하도록 했습니다. 평소에 자주 쓰던 구도에 연출을 최대한 신경 썼으며, 주제부가 최대한 눈에 들어오게 하기 위해 정리감과 밀도를 높이는 것에 집중했습니다."
+  }
 }

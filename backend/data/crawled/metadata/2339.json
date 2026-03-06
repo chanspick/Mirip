@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2339_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:42:23.797674+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2339"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2339",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "양이 많고 정면과 측면에서 느낌이 다른 남자가 나왔습니다 턱살이 특징이 중요하다고 생각해서 턱밑양을 맞추려고 노력했고 이미지와 표정을 잡으려고 노력했다",
+    "practice_years": 1.58,
+    "competition_ratio": 8.88,
+    "student_strength": "선생님들의 말씀을 잘듣고 고치고 실행하는것이 중요한거같습니다 시험장에서 객관적으로 붙을거같다라는 생각이 들게끔 만드는게...",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 턱밑양을 맞추려고 노력했고 이미지와 표정을 잡으려고 노력했다"
+  }
 }

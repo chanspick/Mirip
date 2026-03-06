@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1871_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:22:01.589955+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1871"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1871",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "제시물은 전화기,핸드폰,안경으로 색변경이 가능했지만 핸드폰 화면이 화려한 색감이였기 때문에 대비를 주기위해 전화기와 안경을 원래 색상인 무채색계열로 계획하여 선명하고 눈에띄는 그림을 그리도록 풀어나갔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 18.31,
+    "student_strength": "아이디어 스케치를 신중하고 꼼꼼하게 풀어나갔으며 중요한 부분은 확실히 보이게 하고 다양한 디자인요소들을 접목시켜 밀도를 높인 것이 주요인인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

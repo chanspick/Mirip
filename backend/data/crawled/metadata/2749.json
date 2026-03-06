@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2749_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:00:37.372493+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2749"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2749",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "“액체화된 정육면체를 자유롭게 표현하시오.” 가 나왔습니다. 약 한시간정도 충분히 고민하고 나서 만들기 시작했습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 8.0,
+    "student_strength": "자신만의 확고함이 작품에 보여야 한다고 생각이 듭니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오.” 가 나왔습니다. 약 한시간정도 충분히 고민하고 나서 만들기 시작했습니다."
+  }
 }

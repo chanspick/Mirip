@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2304_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:40:51.621583+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2304"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2304",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "알람시계와 줄넘기가 나왔고 제시어는 긴장감과 느슨함을 표현하라고 나왔습니다 문제를 받고 평소에 학원에서 준비했던 제시어표현을 바탕으로 줄넘기를 이용해 긴장감을 표현하려고 했습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 23.36,
+    "student_strength": "학원 시간보다 조금 더 일찍 가서 구도를 다양하게 떠보고 시험을 보고 선생님께서 고쳐주신 부분들을 다음 시험에서 최대한 고치고 개선하려고 노력했습니다",
+    "teacher_feedback": "선생님께서 내주시는 주제로 시험을 보며 다양한 주제들을 그려봤습니다.",
+    "ideation_process": "표현하라고 나왔습니다 문제를 받고 평소에 학원에서 준비했던 제시어표현을 바탕으로 줄넘기를 이용해 긴장감을 표현하려고 했습니다"
+  }
 }

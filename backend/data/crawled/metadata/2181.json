@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2181_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:35:30.042710+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2181"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2181",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 '메타버스로 나의 꿈을 창의적으로 발상표현하라' 였고, 학과 특성을 살려 패션에 관련된 내용에 중점을 두고 최대한 현실세계와 메타버스 속 세계가 대비되어 보이도록 그림을 그렸던 것 같다.",
+    "practice_years": null,
+    "competition_ratio": 12.92,
+    "student_strength": "학원에서 선생님이 대학별 실기준비와 예상주제를 통한 대비와 패션디자인과에 맞게 패션을 중심으로 주제를 풀어낸 것이 합격의 주요인이 아닐까 싶다.",
+    "teacher_feedback": "선생님들께 피드백 받는 것들을 메모하며 고쳐야 할 점들을 항상 상기시키면서 시험을 봤다.",
+    "ideation_process": "발상표현하라' 였고, 학과 특성을 살려 패션에 관련된 내용에 중점을 두고 최대한 현실세계와 메타버스 속 세계가 대비되어 보이도록 그림을 그렸던 것 같다."
+  }
 }

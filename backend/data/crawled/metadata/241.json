@@ -13,5 +13,14 @@
     "data/crawled/raw_images/241_0.png"
   ],
   "crawled_at": "2026-01-27T13:10:01.760479+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=241"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=241",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "중앙대에서 잃어버린 강아지를 다시찾은 40대 여성이 출제되었다.주제를 듣고,첫번째로 든생각은 '반가움'이었다. 기쁨과 반가움을 동시에 표정에 담아내기위해 많이 고민했다.그리고 강아지를 바라보고있을것이기 때문에 시선은 자연스럽게 아랫쪽을 향하게 신경썼다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.13,
+    "student_strength": "입시가 힘들어질때마다 합격하고 기뻐하는 나의 모습을 상상하며 마음가짐을 바로잡았다. 또한 입시중에 생기는 스트레스를 해결할수있는 자신만의 방법을 찾아야한다.나의 경우는 주변사람들과 관계를 원만히 하는것이었다.",
+    "teacher_feedback": "선생님들의 지적을 듣고 문제점을 하나하나 줄여나가는데에 집중했다..",
+    "ideation_process": "기쁨과 반가움을 동시에 표정에 담아내기위해 많이 고민했다.그리고 강아지를 바라보고있을것이기 때문에 시선은 자연스럽게 아랫쪽을 향하게 신경썼다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1132_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:26.182829+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1132"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1132",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 양배추, 망치, 코일전선 이 나왔으며, 각 물체마다의 물성을 최대한 살려서 과감하게 연출을 했습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 18.33,
+    "student_strength": "주제를 시원하게 배치하여 연출하였고, 연출하는 과정에서 물성이 과감하게 했다고 생각되어 그부분이 좋게 보였을 거라 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

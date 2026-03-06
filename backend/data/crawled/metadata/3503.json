@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3503_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:35:19.676705+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3503"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3503",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "축구공, 두루마리 휴지, 주사위 (혼돈과 질서) 휴지를 다양하게 이용해주고 혼돈이라는 제시어에선 축구공을 배경에서 적극적으로 이용하면서 제시어가 보이게끔 만들어줬다.",
+    "practice_years": 5.0,
+    "competition_ratio": 12.44,
+    "student_strength": "제시물이 무채색 위주였어서 색이 많이 보이게끔 물체들을 배치했었는데 그로인해 그림이 더 잘 보였던 게 아닌가싶다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

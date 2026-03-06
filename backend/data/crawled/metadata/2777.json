@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2777_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:01:54.374648+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2777"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2777",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "보리과자와 소금으로 열정과 냉정을 표현하라는 문제가 나왔는데 가루소재 표현을 어떻게 해야할지 몰라서 당황스러웠어요.. 소금더미 위에 과자를 얹은 구도로 소묘를 하고 문제풀이에서는 학원에서 연습한대로 구도와 색감을 정했습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 7.2,
+    "student_strength": "학원에서 여러 가지 스타일을 연습했던 것이 도움이 되었습니다. 배경을 단색으로 밀고 주제부의 사물만 컬러로 묘사하는 구도라서 실기장의 주변 그림과는 많이 달라 불안했는데 지금 생각해보니 오히려 도움이 되었던 것 같습니다. 다른 그림과의 차별점도 있고 아이디어와 드로잉을 더 잘 보여줄 수 있어서 저와 잘 맞았습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라는 문제가 나왔는데 가루소재 표현을 어떻게 해야할지 몰라서 당황스러웠어요.. 소금더미 위에 과자를 얹은 구도로 소묘를 하고 문제풀이에서는 학원에서 연습한대로 구도와 색감을 정했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3280_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:24:34.033406+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3280"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3280",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "낚시릴과 무지개리본이 나왔고 낚시릴이 소묘로 나왔습니다. 제일 먼저 낚시릴과 무지개리본이 주제부에서 잘 보이게 연출하려고 했고 리본과 낚시릴과의 자연스러운 연관성이 느껴지도록 했습니다.",
+    "practice_years": 1.33,
+    "competition_ratio": 7.0,
+    "student_strength": "그림에서 주제부가 잘보이고 리본과 낚시릴의 연관성, 리본의 반투명한 재질묘사가 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님들의 조언과 말씀을 그대로 실천하고 다음 그림에 적용하려고 노력했던 것 같습니다..",
+    "ideation_process": "제일 먼저 낚시릴과 무지개리본이 주제부에서 잘 보이게 연출하려고 했고 리본과 낚시릴과의 자연스러운 연관성이 느껴지도록 했습니다. 그리고 무지개리본의 반투명한 재질이 잘 느껴지도록 묘사하였습니다"
+  }
 }

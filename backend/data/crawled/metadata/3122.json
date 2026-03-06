@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3122_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:17:24.309929+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3122"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3122",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "바우하우스 제품(책장+책상)을 가지고 평면 조형하는 것과 평면도?같은 제시물을 가지고 입체조형하는 것 제시물에서 잡은 특징을 큰 변화 없이 계속 반복해 그렸습니다. 그리고 제시어가 나오지 않아 나만의 추가적인 제시어로 집중과 확산을 설정하고 그렸습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 6.38,
+    "student_strength": "아스 평가에서 쌤이 어떻게 수정하는지 직접 보고, 왜 수정하는지 알아가는 과정에서 좋은 그림이 뭔지 알 수 있었던 것 같아서요. 특히 제 그림뿐만 아니라 다른 친구들의 그림을 수정하는 것에서 얻어가는게 많았습니다. 미리 속으로 혼자 수정해본 것이 쌤이 수정한거랑 같은지 다른지 맞춰보는 것도 괜찮았고요..",
+    "teacher_feedback": null,
+    "ideation_process": "그리고 제시어가 나오지 않아 나만의 추가적인 제시어로 집중과 확산을 설정하고 그렸습니다. 또 주제부에서 평면에서의 빛처리를 통해 톤을 0번부터 10번까지 풍부하게 내 완성도를 올렸습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1406_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:00:45.612778+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1406"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1406",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "차가 막혀서 입장 불가 시간까지 1분 남기고 겨우 도착했습니다. 지각할까 봐 너무 마음을 졸여서 그런지 막상 실기를 볼 때는 긴장이 별로 되지 않았습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": null,
+    "student_strength": "꾸준한 실기력도 중요하지만, 자신의 스타일과 잘 맞는 주제가 나오는 운도 상당히 중요한 것 같습니다. 또, 너무 긴장하지 않고 편안한 마음으로 그리는 것도 더 좋은 아이디어를 떠올릴 수 있는데 도움이 되는 것 같습니다. 난 발로 그려도 1등 할 수 있다는 마인드로 그리세요.",
+    "teacher_feedback": null,
+    "ideation_process": "지각할까 봐 너무 마음을 졸여서 그런지 막상 실기를 볼 때는 긴장이 별로 되지 않았습니다. 실기가 시작되고 주변을 둘러보니 구조, 관리, 분양의 과정이 잘 드러나지 않는 그림이 대부분이었기 때문에, 저는 세 가지 과정이 잘 보일 수 있게 하는 데 집중했습니다."
+  }
 }

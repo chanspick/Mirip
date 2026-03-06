@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2563_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:52:13.922036+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2563"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2563",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "스펀지의 물성적 특성을 모티브로 하라는 말이 대놓고 문제에서 나왔기 때문에 무조건 특성을 잘 보여주는게 1순위라고 생각했습니다. 전날 풀었던 문제가 다인용 의자를 디자인하는 문제였는데, 그 기억으로 2인용이라는 키워드를 가장 먼저 생각했습니다.",
+    "practice_years": 2.83,
+    "competition_ratio": 23.86,
+    "student_strength": "예전에 선생님이 입시생은 미생물처럼 살으라는 말씀을 하셨는데 정말 그 말이 맞는것 같습니다. 시험이나 평가 하나에 일희일비하지않고, 아무리 평가에서 안좋은 말을 들었다고 해도 우울해하지 않고 눈 앞에 있는 것만 집중하다보니 어느새 합격해 있었습니다.",
+    "teacher_feedback": "선생님들께서 시키는 것만큼은 무조건 잘 해내자라는 마인드로 준비했습니다.",
+    "ideation_process": "생각했습니다. 전날 풀었던 문제가 다인용 의자를 디자인하는 문제였는데, 그 기억으로 2인용이라는 키워드를 가장 먼저 생각했습니다."
+  }
 }

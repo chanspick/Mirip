@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3575_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:38:47.224466+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3575"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3575",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "안경과 나무집게가 나왔고, 평소에 준비했던 구도를 활용하여 그림을 그려나갔습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 4.67,
+    "student_strength": "본인이 할 수 있는 한 많은 노력과 좋으신 선생님들의 도움 덕분이라고 생각합니다 !",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

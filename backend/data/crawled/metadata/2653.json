@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2653_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:56:15.652863+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2653"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2653",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "한양대는 참치캔,나무절구공이,의료용 핀셋이 나왔고, 참치캔같은 경우 얼마전 나왔던 문제라 또 나와서 잠시 당황하긴 했지만 소재들이 배치하기 어려운 소재들이 아니여서 기능적 특징을 어떻게 보여주면서 좋은 배치를 할지를 생각하며 그렸습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.14,
+    "student_strength": "정시는 아무래도 입시기간이 길다보니까 지치고 힘들었지만 중간에 포기하지 않고 끝까지 꾸준히 한게 중요한거 같고 선생님들의 피드백을 빠르게 받아들이는것도 중요한거 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

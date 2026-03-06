@@ -13,5 +13,14 @@
     "data/crawled/raw_images/786_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:33:16.870757+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=786"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=786",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "모카포트가 나왔고, 제시어는 ‘원근감을 표현하시오.’ 였습니다. 제일 처음 원근감이라는 단어의 뜻을 생각하여 문제지에 잊지 않게 적어두고 전체적인 아이디어 스케치를 들어갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 28.8,
+    "student_strength": "평소 그림을 평가할 때 요약해뒀던 선생님이 하신 말씀들을 다시 되집으며 그림에서 단점이 보이지 않도록 노력하였고, 제시어의 정확한 이해와 깔끔하게 정리된 그림이 합격의 주요인인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오.’ 였습니다. 제일 처음 원근감이라는 단어의 뜻을 생각하여 문제지에 잊지 않게 적어두고 전체적인 아이디어 스케치를 들어갔습니다."
+  }
 }

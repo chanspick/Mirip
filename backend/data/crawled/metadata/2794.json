@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2794_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:02:39.867387+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2794"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2794",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "제공된 사물 <털실, 마시멜로우>와 제공된 이미지<플라스틱 튜브, 긴 풍선, 스펀지>의 특성과 물성을 이용하여 <움직임>을 주제로 화면을 연출 및 표현하는 문제가 나왔고, 자주하던 구도에 주제가 잘 표현될 수 있도록 연출하여 그렸고. 주제에 부합하도록 잘 표현했고, 형태에 신경을 쓰며 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 11.38,
+    "student_strength": "섬세하고 꼼꼼하게 그린 점이 합격의 주요인이라고 생각합니다!",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 문제가 나왔고, 자주하던 구도에 주제가 잘 표현될 수 있도록 연출하여 그렸고. 주제에 부합하도록 잘 표현했고, 형태에 신경을 쓰며 그렸습니다."
+  }
 }

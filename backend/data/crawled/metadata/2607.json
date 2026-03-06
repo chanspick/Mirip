@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2607_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:10.810075+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2607"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2607",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제은행 12번인 바닐라 아이스크림, 종이, 리본이 나왔고 제시물의 물성을 최대한 활용한 그림을 그리도록 노력했습니다.",
+    "practice_years": 3.33,
+    "competition_ratio": 7.73,
+    "student_strength": "실기고사 문제를 미리 공개하는 학교이기 때문에 일정 수준 이상의 구도와 높은 완성도가 가장 중요하다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

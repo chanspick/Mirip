@@ -13,5 +13,14 @@
     "data/crawled/raw_images/965_0.png"
   ],
   "crawled_at": "2026-01-27T13:40:57.306026+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=965"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=965",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일엔 소묘와 기본적 채색,기본적 형태력을 묻는 문제가 나왔습니다. 문제를 받고 처음엔 너무 간단한 문제라 특이한 구도를 써야할까도 고민을 해야했지만, 결국 교수님들이 원하는 바를 문제로 출제한 것이라고 생각해서 문제에서 설명하는 그대로를 최대한 화면에 옮겼습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 10.0,
+    "student_strength": "출제자의도를 파악하여 그걸 그대로 화면에 옮긴 것이 큰 작용을 했다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 문제에서 설명하는 그대로를 최대한 화면에 옮겼습니다."
+  }
 }

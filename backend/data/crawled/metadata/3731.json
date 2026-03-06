@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3731_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:47:47.921671+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3731"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3731",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 출제 문제는 돼지와 달항아리, 아이스크림이 나왔는데 문제를 받고 돼지의 특성인 먹을걸 좋아한다는 특징을 살려 돼지가 아이스크림에 뛰어드는 모습으로 디자인하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 13.6,
+    "student_strength": "합격의 주요인은 주변에 돼지와 항아리를 주제로 한 사람이 많았고 아이스크림을 주제로 한 사람은 보지 못했는데 주변 그림 중에 혼자만 아이스크림을 주제로 설정해 눈에 잘 띄어서 합격했던 거 같습니다.",
+    "teacher_feedback": "선생님에 고치라는 부분을 집중해서 연습하였습니다..",
+    "ideation_process": null
+  }
 }

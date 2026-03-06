@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2790_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:02:28.954491+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2790"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2790",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "소재 : 유리병, 스펀지 수세미 1.(소묘) 유리병의 뚜껑을 열고 스펀지 수세미를 넣어 표현하시오. 2.(디자인) 유리병과 스펀지 수세미의 특성을 이용하여 감귤(밀감)을 디자인하시오.",
+    "practice_years": 4.0,
+    "competition_ratio": 6.96,
+    "student_strength": "선생님들의 피드백을 최대한 수용하려고 노력했기 때문이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 2.(디자인) 유리병과 스펀지 수세미의 특성을 이용하여 감귤(밀감)을 디자인하시오."
+  }
 }

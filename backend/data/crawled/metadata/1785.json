@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1785_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:18:19.026102+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1785"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1785",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "호박, 검은 망치, 물감이 올려진 나무 팔레트와 붓이었습니다. 미리 연습해 보지 못한 문제였기에 문제지를 보자마자 한숨이 나왔던 기억이 있습니다.",
+    "practice_years": 1.58,
+    "competition_ratio": 10.86,
+    "student_strength": "선생님께서 항상 강조하셨던 점을 끊임없이 떠올리며 깔끔하게 그리려 노력한 덕이라 생각합니다.",
+    "teacher_feedback": "선생님께서 지적해 주시는 그림의 문제점이나 아쉬운 점 등 평가 내용을 노트 또는 a4용지에 적으며 부족한 실기 실력을 보완하기 위해 노력했습니다.",
+    "ideation_process": "미리 연습해 보지 못한 문제였기에 문제지를 보자마자 한숨이 나왔던 기억이 있습니다. 학원에서 시험을 볼 때 사용한 구도를 활용하여 채도 대비를 주기 쉽게 개체들을 배치하면서 문제를 풀어나갔습니다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1312_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:56:18.900184+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1312"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1312",
+  "normalized_dept": "sculpture",
+  "interview_parsed": {
+    "exam_topic": "대입고사를 마치고 합격 발표소식을 들은 선미는 기쁜 마음으로 거리를 나선다. 하늘에서는 눈이 내리고, 거리는 하얗게 변하고 있다.",
+    "practice_years": 2.08,
+    "competition_ratio": 5.1,
+    "student_strength": "기본에 충실하고자 노력한 것 입니다. 그날 주제를 받았을 때, 그 주제를 보고, 또 보고, 단어 하나하나를 곱씹어보며 과연 어떤 동세에 어떤 표정, 어떤 헤어스타일을 가진 사람을 만드는 것이 좋을지 등등...을 4시간 시험 동안 계속 생각해 주었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. \"하늘에서는 눈이 내리고, 거리는 하얗게 변하고 있다\"라는 문장을 통해, 선미씨가 외출한 상황은 눈이 소복소복 내리는 쌀쌀한 거리라는 걸 알 수 있습니다."
+  }
 }

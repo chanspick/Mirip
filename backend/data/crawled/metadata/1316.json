@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1316_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:56:29.183467+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1316"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1316",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "(평면도형을 입체화시켜 바닷가재의 형상을 만들고, 바닷가재의 표면의 질감을 인조모피질감으로 바꾸어 표현하시오.) 배경은 자개를 액체로 변환하여 역동적으로 표현하시오. 가재와 액체를 이용한 배경 표현하라는 문제를 받아서 바닷속 가재의 습성을 생각하였다.",
+    "practice_years": 5.17,
+    "competition_ratio": 7.0,
+    "student_strength": "꾸준한 연습과선생님의 말씀을 잊지 않아서 인 것 같다. 익숙치 않은 재료를 제시해주는 학교다 보니 꾸준히 생소한 재료들로 그림 연습을 하였고 선생님께 받은 지적들을 잊지 않고 실기를 치루었다.",
+    "teacher_feedback": "선생님의 말씀을 잊지 않도록 하였고 평소 스스로 구도나 표현등을 연구하였다.",
+    "ideation_process": "표현하시오.) 배경은 자개를 액체로 변환하여 역동적으로 표현하시오. 가재와 액체를 이용한 배경 표현하라는 문제를 받아서 바닷속 가재의 습성을 생각하였다."
+  }
 }

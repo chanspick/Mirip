@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3877_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:55:49.009289+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3877"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3877",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 왜곡된 중심의 힘 이었고 문제를 받고 바로 머릿속에 생각나는 키워드를 종이에 적고 거기서 주제가 가장 잘 들어 날 수 있는 키워드를 추렸습니다. 그리고 스케치 후 전체적으로 공간 활용해서 만들어야겠다고 생각 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 7.28,
+    "student_strength": "과감함과 완성도가 가장 중요하다고 생각해서 할 수 있는 범위 안에서 과감하게 작품을 만들었던 게 큰 요인이라고 생각합니다.",
+    "teacher_feedback": "선생님들이 피드백해 주신 부분을 잘 수용했던 것 같습니다..",
+    "ideation_process": "그리고 스케치 후 전체적으로 공간 활용해서 만들어야겠다고 생각 했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/327_0.png"
   ],
   "crawled_at": "2026-01-27T13:13:40.619686+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=327"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=327",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "처음 사진을 봤을 때는 그 대상의 특징을 살피려고 했고 나이대가 있는 모델이다 보니, 초반에 주름보다는 눈 코 입의 위치나 큰 틀에 신경을 쓰도록 했다.",
+    "practice_years": 2.25,
+    "competition_ratio": 26.0,
+    "student_strength": "부담을 주지 않으려는 부모님과 뭐하나 빠짐없이 알려주려는 선생님들의 도움도 컸다. 덕분에 편하고 안정된 실기를 할 수 있었던 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "보니, 초반에 주름보다는 눈 코 입의 위치나 큰 틀에 신경을 쓰도록 했다. 그러다보니 자연스럽게 이미지도 나오고 대상의 분위기를 편하게 끌어낼 수 있었다."
+  }
 }

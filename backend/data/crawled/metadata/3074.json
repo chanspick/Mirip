@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3074_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:15:16.758981+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3074"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3074",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "종이 비행기로 공간(빈 곳)을 표현하라. 바로 전날 학원에서 혜진쌤이 숙대 예상주제로 내주신 소라껍데기와 무한한 공간을 주제로 시험을 보고 피드백을 받았었는데 그게 당일 큰 도움이 되었던 것 같다.",
+    "practice_years": null,
+    "competition_ratio": 21.73,
+    "student_strength": "아파 죽더라도 학원에서 아파 죽자는 마인드로 학원 수업을 빠지지 않고 열심히 들었던 것과 자기가 생각했을 때 부족한 개체들 위주로 열심히 그렸던 것이라고 생각한다.",
+    "teacher_feedback": "선생님들이 알려주시는 채색법을 응용하여 제시물 고유질감의 디테일한 묘사와 그림의 전체적인 마무리감을 신경쓰는 것에 초점을 두어 준비했고, 학원은 절대 결석하지 않도록 컨디션 관리를 열심히 했.",
+    "ideation_process": "표현하라. 바로 전날 학원에서 혜진쌤이 숙대 예상주제로 내주신 소라껍데기와 무한한 공간을 주제로 시험을 보고 피드백을 받았었는데 그게 당일 큰 도움이 되었던 것 같다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2006_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:27:53.591477+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2006"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2006",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "평소 학원에서 모의시험을 많이 봐와서 크게 긴장되진 않았다. 중간에 형태가 좀 어색한가라고도 생각했었는데 되돌릴 수 없는 부분은 신경쓰지 않고 나머지에 최대한 신경썼다.",
+    "practice_years": null,
+    "competition_ratio": 4.27,
+    "student_strength": "매일매일 평가를 통해 장단점에 대해 언급해주시고 실기 방향을 잡아주셔서 좋은 결과가 있었던 것 같다. 함께 노력해주셔서 너무 감사하다.",
+    "teacher_feedback": null,
+    "ideation_process": "중간에 형태가 좀 어색한가라고도 생각했었는데 되돌릴 수 없는 부분은 신경쓰지 않고 나머지에 최대한 신경썼다."
+  }
 }

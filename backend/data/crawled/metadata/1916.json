@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1916_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:23:58.877366+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1916"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1916",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "머리집게, 구강 스프레이, 병따개가 출제되었습니다. 단순한 소재보다는 복잡한 소재에 더 자신이 있었기 때문에 구도를 짤 때 애를 먹었습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 8.25,
+    "student_strength": "자신의 부족함을 인정하고 개선해 나가는 태도를 가지고 임한다면 좋은 결과를 얻을 수 있습니다.",
+    "teacher_feedback": "선생님이 피드백해주실 때 그림의 장점과 단점을 잘 분석하는 것이 중요하다고 생각합니다.",
+    "ideation_process": "단순한 소재보다는 복잡한 소재에 더 자신이 있었기 때문에 구도를 짤 때 애를 먹었습니다. 하지만 소재의 기능성을 최대한 보여주려고 했습니다."
+  }
 }

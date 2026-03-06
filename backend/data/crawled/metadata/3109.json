@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3109_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:16:50.127122+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3109"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3109",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "기초소양_ 4월이 오면 / 권영상 _시를 보고 시각적으로 표현하시오.",
+    "practice_years": 3.0,
+    "competition_ratio": 19.45,
+    "student_strength": "정시 시험장에서 떨지 않기 위해 수시에서 한 두개의 학교를 지원하여 시험장의 분위기나 그림을 그리는 시간 등을 경험해 보았다. 그리고 중요한 시험장에서 선생님이 말씀하시는 강약조절이나 시선의 흐름 등 그림에서의 지켜야할 것들을 다 지킨 그림을 그렸다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

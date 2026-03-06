@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1752_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:16:53.969549+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1752"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1752",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "스포이드와 노끈, 쇠링이 나왔고, 제시어는 리듬감이었습니다. 링을 벌려서 뼈대로 크게 쓰고 주제부에는 스포이드에 링이 걸린 느낌을 줬고 끈은 가볍게 곡선으로 리듬감을 줬습니다.",
+    "practice_years": 1.75,
+    "competition_ratio": 7.73,
+    "student_strength": "평소에 지적받던 부분을 고치려고 생각하면서 했습니다.",
+    "teacher_feedback": "선생님의 피드백을 통해 점차 실기력을 만들어 나갔습니다..",
+    "ideation_process": "링을 벌려서 뼈대로 크게 쓰고 주제부에는 스포이드에 링이 걸린 느낌을 줬고 끈은 가볍게 곡선으로 리듬감을 줬습니다."
+  }
 }

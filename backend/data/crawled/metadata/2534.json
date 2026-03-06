@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2534_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:50:55.604814+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2534"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2534",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "-출제문제- “ 아파트 단지 1층 상가에 그의 편의점이 빛을 내고 있었다. 그곳은 13~14평 정도 되는 대형 프랜차이즈 편의점이었다.",
+    "practice_years": null,
+    "competition_ratio": 43.0,
+    "student_strength": "시험출제가 글로 나오기에 어떠한 자료나 참고사진 없이 창작으로 그려야하기 때문에 많은 트레이닝을 해야하는데 준비기간이 워낙 짧아서 솔직히 자신이 없어서 정시까지 생각하고 경험상 지원해본건데 선생님께서 만들어주신 구도나 분위기연출, 인물배치, 스토리연출 등이 저에게 잘 맞았다고 생각됩니다.",
+    "teacher_feedback": "선생님께서 주제를 제시하면 진행을 하고 그에 대한 피드백을 확실하게 해주셨습니다.",
+    "ideation_process": "그곳은 13~14평 정도 되는 대형 프랜차이즈 편의점이었다. 매출액이 그리 높은 편이 아닌 그의 편의점은 어디에서나 팔 법한 평범한 물건들을 진열해놓고 있었다."
+  }
 }

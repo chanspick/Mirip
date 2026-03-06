@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1214_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:51:58.425138+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1214"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1214",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "가재,유리 냄비 뚜껑,개 목줄이 나왔고 주제는 율동감이었다. 문제를 받고 주위 학생들은 앞으로 나가는 율동감을 많이하는 것 같길래 옆으로 돌아가는 느낌으로 했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 51.75,
+    "student_strength": "평소에 수업했었던 그림 중 주제에 적합한 구도를 안정적으로 진행했고, 가재가 사진에선 검은색에 가까웠는데 그림에선 주황빛을 많이 사용해서 가재를 밝게 칠한 부분이 다름학생들 보다 돋보였던 것 같다.",
+    "teacher_feedback": "선생님이 주시는 자료를 많이 참고하고 평소에 수업시간을 알차게 쓰려고 노력했다..",
+    "ideation_process": "문제를 받고 주위 학생들은 앞으로 나가는 율동감을 많이하는 것 같길래 옆으로 돌아가는 느낌으로 했다."
+  }
 }

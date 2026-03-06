@@ -13,5 +13,14 @@
     "data/crawled/raw_images/851_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:36:03.170930+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=851"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=851",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "자유주제 였기에 학원에서 했던 칸만화를 떠올리며 어려움 없이 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 8.0,
+    "student_strength": "스토리를 빠르게 짜 그림의 퀄리티를 높인 것이 컸던 것 같습니다.",
+    "teacher_feedback": "선생님이 지적해주신 부분들을 고치며 다소 입시를 늦게 시작해 부족한 실력을 메꾸려 노력하였습니다..",
+    "ideation_process": null
+  }
 }

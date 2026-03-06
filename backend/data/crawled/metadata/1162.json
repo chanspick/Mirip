@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1162_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:49:41.881909+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1162"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1162",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험 직전까지도 출제문제가 무엇일지 긴장하고있었는데 변수없이 20대 여성 모델이 나와서 마음 편히 시험을 시작했다. 이미지가 강한 모델이라 이 시험장의 모두가 닮게 만들 것이므로 '똑같아야겠다' 라는 마음을 가지고 시험을 치른게 큰 도움이 되었다.",
+    "practice_years": 2.0,
+    "competition_ratio": 12.9,
+    "student_strength": "학원과 학교에서 배우는 그 순간 뿐이아니라 나머지 시간에 매일매일 꼼꼼히 실기 일기를 작성하며 복습하는 시간을 꼭 가지며 돌아본것이 실기력 향상에 큰 도움이 되었다. 또한 모의시험 전에는 철저한 시간 계획표를 세워 그대로 지키며 결과물을 항상 완성해내던 습관이 시험장에까지 좋은 영향을 미친것같다.",
+    "teacher_feedback": "선생님들의 수업과 주말엔 학원수업을 통해 부족한 실기를 채워가며 준비했고, 3학년 때에는 학원의 비중을 늘려 더욱 실기에 집중하여 준비했다..",
+    "ideation_process": "이미지가 강한 모델이라 이 시험장의 모두가 닮게 만들 것이므로 '똑같아야겠다' 라는 마음을 가지고 시험을 치른게 큰 도움이 되었다. 시험 시작부터 끝까지 큰 것 부터 작은 것 하나하나 사진과의 비교를 멈추지않고 수정진행하며 완성까지 끌고나간게 합격 요인인것같다."
+  }
 }

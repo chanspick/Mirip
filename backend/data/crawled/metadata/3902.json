@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3902_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:57:01.068014+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3902"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3902",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "화구통, 더블클립 입니다. 평소 기출 유형을 중심으로 대비해왔으며, 실기 당일에는 소재의 특징과 화면 구도를 먼저 잡아 구성으로 풀어냈습니다.",
+    "practice_years": null,
+    "competition_ratio": 3.0,
+    "student_strength": "전공에 대한 관심과 꾸준한 준비, 그리고 실기장에서 침착하게 자신의 역량을 보여준 것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "평소 기출 유형을 중심으로 대비해왔으며, 실기 당일에는 소재의 특징과 화면 구도를 먼저 잡아 구성으로 풀어냈습니다."
+  }
 }

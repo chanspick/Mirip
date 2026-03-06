@@ -13,5 +13,14 @@
     "data/crawled/raw_images/935_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:39:38.782059+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=935"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=935",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "실기당일 문제는 저울로 차가움을 표현하라하였고 다행히 학원에서 쌤이 다양한 제시어로 시험을 내주셔서 했던 제시어(차가움)이 나와서 그때 부족했던 것 망쳤던것을 알려주셨던 것을 토대로 차분히 풀어나갔습니당 차가움이라서 얼음의 다양한 형태를 떠올리면서 어떻게하면 차가움을 분명하게 나타낼지 생각하면서 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 6.05,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "풀어나갔습니당 차가움이라서 얼음의 다양한 형태를 떠올리면서 어떻게하면 차가움을 분명하게 나타낼지 생각하면서 그렸습니다."
+  }
 }

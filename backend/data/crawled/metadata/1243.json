@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1243_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:53:16.551023+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1243"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1243",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "적양배추, 망치, 전기 연장선의 조형적 특성을 활용하여 화면에 자유롭게 디자인 하라는 문제가 나왔는데, 나와 있는 여러 문제들을 연습했지만 그중에서도 예상하지 못했던 자신 없는 문제가 나와서 많이 당황했지만, 평소에 중요시 했던 색감, 대비 등을 생각하며 짧게 나마 준비했던 것들의 최대치를 끌어내려고 노력했습니다.",
+    "practice_years": null,
+    "competition_ratio": 16.83,
+    "student_strength": "평소에 그림에 만족을 하지 못해서 남들보다 조금이라도 더 열심히 하려고 노력했으며, 출제된 문제인 만큼 조금이라도 더 그림을 가꾸어 가려고 했습니다. 또 학원에 일찍 와서 빈 종이에 다시 그림을 그려보고 부족한 부분들은 연습하며 좋은 결과를 얻을 수 있었던 것 같습니다.",
+    "teacher_feedback": "선생님과 같이 출제될 것 같은 문제들과, 학교가 좋아하는 그림 스타일 등을 고려해가며 준비했습니다..",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1713_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:15:03.933815+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1713"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1713",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "당일 출제문제는 핸드크림,털실이였고 즐겨쓰던 구성에 대입하여 그려나갔습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 43.0,
+    "student_strength": "시간 좀 남아서 밀도와 정리를 꼼꼼하게 한 부분이 좋게 작용했다고 생각합니다",
+    "teacher_feedback": "선생님이 주신 주제들을 풀며 지도에 따라 열심히 준비했습니다.",
+    "ideation_process": null
+  }
 }

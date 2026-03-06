@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3768_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:49:52.994759+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3768"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3768",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "적포도와 후라이팬이 출제 되었으며 확실한 포인트를 만들고 색을 예쁘게 쓰는 것에 집증하였습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 3.58,
+    "student_strength": "흔하지 않은 조형과 확실한 포인트였다고 생각합니다.",
+    "teacher_feedback": "선생님께서 지적해주신 부분을 위주로 오답노트를 하며 다시 같은 실수를 반복하지 않도록 주의했습니다..",
+    "ideation_process": null
+  }
 }

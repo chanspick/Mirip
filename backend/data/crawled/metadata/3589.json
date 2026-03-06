@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3589_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:39:30.941462+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3589"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3589",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "팽이, 필름, 수경 처음에 문제를 받자마자 우선 어떤 개체를 주제부로 써야할지 고민했습니다. 수경이랑 팽이 중에 고민했어요.",
+    "practice_years": 3.0,
+    "competition_ratio": 7.0,
+    "student_strength": "선생님 말 잘 듣는게 답이라고 생각해요… 저도 자아가 있을 때가 있어서 선생님 말 안 듣고 내가 맞는 거 같다고 생각해서 내 맘대로 그림 그렸었는데 그럴 때마다 그림은 점점 망해갔습니다… 선생님의 말을 진짜 잘 들어야하고요… 필기노트가 저한텐 중요했어요!! 선생님이 강평해주실 때 마다 선생님이 해주시는 모든 말들을 필기하고 머리 속에 집어넣으려고 했습니다!.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 팽이로 주제부를 선정하였습니다. 큰 수경을 밑에다가 깔고 그 위에 팽이를 올려서 팽이의 힘에 의해 깨지는 수경을 표현했고요"
+  }
 }

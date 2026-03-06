@@ -14,5 +14,14 @@
     "data/crawled/raw_images/311_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:13:00.064900+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=311"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=311",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 3.0,
+    "competition_ratio": 10.43,
+    "student_strength": null,
+    "teacher_feedback": "선생님의 역할이 컸다고 생각합니다.",
+    "ideation_process": null
+  }
 }

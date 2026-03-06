@@ -13,5 +13,14 @@
     "data/crawled/raw_images/958_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:40:38.586498+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=958"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=958",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "붓과 사무용 집게가 출제 되었고, 최대한 개체간의 물성을 살리기 위해 노력하였다. 평소에 마음이 급한편이라 구도를 짤 때부터 차분하려고 하였고 채색도 신중하게 진행 하였다.",
+    "practice_years": 3.0,
+    "competition_ratio": 10.15,
+    "student_strength": "개체 분량에 욕심내지 않고 최소 분량으로 최대치를 이끌어내려고 한것이 주요 요인 이지 않았나 생각을 한다.",
+    "teacher_feedback": "선생님들의 피드백을 적극적으로 수용하며 단점을 고치려고 노력하였다..",
+    "ideation_process": "평소에 마음이 급한편이라 구도를 짤 때부터 차분하려고 하였고 채색도 신중하게 진행 하였다."
+  }
 }

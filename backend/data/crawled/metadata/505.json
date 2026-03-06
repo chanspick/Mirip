@@ -13,5 +13,14 @@
     "data/crawled/raw_images/505_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:21:09.964179+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=505"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=505",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "이화여대 실기주제는 5가지 개체를 가지고 장력과 무게감을 표현하시요. 였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.0,
+    "student_strength": "소묘 실기이기 때문에 많은 연습량이였다고 생각하고 또 하나는 학원 선생님이 하라는데로 했더니 합격한 것 같습니다. 시험장에서는 긴장도 많이 하고 생각도 잘 나지 않아서 그냥 배운대로 할 수 밖에 없는 상황이 되는것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시요. 였습니다."
+  }
 }

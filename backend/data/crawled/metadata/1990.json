@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1990_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:27:11.953170+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1990"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1990",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "딸기, 나무막대기, 투명실험용고글 딸기를 많이 그릴 자신이 없고 크게 그리는 게 잘보일 것 같아서 주제부에 크게 양재로 넣었으며 투명고글의 기능인 머리에 쓰다를 사용하여 딸기에 씌웠습니다. 그리고 선생님들께서 매번 말씀하신 그 사물답게 그려라를 생각하며 나뭇가지를 통나무같이 그리지 않으려고 신경 쓰면서 그렸습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 7.9,
+    "student_strength": "학원에서의 수많은 이론수업시간도 도움이 많이 되었어요! 디자인의 기본기를 섬세하게 다 설명해 주시고, 대충 그냥 이렇게 하라는 게 아닌 메인 선생님들뿐만 아니라 보조 선생님들까지 빠삭하게 이론에 강하셔서 합격에 정말 많은 영향을 끼친 것 같습니다.",
+    "teacher_feedback": "피드백 능력이 생길 수 있었습니다..",
+    "ideation_process": "그리고 선생님들께서 매번 말씀하신 그 사물답게 그려라를 생각하며 나뭇가지를 통나무같이 그리지 않으려고 신경 쓰면서 그렸습니다."
+  }
 }

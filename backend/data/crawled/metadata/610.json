@@ -13,5 +13,14 @@
     "data/crawled/raw_images/610_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:25:37.204873+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=610"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=610",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "크레욜라와 반사필름을 자유롭게 배치하고 묘사하라는 문제였는데 문제의도, 조형성 등으로 나누어 생각해보았다. 우선 반사필름이 반사되는 물성을 가지고 있기 때문에 반사필름에 크레욜라가 비치는 모습을 최대한 다양하게 보여주기 위해 노력했다.",
+    "practice_years": 5.0,
+    "competition_ratio": 4.25,
+    "student_strength": "우선 1차에 합격할 수 있는 수능 성적이 뒷받침되고, 2차 실기때 문제의도대로만 잘 풀어나간 점이 합격의 요인이라고 생각한다.",
+    "teacher_feedback": "선생님께서 잘 그려도 문제의도를 맞추지 못하면 떨어질 수 있다고 말씀하셔서 시험칠 때 항상 문제의도를 중점으로 신경썼다.",
+    "ideation_process": "우선 반사필름이 반사되는 물성을 가지고 있기 때문에 반사필름에 크레욜라가 비치는 모습을 최대한 다양하게 보여주기 위해 노력했다. 또한 너무 반사되는 변화만 주면 그림이 산만해 질 것 같아 뒤에 배경으로 받쳐지는 반사필름을 수직으로 나란히 세워서 변화값과 통일성 사이의 조절에 신경 썼다."
+  }
 }

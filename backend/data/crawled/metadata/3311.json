@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3311_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:26:01.610742+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3311"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3311",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "제시어 헤드셋, 손목시계, 옛날전화기 산업디자인과 실기 유형이 바뀌게 되면서 학원에서 제시어를 잘 나타내는 그림을 그려왔습니다. 그래서 실제 시험장에서도 누가 봐도 손목시계와 옛날 전화기를 사용했구나 싶도록 제시물의 특징을 살리되, 큰 실루엣은 헤드셋을 연상시키도록 했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 18.87,
+    "student_strength": "평소 그림을 그릴 때 실제 시험시간보다 줄여서 그렸습니다. 그래서 시험장에서 고민하며 시간이 지체되더라도 당황하지 않고, 좋은 완성도를 낼 수 있었던 것 같습니다.",
+    "teacher_feedback": "선생님께서 각 대학별로 준비를 다 해주셔서 저는 그 커리큘럼에 잘 따라가려고 했습니다.",
+    "ideation_process": "그래서 실제 시험장에서도 누가 봐도 손목시계와 옛날 전화기를 사용했구나 싶도록 제시물의 특징을 살리되, 큰 실루엣은 헤드셋을 연상시키도록 했습니다. 주제부는 시계 스트랩과 전화기의 숫자를 돌리는 부분으로 헤드셋을 만들고 사이에는 양재를 끼워 헤드셋의 빈 부분을 채워 큰 양재로 보이게 했고, 헤드셋의 마이크 부분을 전화기를 사용해 만들었습니다."
+  }
 }

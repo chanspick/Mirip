@@ -13,5 +13,14 @@
     "data/crawled/raw_images/377_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:15:46.657142+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=377"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=377",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "당일 출제문제는 \"한글의 자음과 모음을 활용하여 공간성을 표현하시오\" 였으며 추가로 \"자음과 모음의 특성을 잘 활용할 것\" 이라는 문구가 적혀 있었다. 한글을 생각했을 때 책, 종이, 나무를 함께 연상했고 이를 바탕으로 구도를 짰다.",
+    "practice_years": 2.5,
+    "competition_ratio": 41.93,
+    "student_strength": "기출문제를 미리 풀어보면서 여러 문제를 예상해보았기 때문에 문제를 받고 덜 당황했다. 구도를 안정적으로 짜고 한글과 어울리는 개체를 선택한 후 깔끔하게 그리는 데 집중한 것이 좋은 점수를 받을 수 있었던 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 남는 시간에 묘사보다는 외곽정리를 하는데에 집중했다."
+  }
 }

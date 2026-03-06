@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2152_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:34:14.116018+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2152"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2152",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "동세가 있고 살짝 토라진 듯 째려보는 눈에 입술을 앞으로 모으고 있는 20대 여성이 나왔습니다. 경희대 시험문제가 까다롭게 출제되는 편이 여서 모델이 공개되기 전까지 어려운 모델일 것이라 예상하고 마인드 컨트롤을 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.0,
+    "student_strength": "합격의 주요인은 마음 바꾸기 입니다! 실기는 어떻게 마음을 먹고 하느 냐에 따라 달라집니다. 시험을 치루고, 노력하는 것에 비해 평가 점수가 오르지 않아 속상하고 자신감이 떨어진 적이 있었습니다. 하지만 자기 자신을 더 몰아붙일수록 실기는 달라지지 않는다는 걸 느꼈습니다. 어떤 상황에서든 자신감, 자기 자신을 믿어야 합니다.",
+    "teacher_feedback": "선생님의 피드백, 계속 틀리는 점, 내일은 어떤 걸 고쳐야 할 지를 생각하고 노트에 적었습니다.",
+    "ideation_process": "경희대 시험문제가 까다롭게 출제되는 편이 여서 모델이 공개되기 전까지 어려운 모델일 것이라 예상하고 마인드 컨트롤을 했습니다. 모델이 공개되자마자 이 모델을 출제한 의도가 무엇인지, 꼭 뽑아야 할 특징은 무엇인지, 표정과 동세가 있으니 어떻게 시간 배분을 해서 4시간 동안 끌어나갈지 계획했습니다."
+  }
 }

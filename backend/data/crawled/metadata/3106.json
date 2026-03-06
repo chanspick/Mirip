@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3106_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:16:42.063803+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3106"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3106",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "이미지로 제시된 호랑이의 특징을 활용하여 균형, 변화, 반복, 대칭 등의 디자인적 요소를 이용하여 창의적으로 표현하시오. - 기초디자인(3절 4시간)",
+    "practice_years": 1.92,
+    "competition_ratio": 22.25,
+    "student_strength": "학원 시간보다 일찍 학원에 도착해서 혼자 그림을 연습했었기 때문에 합격하였다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. - 기초디자인(3절 4시간)"
+  }
 }

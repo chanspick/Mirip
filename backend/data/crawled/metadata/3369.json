@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3369_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:28:51.268873+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3369"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3369",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 지나친 엉킴이었으며 문제를 받고 엉킴을 조형적으로 표현하면서도 최대한 지나침이란 키워드에 주목하여 과하게 하려고 했습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 6.96,
+    "student_strength": "생각할 시간을 갖고 표현하려는것을 확실하게 설계한 후 시간안에 계획대로 만들어나가려고 했습니다",
+    "teacher_feedback": "선생님의 말씀을 잘듣고 기억하려 했습니다.",
+    "ideation_process": "표현하면서도 최대한 지나침이란 키워드에 주목하여 과하게 하려고 했습니다"
+  }
 }

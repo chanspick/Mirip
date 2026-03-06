@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2499_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:49:23.548664+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2499"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2499",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "손과 손톱, 매니큐어, 메이크업 붓이 출제된 것을 보고 우선적으로 출제 의도가 무엇일까에 대해 생각해 보았습니다. 일반적으로 컬러감 있는 손톱 이외에도 다양한 네일아트를 보여주면 좋겠다는 판단이 들어 우측 하단에 손톱을 확대 시켜 네일아트가 눈에 들어오도록 구성하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 34.55,
+    "student_strength": "저만의 합격 노하우는 ‘자만하지 않는 것’과 ‘꾸준함’이라고 생각합니다. 실기 준비 과정 중 좋은 점수를 받고 좋은 평가를 받아도 그 순간에 안주하며 머무르지 않고 계속해서 스스로 부족하다고 느끼며 무엇을 하면 더 성장할 수 있을까에 대해 많은 고민을 했던 것 같습니다.",
+    "teacher_feedback": "선생님분들 또는 학생들 개개인이 가진 그림 스킬이나 분위기의 장점들을 보고 저의 것으로 흡수하고자 노력했습니다..",
+    "ideation_process": "일반적으로 컬러감 있는 손톱 이외에도 다양한 네일아트를 보여주면 좋겠다는 판단이 들어 우측 하단에 손톱을 확대 시켜 네일아트가 눈에 들어오도록 구성하였습니다. 또한 주제부에 매니큐어 통 하나를 크게 배치시켜 시선이 집중 되도록 구성하였으며 시선 집중을 위해 보색 컬러를 활용하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1333_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:57:17.901329+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1333"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1333",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "인물이 모델시험이아니라 사진으로 바뀌게되면서 시험장에서 예상하지못했던 문제가나왔을때 당황하지않고 연습했던대로 완성하기위해 노력했다. 학원에서 했던것을 토대로 차분히 그림을 그렸다.",
+    "practice_years": 1.5,
+    "competition_ratio": 7.5,
+    "student_strength": null,
+    "teacher_feedback": "선생님들에게 피드백을 받으며 수정해나가려고했고 최대한 장점을 잘 살리면서 즐겁게 좋은그림을 그려나갈수있도록 노력했던것같다.",
+    "ideation_process": "학원에서 했던것을 토대로 차분히 그림을 그렸다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/762_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:32:06.937224+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=762"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=762",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "머리를 하나로 묶은 20대 여자 모델을 모델링하는 것이었는데 시험이 시작하고 바로 흙을 붙이며 들어가지 않고 5~10분정도 모델을 큰영역에서 세부적인 특징까지 관찰하고 작품에 나타내려고 하였습니다.",
+    "practice_years": 1.58,
+    "competition_ratio": 12.25,
+    "student_strength": "시험을 볼 때 모델과의 닮기와 사람스러움을 가장 우선시했고, 평소 실기를 하면서도 외부환경에 흔들리지 않고 꾸준히 준비했기 때문이라고 생각합니다.",
+    "teacher_feedback": "선생님들의 지도에 따라 모델링과 주제를 하며 인체해부학과 자연스러운 사람의 느낌에 대해 공부했습니다..",
+    "ideation_process": null
+  }
 }

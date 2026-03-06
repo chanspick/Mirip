@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1865_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:21:46.066527+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1865"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1865",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "제시물은 양파와 목도리로 양파껍질을 최대한 적극적으로 화면구성에 활용하고 목도리의 부드러운 특성으로 양파들을 감싸고 자유로운 움직임과 직선의 대비를 활용한 선재로 표현하여 선명하고 눈에 띄는 그림을 그리도록 풀어나갔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 40.36,
+    "student_strength": "아이디어 스케치를 신중하고 꼼꼼하게 풀어나갔으며 중요한 부분은 확실히 보이게 하고 시간내에 다양한 디자인요소들을 접목시켜 밀도를 높인것이 주요인인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하여 선명하고 눈에 띄는 그림을 그리도록 풀어나갔습니다."
+  }
 }

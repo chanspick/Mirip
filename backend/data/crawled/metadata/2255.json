@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2255_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:38:42.352909+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2255"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2255",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "배운대로만 했다. 모델 파악 후 큰 양부터 시작해서 점점 작은 덩어리들을 만들어갔는데 평소와 다를 것 없었다.",
+    "practice_years": null,
+    "competition_ratio": 10.07,
+    "student_strength": "자기객관화이다. 시험을 못봐도 잘봐도 늘 일정한 감정선에 있었고 객관적인 실기에 집중했다. 장점은 챙기고 단점은 최대한 빨리 없애는 것도 중요했다. 장단점을 기억하기 위한 필기도 필수였다. 생각 없이 두상을 만든 시간이 한번도 없었다. 마인드 컨트롤도 중요하다. 자리 운도 시험장 환경도 전부 나를 막는 요소는 아니었다.",
+    "teacher_feedback": "선생님들은 조소 신이다.”라는 마음가짐으로 준비했다.",
+    "ideation_process": "모델 파악 후 큰 양부터 시작해서 점점 작은 덩어리들을 만들어갔는데 평소와 다를 것 없었다. 모델 얼굴이 크게 만들어도 문제 없는 모델이라 잘 보이기 위해 조금 크게 만들었다."
+  }
 }

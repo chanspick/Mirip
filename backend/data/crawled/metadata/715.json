@@ -13,5 +13,14 @@
     "data/crawled/raw_images/715_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:30:05.144987+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=715"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=715",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제는 피아노 건반, 악보, 이어폰 줄, 휴지로 화면을 구성하는 것이었으며 원래 구도에 맞춰서 여러 소재들이 어울릴 수 있게 구성하였고, 포인트 부분에 재미를 줄 수 있도록 그림을 그려 나갔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 27.0,
+    "student_strength": "그림에서의 볼거리와 깔끔하게 채색하는것, 그리고 소재들간의 거리감 표현이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

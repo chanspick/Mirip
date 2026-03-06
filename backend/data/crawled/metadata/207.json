@@ -13,5 +13,14 @@
     "data/crawled/raw_images/207_0.png"
   ],
   "crawled_at": "2026-01-27T13:08:36.371427+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=207"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=207",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "정물은 단면을 주고 입방체를 상상해서 공간을 구성하라는 문제였는데 최대한 어둠을 정확히 잡을 수 있고 그림자를 이용해서 눈에 띄는 구성이 되도록 할 수 있는 구도를 만들어내려고 고했습니다. 먼저 실수를 최대한 안할수있는 단순입방체를 생각했는데 저에게는 원기둥이였습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 3.8,
+    "student_strength": "제 노력도 노력이지만 학원 원장님과 선생님들의 적극적인 뒷받침과 운동하는 사람이 나올거같다는 원장님의 말도 도움이 된거 같아요. 저에게 필요한 부분과 버려야할 부분을 정확하게 학원에서 알려줬기때문에 학교실기로 떨어졌던 수시와 다르게 정시에서 좋지않은 수능점수를가지고 이대 서양화과에 합격한것같아요.",
+    "teacher_feedback": null,
+    "ideation_process": "접근할수있었습니다. 원장님이 화면을 너무 꽉채우면 답답해보인다고 하신말들도 다"
+  }
 }

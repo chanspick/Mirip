@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3347_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:27:45.975967+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3347"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3347",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "맥가이버칼, 유리구슬, 우산이 나왔는데요 운이 매우 좋게도 전부 며칠 전에 했거나 시험을 봤던 경험이 있던 개채들이어서 자주 쓰던 구성에 대입을 하고 바로 시작하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.92,
+    "student_strength": "전부 익숙했던 개채들이었기 때문입니다.",
+    "teacher_feedback": "선생님의 말씀에 귀기울이며 잊지 않고 하나 하나 적극 반영했습니다.",
+    "ideation_process": "운이 매우 좋게도 전부 며칠 전에 했거나 시험을 봤던 경험이 있던 개채들이어서 자주 쓰던 구성에 대입을 하고 바로 시작하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2280_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:39:48.016714+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2280"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2280",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "소묘와 디자인을 해야하는데 소묘는 머그컵을 다공질 스폰지의 질감으로 바꾸는 것이었고 디자인은 스폰지의 질감과 물성적인 특성을 모티브로 하여 내용물이 담긴 머그컵을 자유롭게 표현하는게 문제였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 23.86,
+    "student_strength": "시험 보러 가기 일주일 전 즈음에 그동안 배웠던 내용이나 주의할 점 그리고 대학교 유형 분석한 것들을 한 페이지에 정리해서 시험 보기 바로 전까지 봤는데 시험 볼 때 더 확신이 생겨서 도움이 됐습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는게 문제였습니다."
+  }
 }

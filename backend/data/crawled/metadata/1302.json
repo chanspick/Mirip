@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1302_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:55:53.469577+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1302"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1302",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "가을과 AUTUMN 의 문자를 반드시 사용하여 가을 정취를 발상과 표현하시오. 가 주제였습니다.",
+    "practice_years": null,
+    "competition_ratio": 11.38,
+    "student_strength": "선생님이 해주시는 지적같은 것을 적어놓거나 하여 그림을 꾸준히 발전시키는거라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "발상과 표현하시오. 가 주제였습니다."
+  }
 }

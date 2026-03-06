@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1997_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:27:30.021651+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1997"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1997",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": null,
+    "teacher_feedback": "피드백으로 원하는 스타일을 유지하며 그림을 그릴 수 있었습니다.",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3657_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:43:30.229275+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3657"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3657",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 앵무새, 해바라기, 깨진 달걀껍질 이었고, 학원에서 연습했던 것을 그대로 그려내면서 모의시험을 봤을 때 했던 실수를 최대한 줄이기 위해 노력하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 8.97,
+    "student_strength": "주변 학생들보다 앵무새의 형태와 얼굴, 펴진 날개의 모습을 자연스럽게 그렸던 것 같습니다. 그리고 주제부에서 흰 달걀껍질의 대비가 잘 보였고, 그곳에 물방울을 그려 시선을 몰아주었습니다. 또 4절이라는 작은 종이에서도 앞과 뒤가 확실하게 구분되며 공간감을 잘 나타낸 것이 합격의 요인이었다고 생각합니다.",
+    "teacher_feedback": "선생님의 피드백을 받으며 스케치부터 채색까지 실수 없이 그려낼 수 있도록 연습하였습니다..",
+    "ideation_process": null
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2856_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:05:27.502806+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2856"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2856",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "탁구공, 탁구채, 모래시계가 나왔고 문제를 받았을 때 먼저 형태를 제일 중요시하였습니다. 그리고 형태를 계속 신경 쓰며 각 물체의 질감을 최대한 살려서 그리려고 하였습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 32.17,
+    "student_strength": "제 그림 그리는 방식에서 최대한 벗어나지 않게 더 나아질 부분들을 선생님들께서 계속해서 찾아내 주셨고, 어떻게 하면 더 발전될 수 있을지 머리를 맞대 같이 고민해 주셨습니다. 이해가 가지 않는 질감과 형태에 대해 자세히 설명해 주시고 수업 자료로도 준비해 주셔서 확실하게 머리에 각인이 되게 해주셨습니다.",
+    "teacher_feedback": "선생님께 말씀드리며 스스로 그 물체에 대한 이해를 하려고 노력했습니다..",
+    "ideation_process": "그리고 형태를 계속 신경 쓰며 각 물체의 질감을 최대한 살려서 그리려고 하였습니다. 탁구공과 탁구채는 묘사할 부분이 많지 않기 때문에 모래시계의 유리 묘사를 집중적으로 하였고, 탁구공의 양감으로 인해 공의 하얀색 명도가 그림에서 사라지지 않게 주의하며 그렸습니다."
+  }
 }

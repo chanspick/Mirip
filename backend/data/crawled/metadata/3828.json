@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3828_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:53:07.199174+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3828"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3828",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험 당일에는 자신감이 가장 중요한 것 같습니다.그림을 그리는 도중에는 시험이라는 특성상 계속해서 잘하고 있는건지 의심하게 됐지만 그런 생각들을 잠시 누르고 제 자신을 믿고 나아가려고 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 5.27,
+    "student_strength": "선생님께: 저는 제 이야기를 그림에 드러내는 데에 용기가 필요했습니다. 그렇게 될 수 있도록 담담히 기다려주시고 조언해주셔서 감사합니다.",
+    "teacher_feedback": "선생님들께 바로 조언을 구해 그림에 대한 객관적인 이야기를 듣고자 했습니다..",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1173_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:50:12.366870+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1173"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1173",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 털실과 반지를 이용하여 부드러움을 표현하시오. 이었고 부드러움의 잘느껴 지도록 털실을 배치하였다.",
+    "practice_years": 2.5,
+    "competition_ratio": 8.3,
+    "student_strength": "밀도와 묘사라고 생각한다. 털실 하나하나 그리기위해 노력하였고 보석을 눈에 띄도록 묘사하였다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 이었고 부드러움의 잘느껴 지도록 털실을 배치하였다."
+  }
 }

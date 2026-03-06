@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3489_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:34:38.023035+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3489"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3489",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 5.0,
+    "student_strength": "누구에게도 지지않을 본인만의 장점을 빨리 깨닫고 이를 갈고닦은 것이 저의 합격 노하우였던것 같습니다.저는 성적,그림 둘다 최악이 아니었고 가끔 평균 이상의 결과를 냈지만 결코 1등은 못했습니다.그래서 저의 장점을 하나 골라 최고로 만들어야겠다고 생각했습니다.그 당시 저에게 가장 큰 장점은 독창성이었고 이것만큼은 누구에게도 지지않겠다 다짐했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

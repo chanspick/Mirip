@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2459_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:47:38.149261+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2459"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2459",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "평소에 준비하던 것을 토대로 객관적인 기준을 세워서 대입하는 방식으로 어떤 개체가 오든 헷갈리지 않게 했던 것 같습니다.",
+    "practice_years": 1.25,
+    "competition_ratio": 8.16,
+    "student_strength": "학원에다니기 전에는 정보가 많이 없었는데 입시정보를 알고나니깐 학원에서 배우는것을 성실히 해서 합격을 한 것 같습니다.",
+    "teacher_feedback": "선생님께서 변별력 있는 문제를 내주셔서 어떤 개체가 나오든 당황하지않게 연습했습니다..",
+    "ideation_process": null
+  }
 }

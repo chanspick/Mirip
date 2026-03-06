@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1660_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:12:31.872303+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1660"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1660",
+  "normalized_dept": "other",
+  "interview_parsed": {
+    "exam_topic": "신비한 능력을 가져 용감한 시민상을 받았다. 어떤 선한 일을 했는지 그리시오.",
+    "practice_years": null,
+    "competition_ratio": 3.68,
+    "student_strength": "실기주제가 많이 다뤄본 유형이 나온게 가장 큰거같아요. 아무래도 사자성어라던가 속담이 나왔는데 제가 그 뜻을 모르면 그림을 아무리 잘그린다한들 주제에 맞지않는 만화가 나오는거잖아요. 그만큼 무슨 주제가 나오든 다 그릴 수 있게 많이 노력한것도 한몫했죠.",
+    "teacher_feedback": null,
+    "ideation_process": "풀어나갈 수 있었던거같아요."
+  }
 }

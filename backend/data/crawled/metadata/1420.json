@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1420_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:01:24.668797+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1420"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1420",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "시험 전일 마지막 정리를 하며 학원에서 지도해주신 내용을 최대한 활용하려 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 5.26,
+    "student_strength": "진심으로......안테나 선생님들의 올바른 지도가 합격을 만든 것 같습니다!",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

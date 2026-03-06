@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2410_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:45:29.403044+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2410"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2410",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "잠자리와 케이블선 종이봉투의 관계를 생각하여 생명체의 운동감과 율동감을 적극 표현하고 선명하고 깔끔하게 정리할려고 노력했다.",
+    "practice_years": 2.5,
+    "competition_ratio": 5.57,
+    "student_strength": "평소 선생님께서 해주신 피드백과 수업내용을 토대로 오답노트를 꾸준히 적고 복습했으며,시험장에선 내 단점이 나오지 않도록 계속 생각하며 그렸다.",
+    "teacher_feedback": "선생님께 피드백을 받은 후 부족한점을 보완하는 시간을 가지며 준비하였다..",
+    "ideation_process": "표현하고 선명하고 깔끔하게 정리할려고 노력했다."
+  }
 }

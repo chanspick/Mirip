@@ -13,5 +13,14 @@
     "data/crawled/raw_images/861_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:36:29.458982+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=861"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=861",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "사과와 털실, 나무막대가 나왔는데 나무막대의 사용유무는 선택사항 이었습니다. 저는 나무막대를 사용하지 않고 사과와 털실로만 그림을 그렸습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 32.0,
+    "student_strength": "내신 성적이 많이 부족하였기에 기대를 못했는데, 선생님께서 실기로서 어려운 경쟁률을 뚫었다고 칭찬해주셔서 너무 감사하게 생각했습니다. 모두 선생님과 부모님 덕이라 생각됩니다.",
+    "teacher_feedback": "선생님의 말씀을 잘 듣고 단국대에서 선호하는 그림들의 유형을 파악하고자 노력하였습니다.",
+    "ideation_process": "저는 나무막대를 사용하지 않고 사과와 털실로만 그림을 그렸습니다. 이 학교에 지원한 내신성적이 여유롭지 못했기에, 경쟁에서 살아남고자 평소에 그렸던 그림중 가장 경쟁력이 있던 그림의 기억을 되살려 그리고 왔습니다."
+  }
 }

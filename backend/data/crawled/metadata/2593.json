@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2593_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:53:33.998362+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2593"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2593",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "박스+커터칼 준비해간 구도로 그려서 쉬웠다",
+    "practice_years": 5.0,
+    "competition_ratio": 5.31,
+    "student_strength": null,
+    "teacher_feedback": "피드백 기록하여 수시로 보면서 노력.",
+    "ideation_process": null
+  }
 }

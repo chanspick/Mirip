@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3676_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:44:44.249871+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3676"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3676",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "동세가 약간 있고 덩치가 있는 남자였습니다. 주제할 때 선생님께서 가르쳐주신 동세를 생각하며 기초 뼈대를 탄탄하게 잡았습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 31.0,
+    "student_strength": "현역 때는 너무 긴장해서 실기장에서 기량만큼 나오지 않았습니다. 그래서 재수 때는 시험장에서 긴장하지만 말자고 다짐했던 거 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "주제할 때 선생님께서 가르쳐주신 동세를 생각하며 기초 뼈대를 탄탄하게 잡았습니다. 사진상 모델분께서 덩치가 있어 보여서 두상의 시원하고 두툼한 양에 집중한 것 같습니다."
+  }
 }

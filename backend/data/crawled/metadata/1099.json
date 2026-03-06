@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1099_0.png"
   ],
   "crawled_at": "2026-01-27T13:47:00.161959+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1099"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1099",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "가장 기억에 남는 발상과 표현 출제문제가 미래자동차와 드론을 자유롭게 표현하시오. 라는 주제가 나왔엇는데 문제를 받고 저는 딱 3분 생각하고 스케치 했습니다.",
+    "practice_years": 1.17,
+    "competition_ratio": 5.3,
+    "student_strength": "원서 쓸때 전략(?)이 가장 중요한거같아요. 이 대학에 과연 붙을수 있을까? 내가 노력한 만큼 보답을 해주는 대학교 인가? 등 많이 생각해보고 신중해야된다고 생각해요. 저는 다른 입시친구들과 달리 특기자 전형에만 몰두해서 원서쓸때 대부분 특기자 전형에 지원했거든요.",
+    "teacher_feedback": null,
+    "ideation_process": "발상과 표현 출제문제가 미래자동차와 드론을 자유롭게 표현하시오. 라는 주제가 나왔엇는데 문제를 받고 저는 딱 3분 생각하고 스케치 했습니다."
+  }
 }

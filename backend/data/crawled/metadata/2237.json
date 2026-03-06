@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2237_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:37:55.622033+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2237"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2237",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "전구의 유리질감을 특성을 살려 굴절표현 과 붕어고리의 기능성을 활용하여 표현하게 되었습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 9.7,
+    "student_strength": "동아대는 자유 칼라라 전구의 따뜻한 느낌을 줄려고 옐로우 색상으로 포인트를 준 것이 아닐까 조심스럽게 생각 합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

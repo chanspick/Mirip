@@ -13,5 +13,14 @@
     "data/crawled/raw_images/774_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:32:44.292684+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=774"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=774",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "아스파라거스, 유에스비, 무당벌레 금속함을 이용해 공간감을 나타내는 거였다. 금속이나 유리 질감에 매우 약했지만, 소재의 특성과 최대한 실물에 가깝게 그리려고 노력했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 9.39,
+    "student_strength": "학원에서 각 학교마다 문제풀이도 해보고, 물질의 특성이나 구도를 어떻게 잘 구현해내는지가 중요한 것 같다. 그리고 각 제시 물의 특징들을 안 놓치려 했었다",
+    "teacher_feedback": "피드백을 받아 고칠 수 있도록 노력했고, 중간중간에 시험 망쳐서 멘틀이 무너지기도 했지만 하루 만에 다시 잡곤 했었다.",
+    "ideation_process": "금속이나 유리 질감에 매우 약했지만, 소재의 특성과 최대한 실물에 가깝게 그리려고 노력했다."
+  }
 }

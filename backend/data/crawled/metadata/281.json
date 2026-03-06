@@ -13,5 +13,14 @@
     "data/crawled/raw_images/281_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:11:42.341150+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=281"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=281",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "20대 남자 사진이였는데, 평소 학원에서 준비했던겄처럼 서두르지않고 차분하게 시작했던겄같다. 시험 중에 주위 입시생들에 말리지않으려고 더 집중했던 것 같다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.8,
+    "student_strength": "학원에서 기초부터 차근차근 배우고 반복해보는게 큰 도움이 되었다. 피드백받은 것을 노트에 적고 그것을 시험 전 다시 한번 보았던게 도움이 되었다.",
+    "teacher_feedback": "선생님의 피드백을 실기노트에 필기하고 조소일기를 쓰면서 단점을 보안하는데 집중했다.",
+    "ideation_process": "시험 중에 주위 입시생들에 말리지않으려고 더 집중했던 것 같다."
+  }
 }

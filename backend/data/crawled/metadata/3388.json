@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3388_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:29:47.941546+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3388"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3388",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "꿀벌과 깃털 만년필 그리고 율동감이라는 제시어가 나왔고, 제시어가 있는 문제였기 때문에 다른 애들보다 제시어에 더 집중해서 그리자는 마음으로 남들보다",
+    "practice_years": 2.0,
+    "competition_ratio": 4.25,
+    "student_strength": "연습이라고 생각해요. 사실 학원에서도 많은 시간을 내서 그림을 그리지만 항상 부족하다고 느껴서 집에 가서도 그렸던 그림들을 여러 번 보고 남들보다 학원에 먼저 가서 연습하고 그렸던 그림들을 수정하면서 더 노력했어요.",
+    "teacher_feedback": "선생님의 도움을 받으며 꾸준히 피드백을 받고 고쳐 나가면서 선생님께서 말씀하시는 그림의 안 좋은 점과 좋은 점들을 기록하는게 많은 도움이 됐습니다..",
+    "ideation_process": "표현하려고 노력했습니다."
+  }
 }

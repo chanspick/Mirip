@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1803_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:19:05.811336+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1803"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1803",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "포트폴리오를 준비 했기 때문에 아이디어를 구상하고 학원에서 알려주신대로 준비했습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 4.42,
+    "student_strength": "선생님의 말씀을 잘 듣고 자신이 부족한 부분을 고쳐나가는 것이 가장 중요하다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "구상하고 학원에서 알려주신대로 준비했습니다."
+  }
 }

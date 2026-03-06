@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2391_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:44:38.268510+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2391"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2391",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "시험문제는 타이어와 얼음이 출제되었습니다. 타이어와 얼음의 형태에 집중하여 아이디어스케치를 하고 톤 변화, 질감표현 등에 집중해서 채색을 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 22.4,
+    "student_strength": "흔하지 않은 구성을 시도한것과 학원에서 선생님께 피드백을 듣고 실기노트를 작성하는 것 등이 좋은 결과를 만들 수 있었던 것 같습니다.",
+    "teacher_feedback": "선생님의 평가를 듣고 부족한 점을 보완하기 위한 연습을 하고 실기노트를 작성했습니다..",
+    "ideation_process": "타이어와 얼음의 형태에 집중하여 아이디어스케치를 하고 톤 변화, 질감표현 등에 집중해서 채색을 했습니다."
+  }
 }

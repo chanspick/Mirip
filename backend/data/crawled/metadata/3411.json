@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3411_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:30:54.667440+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3411"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3411",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "카메라와 필름이었고, 처음 문제를 받았을 때 카메라의 가장 큰 특징인 렌즈가 잘 보이게 가운데에 배치했습니다 같이 나온 필름에는 카메라에 찍힌 피사체들을 그려서 필름의 기능을 설명했고 필름이 말리면서 생기는 다양한 곡선들을 넣어서 물성을 나타냈습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 14.65,
+    "student_strength": "학원에서 해주시는 평가를 잘 듣고 안 좋은 습관은 하루 빨리 고치는 거라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "같이 나온 필름에는 카메라에 찍힌 피사체들을 그려서 필름의 기능을 설명했고 필름이 말리면서 생기는 다양한 곡선들을 넣어서 물성을 나타냈습니다."
+  }
 }

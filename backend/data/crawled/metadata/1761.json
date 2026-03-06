@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1761_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:17:17.201386+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1761"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1761",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "가장먼저 떠오르는 당연한 내용을 한번더 되새김 해서 그것을 중점적으로 했었고 안돼더라도 평소 연습했던 연출능력을 더 끌어 올려봤습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 15.72,
+    "student_strength": "개인마다 각자의 캐릭터가 있고 개성도 강하고 그래서 그것만 고집했던 것이 아니라 여러가지 연출을 시도해보고 다시 바꿔보면서 다양성을 줬던 것 같스비닥.",
+    "teacher_feedback": "선생님들이 미쳐 설명해 주시지 못하는 부분들을 제 나름대로 감이나 느낌있게 그려서 만들어 나갔습니다.",
+    "ideation_process": null
+  }
 }

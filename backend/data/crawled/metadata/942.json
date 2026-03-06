@@ -14,5 +14,14 @@
     "data/crawled/raw_images/942_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:39:57.613269+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=942"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=942",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "고개를 돌린 상태로 인상을 쓰고 입을 약간 벌리고 있고 높게 당고머리를 한 20대 여자가 나왔다. 동세를 해본 적이 없어서 당황했지만 앉아서 천천히 흙을 주무르면서 주변 사람들의 것들을 봤고 조급해 하지 않으려고 했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.18,
+    "student_strength": "마인드 컨트롤을 잘 하려고 했다. 원래 다른 사람의 작품이나 과정을 보고 자극받아서 따라 잡으려고 했다. 그런데 마지막으로 갈수록 실기 점수에 기복이 있어서 그냥 긍정적으로 생각하려고 했다. 합격 할 수 있다, 나는 잘 할 수 있다, 라는 생각을 많이 했고 실기할 때도 기분좋게 즐겁게 하려고 했다. 그리고 학원을 잘 선택한 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "동세를 해본 적이 없어서 당황했지만 앉아서 천천히 흙을 주무르면서 주변 사람들의 것들을 봤고 조급해 하지 않으려고 했다. 최대한 주어진 8면의 사진과 똑같이 맞추려고 했고 정면 사진이 없어서 얼굴이 가장 잘 나와 있는 사진 하나를 기준으로 인상을 맞추려고 노력했다."
+  }
 }

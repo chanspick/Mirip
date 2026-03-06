@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3550_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:37:35.633464+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3550"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3550",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "50대 머리카락을 묶지 않은 중단발 미소를 지은 여성, 실제 두상 사이즈로 제작하시오. 사진을 처음 보고 연령대와 표정감이 있기 때문에 살의 처짐 정도, 처진 방향 등을 똑같이 맞춰내려 노력했고 은은한 미소를 최대한 똑같이 따라갔다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.6,
+    "student_strength": "모델과의 닮음, 연령대의 느낌, 은은한 표정감을 모델에 맞게 따라갔기 때문에 합격했다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "사진을 처음 보고 연령대와 표정감이 있기 때문에 살의 처짐 정도, 처진 방향 등을 똑같이 맞춰내려 노력했고 은은한 미소를 최대한 똑같이 따라갔다."
+  }
 }

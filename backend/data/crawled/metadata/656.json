@@ -13,5 +13,14 @@
     "data/crawled/raw_images/656_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:27:34.706505+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=656"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=656",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "자연물의 색깔을 예쁘게 칠하려고 노력했고, 주사기의 형태에 유의했다",
+    "practice_years": 2.0,
+    "competition_ratio": 9.96,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3233_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:22:23.124335+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3233"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3233",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "옥수수랑 토기가 나왔습니다. 토기의 독특한 형태를 주제로 놓고 옥수수의 예쁜 색상을 강조하여 문제를 풀이했습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 12.8,
+    "student_strength": "조건에 벗어나지 않고 깔끔하게 제시물을 표현한 것이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "토기의 독특한 형태를 주제로 놓고 옥수수의 예쁜 색상을 강조하여 문제를 풀이했습니다."
+  }
 }

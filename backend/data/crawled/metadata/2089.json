@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2089_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:31:32.264025+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2089"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2089",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "삼선슬리퍼, 삼수멀티탭 시험 전날 그려본 것과 거의 비슷한 문제가 나왔기 때문에 그때 피드백 받았던 내용을 떠올리며 그대로 구도를 짰고 문제에 나온 소재들중에 슬리퍼를 잘 그려야 할 것 같았습니다. 그래서 슬리퍼 묘사와 형태에 신경을 많이 썼고 슬리퍼의 묘사는 표현이 자신없는상황 일 때는 제시물 사진을 보고 복사하듯이 그리라고 했던 전임선생님의 말이 생각나 그렇게했습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 13.64,
+    "student_strength": "노력과 적성의 조화라고 생각합니다.",
+    "teacher_feedback": "선생님이 내주신 구도 숙제를 열심히 했습니다..",
+    "ideation_process": "그래서 슬리퍼 묘사와 형태에 신경을 많이 썼고 슬리퍼의 묘사는 표현이 자신없는상황 일 때는 제시물 사진을 보고 복사하듯이 그리라고 했던 전임선생님의 말이 생각나 그렇게했습니다. 멀티탭은 기본도형에 가깝기 때문에 양감에 신경을 최대한 썼습니다."
+  }
 }

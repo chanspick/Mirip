@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2366_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:43:33.527524+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2366"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2366",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "축이되는물체들과 주제부를 먼저 정하고 거기에 주제부의연출을 정하고나서 각물체의 상하관계가 한눈에 보일수있게 정리되게 배치하였습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 27.56,
+    "student_strength": "수업할때마다 나에게부족한것을 그때그때 메모해놓고 수업전에읽고 그림을 그릴때 생각하면서 그리는것을 중요하게 생각했던 것이 주요인 이라고 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

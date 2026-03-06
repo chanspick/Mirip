@@ -14,5 +14,14 @@
     "data/crawled/raw_images/776_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:32:50.262350+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=776"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=776",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "인체수채화 : 얼음덩어리를 들거나 밀고있는 흰티 여성을 그리시오. (가로제한) 소묘 : 여기 물에 젖은 모래로 된 도형들이 있다.",
+    "practice_years": 5.0,
+    "competition_ratio": 11.29,
+    "student_strength": "소묘 수채화 둘다 상상을 넣어야했다. 가능한 동세와 형태를 뭉뚱그리지않고 정확히 하려고 했고,질감표현과 묘사를 최대한 디테일하게 해서 내가 상상한 인체와 도형을 정확하게 그림에 담아내려고 노력했다.",
+    "teacher_feedback": null,
+    "ideation_process": "(가로제한) 소묘 : 여기 물에 젖은 모래로 된 도형들이 있다. 이것이 시간이 지나 변화한 모습을 그리시오."
+  }
 }

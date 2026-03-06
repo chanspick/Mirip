@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1059_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:45:07.845498+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1059"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1059",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "국민대는 여지껏 여자가 나온 적이 없었는데, 올해 처음으로 여자 문제가 출제됐다. 언제 어떤 게 나올지는 아무도 모르는 거니 다양한 주제들에 대비를 하는 것이 중요한 것 같다.",
+    "practice_years": 2.5,
+    "competition_ratio": null,
+    "student_strength": "시험에 말리는 경우가 많아서 평소에 뇌과학 책을 틈틈이 읽으면서 멘탈 관리를 하려고 했고, 시험장에 들어가기 전까지도 그 책을 읽었다. 실제 시험에 큰 도움을 받았다고 생각하고 있다. 그리고 실기와 학과의 균형잡힌 준비도 합격의 주요인이라 생각한다.",
+    "teacher_feedback": "선생님과 많은 대화를 하며 체크하고 부족한 부분을 고치려고 노력했다..",
+    "ideation_process": "표현하려고 애썼으며 완성도에서 남들보다 높은 점수를 받기위해 밀도감을 최대한 높이는데 신경을 많이 썼다."
+  }
 }

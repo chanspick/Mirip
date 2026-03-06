@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3678_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:44:55.439375+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3678"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3678",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "살짝 미소를 짓고있는 20대 여자가 나왔습니다. 어께나 동세까지 사진에서 다",
+    "practice_years": 3.0,
+    "competition_ratio": 5.31,
+    "student_strength": "모델의 이미지와 측면선, 전체적인 느낌을 맞춘것이 중요했다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "어께나 동세까지 사진에서 다 확인할 수 있었기 때문에 전체적인 느낌까지 맞추려고 노력했습니다."
+  }
 }

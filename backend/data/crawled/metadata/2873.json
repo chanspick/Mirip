@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2873_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:06:12.515972+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2873"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2873",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "수박과 몽키스패너가 나왔고 학원에서 연습한 만큼 그리고 오자고 생각했습니다.",
+    "practice_years": 1.67,
+    "competition_ratio": 6.6,
+    "student_strength": "선생님들께서 말씀하신 것들을 잘 지키려고 했던 점이 합격에 가장 큰 요인이지 않았나 싶습니다.",
+    "teacher_feedback": "선생님과의 크리틱 이후 좋은 방향으로 수정하고 자주 복습을 했던 것 같습니다..",
+    "ideation_process": "생각했습니다."
+  }
 }

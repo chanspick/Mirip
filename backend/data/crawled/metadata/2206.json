@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2206_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:36:35.220529+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2206"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2206",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "고3 수험생과 학교급식 / 학원에서 연습한데로 발상을해서 그렸고 시험 당일 날 주제에 맞게 하려고 신경을 썼습니다.",
+    "practice_years": null,
+    "competition_ratio": 17.17,
+    "student_strength": "선배들이 합격한 만화학원을 선택하고 선생님들의 시범과 많은 피드백을 주시고 꾸준히 연습하고 그려본 결과라고 생각합니다.",
+    "teacher_feedback": "선생님들의 시범과 피드백 등 실기에 시간 투자를 많이해서 수시를 준비했습니다..",
+    "ideation_process": "발상을해서 그렸고 시험 당일 날 주제에 맞게 하려고 신경을 썼습니다."
+  }
 }

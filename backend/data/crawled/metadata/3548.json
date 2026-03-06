@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3548_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:37:29.685954+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3548"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3548",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "1. 제시된 이미지의 조형요소를 활용하여 탄성과 속도감을 평면적으로 표현하시오.",
+    "practice_years": null,
+    "competition_ratio": 6.66,
+    "student_strength": "이화여대를 1순위로 준비하는 목표에 맞춰 나의 현재 상황과 디자인에 대한 이해도가 높은 선생님과 계속 소통하고 조언을 구하며 그림을 만들어가는 과정이었기 때문에 주변에 50명의 친구들이 있는 것보다 훨씬 더 현실적인 성장이 가능했다고 생각합니다. 그래서 의미없는 경쟁에 스트레스 받지 않고 스스로 나의 전날 시험작들과 비교하며 발전할 수 있었습니다.",
+    "teacher_feedback": "선생님과 매 작품마다 크리틱을 하고 의견을 구하며 완벽하게 이해할 수 있도록 했습니다..",
+    "ideation_process": "생각했습니다. 문제2는 입체물의 원리를 이해하고 이를 바탕으로 제시물을 분석했는데 제시어가 추상적이라고 생각해 본인만의 해석이 들어가고 이를 공감되게 풀어나가는 것이 중요하다고 생각했습니다."
+  }
 }

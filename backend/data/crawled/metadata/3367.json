@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3367_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:28:45.476076+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3367"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3367",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "문고리와 노리개가 나왔고 주제어로는 ‘가속과 감속’이 출제 되었습니다. 처음에는 주제어 때문에 살짝 당황 했었지만, 주제부에는 가속을 표현하고 부주제에는 감속을 표현하므로써 대비 되도록 그리기 위해 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 59.75,
+    "student_strength": "금속 재질이었던 문고리 밀도를 최대한 올린것도 있지만, 주제어에 맞게 구성을 잘 한 것 같다.",
+    "teacher_feedback": "선생님께 받은 피드백은 메모장에 기록해 매일 확인했습니다.",
+    "ideation_process": "표현하고 부주제에는 감속을 표현하므로써 대비 되도록 그리기 위해 노력했습니다."
+  }
 }

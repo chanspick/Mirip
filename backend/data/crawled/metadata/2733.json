@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2733_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:59:52.901190+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2733"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2733",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "60대 남성모델입니다 당황하지 않고 큰 실루엣과 내부 구조점을 생각하며 사진과 비교하며 풀어갔습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 9.0,
+    "student_strength": "선생님들의 멘탈케어 입니다",
+    "teacher_feedback": "선생님들의 따듯한 피드백을 수용하며 계속 보완했습니다 103.",
+    "ideation_process": "당황하지 않고 큰 실루엣과 내부 구조점을 생각하며 사진과 비교하며 풀어갔습니다"
+  }
 }

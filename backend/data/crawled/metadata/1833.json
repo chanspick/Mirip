@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1833_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:20:23.248011+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1833"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1833",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "호박.팔레트.물감.망치 수업시간에 기출문제를 준비하면서 짯던 구도를 생각하면서, 선생님이 해주셨던 말씀과 평소에 실수했던 부분을 생각하면서 실수 하지않도록 천천히 문제를 풀어나갔습니다.",
+    "practice_years": 1.33,
+    "competition_ratio": 10.86,
+    "student_strength": "선생님 말씀을 잘듣고 실수한 부분이나 보완 할 부분을 선생님께서 잘 알려주셔서 고치려고 노력했습니다.",
+    "teacher_feedback": "선생님이 알려주신 구도 방식으로 구도를 짜고 충분한 묘사연습을 하였습니다..",
+    "ideation_process": null
+  }
 }

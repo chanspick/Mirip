@@ -13,5 +13,14 @@
     "data/crawled/raw_images/303_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:39.996278+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=303"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=303",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "학원에서 연습했던 소재(셔틀콕)가 나왔고 선생님이 늘 강조하시던걸 생각하면서 침착하게 그리려 노력했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 21.96,
+    "student_strength": "다행히 연습해 본 소재가 나와서 당황하지 않고 그릴수 있었고 고3때 그림에서 부족한 부분이 보완되어서 합격할수 있었던것 같다.",
+    "teacher_feedback": "선생님이 평가해주실때 내 그림의 부족한 부분을 늘 유념해서 듣고 그 부분을 보완하려고 항상 노력했다.",
+    "ideation_process": null
+  }
 }

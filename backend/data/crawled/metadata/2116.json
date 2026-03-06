@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2116_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:32:41.993470+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2116"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2116",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "셔틀콕, 운동화끈, 유리구슬이 나왔고 색상변경은 불가능하다고 나왔습니다. 학원에서 항상 사용하던 구도를 이용해 끼워맞추고 주제부 연출만 조금 더 신경써서 그렸습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 7.12,
+    "student_strength": "노하우는 아니고 그냥 학원에서 하라는 대로 하고 문제점을 계속 생각하면서 그렸습니다.",
+    "teacher_feedback": "선생님의 피드백을 받아 문제점을 고쳐 나갔습니다..",
+    "ideation_process": "학원에서 항상 사용하던 구도를 이용해 끼워맞추고 주제부 연출만 조금 더 신경써서 그렸습니다."
+  }
 }

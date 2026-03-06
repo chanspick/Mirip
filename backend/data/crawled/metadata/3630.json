@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3630_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:41:47.635121+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3630"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3630",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "(경희대)학생부 전반에 관련된 질문을 하셨고, 좋아하는 디자이너에 대해서도 질문",
+    "practice_years": 2.0,
+    "competition_ratio": 14.17,
+    "student_strength": "그냥 주어진 일은 다 열심히 하기... 내신이든 실기든 그냥 내가 여기서(나와 같이 하는 집단) 제일 많은 시간을 투자해서 제일 노력하겠다라는 마인드로 임한것과 학원 선생님들께서 너무 좋았습니다. 서류나 면접 준비했을 때 담당 선생님께서 저도 몰랐던 제 강점을 찾아주셔서 잘 살릴 수 있었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

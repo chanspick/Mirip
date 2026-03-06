@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3406_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:30:41.417806+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3406"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3406",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "전지가위, 꿀벌, 식빵이 나왔습니다. 전년도에도 생명체가 나왔고 생명체 위주로 그린 그림이 합격했다는 정보를 알고 시험을 치러 갔었기 때문에 생명체를 주제부에 크게 그렸고 나머지는 물체의 용도에 맞게 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 5.98,
+    "student_strength": "대학에 대한 정보를 많이 알고 가서인 것 같습니다. 선생님들께서 전년도의 합격작이 어땠는지 알려주신 것과 각 학교의 합격작을 분석하여 정리한 것이 많이 도움이 됐던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "전년도에도 생명체가 나왔고 생명체 위주로 그린 그림이 합격했다는 정보를 알고 시험을 치러 갔었기 때문에 생명체를 주제부에 크게 그렸고 나머지는 물체의 용도에 맞게 그렸습니다."
+  }
 }

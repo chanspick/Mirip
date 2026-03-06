@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3319_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:26:24.321944+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3319"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3319",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "조명, 꽃 코사지 먼저 패션산업디자인전공이라는 점에서 코사지를 화면에서 적극 활용하는 것이 좋을 것이라 생각했습니다. 코사지는 형태 변형들을 통해 재미있는 장면들을 나타내려 노력했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 22.53,
+    "student_strength": "평소 그림을 그릴 때 실제 시험시간보다 줄여서 그렸습니다. 그래서 시험장에서 고민하며 시간이 지체되더라도 당황하지 않고, 좋은 완성도를 낼 수 있었던 것 같습니다.",
+    "teacher_feedback": "선생님께서 각 대학별로 준비를 다 해주셔서 저는 그 커리큘럼에 잘 따라가려고 했습니다.",
+    "ideation_process": "생각했습니다. 코사지는 형태 변형들을 통해 재미있는 장면들을 나타내려 노력했습니다."
+  }
 }

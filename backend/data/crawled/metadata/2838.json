@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2838_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:04:39.136195+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2838"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2838",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "나무공이, 참치캔, 의료용 핀셋이 나왔고, 사물의 관계성을 만들기 위해 참치캔을 핀셋으로 까는 연출과 구멍을 뚫는 연출을 했습니다. 나무공이는 나무 묘사와 사실적인 색감을 내기 위해 노력했습니다.",
+    "practice_years": 2.17,
+    "competition_ratio": 8.56,
+    "student_strength": "색상이 자유이기 때문에 노랑색과 파란색의 대비를 강조하여 풍부한 색감을 보여준 것이 합격에 주된 요인인 것 같습니다.",
+    "teacher_feedback": "선생님의 조언을 토대로 개선 하려 노력했습니다.",
+    "ideation_process": "나무공이는 나무 묘사와 사실적인 색감을 내기 위해 노력했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3053_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:14:16.075226+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3053"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3053",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "거미, 알약, 의자 정확한 동사형보다는 거미가 움직이고 기어가는 ‘느낌’을 내고 싶었습니다. 그래서 학원 구도에 맞춰 깔끔히 사물을 배치하고 거미를 평면적이게 보이지 않도록, 실제 거미처럼 그리고자 노력했습니다.",
+    "practice_years": 2.17,
+    "competition_ratio": 5.82,
+    "student_strength": "그림일기랑 연합시험 리뷰가 큰 도움이 되었다고 생각합니다. 연합시험 리뷰는 내가 왜 이 점수를 받았는지, A권의 기준과 우수작은 무엇인지, 하나하나 꼼꼼히 설명해주셔서 그 점이 정말 좋았고, 또 이걸 기록해서 다시 한번 상기하는 그림일기도 좋았습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "그래서 학원 구도에 맞춰 깔끔히 사물을 배치하고 거미를 평면적이게 보이지 않도록, 실제 거미처럼 그리고자 노력했습니다. 초중벌과 묘사는 타임테이블대로 진행했습니다."
+  }
 }

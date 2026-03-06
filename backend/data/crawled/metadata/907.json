@@ -13,5 +13,14 @@
     "data/crawled/raw_images/907_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:38:26.231221+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=907"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=907",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "돌, 나비, 물로 바람을 표현하는 것이었고, 그 주제를 풀어 나가기위해 개체들(돌, 나비, 물)의 특성을 많이 생각해 보았다.",
+    "practice_years": null,
+    "competition_ratio": 13.33,
+    "student_strength": "성적도 중요하나 정말 잘그리는 것이 중요하다고 생각함.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 것이었고, 그 주제를 풀어 나가기위해 개체들(돌, 나비, 물)의 특성을 많이 생각해 보았다."
+  }
 }

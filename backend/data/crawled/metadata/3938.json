@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3938_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:59:02.919417+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3938"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3938",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "(면접고사내용) 걱정과는 달리 생기부 내용을 확인하는 간단한 질문들을 주로 물어보셨습니다. 답변을 하나하나 외우기 보다는 평소 가지고 있던 생각이나 스스로 한 활동에 대해 편안하고 솔직하게 답변하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 15.13,
+    "student_strength": "불안한만큼 더 노력하는것. 저는 입시에 대한 걱정이나 불안이 유독 많았는데 그럴때마다 더 많이 공부하고, 더 많이 그림그리며 불안한 마음을 이겨내고자 하였습니다. 그 덕에 실력적인 부분도 자연스럽게 향상되며 더욱 준비된 자세로 시험을 치를 수 있었던것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "답변을 하나하나 외우기 보다는 평소 가지고 있던 생각이나 스스로 한 활동에 대해 편안하고 솔직하게 답변하였습니다."
+  }
 }

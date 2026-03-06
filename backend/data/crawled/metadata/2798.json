@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2798_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:02:50.467680+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2798"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2798",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "신발의 이미지를 제시하고, 신발의 특성(색, 형태, 질감)을 살리되 이를 해체, 분해, 결합하여 새 3마리를 원근감있게 구성하는 문제가 나왔습니다. 저는 늘 그랬듯이 조건에 딱 부합하는 그림을 그리자는 마인드로 색감은 이미지 그대로를 유지했고, 형태 또한 새의 형태에 신발을 어거지로 붙이기 보다는 신발형태 그대로 결합하여 새의 형상을 나타내고자 했습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 4.33,
+    "student_strength": "엄청 잘 그려내야지 하는 마인드보다는 평소에 지적당한 부분을 시험장에서는 절대 틀리지 않고. 제시된 문제조건에 한치도 어긋나지 않는 군더더기 없는 그림을 그려야 겠다는 마인드라고 생각합니다.",
+    "teacher_feedback": "선생님이 제 그림에 대해 하시는 말씀을 문제지에 적어두고, 한번 지적받은 점은 다음 그림에서 절대 틀리지 않도록 유의했습니다.",
+    "ideation_process": "저는 늘 그랬듯이 조건에 딱 부합하는 그림을 그리자는 마인드로 색감은 이미지 그대로를 유지했고, 형태 또한 새의 형태에 신발을 어거지로 붙이기 보다는 신발형태 그대로 결합하여 새의 형상을 나타내고자 했습니다. 마지막으로 질감은 신발의 가죽, 끈, 신발혀, 밑창 등의 다양한 질감을 보여주도록 적극적으로 묘사했습니다."
+  }
 }

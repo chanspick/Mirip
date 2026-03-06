@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2603_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:00.318013+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2603"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2603",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "귤과 털장갑,스탠드가 나왔는데 귤을 깐 손모양이 생각나 귤과 장갑을 연관지어서 표현하였다",
+    "practice_years": 2.0,
+    "competition_ratio": 5.7,
+    "student_strength": "구도에서 보이는 기본기와 덩어리가 잘잡힌그림이 합격을 결정하는 주요원인인것같다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

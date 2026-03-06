@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2773_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:01:43.669012+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2773"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2773",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "주제 사물은 복싱글러브, 글루건, 낙엽이었습니다. 처음 마인드맵을 하면서 양재사물을 글루건으로 할지 글러브로 할지 정말 고민을 많이 했는데 레드가 명시성이 좋고 제시어를 보여주기에는 글러브가 효과적일것 같아서 글러브로 강한 제시어를 보여주려고 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 9.95,
+    "student_strength": "합격을 하기까지 많은 과정이 있었지만 항상 가장 크게 느끼는 것은 학원 선택의 중요성입니다. 입시에서 가장 중요한 건 아무래도 자신의 노력이지만 최선의 노력을 해도 합격을 할 수 없는 학원이 많다고 생각합니다. 특히 정확한 수치로 결과를 알 수 없는 입시미술은 더더욱 그런 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "처음 마인드맵을 하면서 양재사물을 글루건으로 할지 글러브로 할지 정말 고민을 많이 했는데 레드가 명시성이 좋고 제시어를 보여주기에는 글러브가 효과적일것 같아서 글러브로 강한 제시어를 보여주려고 했습니다. 글루건 거치대를 확대하여 반복시키고 그 사이로 글러브가 날아들어와 낙엽을 쳐서 흩날리고 글루건에서 나온 풀이 글러브에 맞아 흩어지는 동사형을 보여주려했습니다."
+  }
 }

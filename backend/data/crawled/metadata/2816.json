@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2816_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:03:39.692156+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2816"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2816",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "학원에서 충분히 연습했던 주제가 나온 덕분에 당황하지 않고 차분히 그려갈 수 있었습니다. 주제를 너무 뻔하고 재미없게 풀지 않도록 신경쓰면서도 그림의 전체적인 분위기와 디테일한 묘사 또한 놓치지 않으려 노력했습니다.",
+    "practice_years": null,
+    "competition_ratio": 2.8,
+    "student_strength": "정시특강을 하는 내내 행복하게 했습니다. 미술학원에서 좋은 선생님들과 좋은 친구들을 만나 심적으로 의지할 수 있는 환경이었습니다. 그렇게 두 달 간의 정시특강을 즐기고 실기장에서까지 편안하게 그릴 수 있었기 때문에 좋은 결과를 이뤄낼 수 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "주제를 너무 뻔하고 재미없게 풀지 않도록 신경쓰면서도 그림의 전체적인 분위기와 디테일한 묘사 또한 놓치지 않으려 노력했습니다."
+  }
 }

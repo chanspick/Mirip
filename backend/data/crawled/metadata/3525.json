@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3525_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:36:22.459971+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3525"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3525",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "털실과 등산화가 문제로 나왔다. 운 좋게 털실과 신발은 평소에 어렵다고 생각이 들어서 따로 자주 연습했었기 때문에 자신있게 했던 것 같다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.22,
+    "student_strength": "어떤 문제가 나와도 당황하지 않고 침착하게 문제풀이를 할 수 있도록 평소에 다양한 기출 문제들을 도전해본 것이 실제 시험들에서 많이 도움이 됐던 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "운 좋게 털실과 신발은 평소에 어렵다고 생각이 들어서 따로 자주 연습했었기 때문에 자신있게 했던 것 같다. 실로 신발을 감고 털실 뭉치가 신발 위에 떨어지는 등 두 개체의 연관성을 적극적으로 활용하여 주제부에 크게 배치했다."
+  }
 }

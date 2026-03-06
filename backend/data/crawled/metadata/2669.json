@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2669_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:56:58.473941+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2669"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2669",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "귤, 털장갑, 스탠드 조명이 나왔습니다. 각 물체가 가진 재미있는 특성들이 잘 보이게 배치하여 풀었습니다.",
+    "practice_years": null,
+    "competition_ratio": 7.46,
+    "student_strength": "침착한 마음가짐이라고 생각합니다. 주변 사람들의 속도가 더 빨라도 조급해하지 않고 평소 자신의 페이스를 잘 유지하는 게 중요하다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "각 물체가 가진 재미있는 특성들이 잘 보이게 배치하여 풀었습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2333_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:42:08.154965+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2333"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2333",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "풍선과 먼지떨이가 나왔습니다. 풍선과 먼지떨이에 대한 특징을 생각하면서 최대한 물체의 특성이 보이게 그리는 것에 신경 썼습니다.",
+    "practice_years": 2.83,
+    "competition_ratio": 53.08,
+    "student_strength": "선생님이 지도해주시는 말씀들을 잊지 않고 기억하는 것과 지금까지 해왔던 노력들의 결과이지 않을까 싶습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "풍선과 먼지떨이에 대한 특징을 생각하면서 최대한 물체의 특성이 보이게 그리는 것에 신경 썼습니다. 학원 수업 시간에 선생님께 들었던 주의사항을 신경 쓰면서 그렸습니다."
+  }
 }

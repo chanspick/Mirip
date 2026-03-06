@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2120_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:32:52.233411+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2120"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2120",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "사탕, 물이 든 삼각플라스크, 버너가 나왔고 기능을 활용하라는 문제여서 불을 쓰고, 불과 물을 이용해서 사탕을 녹였다.",
+    "practice_years": 1.42,
+    "competition_ratio": 10.35,
+    "student_strength": "뭐가 어떻게 되든지 계속 그리면 다 그린다는 마인드, 붓터치 하나하나가 쌓여 실력이 는다는 마인드.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

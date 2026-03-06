@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2789_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:02:26.385828+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2789"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2789",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "집게 머리핀과 줄자, 키친타올이 나왔습니다. 처음엔 머리가 새하얘졌었지만 다시 마음을 고쳐먹고 배운 대로 하려고 노력했습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 4.5,
+    "student_strength": "그림이 제 기준엔 못 미쳤지만 다른 실기 봤던 친구들보다 나은 그림을 그렸기 때문이지 않나 생각합니다.",
+    "teacher_feedback": "선생님들께서 해주신 피드백들도 메모하면서 공부했습니다.",
+    "ideation_process": "처음엔 머리가 새하얘졌었지만 다시 마음을 고쳐먹고 배운 대로 하려고 노력했습니다. 순조로운 듯 순조롭지 않았지만, 중간에 물체를 추가하는 등 최선을 다했습니다."
+  }
 }

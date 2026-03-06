@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2497_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:49:18.369442+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2497"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2497",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "와안병의 투명질감을 잘 표현하려고 신경을 썼고, 내용물의 흐름이나 율동감을 내주기위해 구도를 평소보다 역동감 있게 구성을 했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.88,
+    "student_strength": "출제문제를 크게 그려 남들보다 눈에 띄었던것 같다. 포인트에 투시를 주고 멀어지는 잔과, 내용물을 통해 긴장감을주었다. 주제부의 채도를 높게 하고 약간의 색변화를 주어 다른 그림과 차이를 주었기에 합격할 수 있었던것이라고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하려고 신경을 썼고, 내용물의 흐름이나 율동감을 내주기위해 구도를 평소보다 역동감 있게 구성을 했다."
+  }
 }

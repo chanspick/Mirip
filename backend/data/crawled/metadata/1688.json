@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1688_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:13:51.568223+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1688"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1688",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "20대 여성이었다. 비대칭이 심한 모델이었기 때문에 대칭적으로 만들기 위해 노력했다",
+    "practice_years": 1.0,
+    "competition_ratio": 9.54,
+    "student_strength": "평소 틀린 부분을 계속 생각하고 기본적인 것을 틀리지 않기 위해 노력했다",
+    "teacher_feedback": null,
+    "ideation_process": "비대칭이 심한 모델이었기 때문에 대칭적으로 만들기 위해 노력했다 계속 나와보면서 전체적으로 보려고했다"
+  }
 }

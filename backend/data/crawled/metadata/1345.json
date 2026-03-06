@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1345_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:57:54.385731+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1345"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1345",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "건전지와 전선집게를 이용해서 힘의 강약을 표현하라해서 전선들과 건전지가 강하게 전구를 깨는 것으로 주제에 강한 힘을 표현했고, 그 외에 힘없이 늘어뜨린 사물들로 부주제를 연출했습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 27.48,
+    "student_strength": "3절 4시간이어서 시간안에 어떻게 완성도있게 그릴까를 고민했습니다. 사물의 특징들의 관찰을 많이 했고, 제시된 주제어를 중점으로 내용을 쉽고 효과적으로 보이도록 연습했던것이 도움이 많이 �榮� 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라해서 전선들과 건전지가 강하게 전구를 깨는 것으로 주제에 강한 힘을 표현했고, 그 외에 힘없이 늘어뜨린 사물들로 부주제를 연출했습니다."
+  }
 }

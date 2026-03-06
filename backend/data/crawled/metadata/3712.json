@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3712_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:46:49.749702+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3712"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3712",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제 문제: 당근, 삽, 바이스플라이어 3가지 소재 / 제시어: 비대칭, 확장 비대칭이라는 제시어를 보고 순간 당황했지만, 대칭만 아니면 된다는 생각으로 소재를 잘 보이게 배치하고, ‘확장’에 초점을 맞춰 당근 껍질을 활용하여 점점 확장되는 이미지를 구성했습니다. 많은 지원자가 당근을 주제부로 삼을 것이라 예상하여 차별화를 위해 플라이어를 주제부로 설정했습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 9.52,
+    "student_strength": "포기하지 않고 끝까지 해내겠다는 간절한 마음이 가장 큰 원동력이었습니다. 매일 실수를 줄여나가기 위해 학원 선생님과 함께 반복적으로 연습했고, 같은 실수를 반복하지 않도록 스스로의 단점을 지속적으로 보완했습니다. 실기 실력을 향상시키는 과정에서, 우선적으로 자주 지적받은 부분과 고쳐지지 않은 문제들을 해결하는 데 집중했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "많은 지원자가 당근을 주제부로 삼을 것이라 예상하여 차별화를 위해 플라이어를 주제부로 설정했습니다. 당근을 물고 있는 플라이어의 강한 힘과 당근의 부서지는 모습으로 강약의 대비를 강조했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1583_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:08:57.820198+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1583"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1583",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "이번 시험에서는 특히나 내용물을 쓸 수 없는 조건이 붙었기 때문에, 참치캔의 물성을 어떻게 표현할지가 중요하다고 생각했습니다. 채점 교수님의 눈에 띄어야 합격과 가까워지기 때문에 참치캔을 적절히 배치하고 포인트 부분에 건전지와 노끈을 활용해서 주제를 부각하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": null,
+    "student_strength": "너무 당연한 말이지만 평소에 그림을 열심히 많이 그리는게 경험이 많이 쌓여 가장 중요하다고 생각합니다. 그래서 그림을 시간내에 많이 완성하려고 노력했고, 매 그림마다 피드백을 받으며 수정하려고 했습니다. 그리고 시험 당일 날 그동안 그렸던 그림사진들을 보며 좋았던 부분과 고쳐야 하는 부분을 많이 생각했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 채점 교수님의 눈에 띄어야 합격과 가까워지기 때문에 참치캔을 적절히 배치하고 포인트 부분에 건전지와 노끈을 활용해서 주제를 부각하였습니다."
+  }
 }

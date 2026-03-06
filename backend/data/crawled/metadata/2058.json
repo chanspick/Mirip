@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2058_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:30:12.061699+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2058"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2058",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "휴대용 버너와 롤리팝, 삼각 플라스크가 나왔는데, 학원에서 배웠던 구도와 명도 대비를 생각하며 사물을 배치했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 10.35,
+    "student_strength": "노력에 대한 보상. 시험장에서 평소 많이 틀리던 색을 태우지 않았고, 최대한 학원에서 배운 그대로 그리려 노력했다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

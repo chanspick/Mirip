@@ -13,5 +13,14 @@
     "data/crawled/raw_images/310_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:12:57.613592+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=310"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=310",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 18.29,
+    "student_strength": null,
+    "teacher_feedback": "선생님들과 함께 다양한 그림의 느낌을 경험하며,저만의 그림 방식을 찾기 위해 여러조언을 얻었습니다.매 순간을 놓치지 말고 소재를 찾으라는 말씀과 사물을 관찰 하라는 말씀을 잊지 않으려 노력했.",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3189_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:20:25.516260+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3189"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3189",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "마이크와 주사기가 나왔고 제한은 따로 없이 자유롭게 구성하는 문제였습니다. 제시어가 없었기 때문에 화면 구성과 물체가 가진 특성과 재질을 보여주는 것에 집중해서 풀어나갔습니다.",
+    "practice_years": null,
+    "competition_ratio": 19.45,
+    "student_strength": "마이크랑 주사기가 무채색으로 나왔고 문제에 제한이 없어 대부분 색상을 화려하게 바꾸거나 과한 연출을 할 것 같았습니다. 그래서 마이크와 주사기를 사진과 비슷하게 무채색으로 진행했고, 액체만 색상을 바꿔 포인트를 주었습니다. 그리고 액체를 많이 사용하기보단 마이크와 주사기로 화면을 채우려고 했는데 이 부분을 좋게 봐주신 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "제시어가 없었기 때문에 화면 구성과 물체가 가진 특성과 재질을 보여주는 것에 집중해서 풀어나갔습니다."
+  }
 }

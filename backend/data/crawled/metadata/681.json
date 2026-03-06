@@ -13,5 +13,14 @@
     "data/crawled/raw_images/681_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:28:38.207204+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=681"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=681",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "하얀후드와 청바지를 입고 단화를 신은 여자와 육면체를 이용하여 상황을 표현하는것이 첫번째 문제였습니다. 저는 무게감이 있는 나무 질감의 육면체를 드는 장면을 표현하였습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": null,
+    "student_strength": "시험장에서 긴장을 많이 하지않고 평소 인체 상상수업에서 진행하던 동작을 활용하여 그린 점이 합격의 요인인것 같습니다. 또 그림을 그린뒤 뒤에 나와 전체적인 느낌과 분위기를 체크하여 틀린점이 있는지 체크를 꼼꼼히 했던점 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는것이 첫번째 문제였습니다. 저는 무게감이 있는 나무 질감의 육면체를 드는 장면을 표현하였습니다."
+  }
 }

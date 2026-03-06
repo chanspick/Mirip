@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1664_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:12:43.127732+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1664"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1664",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "처음에 어려워서 당황한 주제도 있었지만 구도를 생각하면서 차분하게 문제를 잘 풀어낸것같습니다",
+    "practice_years": 1.67,
+    "competition_ratio": 8.4,
+    "student_strength": "멘탈을 잡고 포기하지않고 자신을 내려깎으면 안된다고 생각합니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

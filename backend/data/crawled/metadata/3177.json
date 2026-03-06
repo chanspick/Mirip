@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3177_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:19:52.818190+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3177"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3177",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "우드 수세미 브러쉬, 몽키 스패너가 나왔고 제시어는 없었다. 학원에서 자주 썼던 하도를 응용하려고 노력했다.",
+    "practice_years": 2.17,
+    "competition_ratio": 9.17,
+    "student_strength": "선생님들의 자세한 피드백과 그 피드백을 핸드폰 메모에 차곡차곡 기록하고 복습한 것이 요인 이라고 생각된다.",
+    "teacher_feedback": "선생님들의 도움을 많이 받았다.",
+    "ideation_process": "학원에서 자주 썼던 하도를 응용하려고 노력했다."
+  }
 }

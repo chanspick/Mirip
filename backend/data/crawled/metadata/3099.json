@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3099_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:16:23.214786+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3099"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3099",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "선인장, 동전, 밀 이삭의 조형적 특성을 활용하여 화면에 자유롭게 구성하시오. 상명대 천안 캠퍼스는 주제들이 미리 공개가 되어 있어서 대부분의 주제들을 그려보고 시험을 보러 갔었고 이번에 출제된 문제가 특히 잘 그렸던 주제였기에 최대한 비슷하게 그리려 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 7.06,
+    "student_strength": "선생님이 지적하시거나 제가 깨달은 저의 문제점을 확실히 인지하고 그 문제를 고치려고 노력했습니다. 자신의 그림에 고집을 가지지 않는 것, 잘 그리고 싶은 집념이 도움이 됐던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "상명대 천안 캠퍼스는 주제들이 미리 공개가 되어 있어서 대부분의 주제들을 그려보고 시험을 보러 갔었고 이번에 출제된 문제가 특히 잘 그렸던 주제였기에 최대한 비슷하게 그리려 했습니다."
+  }
 }

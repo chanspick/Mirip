@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2426_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:46:11.368275+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2426"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2426",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "와인과 쇠사슬 문제였고 평소 때 처럼 소재가 잘 보이게 하도록 했습니다. 주제부 위주 연출에 집중했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 9.0,
+    "student_strength": "꺽이지 않는 마음.",
+    "teacher_feedback": null,
+    "ideation_process": "주제부 위주 연출에 집중했습니다."
+  }
 }

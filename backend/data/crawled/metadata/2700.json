@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2700_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:58:21.752292+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2700"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2700",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "화용지에 임의의 직선을 그리고 이 선을 기준으로 ‘비대칭적 균형’을 구성하고 표현하는 것이 문제였습니다. 그리고 거울, 종이컵, 띠지 2종과 활자 ‘B’가 주어졌습니다.",
+    "practice_years": 2.83,
+    "competition_ratio": 15.72,
+    "student_strength": "주어진 소재와 이미지가 많았기 때문에 그림이 산만해지지 않도록 제가 의도한 바를 더 단순하고 명확하게 그려낸 것이 합격의 주요인이 아닌가 생각이 듭니다.",
+    "teacher_feedback": "선생님께서 해주시는 피드백을 계속 수정, 보완해나가면서 실기를 준비했습니다.",
+    "ideation_process": "풀어나갔습니다. 그림에 몰입하기 위해 임의의 직선을 지평선이라고 가정하고 바닥에 거울을 크게 깔고, 활자 ‘B’, 종이컵, 띠지 2종을 차례대로 배치했습니다."
+  }
 }

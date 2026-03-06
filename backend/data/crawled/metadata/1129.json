@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1129_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:18.520370+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1129"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1129",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "손목시계,녹는얼음,필름으로 시간을 표현하는것 이였는데 필름으로 흐름을 빼서 시간이 흐르는것을 표현했다",
+    "practice_years": 3.5,
+    "competition_ratio": 3.86,
+    "student_strength": "주제부를 커다랗게 그려서 눈에 잘들어오지 않았나..?싶다",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는것 이였는데 필름으로 흐름을 빼서 시간이 흐르는것을 표현했다"
+  }
 }

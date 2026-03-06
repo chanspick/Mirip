@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3085_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:15:45.924747+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3085"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3085",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "벽돌,라임,콩나물 이었습니다. 선생님께서 시험 전날에 해당 주제를 주셨고 연습하고 간 덕분에 조금 더 수월하게 시험을 진행할 수 있었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.15,
+    "student_strength": "우선 학원의 전임 선생님과 보조 선생님들의 그림에 대한 열정과 섬세함이 저의 단점을 고쳐나가고 결국 합격하는데에 있어서 가장 큰 요인이 되었다고 생각합니다. 매번 꼼꼼한 피드백과 조언을 주셨고 멘탈까지 잘 관리해주셨습니다. 또한 그림이 잘 나오지 않아도 죄절하지 않았던 저의 마음가짐과 가족의 응원도 합격에 이바지 하였다고 생각합니다.",
+    "teacher_feedback": "선생님께서 수정하라고 하셨던 실수들을 매 시간 점검해 나가며 다음 시험때는 실수 하지 않도록 노력하였고 그렇게 매번 시험을 볼 때 마다 실수를 줄여나갔습니다.",
+    "ideation_process": "선생님께서 시험 전날에 해당 주제를 주셨고 연습하고 간 덕분에 조금 더 수월하게 시험을 진행할 수 있었습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3502_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:35:16.588527+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3502"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3502",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "휴지, 축구공, 큐브 주제물 중 상대적으로 다양한 색상을 보여줄 수 있는 큐브를 중앙에 배치하여 다른 그림들보다 색상을 강조하려고 노력했습니다.",
+    "practice_years": 6.0,
+    "competition_ratio": 12.44,
+    "student_strength": "큐브를 완전한 하나로 사용하지 않고 큐브 조각을 뽑아서 쓴 것이 좋게 보이지 않았나 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "색상을 강조하려고 노력했습니다."
+  }
 }

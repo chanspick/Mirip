@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1427_0.jpeg"
   ],
   "crawled_at": "2026-01-27T14:01:44.192060+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1427"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1427",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "보온병 마우스 핸드폰 충전기",
+    "practice_years": 1.5,
+    "competition_ratio": 9.6,
+    "student_strength": null,
+    "teacher_feedback": "선생님이 평가하시며 말씀해 주시는 내용을 메모함.",
+    "ideation_process": null
+  }
 }

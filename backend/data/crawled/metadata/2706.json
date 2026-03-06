@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2706_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:58:38.945548+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2706"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2706",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "경희대학교 주제로 시험을 보았는데 \" 반은 근골격이 드러나고 반은 피부가 덮여있는 사람의 두상을 만드시오. 근육의 범위는 해부학에 근거하여 자유롭게 하시오 피부와 근골격의 경계선은 예술적으로 자유롭게 표현하시오.",
+    "practice_years": 1.25,
+    "competition_ratio": 7.25,
+    "student_strength": "너무 열심히 이끌어주신 학원의 주제 원장 선생님과 쳐지지 않고 계속 경쟁할 수 있게끔 옆에서 쭉 열심히 같이 달려준 친구들 덕분이라고 생각합니다. 선생님들께서는 우리가 달릴 수 있게끔 열심히 가르쳐주시면서 목표치를 계속 높여가주셨고 친구들은 앞에서 달리고 있는 아이들을 보고 따라갈 수 있게끔 서로를 성장시켜준 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. \" 였습니다."
+  }
 }

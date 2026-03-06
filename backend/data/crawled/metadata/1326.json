@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1326_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:56:57.804205+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1326"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1326",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제 사물이 다 무채색이고 뚜렷한 양재가 없다고 생각되어서 처음엔 살짝 당황했지만 제가 평소 제일 문제였던 톤 설정에 먼저 초점을 맞추고 문제풀이~아이디어스케치까지 차분하게 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 26.6,
+    "student_strength": "문제지를 받고 가장 먼저 했던 문제 풀이라고 생각합니다. 마인드 맵 수업에서 출제 사물들을 분석하는 것이 연습이 되어 있던 터라 차분하게 문제를 풀이해 나갔고 의도한 것을 아이디어스케치에 잘 나타낼 수 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "무채색이고 뚜렷한 양재가 없다고 생각되어서 처음엔 살짝 당황했지만 제가 평소 제일 문제였던 톤 설정에 먼저 초점을 맞추고 문제풀이~아이디어스케치까지 차분하게 했습니다. 양재 사물 설정과 톤 설정에 제일 신경 쓰면서 그렸던 거 같습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2903_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:07:33.811293+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2903"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2903",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "캠핑용 랜턴. 라이터 에어팟이 출제되었으며 평소 선생님이 강조하시던 크기와 위치 등을 신경썼고, 주어진 사물들을 최대한 관계성있게 활용하여 입시 그림에 대한 적극성을 보여주려 하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 21.17,
+    "student_strength": "평소에 학원을 빠지지않고 성실하게 준비하여 시험장에서 입시라는 목적성에 맞게 강점을 최대한 드러내어 5시간안에 밀도감있게 완성해내는 힘과 소재의 적극적인 사용과 처리도라고 생각합니다.",
+    "teacher_feedback": "선생님이 해주시는 강평을 따로 노트를 만들어 내 약점을 최대한 고치고 장점은 극대화 하려 노력 하였습니다.",
+    "ideation_process": "라이터 에어팟이 출제되었으며 평소 선생님이 강조하시던 크기와 위치 등을 신경썼고, 주어진 사물들을 최대한 관계성있게 활용하여 입시 그림에 대한 적극성을 보여주려 하였습니다."
+  }
 }

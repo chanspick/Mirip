@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1281_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:54:55.928825+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1281"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1281",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "텀블러, 면도기, 그리고 커피 캡슐이 나왔습니다. 문제를 받고 자유롭게 구성하라는 문제 조건에 최대한 맞춰서 문제를 풀었는데, 사물을 보자마자 이건 적극성으로 합격 그림이 갈리겠다고 생각해서 제가 할 수 있는 최선으로 그림을 그리고 온 거 같아요.",
+    "practice_years": 1.75,
+    "competition_ratio": 23.4,
+    "student_strength": "그냥 정말 노력이었다고 생각해요. 전 초반에 남들보다 많이 부족한 실기력을 가지고 있었고 항상 제 그림에 자신감이 없었기 때문에 제 그림에 떳떳해지고 싶었습니다. 그냥 저를 그림 잘 그리는 애로 인식되게 하고 싶었기 때문에 그러다 보니 그림을 잘 그리고 싶다는 생각 때문에 보이지 않는 노력도 많이 했던 거 같아요.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 제가 할 수 있는 최선으로 그림을 그리고 온 거 같아요. 화면구성에서 면도기의 특징적인 부분인 면도날이 있는 부분을 크게 확대해서 텀블러가 그 위에 비치게 구성하였습니다."
+  }
 }

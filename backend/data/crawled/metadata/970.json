@@ -14,5 +14,14 @@
     "data/crawled/raw_images/970_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:41:10.598252+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=970"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=970",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "경희대 : 문제는 ‘빠른속도로 오른쪽으로 회전하고있는 놀이기구를 탄 단발머리의 30대 여성’이었다. 문제를 받고 익숙하게 봐왔던 주제문장이 아니어서 당황했지만 침착하게 오른쪽으로 회전 했을때의 머리카락의 방향성, 헤어스타일, 놀이기구 탈때의 감정 등을 생각하면서 진행하려고 노력했던것같다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.18,
+    "student_strength": "수시때 시험장만 가면 긴장을 너무많이해서 평소에 하던것 만큼 실력발휘를 못하고 왔던것 같아 정시 준비를 할때는 감으로만 하려고하지않고 평소에 주로 지적받았던 것들을 계속 떠올리면서 진행하기위해 노력했다.",
+    "teacher_feedback": null,
+    "ideation_process": "문제를 받고 익숙하게 봐왔던 주제문장이 아니어서 당황했지만 침착하게 오른쪽으로 회전 했을때의 머리카락의 방향성, 헤어스타일, 놀이기구 탈때의 감정 등을 생각하면서 진행하려고 노력했던것같다. 국민대 : 문제는 힙합음악이 나오고있는 화보촬영장에서 리듬을 타며 카메라 앞으로 걸어가는 참가자들 중 돋보이는 다문화가정의 현대무용과 여자 대학생을 제작하는 것이었다."
+  }
 }

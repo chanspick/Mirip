@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2160_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:34:35.189219+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2160"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2160",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "문제의 길이가 길고 요구 사항이 많았던 만큼 문제가 제시한 조건을 정확하게 지키는 것에 초점을 맞춰서 풀어나갔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 10.74,
+    "student_strength": "정시특강 때 성적 하락으로 인해 실기 과목을 바꿨음에도 선생님들께서 이끌어주시는대로 믿고 따랐기 때문이라고 생각합니다. 평가 때 선생님이 하신 말들을 필기하고 계속 읽어보며 발전해야하는 방향을 파악하는 것도 도움이 많이 되었습니다. 또 원장쌤께 받은 부적을 필통에 붙였는데 그 역할도 컸던 것 같습니다.^^",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

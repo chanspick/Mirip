@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2551_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:51:41.724749+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2551"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2551",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "도토리.조개.나사못이 나왔고 그 전날 연습한 것이 나와서 마음 놓고 즐기며 그릴 수 있었어요. 평소 학원에서 물체 옆에 물질적 특성을 적게 시키기 때문에 조개에서 물이 나오는 연상을 하며 역동적인 표현을 했고 나사못도 그런 의미로 기능적 특징을 사용하여 도토리를 뚫게 그림에 넣었습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 12.96,
+    "student_strength": "구도를 중요하게 생각했어요 . 그림 실력은 당연히 좋아야하고 디자이너로서 디자인을 잘해야한다는 생각에 구도 연습을 평상시 많이 한 것이 합격에 좋은 결과를 가져왔다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "평소 학원에서 물체 옆에 물질적 특성을 적게 시키기 때문에 조개에서 물이 나오는 연상을 하며 역동적인 표현을 했고 나사못도 그런 의미로 기능적 특징을 사용하여 도토리를 뚫게 그림에 넣었습니다."
+  }
 }

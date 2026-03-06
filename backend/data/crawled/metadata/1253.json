@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1253_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:53:42.447030+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1253"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1253",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "실과 바늘, 야구공이 나왔습니다. 실이 나오면 많이 사용하고 도화지에 그림으로 꽉 채우라는 원장선생님의 말씀을 계속 생각하면서 최선을 다해 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 11.12,
+    "student_strength": "실기기간이 짧기 때문에 그림실력이 뛰어나서 합격한 것 보다는 원장선생님이 지도해주신 내용들을 까먹지않고 잘 표현했다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "실이 나오면 많이 사용하고 도화지에 그림으로 꽉 채우라는 원장선생님의 말씀을 계속 생각하면서 최선을 다해 그렸습니다."
+  }
 }

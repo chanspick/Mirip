@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3459_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:33:11.422552+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3459"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3459",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "슬링키와 팽이가 나왔습니다. 학원에서 준비했던 대로 문제를 풀었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 7.98,
+    "student_strength": "학원에서 준비한 대로 문제를 풀어 나간 것과 성실하게 밀도를 높이기 위한 노력이 합격의 주요인이었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "학원에서 준비했던 대로 문제를 풀었습니다. 학원에서 시험을 보면서 부족했던 부분을 보완해서 더 완성도 있는 그림을 그릴 수 있게 노력했습니다."
+  }
 }

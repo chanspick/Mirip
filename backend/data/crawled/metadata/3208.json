@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3208_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:21:16.967355+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3208"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3208",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "고양이와 해파리를 조합하여 반려로봇을 만들고, 어린아이와 함께하는 상황을 그리는 것이었어요. 어린이 보다",
+    "practice_years": null,
+    "competition_ratio": 4.62,
+    "student_strength": "그림의 완결력이라고 생각합니다. 선생님께서 가장 강조하셨던게 정리였는데, 시험 당일에 집중해서 방향을 잡고 결론을 내린 뒤 30분 정도를 정리하는 시간으로 잡은 부분이 그림을 완결력있게 해준 것 같습니다.",
+    "teacher_feedback": "선생님께 피드백을 받으며 준비했습니다..",
+    "ideation_process": "어린이 보다 변려 로봇의 조형이 돋보일 수 있도록 반려로봇을 앞에 크게 배치하여 어린이와 산책하는 상황을 그렸고, 형태나 표현에서 자료에 있는 특징이 잘 반영될 수 있도록 신경썼습니다."
+  }
 }

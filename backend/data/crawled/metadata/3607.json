@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3607_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:40:34.589613+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3607"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3607",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "적색양파와 밧줄이 나왔습니다. 적색양파는 밖은 붉고 속은 흰색이라서 대비를 주기 쉽겠다고 판단해 양파를 반으로 잘라 y자로 배치후 중간에 온전한 양파로 약간 껍질이 벗겨지는 듯한 구성을 해주었습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 5.53,
+    "student_strength": "적색양파 외관은 정말 예쁘색이라고 생각해 최대한의 예쁜색으로 쓸려고 노력했던 것 같습니다. 명도랑 채도대비가 확실한 물체들이라고 생각해 엄청 신경썼던 기억이 납니다. 밧줄도 선재로 활용하여 최대한 집중감을 주려고 노력했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "적색양파는 밖은 붉고 속은 흰색이라서 대비를 주기 쉽겠다고 판단해 양파를 반으로 잘라 y자로 배치후 중간에 온전한 양파로 약간 껍질이 벗겨지는 듯한 구성을 해주었습니다. 그리고 로프를 이용해 선재가 산만해 지지않고 직선으로 집중감을 준다음 곡선을 이용해 변화를 주었습니다."
+  }
 }

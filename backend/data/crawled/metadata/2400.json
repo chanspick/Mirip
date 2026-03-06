@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2400_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:45:03.458758+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2400"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2400",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "배웠던 조형원리와 면적배분 등을 생각하며 침착하게 풀이하기위해 노력했다.",
+    "practice_years": 2.67,
+    "competition_ratio": 30.18,
+    "student_strength": "객관적으로 상황을 보는 것이 큰 도움이 되었다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

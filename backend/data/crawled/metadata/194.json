@@ -14,5 +14,14 @@
     "data/crawled/raw_images/194_1.png"
   ],
   "crawled_at": "2026-01-27T13:08:02.631705+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=194"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=194",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "흰반팔티 긴청바지를 입고 끈있는 운동화를 신은 여자였고 오른손에 작은 생수병을 들고 정자세로 앉아있었습니다. 예상과 다르게 기본적인 주제가 나와서 빠듯하게 완성에만 급급하기보단 평소에 어렵고, 놓쳤던 부분도 섬세하게 그려야겠다고 생각했습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 21.82,
+    "student_strength": "평소에 결과물이 별로여도 다음날 더 잘 그리기겠다는 마음가짐덕분에 그림실력이 많이 늘었습니다. 결과적으로 시험장에서 가장 만족스러운 그림을 그리고 나왔습니다.",
+    "teacher_feedback": "선생님의 도움을 받기도 하지만 주로 원장님에게 1대1로 피드백을 받았습니다.",
+    "ideation_process": "생각했습니다."
+  }
 }

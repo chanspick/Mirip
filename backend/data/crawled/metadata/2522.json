@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2522_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:50:24.494139+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2522"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2522",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "장미꽃의 조형적인 요소를 사용하여 길,강,건물,사람을 이용해서 친환경적인 도시를 표현하시오.",
+    "practice_years": 4.0,
+    "competition_ratio": 20.9,
+    "student_strength": "구리창아 태순쌤 반에서 수업을 들었던 게 제일 큰 합격 이유인 거 같아요. 태순쌤 수업은 제가 얻을게 너무 너무 많았어요. 처음에는 선생님 말씀을 공책에 적지 않았는데 시간이 지날수록 한마디 한마디가 저희를 위한 얘기라는 게 크게 와닿아서 쓰게 됐는데, 그 전에 쓰지 못 한 내 용들은 친했던 친구들한테 물어봐서 또 따로 정리 했어요.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

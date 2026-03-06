@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2839_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:04:41.801001+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2839"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2839",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "참치캔과 핀셋 그리고 나무공이가 나왔습니다. 참치캔은 재작년에 출제됐던 소재였기 때문에 기억나는 한양대 합격작들에 있던 다양한 연출을 최대한 활용하려고 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.14,
+    "student_strength": "소재에 따라서 적절한 시간분배와 각 소재들간의 연관성을 고려한 연출, 높은 밀도라고 생각합니다.",
+    "teacher_feedback": "선생님께서 지적하신 부분을 다음 그림에서는 최대한 보완하려고 노력했습니다.",
+    "ideation_process": "참치캔은 재작년에 출제됐던 소재였기 때문에 기억나는 한양대 합격작들에 있던 다양한 연출을 최대한 활용하려고 했습니다. 중앙에 색감이 쨍한 참치캔을 배치하고 옆에 반사되는 금속을 이용해 대비를 확실하게 보여주려고 했습니다."
+  }
 }

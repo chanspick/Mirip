@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2503_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:49:34.135191+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2503"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2503",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "칠교, 손목시계/ 출제 소재를 보고 당황하여 과감하게 가자고 판단하여 크게 크게 그렸다.",
+    "practice_years": 2.25,
+    "competition_ratio": 20.9,
+    "student_strength": "구도를 과감하게 그린 점.과 칠교로 물고기 형상하여 연출했으며 연상되는 물방울을 그려 넣은 점.",
+    "teacher_feedback": "선생님께 지적 받았던 문제점을 고치려고 노력하였고 합격작을 찾아보며 지원 학교가 선호하는 그림을 분석하였고 잘 안되는 부분을 다시 그려보곤 하였다..",
+    "ideation_process": null
+  }
 }

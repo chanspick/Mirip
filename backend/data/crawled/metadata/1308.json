@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1308_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:56:08.668923+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1308"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1308",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "당일 '돋보기로 자유롭게 표현하시오' 였으며 의인화를 하고 특징을 보여주는 것에 초점을 두어 완성해나갔다.",
+    "practice_years": 1.42,
+    "competition_ratio": 7.22,
+    "student_strength": "학원 선생님들이 내게 추천하는 구도들을 숙지하고 충고 등을 주의 깊게 듣고 고칠 점을 고쳐나간 부분이 합격의 주요 원인인 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오' 였으며 의인화를 하고 특징을 보여주는 것에 초점을 두어 완성해나갔다."
+  }
 }

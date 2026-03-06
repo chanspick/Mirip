@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3331_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:26:59.684061+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3331"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3331",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "등산화와 털실이었으며, 등산화에 과도한 투시와 크게 접히는 표현을 시도하다가 고유의 형태가 크게 해쳐질 것을 우려하여 주제부의 운동화는 형태와 비율을 사진과 유사하게 그리는 방식으로 접근하였고, 사진의 모습에서 투시를 조금만 넣은 형태로 그려냈습니다. 주제부 뒤엔 검은 신발 바닥면의 정면을 그리며 주제부 신발과의 측면, 정면의 대비와 명암의 대비를 주어서 주제부을 더 부각시켰습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.22,
+    "student_strength": "신발의 형태와 색감이 돋보이지 않았을까 생각합니다.",
+    "teacher_feedback": "피드백을 오답노트와 그림 수정, 모작, 개체 묘사 등을 통해 빠르게 개선해나가기 위해 힘썼으며, 특히 시험 시간 내에 그림을 완성하기 위해 날을 잡아 개인적으로 하루에 2번 연속으로 시.",
+    "ideation_process": "접근하였고, 사진의 모습에서 투시를 조금만 넣은 형태로 그려냈습니다. 주제부 뒤엔 검은 신발 바닥면의 정면을 그리며 주제부 신발과의 측면, 정면의 대비와 명암의 대비를 주어서 주제부을 더 부각시켰습니다."
+  }
 }

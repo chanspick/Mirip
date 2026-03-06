@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2471_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:48:09.469773+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2471"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2471",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "욕실 의자(빨간색), 테이프(녹색), 블루투스 이어폰(흰색)을 주제로 받았다. 구도에서 시간을 소모하고 싶지 않았기에 이전에 연습했었던 기본 구도를 이용했으며, 테이프를 밑에 깔아주고 빨간색인 의자를 주제로하고 이어폰을 그 위에 얹히며 부주제로 이용하였다.",
+    "practice_years": null,
+    "competition_ratio": 6.29,
+    "student_strength": "아트인의 그림체에서 볼 수 있듯이 어둠을 남들보다 확실하게 넣은 것이 주 요인 중 하나라고 볼 수 있다. 다른 그림 보다 어둠과 빛이 확실했기에 그림의 완성도가 높아지고 눈에 잘 띄었을 것이라고 생각된다.",
+    "teacher_feedback": null,
+    "ideation_process": "구도에서 시간을 소모하고 싶지 않았기에 이전에 연습했었던 기본 구도를 이용했으며, 테이프를 밑에 깔아주고 빨간색인 의자를 주제로하고 이어폰을 그 위에 얹히며 부주제로 이용하였다."
+  }
 }

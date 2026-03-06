@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3419_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:31:16.362461+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3419"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3419",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "털실과 쪽가위, 청소솔이 나왔으며 제시어로는 시간과 반복이 나왔습니다. 우선 시간을 표현하기 위해 털실의 엮을 수 있는 특성을 활용해 모래시계를 형상화했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 33.64,
+    "student_strength": "제시어 표현이 잘 이루어졌고 완성도 또한 높았기 때문에 합격할 수 있었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하기 위해 털실의 엮을 수 있는 특성을 활용해 모래시계를 형상화했습니다. 청소솔은 솔부분의 쓸리고 휘어지는 특성을 표현하기 위해 청소솔 위에 모래시계를 배치하였고, 쪽가위가 모래시계를 자르는 장면을 그렸습니다."
+  }
 }

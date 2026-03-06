@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3409_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:30:49.422530+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3409"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3409",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "유리병, 나비, 나침반 이 출제되었으며, 사물들의 구체적인 형태를 가지고 반복, 크기감 과 같은 조형요소들를 그려낸것과 각 사물들의 관계를 가지고 나비가 유리병 안에 갇혀있고 또 다른 나비가 꺼내주려 하는 스토리를 만들어 낸 것이 주요원인 이라고 생각합니다.",
+    "practice_years": 1.33,
+    "competition_ratio": 26.47,
+    "student_strength": "밀도나 표현 보다는 구성이 더 잘보이는 그림이었고, 약간의 운도 필요했었을 거라고 생각합니다.",
+    "teacher_feedback": "선생님의 다양한 피드백 잘 새기는 습관을 들였습니다..",
+    "ideation_process": null
+  }
 }

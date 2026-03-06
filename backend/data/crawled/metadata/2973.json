@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2973_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:10:42.805485+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2973"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2973",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "모델링으로 시험을 봤으며 20대의 통통한 사람이였고 전체적으로 양이 많은 사람이었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 4.29,
+    "student_strength": "솔직히 운이 좋았다고 생각하고 있기에 실력으로 붙었다고 생각이 안들지만 앞에있던 후보생들이 많이 다른 대학을 가줘서 붙었다고 봅니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

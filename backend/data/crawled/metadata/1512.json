@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1512_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:05:41.549625+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1512"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1512",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "양감이 약간 있는 30대 남자였다. 모델사진과 내 작품을 끝까지 비교하며 만들었다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.7,
+    "student_strength": "실기하는것이 정말 즐거워야 한다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "모델사진과 내 작품을 끝까지 비교하며 만들었다."
+  }
 }

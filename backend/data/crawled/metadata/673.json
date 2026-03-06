@@ -13,5 +13,14 @@
     "data/crawled/raw_images/673_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:28:17.651057+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=673"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=673",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 3.67,
+    "competition_ratio": null,
+    "student_strength": "힘들때든 잘 될 때든 흔들리지 않는 담담한 멘탈을 갖는게 중요한 것 같습니다. 입시 초 가장 괴로웠던 건 하락한 자신감이었습니다. 현역 시절 합격을 받아보지 못한 좌절감 은 자신감을 떨어뜨리기에 충분했고 내 그림의 장점을 스스로 찾아 낼 수 없었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

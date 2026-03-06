@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1882_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:22:30.067895+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1882"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1882",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "1부였어서 모래시계랑 회로문양의 평면 아이콘으로 미래 첨단 세계를 표현하라는 문제가 나왔습니다. 문제를 받고 평소 알던 삼육대 유형과 좀 다르게 나온 것 같아서 당황했지만 너무 주제어에 빠져서 구도를 새롭게 짜면 시간도 부족할 것 같고 완성도도 떨어질 것 같아서 평소에 계속 연습하고 선생님께 평가받았던 구도에 평면적 아이콘을 입체화 시켜서 모래시계와 잘 어우러지게 하도록 연출했습니다.",
+    "practice_years": 1.08,
+    "competition_ratio": 49.67,
+    "student_strength": "선생님이 강조하셨던 관계정리, 선생님의 독특한 구도와 그 구도로 계속 연습하고 단점들을 지워나가면서 실기를 보러 갔을때 평소 하던대로 하니깐 평소에 지적받았었던 부분이 잘 기억나 실수를 덜하고 매일 같은 구도로 연습했기 때문에 시간분배를 하는데에 있어서 잘 되었기 때문이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라는 문제가 나왔습니다. 문제를 받고 평소 알던 삼육대 유형과 좀 다르게 나온 것 같아서 당황했지만 너무 주제어에 빠져서 구도를 새롭게 짜면 시간도 부족할 것 같고 완성도도 떨어질 것 같아서 평소에 계속 연습하고 선생님께 평가받았던 구도에 평면적 아이콘을 입체화 시켜서 모래시계와 잘 어우러지게 하도록 연출했습니다."
+  }
 }

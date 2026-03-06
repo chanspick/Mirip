@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3634_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:42:00.617279+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3634"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3634",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "솔방울과 마이크가 출제되었고 솔방울이 가변 소재니까 솔방울이 마이크에 부딪혀 깨지고, 마이크의 버튼이 눌려 구조적인 부분을 보여주려고 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 3.0,
+    "student_strength": "이전 입시에서는 그림 실력뿐만 아니라, 구도에 대한 이해도도 많이 부족 했던 것 같습니다. 단계별 트레이닝을 통해 스케치 트레이닝 단계에서 이런 약점을 보완했던 것이 합격에 영향을 미쳤다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

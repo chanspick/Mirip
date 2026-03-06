@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3361_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:28:27.082967+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3361"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3361",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "주제는 ( 미래의 어느날 날씨가 추운겨울과 무더운 여름이 하루아침에 바뀌는 날씨 속에서 주인공의 상화을 그리시오.) 였습니다. 처음에 주제를 받고 날씨을 표현하지 못하겠어서 많이 당황 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 9.0,
+    "student_strength": "평소 사용하던 스토리를 비슷하게 사용하여 콘티가 빨리 나오게되었던거 같습니다. 평소 학원에서 배운 연출 과 사용하던 펜드로잉 위조로 그림을 그린 덕분이라 생각 듭니다.",
+    "teacher_feedback": "선생님들의 피드백들을 많이 참고하여 부족한 부분들을 고쳐나갔습니다.",
+    "ideation_process": "표현하지 못하겠어서 많이 당황 했습니다. 하지만 차분하게 생각을 정리하여 평소 사용하던 흔한 친구와의 갈등을 풀어 나가는 스토리를 이용하여 두 친구가 여행을 가면서 하루아침만에 날씨가 바뀌어서 갈등하고 화해하는 스토리로 마무리 하였습니다."
+  }
 }

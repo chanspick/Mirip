@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3244_0.png"
   ],
   "crawled_at": "2026-01-27T15:22:52.676168+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3244"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3244",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "그리 까다로운 문제는 아니었어서 풀어나가는 데에는 걱정이 안 들었습니다. 평소대로 열심히만 하고 나가자는 생각으로 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 6.0,
+    "student_strength": "선생님께 : 적극적으로 지도해주셔서 감사합니다. 학원 좋은 점 : 사실에 근거한 확실한 자료가 풍부해 참고해나가기 좋고 주변 동기들이 모두 열심히 연구하는 학생들이라 자극받고 발전해나가기 좋은 환경입니다.",
+    "teacher_feedback": "선생님들이 말해주시는 나의 그림의 특징을 듣고 내게 맞는 표현과 형식 등을 스스로 알아나갔습니다..",
+    "ideation_process": "풀어나가는 데에는 걱정이 안 들었습니다. 평소대로 열심히만 하고 나가자는 생각으로 그렸습니다."
+  }
 }

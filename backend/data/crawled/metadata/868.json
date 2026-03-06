@@ -13,5 +13,14 @@
     "data/crawled/raw_images/868_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:36:47.001623+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=868"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=868",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "당일의 출제 문제는 민들레 홀씨/ 제로콜라/ 회중시계였는데, 민들레 홀씨는 밝은 물체이기 때문에 뒤에 제로콜라를 배치해서 명도대비를 만들어 냈고 회중시계의 끈을 선재로 활용하여 재밌는 움직임을 표현했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.89,
+    "student_strength": "평소에 생각 없이 정해진 틀에서만 구도를 그렸는데, 시험에는 물체의 물성이나 구도를 통해 얻을 수 있는 효과를 적극적으로 생각해서 그리게 된점이 합격의 주된 원인인것 같습니다",
+    "teacher_feedback": "선생님들이 알려주신 대로 차근차근 기초부터 탄탄하게 준비했고 평소에 다양한 구도로 많이 시도해보면서 창의력을 키운 것이 큰 도움이 되었던것 같습니다..",
+    "ideation_process": null
+  }
 }

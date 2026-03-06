@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1193_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:51:04.356969+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1193"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1193",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "애플워치의 액정부분과 전구가 맞닿아서 깨지는 연출을 받자마자 해야겠다고 생각했습니다. 깃털의 가벼운 특성을 깨진 유리 파편과 같이 떠다니게끔 연출해주었고 주제부가 집중될 수 있게 조여지게끔 애플워치의 줄 부분을 크게 이용하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 44.0,
+    "student_strength": "여러번의 입시를 거치면서 \"주제부\"가 전부라는 걸 몸소 느껴서 주제부를 정말 크고 확실하게 보여주는 연습을 많이 했습니다. 또 채색할 때 바닥에 자주 깔아보면서 실제 채점자의 시점에서 보여지는 묘사를 하도록 노력하였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 깃털의 가벼운 특성을 깨진 유리 파편과 같이 떠다니게끔 연출해주었고 주제부가 집중될 수 있게 조여지게끔 애플워치의 줄 부분을 크게 이용하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1304_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:55:58.546811+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1304"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1304",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "문제를 푸는 내내 학원에서 선생님께서 말씀하신꼭 하라고 하셨던 것, 절대 하지말라고 하셨던 것들을 되내이며 풀어나갔습니다. 실기고사 당일 출제는 물이 든 유리컵과 오이, 지퍼였습니다.",
+    "practice_years": null,
+    "competition_ratio": 8.2,
+    "student_strength": "합격의 주요인은 우선 학원 선생님에 대한 신뢰라고 생각합니다. 또한 실기 당일 긴장하지 않고 문제를 받았을 때 버벅거리지 않았던 것이라고 생각합니다.",
+    "teacher_feedback": "선생님께서 말씀하시는 것들을 놓치지 않기 위해 지각은 절대 하지 않고, 중요한 것들은 꼭 필기를 했습니다.",
+    "ideation_process": "풀어나갔습니다. 실기고사 당일 출제는 물이 든 유리컵과 오이, 지퍼였습니다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/359_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:15:01.166798+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=359"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=359",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "두상 모델링 이었다. 모델의 의자 높이가 낮아서 걱정했지만, 처음에는 나름 파악한 모델의 이미지를 잘 뽑고 있다고 생각하며 수월하게 들어갔다.",
+    "practice_years": 3.0,
+    "competition_ratio": 17.8,
+    "student_strength": "고집 부리지 않는 것. 내 방식의 한계를 느낀다면 다른 사람의 조언을 들으며 방식을 갈아 엎어 보는 것도 괜찮은 것 같다.",
+    "teacher_feedback": "선생님은 물론 친구의 조언도 나에게 필요한 말은 모두 수용하려했다..",
+    "ideation_process": "모델의 의자 높이가 낮아서 걱정했지만, 처음에는 나름 파악한 모델의 이미지를 잘 뽑고 있다고 생각하며 수월하게 들어갔다. 하지만 2시간 후 모델 쉬는 시간에 눈을 식히고 다시 보니 모델이 처음에 파악했던 이미지와 다른 느낌으로 다가왔다."
+  }
 }

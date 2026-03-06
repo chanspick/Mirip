@@ -13,5 +13,14 @@
     "data/crawled/raw_images/609_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:25:34.689726+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=609"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=609",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": ".'비닐봉지 안의 사과로 조형적으로 디자인 하라' 로 저는 해석을 하였고 그 디자인을 꿈에 비유하여 풀어냈습니다. 아름다운 삶은 '꿈'을 갖은 삶이라 생각했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 3.8,
+    "student_strength": "결국은 그 분위기를 뚫고 얼마나 자신의 기량,연습했던것 등을 보여주는게 합격으로 가는 길을 좌우한다고 생각합니다.여담이지만 당일날 실기장을 잘못 찾아가는 바람에 엄청 심장이 쫄깃해지쫄깃해지는 경험도 했습니다. (과기대 실기장 좀 헷갈려여 ;; )",
+    "teacher_feedback": "선생님을 믿고 따르는 수 밖에 없다 생각했고 실제로 그렇게 진행하였습니다..",
+    "ideation_process": "생각했습니다. 제시어인 사과를 이용하여 꿈을 표현했습니다."
+  }
 }

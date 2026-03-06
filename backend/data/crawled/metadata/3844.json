@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3844_1.jpeg"
   ],
   "crawled_at": "2026-01-27T15:53:55.863802+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3844"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3844",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "고개 든 60대 여성이 나왔습니다 문제를 받고 큰양 맞추려 노력했고 보이는대로 했습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 51.5,
+    "student_strength": "큰양 맞추는 것과 보이는 대로 하는게 중요한 것 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "문제를 받고 큰양 맞추려 노력했고 보이는대로 했습니다"
+  }
 }

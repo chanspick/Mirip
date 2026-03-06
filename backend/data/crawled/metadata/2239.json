@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2239_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:38:00.724393+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2239"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2239",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "꼬마전구와 붕어고리가 나왔는데 평소에 유리질감 은 많이 그려본거라 굴절표현에 중점을 두고 문제를 풀어 나갔습니다.",
+    "practice_years": 1.67,
+    "competition_ratio": 9.7,
+    "student_strength": "평상시 학원에서 항상 들었던 소재의 기능적 특성과 공간처리 하는 부분을 시험장에서도 그대로 진행했던게 별 무리없이 완성 할수 있었던거 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

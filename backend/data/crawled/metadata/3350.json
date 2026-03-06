@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3350_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:27:54.581901+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3350"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3350",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 털실, 신용카드, 노란고무줄이었고, 최대한 각 주제의 특성을 잘 살릴려고 노력하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 38.91,
+    "student_strength": "주제의 특성이 잘 드러난 것이라고 생각합니다.",
+    "teacher_feedback": "선생님의 지도를 성실히 따르면서 그림그리는 시간을 일정시간 유지하려고 노력하였습니다..",
+    "ideation_process": null
+  }
 }

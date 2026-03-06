@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1778_0.gif"
   ],
   "crawled_at": "2026-01-27T14:18:00.356660+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1778"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1778",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "인덕 대학교의 경우는 자유 주제였어서 조금은 편하게 간것같습니다. 다른 대학교의 경우는 주제가 어려운 편이 아니였어서 바로바로 생각이 났던거 같습니다.",
+    "practice_years": null,
+    "competition_ratio": 7.7,
+    "student_strength": "내가 마음에 드는 그림보다는 보는 이들이 더 주위깊게 보려하는 그림이라고 생각합니다",
+    "teacher_feedback": "선생님들의 피드백을 보이는 곳에 적어놓고 그림을 그릴때 항상보며 의식하여 그림을 그렸습니다.",
+    "ideation_process": "다른 대학교의 경우는 주제가 어려운 편이 아니였어서 바로바로 생각이 났던거 같습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3521_0.png"
   ],
   "crawled_at": "2026-01-27T15:36:11.063569+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3521"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3521",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "팽이, 컬러슬링키가 나왔습니다. 각 개체의 다양한 색상과 팽이의 회전을 생각하여 풀었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 7.98,
+    "student_strength": "노력이라 생각합니다. 자료나 동영상을 보거나 그렸던 것을 복습하였습니다. 꾸준한 노력이 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": "선생님의 피드백을 적극 반영하였습니다..",
+    "ideation_process": "각 개체의 다양한 색상과 팽이의 회전을 생각하여 풀었습니다."
+  }
 }

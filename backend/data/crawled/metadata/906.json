@@ -13,5 +13,14 @@
     "data/crawled/raw_images/906_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:38:23.722125+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=906"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=906",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "2019 실기대회에서 교수들이 평면조형을 위주로 뽑았다는 인터뷰 내용에서 예상했던 평면조형문제가 나왔습니다. 문제 받기 전에 나눠준 소재중 띠지를 보고 색채대비를 떠올렸고 뒷부분의 점과 그 간격을 보고 리듬감을 예상하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 13.33,
+    "student_strength": "건대의 그나마 객관적인 문제와 소재선정에 대한 운, 그리고 깔끔하게 면칠로 그릴수 있도록 해준 ‘평면구성’이라는 조건, 그리고 건대에만 핀포인트를 두고 그 유형만 준비한 점입니다. 평소 디자인 요소와 원리를 연구했던 것도 큰 도움이 되었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라는 조건을 보고 화면 전체를 지그재그로 접은 주황 띠지로 장악해 리듬감을 만들자는 아이디어를 떠올렸고 그 흐름을 파랑띠지가 관통하도록하여 색채대비를 주고자 하였습니다. 오선지는 연한 배경으로 두었고 시선을 H로 정리하고자 하였습니다."
+  }
 }

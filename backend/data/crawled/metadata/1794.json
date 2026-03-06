@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1794_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:18:42.351975+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1794"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1794",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "강남대 문제는 3개 중 2개를 선택해서 그리는 것이었는데 튤립, 거울, 텐트가 나왔었다. 순간 머릿속으로 다른 학생들이 많이 안 그릴 것 같은 텐트를 그릴까 하다가 욕심내지 않고 튤립과 거울을 택했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 7.98,
+    "student_strength": "편안한 마음을 가지는 것. 순간적으로 멘탈이 나갈 때마다 괜찮아를 속으로 외치면서 마음을 다잡고 그림을 진행했다.",
+    "teacher_feedback": "선생님이 말씀해 주신 부분을 다 수용해 보려고 노력했다.",
+    "ideation_process": "순간 머릿속으로 다른 학생들이 많이 안 그릴 것 같은 텐트를 그릴까 하다가 욕심내지 않고 튤립과 거울을 택했다. 그림을 그리면서 내 그림이 많이 허전한 느낌이 들었었다."
+  }
 }

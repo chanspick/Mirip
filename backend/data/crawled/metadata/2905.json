@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2905_0.png"
   ],
   "crawled_at": "2026-01-27T15:07:39.173103+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2905"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2905",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "60대 남성분이 입꼬리를 살짝 당겨 웃고계셨는데 나이대가 높은 사람을 많들어 본 적이 별로 없어서 1차 당황했고 웃는 표정을 한번밖에 안해봐서 2차 당황했지만 5시간시험중 1시간은 나가서 계속 비교할 정도로 닮게 많들어야 겠다는 생각으로 진행했습니다",
+    "practice_years": null,
+    "competition_ratio": 11.33,
+    "student_strength": "닮기만 하자 라는 생각으로 많든것과 남들보다 살짝 높은 내신이었던 것 같습니다",
+    "teacher_feedback": "선생님들이 해주시는 설명괴 피드백을 적으며 기억하고 실천하려고 했습니다.",
+    "ideation_process": null
+  }
 }

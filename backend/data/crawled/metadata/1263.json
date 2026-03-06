@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1263_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:54:08.112730+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1263"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1263",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "성신여대-먼지 제거 롤러, 노끈/ 소묘-소묘에서 주제가 쉬워서 다들 어느 정도는 다들 하겠다는 생각과 함께 시간 단축을 하는 사람이 많을 것 같았습니다. 그래서 오히려 크기를 더 키우고 작은 구조나 세밀한 묘사까지 해서 다른 학생들보다",
+    "practice_years": 4.0,
+    "competition_ratio": 28.7,
+    "student_strength": "시험장에서 저의 장점을 부각하고 단점을 최대한 보완하고 왔기 때문이라고 생각합니다. 소묘에서 저의 장점이었던 외곽 정리와 풍부한 톤처리를 살리고, 단점이었던 완결도와 약한 어둠을 확실히 보완시켰습니다. 그리고 주제가 쉬워서 다른 학생들보다 크기나 밀도 면에서 학생다움을 보여주었기 때문인 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 그래서 롤러에 노끈이 감겨 붙는 것을 메인 연출로 설정하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/465_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:19:28.217864+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=465"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=465",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 4.0,
+    "competition_ratio": 16.07,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

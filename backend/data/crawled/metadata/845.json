@@ -13,5 +13,14 @@
     "data/crawled/raw_images/845_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:35:47.825766+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=845"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=845",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제문제 : 하마 하마과 관련된 사물을 써도 된다하여 그 환경에 있을법한 것들을 생각해서 풀어나갔다.",
+    "practice_years": 1.83,
+    "competition_ratio": 6.0,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

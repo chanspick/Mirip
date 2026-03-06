@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2795_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:02:42.701052+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2795"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2795",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 가위와 색종이가 나왔으며 가위를 평면 뼈대로 넣어 출발선처럼 만들고 색종이로는 종이 비행기를 접었으며 원경에 있는 색종이로 만든 조준점을 향해 날아가는 듯한 구도로 그렸습니다. 초근경에서 원경으로 가면서 종이비행기가 접히는 과정을 그려넣었습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 13.65,
+    "student_strength": "채색만큼 구성도 되게 중요하게 생각해서 실기대회때부터 시험 전날까지 학원 끝나고도 새벽 2~3시까지 독서실에서 독창적인 구성을 만들어보고는 했습니다. 또한 선생님들께 따로 부족한 점이나 해결방법을 집요하게 여쭤봐서 합격할 수 있지 않았나 싶습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "초근경에서 원경으로 가면서 종이비행기가 접히는 과정을 그려넣었습니다. 또한 바람 같은 효과선들을 넣고 일반 색종이들을 주제에 많이 넣어서 주제 밀도를 신경 썼습니다."
+  }
 }

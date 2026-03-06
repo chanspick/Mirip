@@ -13,5 +13,14 @@
     "data/crawled/raw_images/228_0.png"
   ],
   "crawled_at": "2026-01-27T13:09:29.056814+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=228"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=228",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 5.0,
+    "student_strength": "사람이 정말로 끝까지 \"열심히\" 한다면 죽기 직전까지 갈 것이다. 아직 의식이 있다면 그건 정말 \"열심히\" 한 것이 아니다. 퇴보하기 싫다면 본인이 열심히 하고 있다고 생각해선 안된다. 그런 생각을 가지고 오늘 더 열심히 한면 된다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

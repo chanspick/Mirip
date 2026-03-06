@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3660_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:43:41.219314+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3660"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3660",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "고사 당일 출제 문제로 파타고니아 가방, 심벌, 오만원 지폐가 나왔고, 각 제시물에 조건이 붙어있었습니다. 문제를 보고 제시물들의 특성을 살리며 조건을 지켜 구성하려 하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.83,
+    "student_strength": "지폐를 이용한 다양성과 색 배치, 정리감 이었던 것 같습니다.",
+    "teacher_feedback": "선생님이 해주시는 피드백을 적어놓고 개별로 연습하여 시험에 적용하였습니다..",
+    "ideation_process": "문제를 보고 제시물들의 특성을 살리며 조건을 지켜 구성하려 하였습니다."
+  }
 }

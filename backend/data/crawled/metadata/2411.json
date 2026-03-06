@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2411_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:45:32.041165+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2411"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2411",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "배구공과 무궁화 양송이버섯이 나왔고 2가지를 선택하여 다지인 했습니다 배구공과 무궁화를 선택하였고 두가지 소재로 무엇을 보여줘야할지를 먼저 생각하였고 묘사를 많이해서 완성도있는 그림을 그리려고 끝까지 노력하였다.",
+    "practice_years": 3.0,
+    "competition_ratio": 9.93,
+    "student_strength": "매일매일 시험을 보면서 시간안에 그림을 완성도있게 완성해보는 경험을 많이 쌓은것과 선생님들의 피드백을 최대한 수용하여 시간이 지날수록 더 높은 퀄리티의 그림을 그려내려고 노력한것이라고 생각합니다.",
+    "teacher_feedback": "선생님들이 항상 지적해주시는 부분위주로 고쳐나가려고 노력했다..",
+    "ideation_process": "배구공과 무궁화를 선택하였고 두가지 소재로 무엇을 보여줘야할지를 먼저 생각하였고 묘사를 많이해서 완성도있는 그림을 그리려고 끝까지 노력하였다."
+  }
 }

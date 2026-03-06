@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1978_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:26:40.805549+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1978"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1978",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "콘센트, 고무집게를 소묘하시오./ 제시물을 보고 하얀색 콘센트와 고무밴드의 대비를 강조해야겠다고 생각했고, 수업 시간 때 그림에 유리한 방향으로 색을 바꾸는 게 좋다고 배웠던 게 생각이 나서 앞의 고무밴드를 일부러 까맣게 그렸습니다. 그리고 밋밋한 사물들이다",
+    "practice_years": 4.0,
+    "competition_ratio": 11.0,
+    "student_strength": "시험 당일 긴장되는 상황 속에서 차분함을 이어나갔던 게 가장 큰 이유라고 생각합니다. 차분히 평소에 학원에서 배운 매뉴얼(체크리스트)대로 과정을 이어나간 덕분에 이렇게 합격할 수 있던 것 같습니다.",
+    "teacher_feedback": "선생님을 포함해서 모든 선생님께서 꼼꼼히 읽고 피드백해주실 부분은 피드백 해주셔서 더더욱 좋았습니다.",
+    "ideation_process": "그리고 밋밋한 사물들이다 보니까 고무밴드에서는 최대한 없는 묘사도 만들어서 그리려 했고, 콘센트는 하얗지만 톤이 풍부하게 그리는 데 신경 썼습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2947_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:09:33.764839+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2947"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2947",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "주제는 스테이플러, 커피캡슐, 펼쳐진 책이었습니다. 일단 세개의 주제가 모두 잘 보이게 구성하는것이 중요할 것 같아서 잘 보일만한 곳에 크게 배치를 하고 그 다음 각 물체의 특성을 보여주기 위해 스테이플러가 종이를 찝는 연출, 커피캡슐 안의 커피가루, 책의 종이들을 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 24.62,
+    "student_strength": "새로운걸 시도하기보다는 평소에 원장선생님께서 말해준 것들을 계속 기억하면서 실수하지 않으려고 했습니다. 주변에 블랙과 화이트를 엄청 쓰면서 눈에 띄는 그림들이 많아서 내 그림이 약해보일까봐 걱정됐지만 휩쓸리지 않고 평소에 연습한대로 그려갔습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "일단 세개의 주제가 모두 잘 보이게 구성하는것이 중요할 것 같아서 잘 보일만한 곳에 크게 배치를 하고 그 다음 각 물체의 특성을 보여주기 위해 스테이플러가 종이를 찝는 연출, 커피캡슐 안의 커피가루, 책의 종이들을 그렸습니다."
+  }
 }

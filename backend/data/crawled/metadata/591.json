@@ -13,5 +13,14 @@
     "data/crawled/raw_images/591_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:24:48.254005+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=591"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=591",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "큐브, 오카리나, 오선지, 음표 큐브의 다양한 모습을 그리려 노력했고 리듬감이 느껴질 수 있도록 오선지와 음표를 활용하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 5.8,
+    "student_strength": "학원에서 선생님들이 많이 신경써 주셨고 끝까지 포기하지 않았기 때문에 합격할 수 있었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

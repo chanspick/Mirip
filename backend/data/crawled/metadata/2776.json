@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2776_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:01:51.755619+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2776"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2776",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "문제1은 제시물로 기쁨을 표현하는것이였고, 문제2는 제시물의 구조적특징을 활용해 숫자를 입체적으로 디자인 하는 문제였습니다. 우선 처음 문제 1과 2의 공통점과 차이점이 뭔지를 작성했고, 그 다음 차이점을 중점적으로 평가주안점이 무엇일지 작성을 하고 들어갔습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 6.98,
+    "student_strength": "사실 시험보기 전날까지도 엄청 혼나고 갔는데요.. 그래도 끝까지 자포자기하지않고 어떻게든 하려고 했던것이 아닐까 싶어요.",
+    "teacher_feedback": null,
+    "ideation_process": "풀어나갔습니다. 문제 2는 제시물의 구조적 특징이 뭔지, 숫자에서 뽑아낼 조형은 어떤게 있을지, 각 숫자의 특징이 무엇일지에 대해 마인드맵을 하면서 풀었습니다."
+  }
 }

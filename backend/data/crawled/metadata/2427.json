@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2427_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:46:13.960692+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2427"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2427",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "안경이라는 생소한 소재가 나왔음에도 불구하고 당황하지 않고 측면과 정면 느낌 기울기를 잘 보려고 애썼다. 고개를 숙임으로써 생긴 턱의 양감을 잘 잡아내었고 위로 동그랗게 뜨고 있는 눈 또한 모델의 분위기에 맞추어 파악 할 수 있었다.",
+    "practice_years": 3.0,
+    "competition_ratio": 12.0,
+    "student_strength": "항상 강한 정신을 가지고 쉽게 좌절하지 않으며 압도되는 분위기에도 긴장하지 않고 겁먹지 않는 차분한 상태를 유지하는 것이 주 요인이라고 생각한다. 당황하지 않고 평소 연습하는 만큼을 뽑을 수만 있다면 합격할 수 있다.",
+    "teacher_feedback": "피드백을 받았다.",
+    "ideation_process": "고개를 숙임으로써 생긴 턱의 양감을 잘 잡아내었고 위로 동그랗게 뜨고 있는 눈 또한 모델의 분위기에 맞추어 파악 할 수 있었다."
+  }
 }

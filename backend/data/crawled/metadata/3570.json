@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3570_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:38:32.605651+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3570"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3570",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "문제1: 제시된 다양한 질감의 정물을 사실적으로 그리시오. 2절 연필 문제2: 참고자료의 <그림2>는 벨라스케스의 작품 <시녀들>을 피카소가 재해석하여 그린 그림이다.",
+    "practice_years": null,
+    "competition_ratio": 5.67,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "2절 연필 문제2: 참고자료의 <그림2>는 벨라스케스의 작품 <시녀들>을 피카소가 재해석하여 그린 그림이다. ‘문제 1의 답안’ 과 동일한 장면을 <그림2>의 표현방식을 이해하고 활용하여 그리시오."
+  }
 }

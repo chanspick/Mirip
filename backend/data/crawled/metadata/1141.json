@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1141_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:48.787261+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1141"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1141",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "다행히 학원에서 한번 연습했던 주제인 야구공과 털실과 바늘이 나와서 당황하지 않고 평소 하던대로 그렸습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 11.12,
+    "student_strength": "주제부의 밀도와 포인트부분의 색변화를 주었던 것이 주요인이라고 생각됩니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

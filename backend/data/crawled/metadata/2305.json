@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2305_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:40:54.175801+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2305"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2305",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "장미, 앤틱 거울, 망치가 나왔습니다. 각 물체의 물성과 조형성을 고려하여 배치했습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 25.35,
+    "student_strength": "화지의 주목성이 느껴지는 구도, 분명한 스토리텔링, 거울의 비치는 표현 묘사, 과하지 않은 잔상 묘사 등이 아닐까 싶습니다. 시험 일주일 전 기초질감을 연습하며 유리 전구가 깨지는 그림을 그렸던 것이 거울을 그리는데 도움이 됐던 것 같습니다. 또 시험 전날 역대 출제문제, 합격 재현작들을 살피며 유형을 분석했던 것도 큰 도움이 됐습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "각 물체의 물성과 조형성을 고려하여 배치했습니다. 여름 특강과 수시 특강 때 장미와 망치를 그려본 경험이 있었는데 이때 학원 선생님께서 재차 강조하셨던 물적 특성과 사물 고유의 비율, 색상 배치, 다양한 형상을 떠올리며 그렸습니다."
+  }
 }

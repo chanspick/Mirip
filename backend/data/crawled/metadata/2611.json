@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2611_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:21.331798+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2611"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2611",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "유리병과 수세미로 귤을 디자인하는 것이었다. 병의 열리고 닫히는 특징과 수세미의 유연성을 최대한 활용하며 귤이 잘 보이게 풀었당.",
+    "practice_years": 3.0,
+    "competition_ratio": 6.96,
+    "student_strength": "소재가 잘보이는 것 이다.",
+    "teacher_feedback": null,
+    "ideation_process": "병의 열리고 닫히는 특징과 수세미의 유연성을 최대한 활용하며 귤이 잘 보이게 풀었당."
+  }
 }

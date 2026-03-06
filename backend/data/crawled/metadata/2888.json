@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2888_0.png"
   ],
   "crawled_at": "2026-01-27T15:06:53.391976+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2888"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2888",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "“가상현실속의 나” 를 표현하는것이 실기시험의 주제 였으며, 먼저 주제에서 보고싶어하고 원하는 것이 무엇인지 파악하였다. 그 후 지금껏 연습하였던 스토리들 중 가장 알맞는 것을 생각해 스토리를 짰다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.75,
+    "student_strength": "주제에 어긋나지 않는 스토리가 합격의 요인이라고 생각한다. 그림이 비어보이지 않도록 최대한 알찬 구성과 겹치지 않게 신경 쓴 연출 역시도 어느정도 영향을 끼쳤다는 생각이든다.",
+    "teacher_feedback": "선생님들께 피드백 받아 시험에서 최적의 퀄리티를 뽑아낼 수 있게 연습하였다..",
+    "ideation_process": "표현하는것이 실기시험의 주제 였으며, 먼저 주제에서 보고싶어하고 원하는 것이 무엇인지 파악하였다. 그 후 지금껏 연습하였던 스토리들 중 가장 알맞는 것을 생각해 스토리를 짰다."
+  }
 }

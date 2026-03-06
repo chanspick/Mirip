@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1462_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:03:25.122301+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1462"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1462",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "머그컵, 끈리본, 물감",
+    "practice_years": 5.0,
+    "competition_ratio": 4.9,
+    "student_strength": "학원 수업시간에 선생님 말 잘 듣고 고치라고 말씀해주시는 부분을 집중적으로 연습했다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

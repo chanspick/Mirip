@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2550_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:51:38.830350+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2550"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2550",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.17,
+    "competition_ratio": 8.38,
+    "student_strength": "해당하는 과목의 공부를 하고 꾸준히 관심을 갖고 노력하는 것이라고 생각합니다..",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

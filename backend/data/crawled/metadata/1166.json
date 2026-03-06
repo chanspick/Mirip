@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1166_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:49:54.134466+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1166"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1166",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "사진으로 나올줄 알았는데 모델링으로 나와서 당황은 했지만 여자모델의 앉아있는 느낌과 큰꼴 큰외곽느낌을 먼저 잡아주려고 노력했으며 측면과 반측면을 더 많이 보고 최대한 모델과 맞게 맞추려고 노력했습니다 그리고 이목구비에서의 모델의 이미지를 뽑아주려 노력했습니다",
+    "practice_years": 2.0,
+    "competition_ratio": 4.98,
+    "student_strength": "측면을 계속 열심히 봐서 이미지가 맞게 잘 나온것같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "그리고 이목구비에서의 모델의 이미지를 뽑아주려 노력했습니다"
+  }
 }

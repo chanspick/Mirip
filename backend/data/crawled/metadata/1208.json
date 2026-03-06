@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1208_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:51:41.901071+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1208"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1208",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 문제를 받고 가장 먼저 한 것이 물체를 점, 선, 면으로 나누는 것이었다. 세 물체 모두 다",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "나는 입시를 하면서 항상 수업 후에 내 그림뿐만 아니라 다른 학생들의 그림을 모두 찍어두는 습관을 지녔다. 그리고 찍어둔 그림을 가지고 있는 것에서 멈추는 것이 아니라 다른 학생의 그림에서 내가 부족했거나 혹은 괜찮다고 생각했던 부분이 있으면 그 부분을 내 그림에 응용을 하는 방식으로 그림을 그려나갔다.",
+    "teacher_feedback": "선생님들과 상의하여 그림의 방향을 정해왔다.",
+    "ideation_process": "세 물체 모두 다 길쭉한 형태를 보이고 있었기 때문에 자칫 잘못하면 요소가 섞일 위험이 있었기 때문이다."
+  }
 }

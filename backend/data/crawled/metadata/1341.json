@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1341_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:57:40.940256+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1341"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1341",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.0,
+    "competition_ratio": 18.5,
+    "student_strength": "이화여대 디자인학부와 홍익대 미술대학자율전공에 합격했는데 두 대학 모두 명확한 목표를 담은 미술활동 보고서와 미술활동 보고서를 토대로 준비한 면접을 잘 치고 왔기 때문이라고 생각합니다. 특히 교내외에서 다양한 미술활동을 하고 가장 최적화된 미술 활동을 보고서에 기재한것도 큰 영향이 있었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

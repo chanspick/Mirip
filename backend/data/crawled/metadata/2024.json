@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2024_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:28:41.853972+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2024"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2024",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "문제를 읽고 나서, 내가 머릿속에 담고 있었던 이미지를 적용해도 좋겠다는 생각이 들어 바로 실행했다. 그리면서 어떤 것들을 추가할지, 어떻게 그림을 설명하면 좋을지 등 내가 그림을 통해 이야기하고 싶은 바를 또렷이 하려고 노력했다.",
+    "practice_years": null,
+    "competition_ratio": 29.0,
+    "student_strength": "선생님께: 학교 안에서 배워왔던 것 이상의 폭넓은 시각을 갖게 해 주신 점에 정말 감사합니다. 경험이 담긴 선생님들의 말씀과 수년 간의 축적된 작품 데이터가 청 미술학원의 가장 큰 강점이라고 생각하고, 저는 거기서 도움을 많이 받은 것 같습니다.",
+    "teacher_feedback": "선생님들이 평소 나에게 지적했던 점, 내가 신경써야 할 점들을 떠올리면서 그리려고 노력했다.",
+    "ideation_process": "그리면서 어떤 것들을 추가할지, 어떻게 그림을 설명하면 좋을지 등 내가 그림을 통해 이야기하고 싶은 바를 또렷이 하려고 노력했다. 선생님들의 조언, 내가 자주 들었던 말들을 인지하면서, 내가 할 수 있는 최선을 다"
+  }
 }

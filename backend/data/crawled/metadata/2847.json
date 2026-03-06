@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2847_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:05:02.663695+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2847"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2847",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "문제를 받자마자 소묘를 시작했습니다. 얼음에 멸치가 일부 삽입된 모습을 표현해야 했는데 얼음에 삽입된 부분과 아닌 부분의 비율을 고려하며 진행했습니다.",
+    "practice_years": 2.33,
+    "competition_ratio": 22.14,
+    "student_strength": "특별한 것 없이 학원 결석, 지각하지 않고 선생님이 이끌어주시는 대로 잘 따라간 것이 가장 좋았던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "얼음에 멸치가 일부 삽입된 모습을 표현해야 했는데 얼음에 삽입된 부분과 아닌 부분의 비율을 고려하며 진행했습니다. 소묘를 하면서 계속 디자인 문제에 대해 생각했지만 아이디어가 잘 떠오르지 않았습니다."
+  }
 }

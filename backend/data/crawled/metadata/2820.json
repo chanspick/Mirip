@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2820_0.png"
   ],
   "crawled_at": "2026-01-27T15:03:50.614761+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2820"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2820",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "만년필/나뭇잎/선물상자가 나왔는데 명도가 밝은 나뭇잎 위에 검은 만년필 잉크로 펜의 실루엣을 그리고 밝은 바닥면에 나뭇잎을 그리는 기능성을 살린 연출을 하였고 그 연출을 중점으로 그림을 그렸습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 13.3,
+    "student_strength": "아이디어가 선명하게 잘 보여서 합격한것같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3486_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:34:29.131633+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3486"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3486",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "축구공 큐브 두루마리휴지가 나왔고 제시어로는 혼돈과 질서가 나왔습니다 큐브와 축구공 자체가 질서있는 형태를 지닌 개체라고 생각하였기때문에 질서보다는 혼돈이라는 키워드를 잘 맞추기 위해 날아오는 축구공으로 인해 큐브가 부숴지는 것으로 혼돈을 표현했습니다",
+    "practice_years": 5.5,
+    "competition_ratio": 12.44,
+    "student_strength": "3시간 30동안 완성을 해야하기에 시간단축을 하여 그렸던 점과 끝까지 포기하지 않고 그렸던 점 때문인 것 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "큐브와 축구공 자체가 질서있는 형태를 지닌 개체라고 생각하였기때문에 질서보다는 혼돈이라는 키워드를 잘 맞추기 위해 날아오는 축구공으로 인해 큐브가 부숴지는 것으로 혼돈을 표현했습니다"
+  }
 }

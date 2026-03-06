@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3796_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:51:19.234475+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3796"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3796",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "앵무새가 주제로 출제되었는데, 이미 문제은행에 있는 문제들을 여러 번 반복하며 숙달시켰기에 크게 당황하지 않고 시험을 진행했습니다.",
+    "practice_years": 4.0,
+    "competition_ratio": 8.97,
+    "student_strength": "같은 문제를 여러 번 풀어본 것 .반복숙달이 답이라 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3324_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:26:39.472462+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3324"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3324",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "'지나친 엉킴(get complicated)' 가 주제로 나왔으며 평소 하던 조형, 생각나는 조형, 이미 구상해둔 조형 중 가장 잘 들어맞는 조형들을 대조해 더 잘 어울리는 조형과 드로잉을 사용했습니다,",
+    "practice_years": 2.5,
+    "competition_ratio": 6.96,
+    "student_strength": "평소 구상을 많이 해두어 무기가 많았던게 가장 큰 요인이지 않을까 싶습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "구상해둔 조형 중 가장 잘 들어맞는 조형들을 대조해 더 잘 어울리는 조형과 드로잉을 사용했습니다,"
+  }
 }

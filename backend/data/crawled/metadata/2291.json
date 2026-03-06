@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2291_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:40:16.903764+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2291"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2291",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "고구마와 털실이였습니다. 3절지인 만큼 주제부를 크게 그려 눈에 잘 들어오도록 구성하였고, 털실과 끈 등을 선재로 활용해 화면에 움직임을 주고자 하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 27.8,
+    "student_strength": "문제를 받고 침착하게 화면 구성을 해나가고, 시험을 보는 시간 동안 놓친 부분이 없게끔 최대한 집중하여 그렸기 때문이라고 생각합니다.",
+    "teacher_feedback": "선생님의 시범을 보면서 중요한 점을 필기하여 다음 시험때마다 반영하려고 노력했습니다..",
+    "ideation_process": "3절지인 만큼 주제부를 크게 그려 눈에 잘 들어오도록 구성하였고, 털실과 끈 등을 선재로 활용해 화면에 움직임을 주고자 하였습니다."
+  }
 }

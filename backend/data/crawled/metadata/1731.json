@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1731_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:15:54.738352+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1731"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1731",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "실기고사 당일 출제문제는 학교와 급식에 관한 주제였으며, 특별히 기발하게 생각하지는 않고, 주제에 충실하게 문제를 풀어나갔습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 17.17,
+    "student_strength": "애니위너의 신쌤과 조쌤의 위대한 가르침 덕분에 합격을 할 수 있었던 것 같습니다^-^",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

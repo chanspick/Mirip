@@ -13,5 +13,14 @@
     "data/crawled/raw_images/500_0.jpeg"
   ],
   "crawled_at": "2026-01-27T13:20:57.145716+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=500"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=500",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "호서대 : 트럼펫, 호스 한남대 : 검은 옥수수, 칫솔, 철사 백석대 : 마이크, 동전, 헤드셋 세 학교 모두 예상치 못했던 문제였지만 최대한 제시물의 특성을 살려서 완성하는데 집중하였습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 9.15,
+    "student_strength": "합격하기 위해서는 본인이 깨닫는 것이 가장 큰 요인인 듯 합니다. 평가장에서 내 그림이 보이기 위해 필요한 구도, 표현, 색감 등 기본적인 것에서 부터 고민을 하고, 학원에서 선생님들의 조언 하나 하나 놓치지 않으려고 했습니다, 저는 속도가 느렸기 때문에 시험장에서도 학원 선생님들의 말씀과 재촉하는 목소리를 떠올리며 임했습니다.",
+    "teacher_feedback": "선생님으로부터 듣는 피드백을 온전히 이해하려 하였고 고쳐나가려고 했습니다.",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/339_0.png"
   ],
   "crawled_at": "2026-01-27T13:14:11.047003+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=339"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=339",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "유리구슬+그물망 이었다. 특별한 발상을 하기보단 평소에 하던대로 단점을 보안하고 주제부를 부곽시키려고 노력했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.08,
+    "student_strength": "하고싶은 그림을 포기하고 학원에서 시키는대로 했다. 솔직히 나만의 스타일에 너무 빠져있었지만 선생님들께서 위험한 요소들이 많이 있다고 하여 고치는데 조금 힘들었다.",
+    "teacher_feedback": "선생님께서 잡아주셔서 큰 무리없이 자신감을 갖게 된듯 하다.",
+    "ideation_process": "발상을 하기보단 평소에 하던대로 단점을 보안하고 주제부를 부곽시키려고 노력했다."
+  }
 }

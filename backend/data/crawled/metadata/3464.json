@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3464_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:33:25.705217+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3464"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3464",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "나무집게와 쇠구슬이었습니다. 학원에서 준비했던 문제은행 이었기 때문에 최대한 준비했던 만큼 밀도를 올리려고 하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 14.78,
+    "student_strength": "학원에서 준비한 문제은행을 최대한 그대로 하려고 하였습니다.",
+    "teacher_feedback": "선생님과 원장선생님께 피드백을 들은 후 개선해야 할 점들을 고쳐나갔습니다..",
+    "ideation_process": "학원에서 준비했던 문제은행 이었기 때문에 최대한 준비했던 만큼 밀도를 올리려고 하였습니다."
+  }
 }

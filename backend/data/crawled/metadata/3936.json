@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3936_0.png"
   ],
   "crawled_at": "2026-01-27T15:58:54.427883+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3936"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3936",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "휴대용 선풍기, 뜨개실, 뜨개바늘, 톱니바퀴, 탁구공으로 순환을 표현하시오. 뜨개 바늘의 탄성을 이용해서 선풍기 바람에 의해 순환이 되는 모습을 그렸다.",
+    "practice_years": 4.0,
+    "competition_ratio": 35.91,
+    "student_strength": "피할 수없으면즐겨라! 어차피 어려운 주제라면 모두 다 어려우니, 과감하게 아이디어스케치하고, 과감하게 채색 했더니, 오히려, 너무 마음에 들어서 중간 중간 합격하는 상상 하면서 재미있게 그렸습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 뜨개 바늘의 탄성을 이용해서 선풍기 바람에 의해 순환이 되는 모습을 그렸다."
+  }
 }

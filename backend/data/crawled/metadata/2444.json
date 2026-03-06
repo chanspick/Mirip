@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2444_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:46:58.844320+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2444"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2444",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 전구와빨대를 이용하여 자유롭게 디자인하는것이였고 빨대를 이용해 규칙공간을 만들어 구성을 진행했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 14.0,
+    "student_strength": "뼈대로 마냥 구성을 맞추거나 패턴을 쓰지 않고 제시물로 규칙을 만들어 공간구성해서라고 생각합니다.",
+    "teacher_feedback": "선생님들의 지도에따라 준비했습니다..",
+    "ideation_process": null
+  }
 }

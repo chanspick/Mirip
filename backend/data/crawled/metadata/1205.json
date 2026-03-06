@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1205_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:51:34.146610+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1205"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1205",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "시험장에선 내가 할수있는 최대치를 쏟아부었고, 남들보다 선 하나라도 더 찾고 관찰할려고 노력했다.",
+    "practice_years": 2.0,
+    "competition_ratio": null,
+    "student_strength": null,
+    "teacher_feedback": "선생님들과 함께 고쳐나가면서 막판에는 더 완벽한 한장을 그리기 위해 노력하였다..",
+    "ideation_process": "선 하나라도 더 찾고 관찰할려고 노력했다. 수시때 정물갯수를 더 그리는 실수를 했는데, 이 실수를 발판삼아 다음날 다른 시험장에서 감독관님께 더욱 꼼꼼히 확인하고 그릴수있었다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2718_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:59:12.559650+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2718"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2718",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "실기고사에서는 마시멜로우,털실이 실물제시 되었고, 플라스틱호스, 수세미, 긴 풍선이 사진으로 제시되었습니다. 제시어는 움직임이었고 구도에서 움직임이 가장 잘 표현되도록 하는데에 중점을 두고 풀어나갔던것 같습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 11.38,
+    "student_strength": "주제부와 부주제 그림 어느곳을 보더라도 움직임이라는 제시어가 표현될수 있도록 노력한것과 색상선정을 효과적으로 한 것이 좋은결과를 불러온것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "제시어는 움직임이었고 구도에서 움직임이 가장 잘 표현되도록 하는데에 중점을 두고 풀어나갔던것 같습니다."
+  }
 }

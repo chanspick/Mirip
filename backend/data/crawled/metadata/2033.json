@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2033_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:29:05.520009+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2033"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2033",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "제시물 : 제트스키, 거울",
+    "practice_years": 1.0,
+    "competition_ratio": 4.06,
+    "student_strength": "학원에서 선생님들이 가르쳐 주신 내용을 바탕으로 주제에 맞게 해석을 하고, 딴 생각을 하지 않기 위해 선생님들이 하라고 한 것 만했다.",
+    "teacher_feedback": "선생님들께 많은 질문을 하며 버릇을 고쳐나가고 답변 해주신 내용을 바탕으로 연습했다..",
+    "ideation_process": null
+  }
 }

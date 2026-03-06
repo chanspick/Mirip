@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3769_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:49:56.089634+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3769"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3769",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "나무의자를 활용해 과거, 현재, 미래를 표현하라는 문제를 받았고 제시어 세 가지 모두를 다 드러내기 힘들 것 같아 이를 시간의 흐름으로 치환하여 풀어나갔습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.17,
+    "student_strength": "소묘파트에서는 선생님이 항상 강조하셨던 점들과 지적당했던 부분을 계속 상기하면서 그림에서 가장 앞으로 튀어나와 있는 부분이 잘 보이도록 대비감과 묘사를 강하게 주었습니다. 다음으로 채색파트에서는 해당 학과에서 중요하게 다뤄지는 소재인 나무를 그림 속에서 드러내고자 나무질감을 살려냈던 부분에서 점수를 받았던 것 같습니다",
+    "teacher_feedback": "피드백을 다음 그림에서는 개선해내려고 노력했던 것 같습니다.",
+    "ideation_process": "풀어나갔습니다. 시간의 흐름에 영향을 받는다는 인간과 나무의 공통점을 토대로 나무의 나이테와 인간의 주름을 함께 나타내어 이러한 의도가 잘 드러날 수 있도록 그려냈던 것 같습니다"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2362_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:43:23.097328+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2362"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2362",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "고등어, 고무장갑, 감자 최대한 주제들끼리 이을 수 있는 이야깃거리에 초점을 두고 그렸던 것 같습니다. 아이디어는 10분정도 잡고 짰습니다.",
+    "practice_years": null,
+    "competition_ratio": 13.36,
+    "student_strength": "평소 집이나 학교에서 공책에 스케치 연습을 하여 투시에 대한 이해도를 향상시키려고 노력하였고, 본인이 그린 그림을 계속 검토해보며 성적이 좋은 학생들과는 무엇이 다른지 분석해보는 시간을 자주 가졌습니다.",
+    "teacher_feedback": "선생님 수업에 맞춰서 진행하였고 남는 시간이나 개인적인 시간이 주어질 때는 개체묘사를 하여 부족한 점을 보완하였습니다..",
+    "ideation_process": "아이디어는 10분정도 잡고 짰습니다."
+  }
 }

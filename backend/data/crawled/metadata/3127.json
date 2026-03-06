@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3127_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:17:39.075009+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3127"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3127",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "실리콘 오븐 장갑과 원석 팔찌가 나왔습니다. 오븐 장갑은 주제부에 한 눈에 보일 수 있게 그려 넣었고 원석 팔찌도 꾸며주는 용도지만 작지 않게 사이즈를 나름 크게 해서 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 7.94,
+    "student_strength": "팔찌에 있는 원석을 주제에서 강조하여 주목성 있도록 그린 게 좋은 점수를 받은 것 같습니다. 항상 자잘해진다는 피드백을 받았고 자그마한 원석 팔찌를 그대로 그리면 시간 내에 완성도 못 할뿐더러 조잡해 보일까 봐 개수를 줄이는 대신 크게 그려 잘 보이도록 했습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "오븐 장갑은 주제부에 한 눈에 보일 수 있게 그려 넣었고 원석 팔찌도 꾸며주는 용도지만 작지 않게 사이즈를 나름 크게 해서 그렸습니다. 평소 연습했던 대로 구도를 잡고 시간 내에 완성도를 높이는 것에 신경을 써서 그렸습니다."
+  }
 }

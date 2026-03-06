@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3089_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:15:56.400551+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3089"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3089",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "고양이와 해파리를 조합하여 어린이와 함께 있는 반려로봇을 디자인하는 문제를 받았습니다. 저는 반려로봇을 사용하는 사람이 어린이라는 조건에 주목했습니다.",
+    "practice_years": null,
+    "competition_ratio": 2.5,
+    "student_strength": "학원에서 코멘트를 꼼꼼히 듣고, 단점을 보완해나가는 쪽으로 연습한 것과, 제시된 문제에서 핵심적인 부분을 뽑아 '무엇을 겨냥하고 이런 조건을 붙였을까' 되뇌며 확실하게 보여줄 요소를 정리하여 그린 것이 합격에 큰 영향을 줬던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "저는 반려로봇을 사용하는 사람이 어린이라는 조건에 주목했습니다. 그래서 로봇이 안전할 것, 정서적 친밀감이 느껴지도록 할 것, 어린이에게 도움이 될 것을 특징으로 잡고 표현하려 노력했습니다."
+  }
 }

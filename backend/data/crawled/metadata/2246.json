@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2246_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:38:18.687043+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2246"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2246",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "측면 관계랑 비례를 잘 맞추려고 노력함",
+    "practice_years": 3.0,
+    "competition_ratio": 10.07,
+    "student_strength": "그날의 컨디션+ 끝까지 맞추려는 노력",
+    "teacher_feedback": "선생님들이 알려주시는대로(과정이나 디테일) + 나만의 타임테이블 53.",
+    "ideation_process": null
+  }
 }

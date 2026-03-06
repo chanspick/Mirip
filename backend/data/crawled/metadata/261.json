@@ -13,5 +13,14 @@
     "data/crawled/raw_images/261_0.png"
   ],
   "crawled_at": "2026-01-27T13:10:51.301417+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=261"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=261",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "냅킨 2장(파랑, 노랑 줄무늬)과 깔때기로 화면을 구성하는 문제였습니다. 평소에 많이 연습했던 소재여서 큰 어려움은 없었고 냅킨을 탭킨답게 활용하여 두가지 컬러의 조화와 대소대비, 가장 중요한 깔끔함에 초점을 두어 풀었습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 13.0,
+    "student_strength": "선생님들의 학생에 대한 열정과 관심이 저를 발전하게 할 수 있었던 원동력이었습니다. 성적이 낮은 저로서는 실기 할 때만큼은 정말 집중해서 제 장점인 깔끔함을 최대한 돋보이게 그렸떤 것이 합격 요인이었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "평소에 많이 연습했던 소재여서 큰 어려움은 없었고 냅킨을 탭킨답게 활용하여 두가지 컬러의 조화와 대소대비, 가장 중요한 깔끔함에 초점을 두어 풀었습니다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/427_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:17:54.358820+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=427"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=427",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "제시물은 바이올린이 나왔고, 제시어는 “내가 바라는 세계” 라는 당황스러운 주제였다. 하지만 삼육대 제시어가 독특하게 나온다는 걸 알고 미리 준비하였기에, 구성도 독특하게 풀어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 62.14,
+    "student_strength": "삼육대 시험을 준비하면서 다양하고 참신한 구성과 주제해석을 했던 것이 중요하게 작용한 것 같습니다.",
+    "teacher_feedback": "선생님의 설명과 평가에 대해 하나도 놓치지 않으려 했던 것 같습니다..",
+    "ideation_process": "하지만 삼육대 제시어가 독특하게 나온다는 걸 알고 미리 준비하였기에, 구성도 독특하게 풀어나갔습니다."
+  }
 }

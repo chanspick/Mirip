@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1843_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:20:49.464598+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1843"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1843",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "의자/녹색/수증기 를 이용하여 만화를 연출하시오. 일단 처음에는 많이 당황을 했습니다",
+    "practice_years": 1.0,
+    "competition_ratio": 21.92,
+    "student_strength": "저는 고2 때부터 그림을 시작해서 자신만의 그림체나 그림에 대해 자신이 없었기 때문에 선생님들이 가르쳐주시거나 개인적으로 집어주시는 것들이 저에게는 무조건적으로 다가왔고 그럴 수밖에 없었습니다.",
+    "teacher_feedback": "선생님들의 말씀을 까먹지 않기 위해 그리고 있는 그림 옆이나 노트에 적어가며 나의 문제가 무엇인지 어떻게 고쳐나갈 수 있는지에 대해 객관적으로도 볼 수 있었습니다..",
+    "ideation_process": "일단 처음에는 많이 당황을 했습니다 그러다"
+  }
 }

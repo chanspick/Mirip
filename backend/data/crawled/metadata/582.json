@@ -13,5 +13,14 @@
     "data/crawled/raw_images/582_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:24:25.210304+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=582"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=582",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 3.0,
+    "competition_ratio": 5.58,
+    "student_strength": "좋은 선생님을 만난것이 가장 제게 큰 합격 요인이였습니다. 올해 만난 저의 선생님께서는 기초가 없던 저에게 끝까지 기초를 잡아주셨습니다. 그저 보이는대로 똑같이 만들면 되는 줄 알았었습니다. 기초를 토대로 작품을 만들수 있게 잡아주셨던게 가장 힘들고 많이 늘었던 요인이였다고 생각합니다.",
+    "teacher_feedback": "선생님께서 지적하셨던 말씀 중에 이해가 안가는 부분을 지나다니는 사람이나 주변사람들을 볼때 집중적으로 보며 많이 깨달았었습니다.",
+    "ideation_process": null
+  }
 }

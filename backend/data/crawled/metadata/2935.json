@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2935_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:09:01.615750+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2935"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2935",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "재활용품을 이용한 인류의 미래를 표현하시오. 가 주제였습니다.",
+    "practice_years": 1.58,
+    "competition_ratio": 11.54,
+    "student_strength": "선생님들께서 피드백 해주신 부분을 기록하고 그림을 계속 점검하며 퀄리티를 높이기 어려운 부분은 밀도를 집중적으로 높인 것이 합격 요인이 되었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 가 주제였습니다."
+  }
 }

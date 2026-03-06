@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1128_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:15.999717+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1128"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1128",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "주제로는 양말이 나왔으며, 자신이 직접 디자인하여 양말을 표현하여야 했기에 참신한 무늬의 양말로 표현하려고 노력했습니다. 또한 양말이 가지고 있는 물성을 최대한 활용하여 연출을 극대화 하였던 것 같습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 22.92,
+    "student_strength": "시험 막바지에 선생님께서 개별강평을 꼼꼼히 해주셨던 내용을 떠올렸던 게 도움이 많이 된 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하여야 했기에 참신한 무늬의 양말로 표현하려고 노력했습니다. 또한 양말이 가지고 있는 물성을 최대한 활용하여 연출을 극대화 하였던 것 같습니다."
+  }
 }

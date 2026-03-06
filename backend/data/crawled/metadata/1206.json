@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1206_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:51:36.718660+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1206"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1206",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "평소 그려오고, 연습했던 그림에 제시된 정물과 주제에 맞도록 새롭게 구성하고 연출하여 그렸다. 코로나 때문에 시간이 줄었지만 그에 상관없이 좋은 그림을 그리고자 노력했다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": null,
+    "teacher_feedback": null,
+    "ideation_process": "코로나 때문에 시간이 줄었지만 그에 상관없이 좋은 그림을 그리고자 노력했다."
+  }
 }

@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3568_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:38:25.914731+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3568"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3568",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "<태풍으로 인해 농장이 붕괴된 70대 농부> 항상 주제 두상을 만들 때에는 문장이 곧 답이기 때문에 단어 하나 하나를 놓치면 안 된다고 생각하였습니다. 태풍이 불었기 때문에 머리카락을 바람에 좀 날리는 듯이 표현하였으며, 붕괴된 농장을 보고 놀라면서 망연자실한 표정을 만들어야겠다고 생각 하고 진행하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 10.92,
+    "student_strength": "고사장 내에 빛도 굉장히 좋았고 시험 보기 며칠 전부터 연령대가 있는 작품들을 연습하면서 익숙해져, 시험장에서 빛을 바랄 수 있었던 것 같습니다. 또한, 평소에도 학원에서 칭찬받았던 저의 장점들을 더욱 작품 안에 담아내려 노력했던 것 같습니다.",
+    "teacher_feedback": "선생님께 바로 물어보고 이해 후 학습하고 작품에 대입하면서 점차 실력을 늘려갔습니다.",
+    "ideation_process": "표현하였으며, 붕괴된 농장을 보고 놀라면서 망연자실한 표정을 만들어야겠다고 생각 하고 진행하였습니다. 성별이 주어지지 않아서 여자보단 평소에 더 잘했던 남자를 선택하였고 농부의 이미지를 주기 위해서 인중과 턱에 수염을 만들었습니다."
+  }
 }

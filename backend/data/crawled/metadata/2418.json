@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2418_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:45:50.647171+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2418"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2418",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "면접 문제는 '2년동안 코로나가 지속되면서 여러가지 문제들이 발생했는데 이것을 해결할 수 있는 다자인 해법을 제공하라' 는 문제가 출제되었습니다. 처음에 문제를 보고 코로나로인해 일회용기 사용량이 늘어 환경오염이 악화되었다는 기사를 봤던 것이 생각나 친환경 패키지 디자인을 통한 해법을 제공해 답변을 이어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 3.0,
+    "student_strength": "밝은 모습과 솔직한 답변이였다고 생각합니다. 밝은 표정으로 교수님들과 눈을 마주치며 교수님들의 호감을 얻으려 했고 학생다운 생각과 솔직한 답변으로 진정성을 보여준것이 합격의 주 요인이였던 것 같습니다.",
+    "teacher_feedback": "선생님이 피드백을 주시면 바로바로 고치려 했고 다른 친구들의 그림을 보면서 그 친구들의 장점을 많이 배우는 방향으로 실기준비를 했습니다..",
+    "ideation_process": "처음에 문제를 보고 코로나로인해 일회용기 사용량이 늘어 환경오염이 악화되었다는 기사를 봤던 것이 생각나 친환경 패키지 디자인을 통한 해법을 제공해 답변을 이어나갔습니다."
+  }
 }

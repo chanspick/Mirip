@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2547_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:51:29.981452+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2547"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2547",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "문제는 1번 인체의 일부를 포함해 중력을 표현하시오 2번 1번과 관련지어 무중력을 드로잉하시오 였고 평소 학원에서 연습한대로 최대한 저의 경험을 살려 저라는 학생을 가장 잘 표현할 수 있도록 풀이하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 7.9,
+    "student_strength": "저의 장점을 짧은 기간 최대한 끌어내주신 헤라쌤들과 저의 깡이라고 생각합니다.",
+    "teacher_feedback": "선생님들의 말을 귀담아 들으며 평가한 내용을 기록하고 기억했습니다.",
+    "ideation_process": "표현하시오 2번 1번과 관련지어 무중력을 드로잉하시오 였고 평소 학원에서 연습한대로 최대한 저의 경험을 살려 저라는 학생을 가장 잘 표현할 수 있도록 풀이하였습니다."
+  }
 }

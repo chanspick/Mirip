@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2443_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:46:56.253428+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2443"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2443",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "와인병, 쇠사슬이 출제되었다. 실기 준비를 하며 들었던 강평들에서 다른 친구들 그림의 피드백을 기억하여 적용하고 구성했으며 와인을 최대한 돋보이게 끔 그리려 하였다",
+    "practice_years": 1.0,
+    "competition_ratio": 12.56,
+    "student_strength": "주변에 와인병 색을 빨간색이나 초록색으로 하는 친구들이 많았어서 색을 파랗게 사용한 것이 도움이 되었다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "실기 준비를 하며 들었던 강평들에서 다른 친구들 그림의 피드백을 기억하여 적용하고 구성했으며 와인을 최대한 돋보이게 끔 그리려 하였다"
+  }
 }

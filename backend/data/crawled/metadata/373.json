@@ -13,5 +13,14 @@
     "data/crawled/raw_images/373_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:15:36.485118+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=373"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=373",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "손을 이용한 웨어러블디자인과 그 발상의 시작점이 주제였습니다. 모든 문제는 제시되어있는 지문과 문제의 요지를 잘 파악하는게 중요하다고 생각을 했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 104.1,
+    "student_strength": "저는 실기시간 전후에 있는 식사시간의 짜투리시간을 잘 활용하는 것도 좋다생각해요. 원장님이 주신 드로잉 자료를 낙서처럼 끄적이거나해서 실기시험전에 워밍업을 충분히 했어요.",
+    "teacher_feedback": "선생님이 유머감각이 좋으셔서 계속 힘낼 수 있었던 것 같아요.",
+    "ideation_process": "발상의 시작점이 주제였습니다. 모든 문제는 제시되어있는 지문과 문제의 요지를 잘 파악하는게 중요하다고 생각을 했습니다."
+  }
 }

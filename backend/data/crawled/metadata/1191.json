@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1191_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:50:59.338049+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1191"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1191",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "반지와 털실 두가지로 부드러움을 표현하라는 문제가 나왔었다. 남서울대는 예상문제가 있기때문에 전에 거의 다",
+    "practice_years": 1.92,
+    "competition_ratio": 5.61,
+    "student_strength": "학원 선생님들의 조언을 떠올리면서 시험을 본것이 엄청 좋은 영향을 주었던 것 같다. 그리고 항상 응원해주었던 가족들 덕분에 끝까지 포기하지 않고 열심히 했던것같다.",
+    "teacher_feedback": "선생님이 해주시는 말씀을 계속 적고 외웠던것같다.",
+    "ideation_process": "표현하라는 문제가 나왔었다. 남서울대는 예상문제가 있기때문에 전에 거의 다"
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1856_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:21:22.950931+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1856"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1856",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "중앙대 시각디자인학과 출제문제는 서울우유, 에이스과자, 유리컵이었습니다 대부분의 아이들이 평범한 구도로 접근하는것을 보고, 최대한 차별점을 두기위해 구도 스케치에 집중하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 4.35,
+    "student_strength": "본인 노력외에 미술학원 동훈선생님을 믿고 꾸준하게 실기준비를 하는것이 합격의 가장 중요한 점 인것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "접근하는것을 보고, 최대한 차별점을 두기위해 구도 스케치에 집중하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/700_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:29:26.479597+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=700"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=700",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.0,
+    "competition_ratio": 15.3,
+    "student_strength": "게임상황표현에 대해 정확히 이해하고 주어진 주제에 원하는 게임화면 모습을 표현하는 것이 중요한 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

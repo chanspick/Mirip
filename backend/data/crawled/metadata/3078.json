@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3078_0.png"
   ],
   "crawled_at": "2026-01-27T15:15:27.287878+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3078"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3078",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "경북대 출제 문제는 망치와 양배추가 출제되었습니다. 3절지에 그림을 그려야 했기에 주제를 크게 생각해 그렸으며 망치의 기능 또한 고려하여 구도를 짤 수 있도록 했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 4.91,
+    "student_strength": "학원의 많은 선생님들께서 도움을 주셨고 입시반 담당 선생님께서 저를 항상 응원해주시고 이끌어주셨습니다. 특히 수업시간에 집중하고 선생님이 해주시는 조언을 새겨 들으며 그림을 그리려고 했던 점이 좋은 결과를 이끌어 낸 것 같습니다.",
+    "teacher_feedback": "선생님께서 말씀하시는 피드백을 적극적으로 수용하였으며 그림의 문제점을 고칠 수 있도록 노력했습니다.",
+    "ideation_process": "3절지에 그림을 그려야 했기에 주제를 크게 생각해 그렸으며 망치의 기능 또한 고려하여 구도를 짤 수 있도록 했습니다."
+  }
 }

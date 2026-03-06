@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1269_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:54:23.486446+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1269"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1269",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "귀마개와 청소솔 그리고 쥐인형이 든 노란 철사모형? 이었어요. 처음엔 귀마개가 머리끈인 줄 알고 당황했는데 차분하게 관찰해보니 생김새가 좀 더 눈에 들어왔습니다.",
+    "practice_years": 2.75,
+    "competition_ratio": 51.62,
+    "student_strength": "시험장 가서 차분하게 선생님이 당부하신 말을 새기고 이를 그림에 적용하고자 한 것, 입시 동안 힘들었지만 포기하지 않고 꾸준히 한 것이 주요인이 아닐까 싶습니다.",
+    "teacher_feedback": "선생님이 말하시는 내 단점을 잘 기억하고, 이를 보완해 다음 그림은 좀 더 나은 결과물이 나오도록 애썼습니다..",
+    "ideation_process": "처음엔 귀마개가 머리끈인 줄 알고 당황했는데 차분하게 관찰해보니 생김새가 좀 더 눈에 들어왔습니다. 소묘는 귀마개를 먼저 끝낸 다음 다소 까다로운 쥐 인형을 마무리하는 데 시간을 많이 투자했습니다."
+  }
 }

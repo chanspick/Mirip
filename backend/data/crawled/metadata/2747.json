@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2747_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:00:32.165934+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2747"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2747",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "키켓, 종이컵, 종이빨대를 이용하여 공간감을 표현하시오. 주제부는 최대한 강조된 표현을 하려고 했고 종이컵 반복을 통하여 거리감과 공간감을 주었다.",
+    "practice_years": 2.5,
+    "competition_ratio": 4.35,
+    "student_strength": "주제에 대한 해석이 다른 지원자들보다 좋았던 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. 주제부는 최대한 강조된 표현을 하려고 했고 종이컵 반복을 통하여 거리감과 공간감을 주었다."
+  }
 }

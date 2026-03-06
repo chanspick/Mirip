@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2978_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:10:57.045716+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2978"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2978",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "꽃게와 헤어롤이 나왔고 두 물체 다 묘사가 많은 개체였기 때문에 복잡한 아이디어보다",
+    "practice_years": 5.83,
+    "competition_ratio": 44.67,
+    "student_strength": "무엇보다 시험지에 나와있는 두 개체를 잘 관찰하여 사실대로 비슷하게 표현하려 한 점과 두개의 개체의 특징과 형태를 크게 한눈에 들어오게 한 점이 합격의 주요인인 것같다.",
+    "teacher_feedback": null,
+    "ideation_process": "묘사가 많은 개체였기 때문에 복잡한 아이디어보다 한눈에 들어오게 배치를 해야겠다고 생각했다."
+  }
 }

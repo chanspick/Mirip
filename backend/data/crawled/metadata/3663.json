@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3663_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:43:51.795408+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3663"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3663",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "톱니바퀴로 롤러를 만드는 것, 소묘는 수월했으며 디자인 아이디어로는 '점토를 펼치는 롤러'를 구상했다.",
+    "practice_years": 5.17,
+    "competition_ratio": 6.55,
+    "student_strength": "소묘의 양감이 잘 뽑혔다. 디자인 문제에서는 크기 대비가 잘 나왔던 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

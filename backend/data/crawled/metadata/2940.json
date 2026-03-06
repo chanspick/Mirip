@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2940_0.png"
   ],
   "crawled_at": "2026-01-27T15:09:14.936726+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2940"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2940",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "이번에 주제어가 없었던만큼 최대한 개체의 물성이나 특징을 보여주려 노력했습니다",
+    "practice_years": null,
+    "competition_ratio": 24.62,
+    "student_strength": "선생님이 말씀해주신대로 배경같은 자잘한것도 무시하지않고 정리하며 그림전체의 균형을 맞추려 한게 합격의 주요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

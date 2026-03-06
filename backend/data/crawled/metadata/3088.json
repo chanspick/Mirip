@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3088_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:15:53.883855+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3088"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3088",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "스콜라 입체퍼즐 강아지와 톰 피규어 두개의 물체가 나란히 놓여있는 사진을 받고 묘사할 부분이 많이 없다는 생각이 들었습니다. 때문에 형태를 정확하게 잡는것이 중요하다고 생각되어 1시간 30분동안 형태를 잡았습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 15.65,
+    "student_strength": "형태를 정확하게 그리려 노력한 부분이라고 생각합니다. 그리면서도 느꼈지만 묘사력을 요구하는 부분이 적었기 때문에 형태와 물체 사이의 거리 등을 정확하게 그려낸 점이 요인이라고 생각됩니다.",
+    "teacher_feedback": "선생님께 여쭤보고 스스로 점검하는 방식으로 연습했습니다.",
+    "ideation_process": "때문에 형태를 정확하게 잡는것이 중요하다고 생각되어 1시간 30분동안 형태를 잡았습니다. 형태를 오래 잡은 많큼 묘사할 시간이 부족할거라 예상했기 때문에 크기는 평소보다"
+  }
 }

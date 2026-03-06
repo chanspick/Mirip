@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3436_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:32:04.671276+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3436"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3436",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제된 문제는 육각너트와 스패너였습니다. 두 물체 모두 단순한 형태였기 때문에 주제부를 강조하는 구도를 설정하고, 다양한 각도를 활용해 독창적으로 표현하려고 했습니다.",
+    "practice_years": null,
+    "competition_ratio": 31.78,
+    "student_strength": "평소 연습했던 그림 스타일과 구도를 기반으로 작업에 일관성을 유지한 점이 합격의 주요 요인이라고 생각합니다. 특히 전날 선생님께서 주신 피드백을 적극적으로 반영하며 그림의 완성도를 높였고, 주제부의 표현에서 자신감을 가지고 작업한 것이 좋은 결과로 이어졌다고 생각합니다.",
+    "teacher_feedback": "선생님께서 주신 피드백을 항상 최우선으로 반영하며 부족한 부분을 보완하는 데 힘썼습니다.",
+    "ideation_process": "표현하려고 했습니다. 다른 지원자들의 그림과 차별화하기 위해 밀도와 색상 표현에 특히 신경 썼고, 시각적으로 돋보일 수 있도록 구체적인 묘사와 색감의 대비를 활용했습니다."
+  }
 }

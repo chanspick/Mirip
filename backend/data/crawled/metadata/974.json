@@ -13,5 +13,14 @@
     "data/crawled/raw_images/974_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:41:21.507278+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=974"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=974",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 7.5,
+    "competition_ratio": 5.42,
+    "student_strength": "평소 학원에서 문제에 얽매여 그림을 만들지 못하는 실수를 저지르지 않도록 연습시켜주셨다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

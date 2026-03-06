@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2691_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:57:57.533078+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2691"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2691",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "만연필에서 사용할 수 있는 모든 것을 활용하고 테니스 공의 질감을 보여주는 것이 좋을 것 같다고 생각했습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 7.77,
+    "student_strength": "만연필에서 잉크같이 활용할 수 있는 모든 것을 활용하고 테니스 공의 질감을 잘 보여준 것이 좋은 결과를 만든 것 같습니다.",
+    "teacher_feedback": "선생님들과 피드백을 통해서 더 나은 방향으로 바꿀 수 있었습니다.",
+    "ideation_process": "생각했습니다."
+  }
 }

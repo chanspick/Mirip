@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3671_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:44:23.678502+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3671"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3671",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "'태풍으로 인해 농장이 파괴된 70대 농부'라는 주제가 제시되었으며, 성별은 주어지지 않았습니다. 주제에 맞는 성별, 표정, 연령대, 동세를 머릿속으로 구상하고 진행하였습니다.",
+    "practice_years": 1.67,
+    "competition_ratio": 10.92,
+    "student_strength": "기본기가 흔들리면 안된다고 생각했기에, 평소에 자주 지적받던 부분들을 신경쓰며 차분하게 초반 과정을 들어갔습니다. 중후반 과정에서는 다른 사람들에게 내 작품이 어떻게 보일지를 생각하며 눈길을 끌 수 있는 작품을 만들고자 노력했습니다. 끝까지 집중의 끈을 놓지 않으려고 노력했던 것 같습니다.",
+    "teacher_feedback": "선생님들의 피드백을 바탕으로 저만의 실기 스타일을 확립해나갔습니다..",
+    "ideation_process": "구상하고 진행하였습니다. 제 실기를 드러내기에는 남자가 더 적합하다고 생각해, 성별은 남자로 설정하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3800_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:51:34.226754+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3800"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3800",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "리본 묶인 마카롱 박스와 밖에 놓여있는 마카롱 두 개였습니다. 기본 소묘 문제였기 때문에 발상보다는 기본과 빛 위치,그림자 계획,크기에 대한 정도를 정하고 스케치를 들어갔습니다.",
+    "practice_years": 2.42,
+    "competition_ratio": 11.33,
+    "student_strength": "소묘는 기본적인 부분이기 때문에 기본을 얼마나 지켰고, 그 후에 얼마나 노력해서 묘사를 했는지를 보셨다고 교수님께 들었습니다. 생각보다 기본을 지키지 않는 친구들이 많았고 어둠의 범위가 너무 넒어지거나 묘사를 하다보니 양감이 날라가는 그림을 치우고 보면, 4시간을 얼마나 채워서 그렸는지 보면 다 보인다고 하셨습니다.",
+    "teacher_feedback": "선생님 말씀을 의심하지 마세요.",
+    "ideation_process": "발상보다는 기본과 빛 위치,그림자 계획,크기에 대한 정도를 정하고 스케치를 들어갔습니다. 4시간 4절 기본 소묘라 넉넉하다고 생각할 수 있지만, 시험장에서 최선을 다하다보면 부족한 시간이었던 것 같습니다."
+  }
 }

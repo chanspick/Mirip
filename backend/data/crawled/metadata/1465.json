@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1465_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:03:32.955200+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1465"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1465",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "[문제] 주어진 소재와 제시어를 연관시켜 창의적으로 표현하시오. [제시어] 조합 [제시물] 삼파장전구 숙명여대 문제는 기초디자인이지만 좀 더 생각해야 하는 유형으로 바뀐 것 같다.",
+    "practice_years": 8.0,
+    "competition_ratio": 9.35,
+    "student_strength": "자기의 외부 상황에 크게 동요하지 않는 것이 가장 중요한 것 같다. 중간중간에 본인을 낙심하게 만드는 일이 있을텐데 거기에 너무 휩쓸리지 않고 스스로 보듬어주는 것이 필요하다고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하시오. [제시어] 조합 [제시물] 삼파장전구 숙명여대 문제는 기초디자인이지만 좀 더 생각해야 하는 유형으로 바뀐 것 같다."
+  }
 }

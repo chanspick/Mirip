@@ -14,5 +14,14 @@
     "data/crawled/raw_images/949_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:40:15.660121+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=949"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=949",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "20대 여성을 5시간 동안 만드는 것이었는데 항상 지적받던 부분과 취약한 부분을 계속 머릿속에 떠올리면서 많이 나와서 봤습니다. 시험시간이 5시간이어서 완성은 대부분 할 것이라고 생각해서 이미지를 최대한 잘 뽑으려고 많이 나와서 모델과 비교하며 완성했습니다.",
+    "practice_years": 1.5,
+    "competition_ratio": 3.8,
+    "student_strength": "일단 여러모로 성신여자대학교가 제가 쓰기에 적합했던 것 같습니다. 수능성적 반영하는 부분이나 실기 시험 시간이나 출제 문제 등을 고려했을 때 가장 잘 맞는 학교였기 때문에 합격할 수 있었던 것 같습니다. 그리고 무엇보다 학원 선생님들께서 열심히 지도해주셔서 합격할 수 있었던 것 같습니다.",
+    "teacher_feedback": "선생님들이 말씀해주시는 것을 공책에 적어 반복해서 나오는 지적을 체크해서 고치려고 노력했습니다.",
+    "ideation_process": "생각해서 이미지를 최대한 잘 뽑으려고 많이 나와서 모델과 비교하며 완성했습니다."
+  }
 }

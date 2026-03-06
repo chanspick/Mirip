@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2796_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:02:45.295313+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2796"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2796",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "길이가 자유로운 긴 풍선, 플라스틱 튜브와 마시멜로우, 털실, 스펀지가 출제되었고 주제는 움직임이었어요. 색상은 자유였습니다.",
+    "practice_years": 12.0,
+    "competition_ratio": 11.0,
+    "student_strength": "기본기를 지키면서도 아이디어 같은 면에서 제 생각을 적극적으로 표현한 게 긍정적으로 평가된 게 아닌가 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "색상은 자유였습니다. 영상영화학과는 연출에 대해 허용범위가 넓은 편이라 판단했기 때문에 풍선을 꼬아 강아지 모양을 만들어 가벼운 스토리를 구상해 풀이했습니다."
+  }
 }

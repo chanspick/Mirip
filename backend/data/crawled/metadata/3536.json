@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3536_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:36:54.393898+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3536"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3536",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "자유시간 초콜릿, 종이컵, 노끈 주제: 공간감을 표현하시오 한경국립대 소재 중에 쉬운 편인 소재가 나와서 다행이라고 생각했다. 하지만 연습해본 적이 없던 소재라 천천히 생각하며 그림을 구상했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.43,
+    "student_strength": null,
+    "teacher_feedback": "선생님이 계시다는 점이 가장 도움이 되었다..",
+    "ideation_process": "표현하시오 한경국립대 소재 중에 쉬운 편인 소재가 나와서 다행이라고 생각했다. 하지만 연습해본 적이 없던 소재라 천천히 생각하며 그림을 구상했다."
+  }
 }

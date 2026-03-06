@@ -13,5 +13,14 @@
     "data/crawled/raw_images/807_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:34:10.586385+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=807"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=807",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "케이블 타이와 휴지가 나와 역동적 리듬감을 표현하라고 나왔는데, 역동적인 느낌을 적극적으로 살리고 싶어서 바람개비 느낌으로 전체적인 조형을 반복적으로 사용하였고, 휴지로 나비로 개체발상하여 포인트로 넣어주었다.",
+    "practice_years": 1.67,
+    "competition_ratio": 7.22,
+    "student_strength": "포기하지 않는것. 인생에서 이렇게 열심히 한적은 처음인 만큼 목표를 가지고 성실하게 준비했다.",
+    "teacher_feedback": null,
+    "ideation_process": "발상하여 포인트로 넣어주었다."
+  }
 }

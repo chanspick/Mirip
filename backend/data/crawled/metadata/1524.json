@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1524_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:06:13.662330+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1524"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1524",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "제시된 사물은 줄자, 태엽시계, 비눗방울이였고 제시어는 속도감이였습니다. 정특때 줄자를 여러번 했었기 때문에 제가 했던 구도 안에서 문제를 풀어나가려고 노력했습니다",
+    "practice_years": 4.0,
+    "competition_ratio": 7.13,
+    "student_strength": "선생님들께서 피드백해주신 것들을 항상 유의하면서 그림을 그린 것과 깔끔하게 마무리를 지은 것이 합격의 주요인인 것 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": "풀어나가려고 노력했습니다"
+  }
 }

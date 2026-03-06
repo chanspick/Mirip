@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2880_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:06:31.194280+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2880"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2880",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "매듭 휴지걸이 / 미간 부분이 넓은 하트 선글라스 문제를 받고 당황했지만 일단 소묘부터 진행하였습니다. 자칫하면 가벼워보이거나 단순해 보일 수 있는 소재였기에 실루엣과 학원에서 주의하라고 지적해주셨던 점을 최대한 신경 써 통나무에 밧줄을 감아 실루엣을 풍성하게 보이도록 스케치를 떴습니다.",
+    "practice_years": 5.0,
+    "competition_ratio": 34.29,
+    "student_strength": "그림을 꽤 오래그렸다고 생각했으나 이 학원에 와서 기본기가 완성된것 같습니다. 그 결과 평소 학원에서 하던 연습이 차분하게 실기시험장에서 좋은 그림으로 이어졌고 선생님들의 피드백들도 마지막 그림에 담길 수 있었던것 같습니다.",
+    "teacher_feedback": "선생님께 피드백을 받는 식으로 준비하였고 디자인은 스케치가 가장 중요하다는 것을 알게된 후부턴 일주일에 두세번은 자습 드로잉을 하려 노력했으며 스케치를 여러장 그린 후 피드백을 받으며 감을.",
+    "ideation_process": "자칫하면 가벼워보이거나 단순해 보일 수 있는 소재였기에 실루엣과 학원에서 주의하라고 지적해주셨던 점을 최대한 신경 써 통나무에 밧줄을 감아 실루엣을 풍성하게 보이도록 스케치를 떴습니다. 평소 학원에서도 아이디어 스케치에 시간을 많이 쓰도록 유도해 주셨는데 아이디어 스케치 단계에서 명암을 계산하고 들어간 것이 채색시간 단축에 도움을 줬다고 생각합니다."
+  }
 }

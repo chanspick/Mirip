@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1900_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:23:16.539861+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1900"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1900",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "형대비가 굉장히 잘 갖춰진 문제였기 때문에 그 부분을 더 강조하려고 했습니다. 오렌지와 도마의 색 톤이 유사해질 수 있을 것 같다고 생각이 들어 강한 그림자와 색감의 차이로 구분하려고 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 25.78,
+    "student_strength": "꾸준함과 묵묵한 노력이라고 생각합니다. 힘들다고 말하기보다는 그냥 선생님들이 알려주시는 걸 성실히 하려고 했던게 차곡차곡 쌓였던 것 같습니다. 실제로도 실기시험을 보러 다닐 때쯤 기초디자인 실력이 확 늘어서 저 스스로도 좀 놀랐습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "오렌지와 도마의 색 톤이 유사해질 수 있을 것 같다고 생각이 들어 강한 그림자와 색감의 차이로 구분하려고 노력했습니다. 또한 최대한 적극적으로 보이기 위해 오렌지의 과즙도 풍부하게 그리고 리본 특유의 움직임이나 특징(꼬임, 묶임, 겹쳐짐 등)을 다양하게 보여주려고 했습니다."
+  }
 }

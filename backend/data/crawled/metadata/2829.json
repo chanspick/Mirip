@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2829_0.png"
   ],
   "crawled_at": "2026-01-27T15:04:14.591484+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2829"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2829",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "장갑과 아이스크림이 제시물로 나왔고 제시물들의 개연성을 만들려고 노력했습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 10.45,
+    "student_strength": "장갑을 손동작이 연상되도록 표현했고 각각 다른 상황과 동작으로 그렸습니다.",
+    "teacher_feedback": "선생님께 질문하였고 강평을 듣거나 시범을 볼 때 필기하면서 도움이 되는 점을 찾으려했습니다.",
+    "ideation_process": null
+  }
 }

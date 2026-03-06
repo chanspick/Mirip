@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1366_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:58:53.070648+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1366"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1366",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "첫 번째 문제를 받고 이건 기본기를 묻는 문제구나 라고 생각해 최대한 기본에 충실한 그림을 그리면서도, 주변 아이들과 조금이라고 차별점을 두기 위해 노력했습니다. 두 번째 문제는 면접을 고려해 최대한 이야기가 들어가있고 의미가 담겨진 그림을 그리려 하면서도, 전체적인 퀄리티가 떨어지지 않도록 노력하였습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "슬럼프 극복은 어떻게 했나요? - 사실 저는 저의 상황을 항상 냉정하고 이성적으로 바라보고자 하였기 때문에 슬럼프가 크게 오진 않았습니다. 그렇지만 슬럼프는 자신이 많은 노력을 해왔다는 뜻이기도 하니 너무 스트레스 받지 말고, 너무 힘들면 그냥 며칠 쉬어버리는 것도 나쁘지 않을 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "두 번째 문제는 면접을 고려해 최대한 이야기가 들어가있고 의미가 담겨진 그림을 그리려 하면서도, 전체적인 퀄리티가 떨어지지 않도록 노력하였습니다. 서울대는 일반인이나 미술을 오래하지 않은 사람들도 많이 지원하기 때문에 그림 자체의 퀄리티가 어느 정도 나오면 좋은 점수를 받을 수 있을 것 같습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3068_0.png"
   ],
   "crawled_at": "2026-01-27T15:14:58.375667+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3068"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3068",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "문제를 받고 당황스러운 마음이 들기도 했지만, 시험장에 있는 모두가 비슷한 마음일 것 이라 생각하며 마음을 다스렸습니다. 또, 고사장이 넓어서 방송이 정확히 안 들리는데, 가끔 문제지에 없는 유의 사항을 방송으로 안내할 수도 있으니 집중해서 들으셨으면 좋겠습니다.",
+    "practice_years": null,
+    "competition_ratio": 6.0,
+    "student_strength": "선생님께 : 질문했을 때, 진심으로 같이 고민해주시고 생각지 못한 여러 방향으로 생각의 폭을 넓혀주셔서 감사합니다. 학원 좋은 점 : 소문이 아닌 합격자를 기반의 확실한 정보로 명확한 답을 주시니 쓸데없는 고민이나 걱정을 안 할 수 있어서 좋았습니다. 또 선생님이 많으셔서 조언을 구했을 때 다양한 방향의 답변을 얻을 수 있었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "또, 고사장이 넓어서 방송이 정확히 안 들리는데, 가끔 문제지에 없는 유의 사항을 방송으로 안내할 수도 있으니 집중해서 들으셨으면 좋겠습니다."
+  }
 }

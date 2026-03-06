@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2610_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:54:18.698411+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2610"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2610",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "신발을 분해하여 새 3마리를 만들면서 원근감을 표현하는 문제였다. 멋지게 하되 소재가 잘보이도록 하는 것을 최우선으로 하고 원근감을 신경쓰며 채색을 했다.",
+    "practice_years": 3.0,
+    "competition_ratio": 3.03,
+    "student_strength": "틈틈이 연습한 재료 사용 연습과 구도 연습인 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 문제였다. 멋지게 하되 소재가 잘보이도록 하는 것을 최우선으로 하고 원근감을 신경쓰며 채색을 했다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3277_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:24:26.061381+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3277"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3277",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "버섯이랑 촛대가 나왔는데 촛대가 굉장히 얇고 구조가 복잡하여 당황했지만 얇은 소재이니 만큼 비어보이지 않고 덩어리가 풍부해 보일 수 있도록 어둠을 잡는데 신경을 많이 썼던 것 같습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 52.14,
+    "student_strength": "버섯에 불을 지피는 과정에서 불과 버섯의 색감의 대비와 투명체의 빈 부분을 버섯으로 가려주면서 꽉 차 보이게끔 그린 것이 눈에 조금 잘 보였던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

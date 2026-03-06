@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2321_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:41:36.530617+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2321"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2321",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "나무 블록과 유리 뚜껑, 나무 제기그릇과 붓으로 자유롭게 구성하는 것이었습니다. 유리 뚜껑에 비치는 것을 강조하기 위해 배경을 그레이톤으로 밀고 주제부의 채도를 높여 연출했습니다.",
+    "practice_years": 1.58,
+    "competition_ratio": 32.45,
+    "student_strength": "구도에 얽매이지 않고 최대한 자유롭게 구성을 했고 과감한 채도 대비가 도움이 된 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "유리 뚜껑에 비치는 것을 강조하기 위해 배경을 그레이톤으로 밀고 주제부의 채도를 높여 연출했습니다."
+  }
 }

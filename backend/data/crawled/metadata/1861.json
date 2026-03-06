@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1861_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:21:35.815146+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1861"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1861",
+  "normalized_dept": "other",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "선생님들이 옆에서 피드백을 그 누구보다 잘해주십니다. 그리고 좋은 쌤들 덕분에 더 편하게 학원을 다닐 수 있었고 고양이가 있습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

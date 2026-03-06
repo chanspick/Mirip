@@ -14,5 +14,14 @@
     "data/crawled/raw_images/2039_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:29:21.944901+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2039"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2039",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "제시물 : 운동화, 헤드셋, 닌텐도 시험문제를 받았을 당시 항상 선생님들께서 강조하신 기본을 잊지않으려고 노력했다. 때로는 이 소재를 왜 주셨을까? 라는 생각을 하며 최대한 내 단점을 가리려고 노력했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 4.8,
+    "student_strength": "어떠한 소재가 나와도 항상 기본부터, 점.선.면 부터 생각하여 면적 구분을 생각했다. 그리고 최대한으로 그 소재가 가지고 있는 특성을 표현하려 노력했다. 선생님들께서 알려주신대로 기본부터 충실하게 생각한 것이다. 그리고 수험생활 동안 느꼈던 것인데시험도중에최소5번이상의어려움들이찾아온다는것이다. 그래서 이를 직면하려고 노력했다.",
+    "teacher_feedback": "선생님들께서 알려주시는대로 최대한 하려고 노력했고 좋지 않은 습관들을 고쳐나가는 식으로 임했던 것 같다 ..",
+    "ideation_process": "때로는 이 소재를 왜 주셨을까? 라는 생각을 하며 최대한 내 단점을 가리려고 노력했다. 주변에 휩쓸리지 않고 무조건 완성해야겠다"
+  }
 }

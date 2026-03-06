@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1266_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:54:15.718860+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1266"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1266",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "레몬과 비눗방울이 출제되었으며, 레몬을 잘라 나오는 레몬즙과 비눗방울을 이용해 레몬을 향한 집중도를 높혔으며, 그림의 뒤에서부터 앞까지 레몬껍질을 길게 배치하여 거리감이 느껴지도록 유도하였습니다.",
+    "practice_years": 1.42,
+    "competition_ratio": 11.87,
+    "student_strength": "실기를 칠 때 밝은 노란색을 최대한 활용하며 그림을 밝고 쨍하게 그리려고 노력했었는데, 덕분에 좋은 결과가 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

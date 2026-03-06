@@ -13,5 +13,14 @@
     "data/crawled/raw_images/469_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:19:38.593026+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=469"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=469",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 3.0,
+    "competition_ratio": 12.0,
+    "student_strength": null,
+    "teacher_feedback": "선생님들의 조언으로 더 자연스러운 형태에 대해 고민할 수 있었다.",
+    "ideation_process": null
+  }
 }

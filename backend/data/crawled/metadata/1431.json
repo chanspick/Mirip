@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1431_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:01:55.491703+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1431"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1431",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "(제시물 :종이노끈,참치캔,사각 건전지) 조건에 제시된 사물 이외의 것(내용물 등)을 그리지말고 사물의 겉모습만 표현하라고 해서 조건에 맞게 참치를 그리지 않되 연출이 비어보이지 않게 표현하려했습니다. 제시물이 원기둥, 직육면체, 끈 이렇게 기본적인 형태가 나와서 형태를 틀리면 틀린게 더 잘 보일 것 같아서 형태에 더 신경을 썼고 묘사를 많이 하진 않았지만 시간안에 완성하자 라는 생각으로 빨리 칠했습니다.",
+    "practice_years": null,
+    "competition_ratio": 6.41,
+    "student_strength": "수능준비는 성적이 잘 안나왔을 때가 있더라도 부정적으로 생각하려하지 말고 꾸준히 내가 부족한 부분 위주로 공부하고 또 아는 것도 계속 끝까지 반복하는게 도움이 되는 것 같습니다. 실기도 끝으로 갈수록 지칠 수 있지만 버티면서 자신이 그릴 수 있는 범위를 시간안에 그릴 수 있도록 하는 것이 제일 중요한 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하라고 해서 조건에 맞게 참치를 그리지 않되 연출이 비어보이지 않게 표현하려했습니다. 제시물이 원기둥, 직육면체, 끈 이렇게 기본적인 형태가 나와서 형태를 틀리면 틀린게 더 잘 보일 것 같아서 형태에 더 신경을 썼고 묘사를 많이 하진 않았지만 시간안에 완성하자 라는 생각으로 빨리 칠했습니다."
+  }
 }

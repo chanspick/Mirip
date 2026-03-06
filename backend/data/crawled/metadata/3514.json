@@ -5,7 +5,7 @@
   "university": "동덕여대",
   "department": "visual_design",
   "department_raw": "시각디자인전공",
-  "tier": "C",
+  "tier": "B",
   "academy": "펜톤 미술학원",
   "work_type": "재현작",
   "interview_raw": "★ 이 게시물이 포스팅/공유된 링크(클릭하면 새창으로) ★ \n\n 인스타그램 \n 새창↗ \n 글제목 \n\n 미대입시닷컴 합격생 인터뷰 \n 2025학년도 (수시) 동덕여대 시각디자인전공 합격!! \n 최0아(고잔고) \n 평촌 펜톤 프리미엄 회원이 아니거나, 다른학원 홈에 노출이 안되게 해서 학원명을 user_add250 으로 옮김 미술학원 \n\n ● 실기경력: 3년 \n ● 동덕여대 시각디자인전공 합격! \n 경쟁률 40.95:1 \n -● 질문이랑 다른 글 입력시 상단 251 / 하단 252 - -● 학생부: $Body_data[user_add26] - \n\n Q. 실기준비는 어떻게 했나요? 미대입시닷컴 midaeipsi.com 평촌 펜톤 \n 소재의 특징을 살려 주제부 조형을 하도록 연습했습니다.\r\n무지성 밀도가 아닌 사실적인 표현을 베이스로 밀도를 올리는 연습을 했습니다. \n\n ★ 동덕여대 시각디자인전공 합격생 재현작 ★ \n ★ 동덕여대 시각디자인전공 합격생 재현작 ★\n\t\t\t\t\t\t-- 평촌 펜톤 미술학원 제공 \n\n 자료제공: 평촌 펜톤 미술학원 \n -● 질문이랑 다른 글 입력시 상단 251 / 하단 252 - Q. 실기고사 당일 출제문제는 무엇이었으며, 문제를 받고 어떻게 발상하여 풀어나갔는가? \n 스테이플러, 책\r\n스테이플러가 책을 집는 현장을 사실적이게 표현하려고 노력했습니다.\r\n스케치에는 50분, 밑색과 묘사에 2시간 20분, 화이트와 정리에 50분 사용했습니다. \n\n Q. 합격의 주요인은 무엇이라고 생각하나요? 미대입시닷컴 midaeipsi.com \n 구도를 안정감 있게 구성한 것과 채색을 깔끔하게 한 것이 영향을 주었을거라고 생각합니다.\r\n질감대비를 살리는 연출을 한 것도 그림의 중요한 포인트라고 생각합니다. \n\n Q. 입시를 준비하는 후배들이 유의해야 할 점이 있다면 간략하게 적어주세요. \n 기본기가 많이 쌓여있을 수록 그림을 잘 그릴 수 있는 것 같습니다.\r\n조금 더 일찍 학원에 등록하여 기본기를 연습할 수 있었다면 좋았을것 같다고 생각합니다. \n\n 미대입시닷컴 합격생 인터뷰에 응해주셔서 감사드립니다. 멋진 대학생활을 응원합니다!! \n 본문내용 \n\n 실기연재 그림크게보기 시작 --영도가--- \n\n 설문투표 ------ 프리미엄 링크 premium Link 삽입------- -\n [35] 학원명\t \n [41] 전화번호\t \n [42] 핸드폰\t\n [51] 연재\t\n [52] 설명회\t \n [53] 인터뷰뉴스\t\n [54] 키워드\t \n [60] 구분\t-- 홍대/강남/성북/노원/중랑/분당/부천/일산/천안/전주/여수/순천/업체/대학/수원/송파/서초/관악 \n [62] 페이스북\t\n [63] 인스타 \n -- - 카테고리 / 프리미엄 아니면 안보이게 \nif ( !($category==2) ) echo \" style='display:none;' \"; \n- \n\n 프리미엄 링크 premium Link ★ 미술학원 \n TEL \n\n -&Direct=ok\n <a href='board.php?board=seminar&search=$user_add52&shwhere=subject|user_add12'>\n\n<a href=\"board.php?board=seminar&command=body&no=85&mode=app&start=1&oneone=1&Direct=ok\" id=\"b85\" >\n\n - \n\n 블로그 보이기 블로그 숨기기 td width=\"33.3%\" onclick=\"javascript:click()\" style=\" cursor:hand; cursor:pointer;\" onmouseover=\"this.style.background='#0068dd'\" onmouseout=\"this.style.background=''\" align=center> <a href=\"#\" class=\"button2\" id=\"close\" onclick=\"frameWarp.hide();\"><span style=\"font-family:nanum gothic; font-size:12px; font-weight:bold; color:#66ccff;\">창닫기</span></a> </td",
@@ -13,5 +13,15 @@
     "data/crawled/raw_images/3514_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:35:51.398038+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3514"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3514",
+  "normalized_dept": "visual_design",
+  "tier_original": "C",
+  "interview_parsed": {
+    "exam_topic": "스테이플러, 책 스테이플러가 책을 집는 현장을 사실적이게 표현하려고 노력했습니다. 스케치에는 50분, 밑색과 묘사에 2시간 20분, 화이트와 정리에 50분 사용했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 40.95,
+    "student_strength": "구도를 안정감 있게 구성한 것과 채색을 깔끔하게 한 것이 영향을 주었을거라고 생각합니다. 질감대비를 살리는 연출을 한 것도 그림의 중요한 포인트라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하려고 노력했습니다. 스케치에는 50분, 밑색과 묘사에 2시간 20분, 화이트와 정리에 50분 사용했습니다."
+  }
 }

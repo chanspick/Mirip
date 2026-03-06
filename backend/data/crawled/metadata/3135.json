@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3135_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:18:00.622350+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3135"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3135",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "마끈과 바늘, 회색 단추가 나왔습니다. 다행히 실타래를 그려본 적이 있어 마끈을 주제로 크게 잡았고 장축으로 끈을 사용하며 공간감을 최대한 표현하려 했고 바늘의 특성을 사용해 마끈을 찌르는 동작을 사용했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 4.7,
+    "student_strength": "주위 그림들에 비해 주제 채도가 높고 명도가 명확해서 소재들끼리 붙지 않은 것이 그림을 깔끔하게 만들었고 주제 쪽에 단추에 속도감있게 부서지는 형상이 그림을 눈에 잘 들어오게 한것 같습니다.",
+    "teacher_feedback": "선생님들께 질문을 통해 얻어가려 노력했습니다.",
+    "ideation_process": "풀어나갔습니다. 소재들 모두 색이 정해져있고 채도가 높지 않았기에 어떻게 하면 예쁘게 그릴 수 있을지 생각하며 색을 선택했습니다."
+  }
 }

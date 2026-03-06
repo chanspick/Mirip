@@ -14,5 +14,14 @@
     "data/crawled/raw_images/3584_1.jpg"
   ],
   "crawled_at": "2026-01-27T15:39:13.481229+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3584"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3584",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "중단발의 중년 여성. 연령대와 묘한 표정을 따라가려 노력했고, 푼 머리 카락에 가려진 골격과 흐름, 전체적인 밸런스를 신경썼다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.6,
+    "student_strength": "기본적으로 닮기와 완성도가 나왔다고 생각한다. 또 크기와 균형에 신경썼고, 모델의 분위기를 최대한 �i으려 해 좋은 작품을 만들 수 있던거같다.",
+    "teacher_feedback": "선생님의 피드백을 바탕으로 문제점을 고치기 위해 노력했다..",
+    "ideation_process": "연령대와 묘한 표정을 따라가려 노력했고, 푼 머리 카락에 가려진 골격과 흐름, 전체적인 밸런스를 신경썼다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3266_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:23:55.219128+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3266"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3266",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "말굽자석과 불독집게가 나왔는데 평소 수업때 배운 구도를 응용해서 풀이했습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 7.0,
+    "student_strength": "학원을 웬만해선 절대 결석하지 않았고, 집에서도 스케치랑 구도를 떠 온게 큰 도움이 된 거 같습니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

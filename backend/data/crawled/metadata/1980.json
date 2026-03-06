@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1980_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:26:46.221650+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1980"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1980",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "헤어스프레이, 머리집게, 병따개\\ 전날 좋은 평가를 받았던 화면이 가장 먼저 떠올라서 그 화면에 어떻게 잘 대입할 수 있을지 먼저 생각했습니다. 그리고 사물로 연출을 할 때에 어떻게 기본기에 맞출 수 있을까에 집중했었는데요, 가장 먼저 사물의 조형요소를 파악하고 그 조형으로 화면을 구성하는 아이디어 스케치를 진행하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 8.25,
+    "student_strength": "유니온의 화면이론수업이라고 생각합니다. 학기 초부터 가장 강조하던 것이 화면인데, 그만큼 화면에 대해 자세하게 설명해 주셔서 좋았습니다. 화면은 암기하는 것만으로는 절대 사용할 수 없고 그 화면의 구성요소를 이해하고 응용할 줄 알아야 하는데, 지속적으로 우수작을 보여주고 어떻게 응용하였는지 알려주셔서 바로바로 응용할 수 있었습니다.",
+    "teacher_feedback": "선생님들께서 그림일기를 하나하나 읽어보시면서 내가 가진 장점과 단점을 자세히 알려주셨습니다.",
+    "ideation_process": "생각했습니다. 그리고 사물로 연출을 할 때에 어떻게 기본기에 맞출 수 있을까에 집중했었는데요, 가장 먼저 사물의 조형요소를 파악하고 그 조형으로 화면을 구성하는 아이디어 스케치를 진행하였습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2984_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:11:13.112201+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2984"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2984",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "실기 당일 문제는 수박과 몽키스패너가 나왔고, 각 사물들의 재질과 특성을 이용해 연출하는 것에 집중하며 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": 5.44,
+    "student_strength": "원장님이 가르쳐 준 것을 최대한 그대로 흡수하고, 응용하는 것이 중요하다고 생각합니다. 특히 응용하지 못하면 흡수를 해도 모든 그림에 적용시킬 수 없기 때문에, 응용하는 능력이 가장 중요하다고 생각합니다.",
+    "teacher_feedback": "원장님이 하시는 말씀을 노트에 적고, 그것을 잘 보이는 곳에 붙이며 최대한 기억하고, 시험을 볼 때도 적용할 수 있도록 노력했습니다..",
+    "ideation_process": null
+  }
 }

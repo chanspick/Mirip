@@ -14,5 +14,14 @@
     "data/crawled/raw_images/1934_1.jpg"
   ],
   "crawled_at": "2026-01-27T14:24:46.420182+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1934"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1934",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "드로잉은 고체, 액체, 기체의 속성을 이용하여 사물을 표현하는 문제였고, 조소는 고체, 액체, 기체의 속성을 이용하여 생물을 표현하는 문제였습니다. 드로잉은 얼음이 담긴 컵을 위에서 내려다",
+    "practice_years": 2.0,
+    "competition_ratio": 3.4,
+    "student_strength": "평소 실기력에 자신이 없어 위험한 소재나 구성을 선택하는 대신 익숙하고 안정적인 느낌을 선택하는 경향이 있었습니다. 그러다 보니 점점 작업이 소극적으로 변하고, 그럴수록 저 스스로 제 실기에 너무 만족하지 못해 힘들었던 때가 있었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하는 문제였고, 조소는 고체, 액체, 기체의 속성을 이용하여 생물을 표현하는 문제였습니다. 드로잉은 얼음이 담긴 컵을 위에서 내려다"
+  }
 }

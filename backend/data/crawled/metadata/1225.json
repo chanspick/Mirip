@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1225_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:52:28.120906+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1225"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1225",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "대,체온계,레몬,줄자,자물쇠가 나왔습니다. 시험을 치러가기전 학교마다",
+    "practice_years": 3.0,
+    "competition_ratio": 36.39,
+    "student_strength": "실기 실력이 가끔 주춤할때도 무너지지않고 간절한 마음으로 더 열심히 하는것이 중요한 것 같습니다.",
+    "teacher_feedback": "선생님께물어보고 내가 부족한부분들을 고치려고 노력했습니다..",
+    "ideation_process": "시험을 치러가기전 학교마다 원하는 그림이 다른것같아 인하대 재현작들을 많이 찾아 봤었고 체온계가 나와 레몬의 체온을 재는 스토리 텔링을 만들어 이야기를 풀어갔습니다."
+  }
 }

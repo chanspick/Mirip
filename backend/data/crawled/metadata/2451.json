@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2451_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:47:16.860141+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2451"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2451",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "꽃병과 대나무 혹은 대나무 두루마리로 화면구성하는 문제였으며, 대나무의 특성을 활용해 문제를 풀어나갔습니다.",
+    "practice_years": null,
+    "competition_ratio": 14.5,
+    "student_strength": "문제를 꼼꼼히 읽어보고 문제에서 요구하는 조건이 정확히 무엇인지를 파악했던게 주요인이였던거 같습니다. 그리고 평소에 기본질감에 대한 응용력으로 그림을 풀어나갔던게 좋은 요인이였다고 생각합니다.",
+    "teacher_feedback": "피드백을 받으면 보완하려고 노력했습니다.",
+    "ideation_process": null
+  }
 }

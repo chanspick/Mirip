@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3601_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:40:14.027852+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3601"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3601",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "국민대 면접은 생기부 기반 질문이 많았어요. 기억에 남는 질문은 전교 회장 활동 같은 것들도 물어보셔서 답변을 드린게 인상깊습니다.",
+    "practice_years": null,
+    "competition_ratio": 52.6,
+    "student_strength": "제가 국민대에 합격할 수 있었던 가장 큰 이유는 '명확한 방향성'이었다고 생각해요. 면접에서 제가 어떤 디자이너가 되고 싶은지 확실하게 보여주려고 노력했거든요. 내신 관리도 정말 중요했어요. 면접 전형이라고 해도 결국 내신이 기본이라 학업 성적을 포기하지 않고 꾸준히 관리했던 것이 면접 기회를 얻는 데 큰 도움이 되었어요.",
+    "teacher_feedback": null,
+    "ideation_process": "기억에 남는 질문은 전교 회장 활동 같은 것들도 물어보셔서 답변을 드린게 인상깊습니다."
+  }
 }

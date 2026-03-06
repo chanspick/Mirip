@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1608_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:10:10.158226+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1608"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1608",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "오이, 목도리, 거울이 출제되었습니다. 우선 오이의 단면이 반투명한 점을 이용해서 뒤에 있는 물체의 실루엣이 오이에 비치도록 하였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 7.35,
+    "student_strength": "전체적으로 각자의 그림에 집중한 분위기였고 서로의 그림을 보는건 다들 개의치 않아하는 것 같은 느낌이였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "생각해서 썰매를 탄 오이같은 분위기를 만들고자 했습니다."
+  }
 }

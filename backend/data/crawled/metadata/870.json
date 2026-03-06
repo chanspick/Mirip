@@ -13,5 +13,14 @@
     "data/crawled/raw_images/870_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:36:52.018943+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=870"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=870",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "민들레홀씨, 회중시계, 콜라캔이 출제 되었고 답답하지 않게 화면분할을 하고 채색시간을 늘려 완성도에 가장 큰 비중을 두었습니다",
+    "practice_years": 2.5,
+    "competition_ratio": 4.89,
+    "student_strength": "남들보다 학원에 일찍오고 늦게가려 했으며 선생님께서 지적한 부분을 고치려고 노력했습니다.",
+    "teacher_feedback": "선생님께서 대학별로 준비해주셔서 그 학교가 추구하는 그림을 그리도록 했습니다.",
+    "ideation_process": null
+  }
 }

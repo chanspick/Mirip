@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1777_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:17:57.725397+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1777"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1777",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "주어진 개체 외의 사용이 금지였기 때문에 형태 변형과 탄산이 터지는 코카콜라의 특징을 살려서 상황표현을 했고 코카콜라의 로고가 잘 보일 수 있도록 화면을 구성하였습니다. 주제부 상황에서 탄산캔으로 만들어 질 수 있는 상황에 집중하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 74.4,
+    "student_strength": "평소 수업시간에 평소작이나 시험작 실기이후 선생님 피드백을 들으면서 다음날 고쳐보자라는 마음으로 접근을 하였습니다. 그리고 수시에 올인하는 전략으로 평소에 마음가짐을 가졌었기 때문에 남들보다 일찍 학원에 오거나 쉬는 날에도 학원에 와서 안되는 부분 잘되는 부분들을 구분하여 반복 연습하였습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "주제부 상황에서 탄산캔으로 만들어 질 수 있는 상황에 집중하였습니다."
+  }
 }

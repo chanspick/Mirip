@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2492_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:49:05.333403+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2492"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2492",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "오렌지,털실,용수철이며 평소에 자연물에 자신이 있던 터라 오렌지를 주제부로 해서 이야기를 만들었습니다. 오렌지만의 특성이 잘 드러날 수 있도록 용수철과 털실을 활용했습니다.",
+    "practice_years": 1.83,
+    "competition_ratio": 30.0,
+    "student_strength": "스트레스를 받지 않게 조금씩 쉬어가며 리프레시 하는 시간을 가지는 것도 중요한 것 같습니다. 이전 합격작을 연구하며 학교마다 선호하는 그림을 그리는 것이 합격에 유리할 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "오렌지만의 특성이 잘 드러날 수 있도록 용수철과 털실을 활용했습니다."
+  }
 }

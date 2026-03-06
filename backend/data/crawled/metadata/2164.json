@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2164_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:34:45.976539+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2164"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2164",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "2절에 반을 나누어 왼쪽에는 제시된 주전자를 홍보하는 포스터 디자인, 오른쪽에는 개인 프라이버시를 지킬 수 있는 1인용 가구 디자인을 상황과 함께 그리는 것이었습니다. 왼쪽에는 단순히 제시된 주전자를 분할하거나 사실적인 표현에 집중하는 것보다는 주전자의 기능적인 부분과 이 주전자만의 특색인 새를 시각적으로 표현해 홍보 포스터라는 목적에 맞춰야겠다는 생각으로 풀어 나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 5.13,
+    "student_strength": "원래 보통 합격하면 ‘나…왜 합격했지?’라는 생각이 들고 불합격하면 ‘나…왜 떨어졌지?’라는 생각이 든다고 들었는데 정말 그대로네요. 제 생각을 적자면 일단 성적은 안정적이었고, 실기 연습을 많이 도와주신 선생님들, 그리고 제가 몸이 약하고 아픈 곳이 많은데 그럼에도 불구하고 ‘끝까지만 하자!’라고 결심한 제 덕분 아닌가 싶습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "왼쪽에는 단순히 제시된 주전자를 분할하거나 사실적인 표현에 집중하는 것보다는 주전자의 기능적인 부분과 이 주전자만의 특색인 새를 시각적으로 표현해 홍보 포스터라는 목적에 맞춰야겠다는 생각으로 풀어 나갔습니다. 그리고 오른쪽에는 꽃봉오리가 열려서 피어나는 것에서 영감을 얻어 꽃잎 모양 벽이 꽃잎처럼 열렸다"
+  }
 }

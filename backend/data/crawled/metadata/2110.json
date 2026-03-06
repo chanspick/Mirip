@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2110_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:32:26.275099+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2110"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2110",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "우선 시간 안에 잘 분배해서 그림을 그리고 평상시 시험 보는 것처럼 보았습니다 어려웠던 정물이나 구도를 미리 생각해가기도 했으며 시간 끝까지 열심히 그렸습니다.",
+    "practice_years": null,
+    "competition_ratio": null,
+    "student_strength": "선생님께-너무 뻔한 그림 때문에 고민을 많이 했던 저에게 자연스럽게 그리는 방법을 알려주셔서 감사합니다 덕분에 그림을 보는 눈이 많이 넓어지고 높아진 거 같습니다 대학가서도 활용할 수 있도록 입시 그림이 아닌 내 그림을 그리는 방법을 알려주신 거 같아 감사합니다.",
+    "teacher_feedback": "선생님들 그림을 많이 보았습니다.",
+    "ideation_process": "어려웠던 정물이나 구도를 미리 생각해가기도 했으며 시간 끝까지 열심히 그렸습니다."
+  }
 }

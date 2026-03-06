@@ -13,5 +13,14 @@
     "data/crawled/raw_images/598_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:25:05.881338+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=598"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=598",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "정신력이 약한편이라 시간을 맞춰야한다는 긴장감과 여러 중요한 선택을 혼자서 해야한다는 것이 부담스러웠지만 끊임없이 마인드 컨트롤을 하면서 자신감을 가지려고 노력하였습니다. 시험이 시작되고 나서 최대한 차분하게 구도를 짜려고 노력했습니다.",
+    "practice_years": null,
+    "competition_ratio": 4.92,
+    "student_strength": null,
+    "teacher_feedback": "선생님과 다른 선생님들의 다양한 의견을 들을 수 있었고 함께 준비하던 다른 학생들의 다양한 그림에서 많은 것을 배울 수 있었습니다..",
+    "ideation_process": "생각했습니다."
+  }
 }

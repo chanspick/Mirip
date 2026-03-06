@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2481_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:48:36.190687+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2481"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2481",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "합격했던 곳의 당일 출제문제는 원래 그 학교에서 잘 낸다는 소재와는 조금 다르게 엄청 심플한 소재로 나왔는데요. 삼각 모형자, 일자자, 연필 이렇게 3가지이며 색상은 자유로 해서 문제가 출제 되어서 나왔습니다.",
+    "practice_years": 1.92,
+    "competition_ratio": 6.18,
+    "student_strength": "여러가지가 있는 것 같은데 그래도 실기 준비 할때라고 생각하면 ‘선생님이 알려주시는기본적인 틀 위주 기준점을 잡으며 나만의 방식을 찾는것 ‘ 이라고 생각을 많이 했던 것같아요. 구도를 짜는 방법이나 채색하는 방법이 사람마다 다르지만 분명 이뻐 보이는 기준점은 선생님이 말씀을 많이 하는 것들에서 나오기 때문에 그랬던 것 같습니다.",
+    "teacher_feedback": "선생님께서 해주시는 말들 정리해서 준비 할때도 그렇고 실기 당일때도 짚어가면서 그림을 그릴려고 했던게 크게 도움이 되었다고 생각합니다.",
+    "ideation_process": "삼각 모형자, 일자자, 연필 이렇게 3가지이며 색상은 자유로 해서 문제가 출제 되어서 나왔습니다. 문제를 받고 저도 처음에는 놀랐는데 그래도 침착하게 크게 위치랑 크기 위주로 아이디어스케치를 했었는데요, 자를 주체로 놓기에는 뭔가 어정쩡해서 저는 연필을 주체로 크게두고 이후에 삼각 모형자를 활용하는 방법에 많이 생각 해봤던 것 같아요."
+  }
 }

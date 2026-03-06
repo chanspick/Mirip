@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1725_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:15:37.893259+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1725"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1725",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "백자와 의자, 벨트였습니다 문제를 받고 물체의 특성과 재질의 특성을 잘 살리면서 화면을 재밌게 구성하려 노력했습니다!",
+    "practice_years": 3.83,
+    "competition_ratio": 31.0,
+    "student_strength": "고유색에 집중하되 명도가 죽지 않도록 했고 최대한 사진과 똑같이 표현하려 했습니다 재질특성과 물체 특성을 무엇 하나 놓치지 않으려 했으며 형태는 절대 틀리지 않게 했습니다 그리고 벨트의 작은 글씨라던가 백자에 아주 약한 굴곡이 보였던 것 등 디테일까지도 하나하나 놓치지 않으려했습니다:) 제가 할 수 있는 모든 것들을 했던 것 같습니다!",
+    "teacher_feedback": null,
+    "ideation_process": "문제를 받고 물체의 특성과 재질의 특성을 잘 살리면서 화면을 재밌게 구성하려 노력했습니다! 의자는 무언가가 앉을(올려놓을) 수 있는 것이고 백자는 담는 것, 벨트는 휘감는 것이라는 물체의 특성에 집중했고 백자는 매끈하게 의자는 나무 묘사, 벨트는 가죽 묘사와 쇠 재질의 비치는 표현 등을 전부 살리려했습니다:)"
+  }
 }

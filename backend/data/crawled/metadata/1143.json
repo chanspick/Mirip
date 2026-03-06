@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1143_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:53.825365+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1143"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1143",
+  "normalized_dept": "visual_design",
+  "interview_parsed": {
+    "exam_topic": "전구와 레고가 출제 되었는데 전구는 전날에 개체연습으로 2~3번 반복했고 레고는 선생님이 나눠준 이미지를 참고해서 그렸습니다.",
+    "practice_years": 3.5,
+    "competition_ratio": 13.08,
+    "student_strength": "학원을 일찍나와서 그림을그리고 선생님의 훌륭한 지도가 합격 요인이라고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

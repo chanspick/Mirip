@@ -13,5 +13,14 @@
     "data/crawled/raw_images/687_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:28:53.401886+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=687"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=687",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "파인애플과 발전에 의한 자연파과가 주제였으며, 전에 그려봤던 그림중에 공사현장이 주제였던 그림이 있었는데 파인애플 속을 다 파먹어 파괴되어 가는 모습과 비슷하다고 생각하여 내부공사 현장처럼 변한 모습으로 표현하였습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 14.0,
+    "student_strength": "그림이 생각보다 잘 나오지 못한 것 같아 주저하고 있었는데 선생님이 소묘에 집중하라고 조언해주셨던 것이 생각이나 소묘에 힘을 쏟은 점인 것 같습니다.",
+    "teacher_feedback": "선생님께서 설명해주신 다양한 문제풀이가 큰 도움이 되었습니다..",
+    "ideation_process": "파먹어 파괴되어 가는 모습과 비슷하다고 생각하여 내부공사 현장처럼 변한 모습으로 표현하였습니다."
+  }
 }

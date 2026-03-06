@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1124_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:48:05.894485+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1124"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1124",
+  "normalized_dept": "interior",
+  "interview_parsed": {
+    "exam_topic": "핸드폰과 꽃병이 나왔고 평소하던 대로 축과 주제부에 표정만 만들었습니다",
+    "practice_years": 3.0,
+    "competition_ratio": 12.5,
+    "student_strength": "중간에 포기하지 않고 끝까지 최선을 다해 그려서 합격한것같습니다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

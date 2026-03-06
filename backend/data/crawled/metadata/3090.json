@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3090_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:15:59.248458+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3090"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3090",
+  "normalized_dept": "animation",
+  "interview_parsed": {
+    "exam_topic": "주제는 (배가 고파서 배달음식을 시켰는데 내가 받아서는 안되는 음식이왔다. 서둘러 배달원을 쫓아간 이후의 상황을 그리시오.)였습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 8.4,
+    "student_strength": "주제를 받고 당황하지않고 ‘전에 연습해보았던 배경을 사용해야겠다’ 라고 생각하고 그에맞는 독특한소재를 생각한것과, 펜의 밀도를 많이 올렸던것이 주요인이라고 생각합니다. 내용 전개와 흑백채색은 조금 아쉬웠지만 소재와 펜의 밀도가 괜찮았던 것 같습니다. 그리고 입시이다보니 성적도 적지않은 부분을 차지 했다고 생각합니다.",
+    "teacher_feedback": "선생님께서 지적해주신 부분들을 다음 그림에 적용해보려 노력했고 기본기가 중요하다 생각하여 화려한 그림보다는 탄탄한 그림을 목표로 준비했습니다.",
+    "ideation_process": "서둘러 배달원을 쫓아간 이후의 상황을 그리시오.)였습니다. 주제를 받고 내가 받아서는 안 되는 음식이 왜 받으면 안 되는지에 대해 생각했고 알레르기같은 1차적으로 드는 생각에서 넘어가 실수를 많이하는 신입 회사원이 회사 점심시간 짜장면으로 메뉴 통일을 한 특정 상황에서 실수로 짬뽕 하나를 시켜버렸다는 소재를 사용했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3725_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:47:30.486422+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3725"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3725",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "실기고사에서 출제된 문제는 평면은 ‘속도와 탄성’이었고, 입체는 ‘힐링과 치유’였습니다. 문제를 받자마자 학원에서 자주 연습했던 주제와 비슷하다는 걸 깨닫고, 완성도를 높이는 데 집중하면 충분히 가능성이 있다고 생각했어요.",
+    "practice_years": 2.33,
+    "competition_ratio": 6.66,
+    "student_strength": "합격의 주요인은 제 노력도 물론 크지만 학원 선택을 잘한 게 가장 큰 이유라고 생각해요. 제가 다닌 학원은 매년 낮은 백분위에서도 합격생을 배출해왔고, 그래서 '이 학원에서 시키는 대로만 하면 충분히 가능성이 있다'는 확신이 있었어요.",
+    "teacher_feedback": "선생님이 알려주시는 내용을 최대한 흡수하려고 노력했어요.",
+    "ideation_process": "표현하기 까다로울 것 같아서 속도감을 명확하게 살려야겠다고 판단했어요. 입체에서는 ‘힐링’과 ‘치유’라는 주제에 맞춰 부드러운 곡선과 둥근 모서리의 형태를 띄고있는 소재를 활용하여 반복적으로 배치하면서 조형적인 안정감을 주려고 했습니다."
+  }
 }

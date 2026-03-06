@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2496_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:49:15.780444+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2496"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2496",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "출제문제는 와인병 와인잔이었으며 기본구도를 쓰는 대신 색과 터치로 실기를 끌어갔다",
+    "practice_years": 2.0,
+    "competition_ratio": 8.88,
+    "student_strength": "선생님의 피드백과 그리고 내 문제를 고쳐 나갈수있는 끈기와 노력이라고 생각한다",
+    "teacher_feedback": "선생님이 피드백 주신 내용으로 그림을 그렸고 선생님이 가르쳐주신 것을 기반으로 내 스타일의 그림을 찾을려고 노력했다.",
+    "ideation_process": null
+  }
 }

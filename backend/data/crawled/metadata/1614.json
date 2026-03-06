@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1614_0.jpeg"
   ],
   "crawled_at": "2026-01-27T14:10:26.901426+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1614"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1614",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "제시물 : 넥타이, 시계, 디지털카메라 문제 : 제시된 이미지를 활용하여 자유롭게 화면을 구성하시오. 실기고사 당일 어려웠던 문제를 받고나서 실기고사 전에 선생님이 피드백, 조언해주셨던 말들을 짚어가며 문제를 해결해 나갔고 크게크게 무겁게 배치, 채색해가면서 제시물들을 생략하지 않고 '있는 그대로' 표현하려고 노력했습니다.",
+    "practice_years": 1.0,
+    "competition_ratio": 8.7,
+    "student_strength": "결정적으로 합격에 영향을 미친 것이라고 생각이 드는 것은 시험보기 전날에 선생님이 주셨던 사소한 팁과 피드백들이랑 대학수학능력시험의 국어점수가 합격에 영향을 미치지 않았나 조심스럽게 예상해 봅니다.",
+    "teacher_feedback": "선생님께서 했던말들을 메모해가며 중요한 것들을 정리해 놓았고, 개체들 위주로 모작하면서 실기력을 키워나가며 준비를 했습니다,..",
+    "ideation_process": "표현하려고 노력했습니다."
+  }
 }

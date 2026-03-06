@@ -13,5 +13,14 @@
     "data/crawled/raw_images/581_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:24:22.626415+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=581"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=581",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "40대 머리숱 별로 없는 남성이었는데 학원에서 배운대로 차근차근 과정 다 지켜가며 만들었습니다.",
+    "practice_years": 2.0,
+    "competition_ratio": 5.58,
+    "student_strength": "지금껏 배워온 기초가 제일 컸던 것 같습니다. 솔직히 시험장에서 평소 실기작 완성도의 반도 못 만들고 나왔는데 꼴,전체적인 분위기 이런 걸 많이 신경써서 그런지 좋게 봐주신 것 같습니다.",
+    "teacher_feedback": "선생님들이 알려주시는 거 최대한 따라하고 몸에 익히려 했습니다..",
+    "ideation_process": "지켜가며 만들었습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1479_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:04:10.712557+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1479"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1479",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "1시간 실기는 석고 직육면체와 원뿔, 흑색의 리본으로 흑과 백의 대비를 표현했습니다. 5시간 실기는 본인의 뒷모습을 주제로 놓고 서정적인 느낌으로 잎사귀,꽃,나무등 자연을 배경으로 그렸습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 2.75,
+    "student_strength": "평소에는 성적과 실기를 한 쪽에 치우치지 않게 신경 쓰며 준비한 것이라고 생각합니다. 실기장에서 주제에 맞는 표현에 집중하고 주제부의 확실한 묘사를 한 것이 합격 요인이라고 생각합니다.",
+    "teacher_feedback": "선생님의 지도를 믿고 주어진 시간 동안 성실하게 임했습니다.",
+    "ideation_process": "5시간 실기는 본인의 뒷모습을 주제로 놓고 서정적인 느낌으로 잎사귀,꽃,나무등 자연을 배경으로 그렸습니다. 실기장에서의 내 모습을 자연속에 넣음으로써 소리에는 공간을 변화시키는 힘이 있음을 표현하고자 했습니다."
+  }
 }

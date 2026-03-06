@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3512_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:35:46.139307+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3512"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3512",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "육각너트, 스태너의 특성을 활용하여 자유롭게 구성하고 표현하시오. 처음 문제지를 보고 스패너의 형태가 긴 막대의 모양을 하고 있어 이 사물을 축으로 이용하여 공간감을 내면 좋겠다고 생각했습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 44.43,
+    "student_strength": "묘사에 시간 투자를 많이 했기 때문에 다른 그림들보다 눈에 띌 정도의 밀도를 만든 게 합격에 영향이 끼쳤다고 생각합니다. 이번 시험에서는 특히 금속 질감의 묘사가 원하던 만큼 나와서 만족스러웠어요. 한양대는 색이 자유이다 보니까 포인트를 정하는 걸 가장 중요하게 생각했어요.",
+    "teacher_feedback": null,
+    "ideation_process": "생각했습니다. 너트는 눈에 띄도록 하나 정도는 크게 그려야겠다고 생각했습니다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2423_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:46:03.578194+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2423"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2423",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "평소 연습했던 제시어를 받고서 기존에 해왔던 구성에 대입하였습니다. 다양한 주제를 해보았기때문에 당황하지 않고 연습했던대로 풀어냈습니다.",
+    "practice_years": null,
+    "competition_ratio": 3.0,
+    "student_strength": "항상 긴장해서 급하게, 더럽게 칠하는것이 버릇이던 제가 이전의 수업들을 떠올리며 침착하고 깨끗하게 칠하려 노력한것이 좋은 결과를 가져다 준것같습니다.",
+    "teacher_feedback": "선생님을 믿고 따르면서 실력이 이전보다 크게 향상�瑛습� 느꼈습니다.",
+    "ideation_process": "다양한 주제를 해보았기때문에 당황하지 않고 연습했던대로 풀어냈습니다."
+  }
 }

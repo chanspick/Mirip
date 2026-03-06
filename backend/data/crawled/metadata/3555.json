@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3555_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:37:50.420958+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3555"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3555",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "살짝 미소를 띄고 있고 살짝 양감이 있는 모델이었어서 표정에서 부자연스러운 느낌이 안나게 노력했고 모델의 양감이 너무 얇아지지 않게 신경썼던 것 같습니다. 그리고 모델링인 만큼 똑닮게 만들려고 노력했던 것 같고 주어진 8각 사진에 충실하게 깨진 부분이 없는지, 사람답지 않게 어색한 부분이 없는지 계속 뛰어다니면서 멀리나와서 확인했던 것 같습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 9.45,
+    "student_strength": "시야를 계속 넓게 가지려고 했던 것과 제일 기본인 큰 틀이 나가지 않았는지와 이미지가 나왔는지 계속 멀리 나가서 확인했던 것이 큰 요인인 것 같습니다.",
+    "teacher_feedback": "선생님들이 주신 피드백과 내 작품들을 학원을 오고가는 버스에서 계속 생각하면서 정리를 하며 내 장점은 살리되 단점들은 어떻게 보완해나갈지와 오늘 틀렸던 것이 왜 틀렸는지 틀린 원인을 찾고 틀.",
+    "ideation_process": "그리고 모델링인 만큼 똑닮게 만들려고 노력했던 것 같고 주어진 8각 사진에 충실하게 깨진 부분이 없는지, 사람답지 않게 어색한 부분이 없는지 계속 뛰어다니면서 멀리나와서 확인했던 것 같습니다. 모델이 오프숄더를 입고 있었기 때문에 가슴판에도 소홀하지 않게 신경썼던 것 같습니다."
+  }
 }

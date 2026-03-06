@@ -13,5 +13,14 @@
     "data/crawled/raw_images/712_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:29:56.968385+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=712"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=712",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "노래 하고있는 20대 여자 가수가 주제였는데 평소에 TV에서 보아왔던 가수들을 상상해 가며 무대 위에서 공연을 하는 모습을 표현했다",
+    "practice_years": 1.83,
+    "competition_ratio": 8.6,
+    "student_strength": "주제에 대한 이해력과 상상력, 관찰력이라고 생각한다",
+    "teacher_feedback": "선생님들께 피드백을 받은 것을 노트에 적어 문제점들을 하나하나 줄여가며 실기를 준비했다.",
+    "ideation_process": null
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1521_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:06:05.347390+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1521"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1521",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "돌도끼를 이용해 ‘인간의 발명품이 미치는 악영향’ 관련한 글이 나왔는데, 글에 미사여구가 많고 철학적인 글이어서 최대한 핵심만 뽑아내려고 했다. 이미 복잡한 글에서 굳이 제시물을 변형시켜 표현하는 것보단 내가 가진 기초지식의 깊이를 보여주면서 글의 핵심과 디테일을 남들보다",
+    "practice_years": 2.0,
+    "competition_ratio": 11.93,
+    "student_strength": "과기대는 글이 있는 만큼 자신의 생각을 어디까지 뻗어낼 수 있고의 여부가 중요하다. 5시간 내내 쉼없이 글을 어떻게 풀어나가고 제목을 어떻게 지을지 고민했다. 몇 년전 과는 달리 과기대가 점점 얼마나 생각의 깊이가 있는가를 중시한다는 생각을 했는데, 그에 맞춰 더욱 깊이 있고 다른 친구들과는 다른 방향의 글-그림을 표현해내려 했다.",
+    "teacher_feedback": "원장님께 평가받고 따로 전임쌤을 찾아 부족한 부분을 여쭸다.",
+    "ideation_process": "표현하는 것보단 내가 가진 기초지식의 깊이를 보여주면서 글의 핵심과 디테일을 남들보다 명확하게 표현하고 그로부터 나온 내 생각을 표현하고자 했다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1701_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:14:29.001679+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1701"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1701",
+  "normalized_dept": "industrial_design",
+  "interview_parsed": {
+    "exam_topic": "서경대 생활문화디자인의 출제문제는 콜벨,멀티탭이었으며 제시어는 연속성이었습니다. 문제를 받고 제시어를 최대한 잘풀어야겠다고 생각하여 반복적인 배치를 통해 연속성을 표현하려고 생각하여 풀어나갔습니다.",
+    "practice_years": 3.0,
+    "competition_ratio": 52.42,
+    "student_strength": "항상 실기선생님과 함께 준비한 구도에서 효과적으로 제시어를 표현하는 방법을 배우고, 즉석주제로 테스트하며 배운것들을 응용할 수 있었던 점이 합격의 포인트였던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하려고 생각하여 풀어나갔습니다."
+  }
 }

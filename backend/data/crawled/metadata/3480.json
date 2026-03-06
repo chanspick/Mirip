@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3480_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:34:11.901964+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3480"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3480",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "‘집다’라는 동사형을 반복하기 위해 노력했습니다. 또한 전체적으로 약간의 색상 변화만 준 무채색으로 그림을 그렸으며, 주제부에 포인트 컬러를 주어 주제부를 강조했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 31.78,
+    "student_strength": "저의 장점은 쓸데없는 것을 그리지 않는 것이었는데, 이 장점을 살려 사물의 개수를 한두 개씩 늘리고 큼직하고 명확한 그림을 깔끔하게 그리는 데에 집중하니 합격에 가까워지게 된 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": "또한 전체적으로 약간의 색상 변화만 준 무채색으로 그림을 그렸으며, 주제부에 포인트 컬러를 주어 주제부를 강조했습니다."
+  }
 }

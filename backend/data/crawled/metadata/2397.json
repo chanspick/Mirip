@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2397_0.jpg"
   ],
   "crawled_at": "2026-01-27T14:44:55.716590+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2397"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2397",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": 2.0,
+    "competition_ratio": 29.86,
+    "student_strength": "디자인 중에서도 한 분야(UX 디자인)에 대해서 지속적으로 관심을 가지고 깊이 탐구하는 모습이 생기부에서 드러났다고 생각합니다. UX디자인에 관한 원서나 논문들을 자주 읽고, 직접 디자인을 해 보는 활동들로 생기부를 구성한 결과 합격할 수 있었던 것 같습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

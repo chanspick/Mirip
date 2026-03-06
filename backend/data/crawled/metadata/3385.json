@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3385_0.jpeg"
   ],
   "crawled_at": "2026-01-27T15:29:38.901366+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3385"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3385",
+  "normalized_dept": "fashion",
+  "interview_parsed": {
+    "exam_topic": "헤드폰, 여자 수영복, 신발이 나왔다. 순서대로 머리, 몸, 발에 착용하는 것들이 나와서 충분히 사람의 형태를 표현할 수 있는 개체들이 나왔다고 생각하여, 팔과 다리를 신발끈으로 표현하면서 마치 수영복을 입고 바다로 뛰어가는 듯한 느낌의 그림으로 풀어나간 것 같다.",
+    "practice_years": 2.17,
+    "competition_ratio": 25.1,
+    "student_strength": "남들과는 다른 관찰력과 아이디어가 주요인이라고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "표현하면서 마치 수영복을 입고 바다로 뛰어가는 듯한 느낌의 그림으로 풀어나간 것 같다."
+  }
 }

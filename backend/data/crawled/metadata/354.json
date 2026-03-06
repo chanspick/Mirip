@@ -13,5 +13,14 @@
     "data/crawled/raw_images/354_0.png"
   ],
   "crawled_at": "2026-01-27T13:14:48.673928+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=354"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=354",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "피스타 치오를 까는 두 두손을 세개의 다른 시점으로 그리라는 것이였고 사실적으로 묘사하려고 노력했습니다.",
+    "practice_years": 2.5,
+    "competition_ratio": 68.29,
+    "student_strength": "입시동안 배웠던 것들 중 제가 부족했던 걸 보완하려고 노력했던 것이 컸다고 생각합니다.",
+    "teacher_feedback": "선생님이 시키셨던 건 그대로 흡수하려고 노력했고 좋은 작품을 참고해 좋은 점만 뽑아 제 것을 만드려고 노력했습니다..",
+    "ideation_process": null
+  }
 }

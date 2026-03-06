@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3006_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:12:12.091237+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3006"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3006",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "모래시계와 탁구공, 탁구채가 나왔다. 탁구채와 탁구공의 역동적인 운동에 의해 모래시계가 깨지는 이미지가 떠올랐고 안에 있는 모래가 튀어나오게 하여 더 역동적인 느낌을 주었다.",
+    "practice_years": 5.0,
+    "competition_ratio": 32.1,
+    "student_strength": "시험 시간 후반부에 지치지 않고 최대한 할 수 있는 묘사와 정리를 하려고 했다. 시험작에서도 평소작 퀄리티가 나오도록 노력한 것이라고 생각한다.",
+    "teacher_feedback": null,
+    "ideation_process": "탁구채와 탁구공의 역동적인 운동에 의해 모래시계가 깨지는 이미지가 떠올랐고 안에 있는 모래가 튀어나오게 하여 더 역동적인 느낌을 주었다."
+  }
 }

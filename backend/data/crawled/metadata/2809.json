@@ -13,5 +13,14 @@
     "data/crawled/raw_images/2809_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:03:20.511965+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2809"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=2809",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "4~50대로 보이는 중년의 남성이 나왔고, 사진 크기가 준비했던 사이즈 보다 더 작아 당황했다.",
+    "practice_years": 2.0,
+    "competition_ratio": 6.67,
+    "student_strength": "모델의 인상이 나가지 않도록 하면서 남성이니 작게는 만들지 말고 크게 만들려고 노력했다. 그리고 디테일보다는 큰 덩어리들과 큰 특징에 주목하여 만들었다.",
+    "teacher_feedback": "선생님들의 적극적인 도움 아래 실기준비를 했다..",
+    "ideation_process": "더 작아 당황했다. 그래서 뒤로 더 나와보면서 1,2차 외각 라인은 절대 안틀릴려고 노력했다."
+  }
 }

@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3426_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:31:36.303561+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3426"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3426",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": null,
+    "practice_years": null,
+    "competition_ratio": 4.92,
+    "student_strength": "위에 말했던것 처럼 기초적인것을 잘 지켰기에 합격했다고 생각합니다. 개체로 맥가이버 칼, 우산, 유리구슬이 나왔는데 다 인공물이 나오고 그중에서도 이 학교에서는 맥가이버 칼을 보고싶어하는 것 같아 칼의 형태를 하나도 틀리지 않고, 주제부 크고 덩어리 잘 잡히 게 넣었습니다. 그리고 개체 3개 모두 주제부에서 확실하게 보여주었습니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

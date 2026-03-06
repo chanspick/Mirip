@@ -13,5 +13,14 @@
     "data/crawled/raw_images/1315_0.jpg"
   ],
   "crawled_at": "2026-01-27T13:56:26.644810+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1315"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=1315",
+  "normalized_dept": "craft",
+  "interview_parsed": {
+    "exam_topic": "잠자리와 깃털이 주제로 나왔다. 잠자리와 깃털 둘 다",
+    "practice_years": 3.17,
+    "competition_ratio": 4.23,
+    "student_strength": "잠자리 크기 대비와 색상인 것 같다.",
+    "teacher_feedback": null,
+    "ideation_process": "잠자리와 깃털 둘 다 블랙이 많아서 깃털 끝부분 흰색을 강조해서 그림이 너무 어두워지지 않게 했고 주제부 잠자리를 크게 그려서 크기 대비를 주려고 했다잠자리와 깃털 둘 다"
+  }
 }

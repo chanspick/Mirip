@@ -14,5 +14,14 @@
     "data/crawled/raw_images/331_1.jpg"
   ],
   "crawled_at": "2026-01-27T13:13:50.758150+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=331"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=331",
+  "normalized_dept": "fine_art",
+  "interview_parsed": {
+    "exam_topic": "조소에서 윤봉길의 사진을 주고 위 인물을 만들라는 문제에서 대학에서 평가하려는 내용이 무엇인지 생각했고 기본기를 위주로 모델과 닮았는지도 확인하려는것같아 최대한 닮게만들고 기본골격이 깨지지않는지 대칭이틀어지지않는지와 밀도까지도 신경을 많이썼다.",
+    "practice_years": 2.5,
+    "competition_ratio": 11.23,
+    "student_strength": "평소하던 실기실력과 당시 떨지않고 차분하게 시험보고 남들보다 과하게 하지않고 지킬것을지키고 확인한것덕분에 붙은것같다",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

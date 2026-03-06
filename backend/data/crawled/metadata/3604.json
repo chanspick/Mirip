@@ -13,5 +13,14 @@
     "data/crawled/raw_images/3604_0.jpg"
   ],
   "crawled_at": "2026-01-27T15:40:24.280866+00:00",
-  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3604"
+  "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=3604",
+  "normalized_dept": "design_general",
+  "interview_parsed": {
+    "exam_topic": "출제 문제는 야구공,페인트 붓이었고, 나무 손잡이의 부서진 파편과 선재를 적극적으로 활용하였습니다.",
+    "practice_years": null,
+    "competition_ratio": 5.86,
+    "student_strength": "그림의 한 곳에 시선이 끌리고, 그곳의 표현력과 완성도가 높았으며 뒤쪽의 부주제 부분까지 꼼꼼하게 그려준 것이 합격의 요인이었다고 생각합니다.",
+    "teacher_feedback": null,
+    "ideation_process": null
+  }
 }

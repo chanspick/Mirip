@@ -150,13 +150,28 @@ class TierRanker:
         # 티어 판정 로직
         tier, confidence = self._determine_tier(win_rates)
 
-        return {
+        result = {
             'tier': tier,
             'confidence': confidence,
             'win_rates': win_rates,
             'score': input_score,
             'details': details,
         }
+
+        # 루브릭 점수 추가 (MultiBranchRankingModel인 경우)
+        if hasattr(self.model, 'predict_full'):
+            try:
+                full_result = self.model.predict_full(image)
+                result['rubric_scores'] = {
+                    'composition': full_result.get('composition', 0),
+                    'technique': full_result.get('technique', 0),
+                    'creativity': full_result.get('creativity', 0),
+                    'completeness': full_result.get('completeness', 0),
+                }
+            except Exception:
+                pass
+
+        return result
 
     def _determine_tier(self, win_rates: Dict[str, float]) -> Tuple[str, float]:
         """

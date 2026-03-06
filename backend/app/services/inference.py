@@ -80,8 +80,26 @@ class InferenceService:
 
         logger.info("InferenceService initialized")
 
+    def _detect_model_type(self, checkpoint: dict) -> str:
+        """체크포인트에서 모델 타입 자동 감지"""
+        if isinstance(checkpoint, dict) and checkpoint.get('model_type') == 'multi_branch':
+            return 'multi_branch'
+
+        # state_dict에서 키로 감지
+        state_dict = checkpoint
+        if isinstance(checkpoint, dict):
+            state_dict = checkpoint.get('model_state_dict', checkpoint.get('state_dict', checkpoint))
+
+        if isinstance(state_dict, dict):
+            if any(k.startswith('rubric_heads.') for k in state_dict.keys()):
+                return 'multi_branch'
+            if any(k.startswith('edge_branch.') for k in state_dict.keys()):
+                return 'multi_branch'
+
+        return 'single_branch'
+
     async def load_models(self) -> None:
-        """모델 및 앵커 로드"""
+        """모델 및 앵커 로드 (single_branch / multi_branch 자동 감지)"""
         if self._model_loaded:
             return
 
@@ -92,14 +110,9 @@ class InferenceService:
             else:
                 self.device = "cpu"
 
-            logger.info("Loading PairwiseRankingModel", device=self.device)
-
-            # 모델 로드
             from app.ml.ranking_model import PairwiseRankingModel
             from app.ml.anchor_manager import AnchorManager
             from app.ml.tier_ranker import TierRanker
-
-            self.model = PairwiseRankingModel()
 
             # 체크포인트 경로
             checkpoint_path = getattr(settings, 'MODEL_CHECKPOINT_PATH', None)
@@ -112,16 +125,49 @@ class InferenceService:
                 logger.info("Loading checkpoint", path=str(checkpoint_path))
                 checkpoint = torch.load(checkpoint_path, map_location=self.device)
 
-                if 'model_state_dict' in checkpoint:
-                    self.model.load_state_dict(checkpoint['model_state_dict'])
-                elif 'state_dict' in checkpoint:
-                    self.model.load_state_dict(checkpoint['state_dict'])
-                else:
-                    self.model.load_state_dict(checkpoint)
+                model_type = self._detect_model_type(checkpoint)
+                logger.info("Detected model type", model_type=model_type)
 
-                logger.info("Checkpoint loaded successfully")
+                if model_type == 'multi_branch':
+                    from app.ml.multi_branch_model import MultiBranchRankingModel
+
+                    edge_enabled = False
+                    if isinstance(checkpoint, dict):
+                        edge_enabled = checkpoint.get('edge_branch_enabled', False)
+
+                    self.model = MultiBranchRankingModel(
+                        edge_branch_enabled=edge_enabled,
+                    )
+
+                    state_dict = checkpoint
+                    if isinstance(checkpoint, dict):
+                        if 'model_state_dict' in checkpoint:
+                            state_dict = checkpoint['model_state_dict']
+                        elif 'state_dict' in checkpoint:
+                            state_dict = checkpoint['state_dict']
+
+                    self.model.load_state_dict(state_dict, strict=False)
+                    self._model_type = 'multi_branch'
+                    logger.info("MultiBranchRankingModel loaded", edge_enabled=edge_enabled)
+                else:
+                    self.model = PairwiseRankingModel()
+
+                    if isinstance(checkpoint, dict):
+                        if 'model_state_dict' in checkpoint:
+                            self.model.load_state_dict(checkpoint['model_state_dict'])
+                        elif 'state_dict' in checkpoint:
+                            self.model.load_state_dict(checkpoint['state_dict'])
+                        else:
+                            self.model.load_state_dict(checkpoint)
+                    else:
+                        self.model.load_state_dict(checkpoint)
+
+                    self._model_type = 'single_branch'
+                    logger.info("PairwiseRankingModel loaded")
             else:
                 logger.warning("No checkpoint found, using untrained model", path=str(checkpoint_path))
+                self.model = PairwiseRankingModel()
+                self._model_type = 'single_branch'
 
             self.model.to(self.device)
             self.model.eval()
@@ -144,7 +190,10 @@ class InferenceService:
                 self.tier_ranker = None
 
             self._model_loaded = True
-            logger.info("Models loaded successfully", device=self.device, has_ranker=self.tier_ranker is not None)
+            logger.info("Models loaded successfully",
+                        device=self.device,
+                        model_type=self._model_type,
+                        has_ranker=self.tier_ranker is not None)
 
         except Exception as e:
             logger.error("Failed to load models", error=str(e))
@@ -222,8 +271,11 @@ class InferenceService:
             win_rates = result['win_rates']
             confidence = result['confidence']
 
-            # 승률 기반 점수 계산
-            scores = self._calculate_scores_from_winrates(win_rates)
+            # 루브릭 점수: 모델 예측 우선, 없으면 승률 기반 폴백
+            if 'rubric_scores' in result:
+                scores = self._calculate_scores_from_rubric(result['rubric_scores'])
+            else:
+                scores = self._calculate_scores_from_winrates(win_rates)
 
             # 대학 합격률 계산
             probabilities = self._calculate_probabilities(tier, confidence, department)
@@ -249,23 +301,31 @@ class InferenceService:
             "probabilities": probabilities,
         }
 
+    def _calculate_scores_from_rubric(self, rubric_scores: dict[str, float]) -> dict[str, float]:
+        """모델 기반 루브릭 점수 반환"""
+        return {
+            "composition": round(rubric_scores.get('composition', 50.0), 1),
+            "technique": round(rubric_scores.get('technique', 50.0), 1),
+            "creativity": round(rubric_scores.get('creativity', 50.0), 1),
+            "completeness": round(rubric_scores.get('completeness', 50.0), 1),
+        }
+
     def _calculate_scores_from_winrates(self, win_rates: dict[str, float]) -> dict[str, float]:
-        """승률 기반 세부 점수 계산"""
-        # 전체 평균 승률 계산
+        """승률 기반 세부 점수 계산 (폴백)"""
         avg_winrate = sum(win_rates.values()) / len(win_rates) if win_rates else 0.5
+        base_score = max(0.0, min(100.0, 40 + avg_winrate * 55))
 
-        # 승률을 0-100 점수로 변환
-        base_score = 40 + avg_winrate * 55  # 40~95 범위
-
-        # 약간의 변동 추가 (각 영역별)
-        import random
-        random.seed(int(avg_winrate * 1000))
+        # 티어별 승률 차이를 축별 변동에 반영 (결정적, noise 없음)
+        s_wr = win_rates.get('S', 0)
+        a_wr = win_rates.get('A', 0)
+        b_wr = win_rates.get('B', 0)
+        c_wr = win_rates.get('C', 0)
 
         return {
-            "composition": round(base_score + random.uniform(-5, 5), 1),
-            "technique": round(base_score + random.uniform(-5, 5), 1),
-            "creativity": round(base_score + random.uniform(-5, 5), 1),
-            "completeness": round(base_score + random.uniform(-5, 5), 1),
+            "composition": round(max(0.0, min(100.0, base_score + (b_wr - a_wr) * 10)), 1),
+            "technique": round(max(0.0, min(100.0, base_score + (c_wr - s_wr) * 8)), 1),
+            "creativity": round(max(0.0, min(100.0, base_score + (a_wr - b_wr) * 6)), 1),
+            "completeness": round(max(0.0, min(100.0, base_score + (s_wr + c_wr - 1) * 5)), 1),
         }
 
     def _calculate_probabilities(
@@ -320,15 +380,18 @@ class InferenceService:
         else:
             tier = "C"
 
-        # 세부 점수 (휴리스틱)
+        # 세부 점수 (휴리스틱, [0, 100] 클램핑)
         feat_np = projected.cpu().numpy().flatten()
         base = 60 + score_val * 20
 
+        def _clamp(v: float) -> float:
+            return round(max(0.0, min(100.0, v)), 1)
+
         scores = {
-            "composition": round(base + np.std(feat_np[:64]) * 10, 1),
-            "technique": round(base + np.std(feat_np[64:128]) * 10, 1),
-            "creativity": round(base + np.std(feat_np[128:192]) * 10, 1),
-            "completeness": round(base + np.std(feat_np[192:]) * 10, 1),
+            "composition": _clamp(base + np.std(feat_np[:64]) * 10),
+            "technique": _clamp(base + np.std(feat_np[64:128]) * 10),
+            "creativity": _clamp(base + np.std(feat_np[128:192]) * 10),
+            "completeness": _clamp(base + np.std(feat_np[192:]) * 10),
         }
 
         return tier, scores

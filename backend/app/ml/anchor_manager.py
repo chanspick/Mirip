@@ -83,7 +83,7 @@ class AnchorManager:
             metadata_df: image_path, tier 컬럼을 포함한 DataFrame
             image_dir: 이미지 디렉토리
             n_per_tier: 티어당 앵커 이미지 수
-            selection_method: 'random' 또는 'centroid' (향후 확장)
+            selection_method: 'random' 또는 'centroid'
             seed: 랜덤 시드
         """
         import random
@@ -98,36 +98,104 @@ class AnchorManager:
                 print(f"Warning: No images for tier {tier}")
                 continue
 
-            # 앵커 이미지 선정
             n_select = min(n_per_tier, len(tier_df))
-            selected = tier_df.sample(n=n_select, random_state=seed)
 
-            # Feature 추출
-            features_list = []
-            paths_list = []
-
-            for _, row in selected.iterrows():
-                img_path = image_dir / row['image_path']
-                if not img_path.exists():
-                    print(f"Warning: Image not found: {img_path}")
-                    continue
-
-                # 이미지 로드 및 전처리
-                img = Image.open(img_path).convert('RGB')
-                img_tensor = self._transform(img).unsqueeze(0).to(self.device)
-
-                # Feature 추출 (feature_extractor + projector)
-                with torch.no_grad():
-                    feat = self.model.feature_extractor(img_tensor)
-                    feat = self.model.projector(feat)
-
-                features_list.append(feat.cpu())
-                paths_list.append(str(row['image_path']))
+            if selection_method == 'centroid':
+                selected, features_list, paths_list = self._select_by_centroid(
+                    tier_df, image_dir, n_select,
+                )
+            else:
+                selected, features_list, paths_list = self._select_random(
+                    tier_df, image_dir, n_select, seed,
+                )
 
             if features_list:
                 self._anchor_features[tier] = torch.cat(features_list, dim=0)
                 self._anchor_paths[tier] = paths_list
-                print(f"Tier {tier}: {len(features_list)} anchors extracted")
+                print(f"Tier {tier}: {len(features_list)} anchors extracted"
+                      f" (method={selection_method})")
+
+    def _extract_feature_from_path(
+        self, img_path: Path,
+    ) -> Optional[torch.Tensor]:
+        """이미지 파일에서 feature 추출"""
+        if not img_path.exists():
+            print(f"Warning: Image not found: {img_path}")
+            return None
+
+        img = Image.open(img_path).convert('RGB')
+        img_tensor = self._transform(img).unsqueeze(0).to(self.device)
+
+        with torch.no_grad():
+            feat = self.model.feature_extractor(img_tensor)
+            feat = self.model.projector(feat)
+
+        return feat.cpu()
+
+    def _select_random(
+        self,
+        tier_df: pd.DataFrame,
+        image_dir: Path,
+        n_select: int,
+        seed: int,
+    ) -> Tuple[pd.DataFrame, List[torch.Tensor], List[str]]:
+        """랜덤 앵커 선택"""
+        selected = tier_df.sample(n=n_select, random_state=seed)
+
+        features_list = []
+        paths_list = []
+
+        for _, row in selected.iterrows():
+            feat = self._extract_feature_from_path(image_dir / row['image_path'])
+            if feat is not None:
+                features_list.append(feat)
+                paths_list.append(str(row['image_path']))
+
+        return selected, features_list, paths_list
+
+    def _select_by_centroid(
+        self,
+        tier_df: pd.DataFrame,
+        image_dir: Path,
+        n_select: int,
+    ) -> Tuple[pd.DataFrame, List[torch.Tensor], List[str]]:
+        """
+        Centroid 기반 앵커 선택
+
+        티어 내 전체 이미지의 feature를 추출하고,
+        centroid(평균 벡터)에 가장 가까운 n개를 대표 앵커로 선정합니다.
+        """
+        # 1단계: 티어 내 전체 이미지 feature 추출
+        all_features = []
+        all_paths = []
+        valid_indices = []
+
+        for idx, (_, row) in enumerate(tier_df.iterrows()):
+            feat = self._extract_feature_from_path(image_dir / row['image_path'])
+            if feat is not None:
+                all_features.append(feat)
+                all_paths.append(str(row['image_path']))
+                valid_indices.append(idx)
+
+        if not all_features:
+            return tier_df.head(0), [], []
+
+        all_features_tensor = torch.cat(all_features, dim=0)  # (N, 256)
+
+        # 2단계: Centroid 계산
+        centroid = all_features_tensor.mean(dim=0, keepdim=True)  # (1, 256)
+
+        # 3단계: Centroid과 가장 가까운 n개 선택
+        # L2-normalized 벡터이므로 euclidean distance ≈ cosine distance
+        distances = torch.cdist(centroid, all_features_tensor).squeeze(0)  # (N,)
+        n_actual = min(n_select, len(all_features))
+        top_k = distances.topk(k=n_actual, largest=False)
+
+        features_list = [all_features[i] for i in top_k.indices.tolist()]
+        paths_list = [all_paths[i] for i in top_k.indices.tolist()]
+        selected = tier_df.iloc[[valid_indices[i] for i in top_k.indices.tolist()]]
+
+        return selected, features_list, paths_list
 
     def get_tier_features(self, tier: str) -> Optional[torch.Tensor]:
         """특정 티어의 앵커 feature 반환"""

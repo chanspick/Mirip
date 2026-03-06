@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님들의 의견과 피드백이 더 좋은그림으로 나아가는데 도움이 되었다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 68.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.168
+  },
+  "clip_topic": {
+    "topic_score": 0.5762,
+    "topic_text": "일분일초 조금이라도 허비하지않으려 했던것이 전체적인 완성도를 높이는데 크게 도움이�榮� 긴장은 안했고 즐기면서 봤다."
   }
 }

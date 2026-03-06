@@ -23,5 +23,14 @@
     "student_strength": "학원에서 나에게 맞는 구도와 그에 맞는 피드백을 열심히 해주었고, 같이 입시한 친구들이 잘 그려서 도움을 많이 받은것이 합격의 주요인이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "또한 동덕여대가 색상변화가 자유인것을 최대한 활용하기 위해 다양한 색감을 사용하였다."
+  },
+  "tier_refined": {
+    "tier_score": 51.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.19
+  },
+  "clip_topic": {
+    "topic_score": 0.5789,
+    "topic_text": "손소독제와 재단가위 였고 학원에서 시험볼 때 자주 사용하던 구도가 있어서 그 구도에 맞는 웅장함을 보여주려고 노력했다. 또한 동덕여대가 색상변화가 자유인것을 최대한 활용하기 위해 다양한 색감을 사용하였다."
   }
 }

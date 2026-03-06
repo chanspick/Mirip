@@ -23,5 +23,14 @@
     "student_strength": "놀 때 놀기, 할 때 하기, 겸손하기, 편협한 시선 버리기를 지키면서 입시준비를 했던것이 좋은영향을 끼친거 같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5556,
+    "topic_text": "호박분무기는 실사로, 철 호스는 자유변형으로 활용해 그릴 것을 강조하였는데 실사물체는 해당 문제의 표현력과 형태력을 보고자 했고 변형 물체는 디자인적 공간 활용과 창의력을 보고자 한 듯하다."
   }
 }

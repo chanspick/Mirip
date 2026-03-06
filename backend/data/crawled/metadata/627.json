@@ -22,5 +22,14 @@
     "student_strength": "담당 선생님께서 많이 챙겨주시고 그 외 선생님들의 정성과 노력 덕분이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 73.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.438
+  },
+  "clip_topic": {
+    "topic_score": 0.59,
+    "topic_text": "수정테이프, 패턴지, 우산 수정테이프의 테이프를 이용해서 선적 요소로 사용하고, 개체를 다양한 투시로 보여주기 위해서 노력하였습니다."
   }
 }

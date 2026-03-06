@@ -23,5 +23,14 @@
     "student_strength": "부족한 부분을 많이 고치려고 노력했던것이과 색을 분위기 있게 쓰려고 했던것이 도움이 된것 같다.",
     "teacher_feedback": null,
     "ideation_process": "지퍼를 돌돌 말아서 양감을 주려고 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 65.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.858
+  },
+  "clip_topic": {
+    "topic_score": 0.5897,
+    "topic_text": "주사기와 지퍼였다. 지퍼를 돌돌 말아서 양감을 주려고 노력했다."
   }
 }

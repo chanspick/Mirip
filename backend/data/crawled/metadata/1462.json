@@ -22,5 +22,14 @@
     "student_strength": "학원 수업시간에 선생님 말 잘 듣고 고치라고 말씀해주시는 부분을 집중적으로 연습했다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 68.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.173
+  },
+  "clip_topic": {
+    "topic_score": 0.6035,
+    "topic_text": "머그컵, 끈리본, 물감"
   }
 }

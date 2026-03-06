@@ -23,5 +23,14 @@
     "student_strength": "아무래도 다군이다보니 긴장을 놓치기 쉬웠는데 선생님들께서 마지막까지 구도 트레이닝을 해주신 게 도움이 많이 되었습니다. 저도 전날까지 꼭 합격하겠다는 간절함으로 최선을 다했습니다.",
     "teacher_feedback": "선생님들의 피드백을 메모해가며 고쳐나갔던 것 같습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 52.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.236
+  },
+  "clip_topic": {
+    "topic_score": 0.583,
+    "topic_text": "시험 당일 리소쌤께서 얘기해 주신 소재 간의 연관성에 집중하며 최대한 나온 제시물들끼리 연관 시켜주려고 노력했습니다."
   }
 }

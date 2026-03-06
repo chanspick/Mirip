@@ -22,5 +22,14 @@
     "student_strength": "그림을 눈감고도 그릴 정도로 오답노트를 외우고 구도도 외우고 시험때 어떤 개체가 나와도 망설임 없이 그림을 그릴 수 있도록 노력하였습니다. 개인적으로 선생님께 자주 질문을 하여서 그림의 완성도는 블랙 화이트만 잘 칠해도 합격할 수 있다고 생각이 들었습니다.",
     "teacher_feedback": "선생님께 물어보았습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 36.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.339
+  },
+  "clip_topic": {
+    "topic_score": 0.5902,
+    "topic_text": "기타랑 볼링핀이 나왔고 학원에서 그린것처럼 스케치 20분안에 뜨고 채색을 3시간동안하고 정리를 30분동안 했습니다."
   }
 }

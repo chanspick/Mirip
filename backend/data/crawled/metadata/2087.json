@@ -22,5 +22,14 @@
     "student_strength": "출제된 사물이 잘 보이게 그린것과 성실히 그린것같다.",
     "teacher_feedback": "피드백을 받도록 하였다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.364
+  },
+  "clip_topic": {
+    "topic_score": 0.5851,
+    "topic_text": "돼지저금통과 현미경이 나왔고 두물체가 모두 잘 보일 수 있게 구도를 짜려고 했고 돼지저금통의 크기가 너무 작아지지 않게 했다."
   }
 }

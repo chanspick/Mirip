@@ -22,5 +22,14 @@
     "student_strength": "문제를 꼼꼼히 읽어보고 문제에서 요구하는 조건이 정확히 무엇인지를 파악했던게 주요인이였던거 같습니다. 그리고 평소에 기본질감에 대한 응용력으로 그림을 풀어나갔던게 좋은 요인이였다고 생각합니다.",
     "teacher_feedback": "피드백을 받으면 보완하려고 노력했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 78.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.709
+  },
+  "clip_topic": {
+    "topic_score": 0.5793,
+    "topic_text": "꽃병과 대나무 혹은 대나무 두루마리로 화면구성하는 문제였으며, 대나무의 특성을 활용해 문제를 풀어나갔습니다."
   }
 }

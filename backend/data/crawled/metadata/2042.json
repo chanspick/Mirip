@@ -22,5 +22,14 @@
     "student_strength": "선생님들께: 부족했던 실력을 끌어올려주셔서 진심으로 감사합니다! 덕분에 1지망이었던 대학에 붙게 되어 인생의 큰 고비를 너무 만족스럽고 성공적으로 넘기게 된 것 같아요.",
     "teacher_feedback": "선생님들께서 내가 어떤 점들을 장점삼아 그리면 될 지 잘 가이드해주셔서 단기간에 빨리 늘 수 있었던 것 같다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 68.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.159
+  },
+  "clip_topic": {
+    "topic_score": 0.5966,
+    "topic_text": "다른 생각 하지않고 평소 하던 대로, 그리고 여태껏 받았던 피드백들을 상기시키며 집중하여 시험을 보았습니다."
   }
 }

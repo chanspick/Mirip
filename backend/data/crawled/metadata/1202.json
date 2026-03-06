@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5987,
+    "topic_text": "나무받침대가 있는 유리찻주전자, 파란대나무우산 -문제지에 적혀있는 유의상황이나 유리의 투명함을 살리는데 집중했습니다."
   }
 }

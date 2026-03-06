@@ -22,5 +22,14 @@
     "student_strength": "작은 양 하나까지 놓치지 않으려 노력했고 하루에 하나만 배우고 가자는 생각으로 수업을 들었고 이미 알고있는 지식들을 잊지 않으려 노력했다.",
     "teacher_feedback": "선생님들이 지도해주시는 대로 최대한 배우려고 노력했다 36.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.404
+  },
+  "clip_topic": {
+    "topic_score": 0.5888,
+    "topic_text": "정면도 측면도 없는 모델사진을 보고 머릿속으로 이 사진이 찍힌 사람이 어떻게 생겼을까 상상을 하며 상상을 바탕으로 만들었다."
   }
 }

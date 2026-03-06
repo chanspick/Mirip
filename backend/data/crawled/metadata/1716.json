@@ -22,5 +22,14 @@
     "student_strength": "학원에서 가르쳐 주시는 부분들이 매우 도움이 되었다고 생각합니다.",
     "teacher_feedback": "선생님께서 저의 상태를 파악하여, 장점은 키워주시고 부족한 영역에 대해 많이 알려주셨습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 40.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.546
+  },
+  "clip_topic": {
+    "topic_score": 0.5829,
+    "topic_text": "도시에서 정체불명의 무언가가 나왔을 때 구석까지 몰린 상황의 다음 장면을 상상해서 그리는 거였고 열심히 생각했던 것 같습니다"
   }
 }

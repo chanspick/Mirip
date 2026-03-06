@@ -22,5 +22,14 @@
     "student_strength": "긴장하지 않고 선생님의 조언을 잘 새겨들은 것이 합격 노하우라 생각한다.",
     "teacher_feedback": "선생님의 조언대로 그림을 고쳐나가며 더 배우려는 노력을 하였다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 79.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.786
+  },
+  "clip_topic": {
+    "topic_score": 0.5934,
+    "topic_text": "주제는 드론택시와 동물운전자였고 주제에 맞게 재미있는 모습을 그리려고 노력했다."
   }
 }

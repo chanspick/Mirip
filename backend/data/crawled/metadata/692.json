@@ -23,5 +23,14 @@
     "student_strength": "입시를 자신을 더욱 알아가는 과정으로써 활용하여 자신감을 갖고 즐기며 입시준비에 임했던 것이 시험때도 긴장하지 않고 좋은결과를 볼 수 있었던 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "표현하려 하였고, 거리감과 대비를 주기위해 한쪽의 얼굴은 크게, 한쪽의 얼굴은 상반신까지 나오게 그렸다."
+  },
+  "tier_refined": {
+    "tier_score": 92.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.667
+  },
+  "clip_topic": {
+    "topic_score": 0.5812,
+    "topic_text": "1차실기 - 모자와 천을 두른 자화상 : 주어진 사물에 의해 변화된 신체의 모습을 표현하려 하였고, 거리감과 대비를 주기위해 한쪽의 얼굴은 크게, 한쪽의 얼굴은 상반신까지 나오게 그렸다."
   }
 }

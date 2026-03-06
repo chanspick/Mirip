@@ -23,5 +23,14 @@
     "student_strength": "제 장점인 입체 작품에 집중해서 다른 학생들보다 더 밀도있고 매력있는 작품을 만든 것이 합격 요인이라고 생각합니다",
     "teacher_feedback": "선생님이 내주신 문제로 시험을 보고 피드백에 따라 수정하며 준비했습니다 88.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 89.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.442
+  },
+  "clip_topic": {
+    "topic_score": 0.5656,
+    "topic_text": "일상의 공간 바닥, 벽, 천장에 서 볼 수있는 대상을 하나씩 선택하여 사실적으로 그리고, 그 세가지 대상을 소재로하여()를 위한 기념비를 만들라 가 시험 문제였고, 이전에 했던 작업들중 공간에 관한 작업을 떠올려 적용해서 풀었습니다"
   }
 }

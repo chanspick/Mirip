@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "한 단계 더 좋은 그림을 그리고 나오자는 생각으로 매 시험에 응했다. 편한 마음으로 그림을 그리기 위해 시간분배를 제일 중요시 여겼다."
+  },
+  "tier_refined": {
+    "tier_score": 54.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.304
+  },
+  "clip_topic": {
+    "topic_score": 0.6108,
+    "topic_text": "긴장하지 않고 평소보다 한 단계 더 좋은 그림을 그리고 나오자는 생각으로 매 시험에 응했다."
   }
 }

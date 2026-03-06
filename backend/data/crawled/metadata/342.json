@@ -22,5 +22,14 @@
     "student_strength": "학원에서 시험을 친 후 받은 반복된 피드백과 그것을 고치려 했던 노력인것 같다.",
     "teacher_feedback": "선생님이 얘기해주시는 단점을 고치기 위해 핸드폰에 메모해놓고 외우고 다녔다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 56.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.435
+  },
+  "clip_topic": {
+    "topic_score": 0.584,
+    "topic_text": "글씨가 많은 통조림 캔과 분홍색 리본, 흰 커터칼이 나왔고, 학원에서 여러번 그려보고 칭찬 받았던 구도를 적용해서 그렸고, 포인트 위치에는 주어진 물체들이 서로 상호 작용하게 그렸다."
   }
 }

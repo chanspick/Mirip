@@ -23,5 +23,14 @@
     "student_strength": "첫째, 매년 입시률로 검증된 만화학원을 찾아간 것 둘째, 일대일로 그림체 만들어주시고 피드백 많이 해주신 선생님께 감사드립니다 셋째, 어렵고 힘든 고비마다 도와주신 선생님들고과 나 자신을 믿고 끝까지 노력한 것이 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 50.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.137
+  },
+  "clip_topic": {
+    "topic_score": 0.5694,
+    "topic_text": "“서로가 너 때문이야 라고 동시에 말한~“ 정시준비를 하며 학원에서 연습한데로 자연스럽게 전개해주고 하이라이트, 반전을 통한 포인트를 주었습니다."
   }
 }

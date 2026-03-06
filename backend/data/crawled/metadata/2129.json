@@ -22,5 +22,14 @@
     "student_strength": "3개의 물체가 잘 보이게 그린 것과 맥락이 보여지는 주제부 연출이 좋았다고 생각한다. 주제부 스마트폰에 포인트 컬러로 시선을 유도한 것이 좋은 점수를 받지 않았나 싶다.",
     "teacher_feedback": null,
     "ideation_process": "잘 보이게 배치하였다. 전화기의 엔티크 한 분위기와 스마트폰의 첨단적인 모습을 색상에서 잘 드러나게 표현하려고 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 60.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.619
+  },
+  "clip_topic": {
+    "topic_score": 0.5865,
+    "topic_text": "전화기, 스마트폰, 안경으로 구성하는 문제였으며, 엉키지 않고 3개의 물체가 다 잘 보이게 배치하였다."
   }
 }

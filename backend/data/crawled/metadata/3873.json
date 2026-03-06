@@ -23,5 +23,14 @@
     "student_strength": "탁상등과 담요의 물성대비를 잘보여줬다 생각하고 담요의 다양한 모습을 보여주거나 색상자유를 활용하여 조화롭게 그린것이 합격하게 된 이유라 생각합니다",
     "teacher_feedback": "선생님들께서 해주신 피드백을 최대한 적용하려 했고, 모르는 부분이 생길때마다 질문을 했습니다.",
     "ideation_process": "선생님께서 동덕여대는 개체의 물성표현이 중요하다 말씀하셔서 물성을 잘 보여줄 수있는 담요로 다양한 모습을 보여준 것 같습니다"
+  },
+  "tier_refined": {
+    "tier_score": 61.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.697
+  },
+  "clip_topic": {
+    "topic_score": 0.5477,
+    "topic_text": "체크무늬 담요와 LED 탁상등이 나왔습니다 선생님께서 동덕여대는 개체의 물성표현이 중요하다"
   }
 }

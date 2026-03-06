@@ -23,5 +23,14 @@
     "student_strength": "나의 장점인 색의 연출과 톤의 명암으로 깊이감을 풍성하게 준 것이 만족스러웠다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 63.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.787
+  },
+  "clip_topic": {
+    "topic_score": 0.5878,
+    "topic_text": "동백꽃과 삼각플라스크가 나왔는데, 유리질감을 많이 연습하였고 자신있었던 터라 사실적 표현에 신경을 많이 썼다."
   }
 }

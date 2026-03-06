@@ -22,5 +22,14 @@
     "student_strength": "시험 보러 가기 일주일 전 즈음에 그동안 배웠던 내용이나 주의할 점 그리고 대학교 유형 분석한 것들을 한 페이지에 정리해서 시험 보기 바로 전까지 봤는데 시험 볼 때 더 확신이 생겨서 도움이 됐습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하는게 문제였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 62.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.721
+  },
+  "clip_topic": {
+    "topic_score": 0.6435,
+    "topic_text": "소묘와 디자인을 해야하는데 소묘는 머그컵을 다공질 스폰지의 질감으로 바꾸는 것이었고 디자인은 스폰지의 질감과 물성적인 특성을 모티브로 하여 내용물이 담긴 머그컵을 자유롭게 표현하는게 문제였습니다."
   }
 }

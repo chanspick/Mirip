@@ -22,5 +22,14 @@
     "student_strength": "학원에서 실전 시험처럼 대비를 잘 해주셔서 시험장에 가서도 떨지않고 평소처럼 그리고 올 수 있었습니다.",
     "teacher_feedback": "피드백과 팁들을 노트에 적어두어 정리해두고 시험을 보기 전과 후에 수시로 보며 실수하지 않으려고 노력하였습니다.",
     "ideation_process": "세개의 물체가 모두 화면에서 잘 보이도록 배치하였고, 물체의 특성을 살리려 하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 65.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.875
+  },
+  "clip_topic": {
+    "topic_score": 0.5816,
+    "topic_text": "털실과 카드,고무줄이 나왔습니다. 세개의 물체가 모두 화면에서 잘 보이도록 배치하였고, 물체의 특성을 살리려 하였습니다."
   }
 }

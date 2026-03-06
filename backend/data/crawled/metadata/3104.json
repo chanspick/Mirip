@@ -22,5 +22,14 @@
     "student_strength": "제시어의 직관적인 표현이 합격 이유인 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하는 것이 실기시험 문제였습니다. 주변 그림들 중에서 표현력이 가장 뛰어나진 않았지만 .."
+  },
+  "tier_refined": {
+    "tier_score": 80.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.823
+  },
+  "clip_topic": {
+    "topic_score": 0.5912,
+    "topic_text": "종이비행기를 활용하여 제시어인 ‘공간’을 표현하는 것이 실기시험 문제였습니다. 주변 그림들 중에서 표현력이 가장 뛰어나진 않았지만 .."
   }
 }

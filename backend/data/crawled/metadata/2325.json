@@ -23,5 +23,14 @@
     "student_strength": "그림을 그리는 과정에서 학원 선생님께서 말씀해 주신 것에 대해 놓친 부분이 없는지 계속 생각하면서 그렸고, 마지막까지 집중했던 것이 합격의 주요인이라고 생각합니다.",
     "teacher_feedback": "선생님께서 말씀해 주신 문제점들을 적어 놓고 다음 그림을 그릴 때마다 고치려고 노력했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.928
+  },
+  "clip_topic": {
+    "topic_score": 0.5828,
+    "topic_text": "출제 문제는 종이 비행기와 드라이버가 나왔고, 사물의 특징이 잘 보이게 구성하려고 했습니다."
   }
 }

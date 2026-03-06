@@ -24,5 +24,14 @@
     "student_strength": "빛이 좋지 않았기 때문에 최대한 다양한 각도에서 보려고 노력했고, 최대한 놓치는 부분 없이 만들려고 했는데 그런 부분이 좋은 결과로 이어진 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "모델의 이미지를 놓치지 않으려고 노력했고 대칭감있게 큰 틀에서 완성도를 높였습니다"
+  },
+  "tier_refined": {
+    "tier_score": 50.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.116
+  },
+  "clip_topic": {
+    "topic_score": 0.6123,
+    "topic_text": "건장한 체격에 이마가 반쯤 가려진 남자모델이 나왔습니다. 모델의 이미지를 놓치지 않으려고 노력했고 대칭감있게 큰 틀에서 완성도를 높였습니다"
   }
 }

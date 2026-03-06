@@ -23,5 +23,14 @@
     "student_strength": "선생님이 늦은 시간까지 제 그림에 대한 문제점이 무엇인지 같이 고민해 주시고 무엇에 중점을 두고 그려야 하는지 출제자가 무엇을 보려고 이 문제를 냈는지 등 잘 정리해 주셨습니다. 그림은 깔끔하게 그리는 게 중요하다 생각해서 완성작을 그릴 때 마다 주의해서 그렸습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 75.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.537
+  },
+  "clip_topic": {
+    "topic_score": 0.601,
+    "topic_text": "시험 문제를 보고 제시된 사물과 주제어를 어떻게 합칠 수 있을지 고민했고 평소에 했던 것들 중에서 사용할 수 있는 걸 최대로 사용했습니다."
   }
 }

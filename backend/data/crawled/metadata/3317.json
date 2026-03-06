@@ -23,5 +23,14 @@
     "student_strength": "많이 방황했던 시기에 잡아주신 한현진 선생님 덕분입니다.",
     "teacher_feedback": null,
     "ideation_process": "수업시간에 선생님께 받았던 피드백을 떠올리고 저에게 맞았던 어둠 설정을 먹물을 이용해 풀어가고, 마스코트 캐릭터를 문어들이 그리고 있는 장면을 표현 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.996
+  },
+  "clip_topic": {
+    "topic_score": 0.6003,
+    "topic_text": "문어와 서울여대 마스코트 였습니다. 수업시간에 선생님께 받았던 피드백을 떠올리고 저에게 맞았던 어둠 설정을 먹물을 이용해 풀어가고, 마스코트 캐릭터를 문어들이 그리고 있는 장면을 표현 했습니다."
   }
 }

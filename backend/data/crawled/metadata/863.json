@@ -22,5 +22,14 @@
     "student_strength": "금속물체가 나와서 묘사로 밀도를 올리려고 노력했고 선생님이 평소에 형태연습을 많이 하라고 하셨는데 그 부분에서 노력을 많이 해 합격할 수 있었던거 같습니다",
     "teacher_feedback": "선생님께서 충고하시는 부분들을 잘 기억해 고치려고 노력하였습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 45.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.763
+  },
+  "clip_topic": {
+    "topic_score": 0.5898,
+    "topic_text": "자명종시계와 공구가 나왔는데 , 공구가 자명종시계를 깨서 파편이 튀기고 그것이 반복적으로 보여지는 연출을 했습니다"
   }
 }

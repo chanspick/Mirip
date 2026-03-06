@@ -23,5 +23,10 @@
     "student_strength": "저는 들어가서 나올 때까지 계속 미소를 짓고 있었는데. 확실히 밝은 인상이 눈에 더 잘 띈다고 생각해요.",
     "teacher_feedback": "선생님이 계속 돌아다니시며 포트폴리오의 방향성을 잡아주셔서 큰 어려움없이 포트폴리오을 완성할 수 있었어요..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 56.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.417
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "어렵지 않은 문제라고 생각 할 수 있겠지만, 숙명여대는 모델이 단상 위에 올라간다는 점과 자리 배치를 2줄로 한다는 점을 고려했을 때 그렇게 쉽게 느껴지진 않았습니다. 하지만 문제가 심플한 만큼 기울기, 형태 같은 기본을 더 충실히 지키도록 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 83.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.974
+  },
+  "clip_topic": {
+    "topic_score": 0.5922,
+    "topic_text": "줄무늬 맨투맨과 청바지를 입을 여성이 대걸래를 들고 있는 포즈였습니다. 어렵지 않은 문제라고 생각 할 수 있겠지만, 숙명여대는 모델이 단상 위에 올라간다는 점과 자리 배치를 2줄로 한다는 점을 고려했을 때 그렇게 쉽게 느껴지진 않았습니다."
   }
 }

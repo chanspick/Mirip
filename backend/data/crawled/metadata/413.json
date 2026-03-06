@@ -22,5 +22,14 @@
     "student_strength": "사람의 동작을 계속 스케치 해왔던 것이 도움이 되었습니다. 또한 선생님들이 저의 부족한 점을 보완해 주시고 트레이닝을 통해 실전능력이 향상될 수 있도록 이끌어 주셨기에 합격할 수 있었습니다.",
     "teacher_feedback": null,
     "ideation_process": "그래서 귀뚜라미와 거울을 주제로 삼았습니다. 특히 귀뚜라미를 살아있는 듯 사실감있게 그리려 노력하였고 거울의 질감과 거울에 비치는 귀뚜라미를 자연스럽게 그리려했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 77.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.635
+  },
+  "clip_topic": {
+    "topic_score": 0.5886,
+    "topic_text": "소묘 파트에서는 귀뚜라미와 거울, 돌이 이미지로 나왔습니다. 그래서 귀뚜라미와 거울을 주제로 삼았습니다."
   }
 }

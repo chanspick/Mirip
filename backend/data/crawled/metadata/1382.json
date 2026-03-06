@@ -23,5 +23,10 @@
     "student_strength": "실기 시험을 위해 꾸준히 그리고 스토리 연구를 많이 한 덕분이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 51.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.188
   }
 }

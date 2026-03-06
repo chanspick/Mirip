@@ -23,5 +23,14 @@
     "student_strength": "선생님께서 말씀하신 것을 계속 생각해서 인 것 같습니다.",
     "teacher_feedback": "선생님들께 대학별 유형과 다양한 해석방법을 배우며 준비했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.093
+  },
+  "clip_topic": {
+    "topic_score": 0.6065,
+    "topic_text": "평소 문제풀이를 해본 주제가 나와서 놀랐으며, 문제의도를 보고 어떠한 느낌으로 풀어가야 할지 생각하였습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "선생님께서 지적해주신 부분을 잊지않고 계속 고쳐나가려 노력했고 시험칠때도 떠올리며 실수를 최대한으로 줄였습니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.6054,
+    "topic_text": "고양이와 털실이 나와서 평소에 쓰던 패턴을 약간 변형하여 고양이와 털실의 관계성을 생각하며 최대한 역동적으로 표현하려고 노력했습니다"
   }
 }

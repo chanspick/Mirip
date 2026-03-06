@@ -22,5 +22,14 @@
     "student_strength": "문제의 요구하는데로 충실히 지켰고 제한조건을 꼼꼼하게 읽어 최대한 잘 반영하여 그렸던게 합격의 요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하라는 문제였습니다. 평소 학원에서 하던데로 열심히 했던것 같습니다."
+  },
+  "tier_refined": {
+    "tier_score": 74.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.476
+  },
+  "clip_topic": {
+    "topic_score": 0.6007,
+    "topic_text": "종이공과 의자의 소재로 가벼움을 표현하라는 문제였습니다. 평소 학원에서 하던데로 열심히 했던것 같습니다."
   }
 }

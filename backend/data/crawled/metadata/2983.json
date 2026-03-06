@@ -23,5 +23,14 @@
     "student_strength": "경쟁률이 강한 학교만큼 시험장에서 퀄리티가 좋게 나오도록 계속 시험보고 선생님께 피드백받았던게 좋은결과로 이어진거같습니다",
     "teacher_feedback": null,
     "ideation_process": "하나하나 정확하게 넣을려고 노력했습니다"
+  },
+  "tier_refined": {
+    "tier_score": 64.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.824
+  },
+  "clip_topic": {
+    "topic_score": 0.5744,
+    "topic_text": "젤리랑 빗이 나왔는데 질감과 형태가 까다로운 소재이므로 과하게 많은걸 넣기보다 하나하나 정확하게 넣을려고 노력했습니다"
   }
 }

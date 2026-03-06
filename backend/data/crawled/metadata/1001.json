@@ -22,5 +22,14 @@
     "student_strength": "평소에 선생님이 여러 상황에 대비해야 한다는 얘기를 많이 하셨는데, 시험장에서 자리가 좋지 않음에도 최대한 끝까지 열심히 노력한 것이 합격에 가장 큰 영향을 끼친 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "모델의 정면을 볼 수 없는 자리였는데, 시험 당시 내 작품의 상태에서 개선해야 할 점을 뒤로, 반대쪽으로 최대한 많이 나와보며 비교했다"
+  },
+  "tier_refined": {
+    "tier_score": 77.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.647
+  },
+  "clip_topic": {
+    "topic_score": 0.6018,
+    "topic_text": "실기 시험문제는 20대 여자 두상모델링이었다. 모델의 정면을 볼 수 없는 자리였는데, 시험 당시 내 작품의 상태에서 개선해야 할 점을 뒤로, 반대쪽으로 최대한 많이 나와보며 비교했다"
   }
 }

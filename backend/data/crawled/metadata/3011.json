@@ -22,5 +22,14 @@
     "student_strength": "학원에서 주제지를 정확하게 분석하는 것에 대한 중요성을 많이 알게 되어 사물 분석을 자세히 하였고 시험장에서 채도를 쨍하게 쓰려고 신경을 썼습니다. 반복되는 공의 흐름을 보여줬던 것이 좋은 점수를 받았던 이유가 아닐까 생각을 해봅니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 82.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.911
+  },
+  "clip_topic": {
+    "topic_score": 0.5715,
+    "topic_text": "질감이나 형이 모두 다른 사물들이 나왔기 때문에 사물간의 다른 성질을 그림에서 분명하게 보여주는 것에 초점을 맞추었고 용도나 기능을 잘 보여주려고 신경을 썼습니다."
   }
 }

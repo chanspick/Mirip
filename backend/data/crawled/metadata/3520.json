@@ -22,5 +22,14 @@
     "student_strength": "만화가 잘 읽히고 임팩트 있는 메인 컷과 시트콤 느낌의 개그 스토리가 합격 요인 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "그 사람은 집 안으로 들어오더니 화장실로 들어가 한참 뒤에 나오며 고맙다며 나갔다. 현관에 그가 떨어뜨린 물건이 있었고 그 물건에서 '저승사자 면허증'이 나왔다."
+  },
+  "tier_refined": {
+    "tier_score": 41.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.588
+  },
+  "clip_topic": {
+    "topic_score": 0.5757,
+    "topic_text": "[출제문제] 어느 일요일 저녁, 느지막이 TV를 보고 있었는데 누군가가 현관문을 두드렸다. 그 사람은 집 안으로 들어오더니 화장실로 들어가 한참 뒤에 나오며 고맙다며 나갔다."
   }
 }

@@ -22,5 +22,10 @@
     "student_strength": "선생님들의 멘탈관리 조언이 입시에서 큰 도움이 되었습니다. 부정적인 마음을 긍정적이게 바꾸려고 노력했습니다. 미금창아 쌤들과의 상담이 많은 도움이 되었습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 83.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.986
   }
 }

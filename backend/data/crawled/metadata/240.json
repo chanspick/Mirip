@@ -23,5 +23,14 @@
     "student_strength": "수능준비도 열심히 했고 학원에서 시키는대로 실기도 열심히 했다.",
     "teacher_feedback": null,
     "ideation_process": "배경은 자유 얼굴도 다 가려지고 옷도 밋밋하고 자세도 쉽게 나와서인체의 전체적인 형태와 동세를 맞추는 것에 초점을 뒀다."
+  },
+  "tier_refined": {
+    "tier_score": 50.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.098
+  },
+  "clip_topic": {
+    "topic_score": 0.602,
+    "topic_text": "검정색 사무실의자에 흰 상의반팔, 반바지를 입고 흰색 마스크를 쓴 여자모델이 신문지 말린것을 양 손으로 쥐고 정자세로 앉아있는 포즈가 나왔다. 배경은 자유 얼굴도 다"
   }
 }

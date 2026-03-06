@@ -22,5 +22,14 @@
     "student_strength": "선생님께 지적받은 단점을 고치는게 중요하다고 생각합니다. 하나씩 보완하다보니 입시 준비까지 정리가 잘 되었던거 같습니다.",
     "teacher_feedback": "피드백 위주로 부족한 부분을 연습했습니다..",
     "ideation_process": "어떻게 도망갈 것인가’ 였고 어떻게 도망갈 것인가에 중점을 두고 풀어냈습니다."
+  },
+  "tier_refined": {
+    "tier_score": 38.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5755,
+    "topic_text": "출제문제는 ‘도시 한복판에서 괴물(좀비)이 쫓아온다. 어떻게 도망갈 것인가’ 였고 어떻게 도망갈 것인가에 중점을 두고 풀어냈습니다."
   }
 }

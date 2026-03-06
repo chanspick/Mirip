@@ -22,5 +22,14 @@
     "student_strength": "그림실력도 물론 좋아야하지만 멘탈도 좋아야된다고 생각합니다. 꾸중을 받아도 물론 슬프고 서운하겠지만 자신에 문제점을 알고 잘 받아드리고 고치는게 그림발전에 좋다고보고 포기하지않는 끈기.?노력도 많이 있어야한다고 봅니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 43.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.666
+  },
+  "clip_topic": {
+    "topic_score": 0.5968,
+    "topic_text": "문제를 받고나서 음...일단 해보자 완성만하자 내 실력을 보여주자 하는 마음으로 여태했던 칭찬받았던 구도 생각하고 기본기챙기면서 했어요."
   }
 }

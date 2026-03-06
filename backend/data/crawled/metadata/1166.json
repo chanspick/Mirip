@@ -22,5 +22,14 @@
     "student_strength": "측면을 계속 열심히 봐서 이미지가 맞게 잘 나온것같습니다",
     "teacher_feedback": null,
     "ideation_process": "그리고 이목구비에서의 모델의 이미지를 뽑아주려 노력했습니다"
+  },
+  "tier_refined": {
+    "tier_score": 32.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.137
+  },
+  "clip_topic": {
+    "topic_score": 0.6028,
+    "topic_text": "사진으로 나올줄 알았는데 모델링으로 나와서 당황은 했지만 여자모델의 앉아있는 느낌과 큰꼴 큰외곽느낌을 먼저 잡아주려고 노력했으며 측면과 반측면을 더 많이 보고 최대한 모델과 맞게 맞추려고 노력했습니다 그리고 이목구비에서의 모델의 이미지를 뽑아주려 노력했습니다"
   }
 }

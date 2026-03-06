@@ -22,5 +22,14 @@
     "student_strength": "곁을 보니 다들 손과,발, 면을 만들고 있었는데 남과 같은 식상한 것을 만들지 않았기 때문인 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오.(그릇 표현 금지)\" 종이에 구상을 3개쯤 하고 가장 괜찮다고 생각한 것으로 만들기 시작했다. 주변에는 다"
+  },
+  "tier_refined": {
+    "tier_score": 52.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.244
+  },
+  "clip_topic": {
+    "topic_score": 0.5819,
+    "topic_text": "\"짜장면과 스파게티를 이용해 아름다움을 표현하시오.(그릇 표현 금지)\" 종이에 구상을 3개쯤 하고 가장 괜찮다고 생각한 것으로 만들기 시작했다. 주변에는 다"
   }
 }

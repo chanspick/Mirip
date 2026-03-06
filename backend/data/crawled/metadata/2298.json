@@ -22,5 +22,14 @@
     "student_strength": "주어진 사물의 특성을 잘 파악하여 재미있는 주제부와 조화로운 연출이 중요하다고 생각하여 구도를 재미있고 창의적으로 연출하였습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 64.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.819
+  },
+  "clip_topic": {
+    "topic_score": 0.5674,
+    "topic_text": "오렌지와 털실 그리고 스프링이 출제되었고, 평소에 과일 종류는 다양하게 연습했는데, 오렌지가 나와서 차분하게 학원에서 연습했던 습관대로 풀어나갔습니다."
   }
 }

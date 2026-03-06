@@ -23,5 +23,14 @@
     "student_strength": "평소보다 아이디어를 구상하는 시간을 늘리고 최대한 즐기면서 이것저것 시도해 본 것이 합격의 주요인이라고 생각한다.",
     "teacher_feedback": "선생님께 여러 조언과 피드백이 중요하다고 생각한다.",
     "ideation_process": "표현하시오. 우선 최대한 주제에 집중하여 풀이를 했다."
+  },
+  "tier_refined": {
+    "tier_score": 67.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.987
+  },
+  "clip_topic": {
+    "topic_score": 0.5814,
+    "topic_text": "모양과 색이 다른 유리병 4개와 녹색 제도용 템플릿, 알파벳 대문자 T로 빛의 반사와 투명함을 표현하시오. 우선 최대한 주제에 집중하여 풀이를 했다."
   }
 }

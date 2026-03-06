@@ -22,5 +22,14 @@
     "student_strength": "최대한 정리하면서 그리려고 노력한 것과 최대한 열심히 한 것이 중요한 역할을 한 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "원의 반복과 매끈한 재질의 테이블, 받침대의 구가 회전을 할 수 있는 테이블처럼 보였다. 실제로 처음보고 회전테이블인줄 알았다."
+  },
+  "tier_refined": {
+    "tier_score": 70.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.304
+  },
+  "clip_topic": {
+    "topic_score": 0.5866,
+    "topic_text": "2절지 왼쪽에는 제시된 테이블의 요소를 추출하여 평면디자인하라는 문제가 나와서 평소에 평면문제를 풀 때 선생님께서 말씀해주신 여러가지 주의점을 지키며 풀었다. 원의 반복과 매끈한 재질의 테이블, 받침대의 구가 회전을 할 수 있는 테이블처럼 보였다."
   }
 }

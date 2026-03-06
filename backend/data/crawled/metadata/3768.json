@@ -22,5 +22,14 @@
     "student_strength": "흔하지 않은 조형과 확실한 포인트였다고 생각합니다.",
     "teacher_feedback": "선생님께서 지적해주신 부분을 위주로 오답노트를 하며 다시 같은 실수를 반복하지 않도록 주의했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 30.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.033
+  },
+  "clip_topic": {
+    "topic_score": 0.5929,
+    "topic_text": "적포도와 후라이팬이 출제 되었으며 확실한 포인트를 만들고 색을 예쁘게 쓰는 것에 집증하였습니다."
   }
 }

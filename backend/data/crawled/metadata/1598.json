@@ -23,5 +23,14 @@
     "student_strength": "고등학생 때부터 두상 실기에 대해 자신감이 없었는데 학원을 다니며 두상 실기를 꾸준히 하였더니 자신감이 생겼고 덕분에 더 잘하고 싶다는 욕심도 생겼다. 가끔 또래 친구들을 보며 상대적 박탈감을 느꼈던 것이 가장 힘들었다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 77.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.664
+  },
+  "clip_topic": {
+    "topic_score": 0.5814,
+    "topic_text": "20대 여성, 긴장하지 않고 평소에 하던 대로만 하자라고 생각하였다."
   }
 }

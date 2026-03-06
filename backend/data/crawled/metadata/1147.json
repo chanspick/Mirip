@@ -22,5 +22,14 @@
     "student_strength": "전날 건대 글로컬 준비하면서 시험 볼때 그림 분량과 주제부에 적절한 크기를 여러번 강조하셨는데 그게 머릿속에 박혀서 시험날 생각나서 그림 분량과 주제부 크기를 조절 할 수 있었고 그게 도움이 된 것 같다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 80.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.809
+  },
+  "clip_topic": {
+    "topic_score": 0.5853,
+    "topic_text": "줄자와 스프링 추?였다.제시어가 힘이라고 나와서 그 제시어를 보여주기 위해서 내가 생각한 힘인 충돌을 중심으로 풀어나가려고 했다."
   }
 }

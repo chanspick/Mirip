@@ -22,5 +22,14 @@
     "student_strength": "첫째는 합격률이 좋은 학원을 선택하는 것입니다. 둘째는 다양한 주제로 그림을 그렸고 그런 다양한 경험들이 문어라는 뜻밖에 주제를 받았을 때도 당황하지 않고 시험을 끝낼수 있었던것 같습니다",
     "teacher_feedback": "선생님들이 피드백 해주신 말씀들을 작은 노트에 따로 적어두고 나중에 개인적으로 부족한 부분을 드로잉 하는등의 준비를 하였다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 36.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.321
+  },
+  "clip_topic": {
+    "topic_score": 0.6051,
+    "topic_text": "최대한 문어의 다리나 문어의 먹물 물방울등을 이용해서 역동적으로 표현 하였고 어린아이 두명에서 망토와 장난감 칼를 들고 싸우는 모습을 그렸습니다"
   }
 }

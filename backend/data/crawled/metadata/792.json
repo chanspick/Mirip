@@ -23,5 +23,14 @@
     "student_strength": "출제 문제 그대로 순수하게 생각했고 단순하게 문제를 받아들였다. 그리고 만들기 전 작품을 구상하고 구상했던대로 차분히 만들고 나의 능력치를 최대한 활용해서 만들었기 ��문이라 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "그래서 문제 그대로 만들었다. 괜히 혼자 깊이 생각하고 꼬아서 생각하지는 않았다."
+  },
+  "tier_refined": {
+    "tier_score": 53.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.267
+  },
+  "clip_topic": {
+    "topic_score": 0.6005,
+    "topic_text": "가천대는 '거울을 보는 20대 여성' 을 만드는 것이였다. 그래서 문제 그대로 만들었다."
   }
 }

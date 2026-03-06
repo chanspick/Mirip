@@ -23,5 +23,14 @@
     "student_strength": "제시한 3명의 전신을 성실하게 모두 표현한 것",
     "teacher_feedback": "피드백을 받으며 고쳐나감 61.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 48.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.009
+  },
+  "clip_topic": {
+    "topic_score": 0.6003,
+    "topic_text": "문제는 제시한 사람 3명을 자유롭게 구성이었고 내가 제일 잘 표현 할 수 있는 사람을 주제로 두어 포인트로 뽑아내도록 노력함."
   }
 }

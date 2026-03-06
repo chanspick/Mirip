@@ -22,5 +22,14 @@
     "student_strength": "남들 보다 레몬을 크고 채도 높게 표현해 눈에 띄게 하고 중심에서 컵의 굴절을 잘 보여준 것이 합격의 주요인이라 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하라 하였고 물이 든 컵을 중심에 배치해 레몬과 테이프의 굴절이 잘 보이도록 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 36.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.304
+  },
+  "clip_topic": {
+    "topic_score": 0.5743,
+    "topic_text": "물이 든 컵과 레몬, 줄무늬 종이테이프가 나왔고 빛의 굴절을 표현하라 하였고 물이 든 컵을 중심에 배치해 레몬과 테이프의 굴절이 잘 보이도록 했습니다."
   }
 }

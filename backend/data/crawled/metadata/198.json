@@ -23,5 +23,14 @@
     "student_strength": "학원선생님의 말씀을 잘 듣고 꾸준히 그림을 그리는게 중요하다고 생각합니다.",
     "teacher_feedback": "선생님께서 가르쳐 주시는대로 따라갔습니다..",
     "ideation_process": "상명대는 50개 주제가 미리 나오기때문에 준비한대로 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 63.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.791
+  },
+  "clip_topic": {
+    "topic_score": 0.5601,
+    "topic_text": "출제당시 문제는 Design korea, Design city 였습니다. 상명대는 50개 주제가 미리 나오기때문에 준비한대로 그렸습니다."
   }
 }

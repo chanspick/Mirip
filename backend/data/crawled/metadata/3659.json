@@ -22,5 +22,14 @@
     "student_strength": "후회하지 않을만큼 열심히 한 것 같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 53.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.288
+  },
+  "clip_topic": {
+    "topic_score": 0.5542,
+    "topic_text": "앵무새, 해바라기, 달걀 껍질로 자유롭게 구성하라 했으며 학원에서 연습했던 거를 떠올리며 그렸다."
   }
 }

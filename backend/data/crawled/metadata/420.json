@@ -24,5 +24,14 @@
     "student_strength": "실기 준비 기간 동안 쌓아온 경험과 수업시간에 배우는 것으로 끝내지 않고 평소에 인터넷으로 다양한 그림을 많이 보았던 것도 도움이 되었습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하는 것이었는데 평소 그리던 스타일에 속도감을 첨가하는 식으로 그려나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 62.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.729
+  },
+  "clip_topic": {
+    "topic_score": 0.5897,
+    "topic_text": "시계, 펜, 빗으로 속도감을 표현하는 것이었는데 평소 그리던 스타일에 속도감을 첨가하는 식으로 그려나갔습니다."
   }
 }

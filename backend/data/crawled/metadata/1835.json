@@ -22,5 +22,14 @@
     "student_strength": "’일러스트를 통해 이 게임에 흥미가 생길 수 있을까?‘를 중점적으로 생각했다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오‘가 주제였다. 예전에 주제와 비슷한 상황의 게임을 해본 적이 있어 라이플과 같은 관련 아이템들을 어렵지 않게 표현할 수 있었다."
+  },
+  "tier_refined": {
+    "tier_score": 57.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.452
+  },
+  "clip_topic": {
+    "topic_score": 0.5964,
+    "topic_text": "’도시에서 웜홀들이 열리고 다른 차원의 몬스터들이 쏟아져 나오고 있다. 일인칭 유저가 라이플을 들고 이들과 역동적인 전투를 벌이고 있는 장면을, 유저의 시점에서 자유로운 상상력을 발휘하여 게임상황표현하시오‘가 주제였다."
   }
 }

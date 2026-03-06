@@ -23,5 +23,14 @@
     "student_strength": "난처한 질문을 받았을 때에도 ‘당황했다’는 느낌을 주지 않도록 표정과 억양을 철저하게 조절해가며 답변을 했고, 나 자신이 애니메이션이라는 분야에 깊은 관심을 가지고 배워나가고 싶은 열정을 면접관들에게 잘 전달해 줬던 것이 합격의 가장 큰 요인이었다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 75.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.54
+  },
+  "clip_topic": {
+    "topic_score": 0.6175,
+    "topic_text": "잘 기억은 안나지만 대충 미래에 새로 나오게 될 sns에 대해서 상상하여 40분동안 그린 후 면접실에서 발표하는 면접 형태였는데, 계속 발전하고 있는 vr기술을 응용하여 더 이상 인류가 숨을 쉴 수 없게 된 환경에서의 가상 현실 sns를 표현하여 발표했습니다."
   }
 }

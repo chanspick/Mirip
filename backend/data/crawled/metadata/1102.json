@@ -23,5 +23,14 @@
     "student_strength": "'훌륭한 선수는 훌륭한 팀에서 나온다'라고 생각합니다. 최정예 팀일수록 팀의 수준을 유지하려는 기존 선수들의 열망이 강하니까요. 미술을 처음 시작하면서 들어간 학원은 불꽃튀는 투지의 학생들과 강사진들 덕분에 빠른 성장이 가능했습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 84.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.999
+  },
+  "clip_topic": {
+    "topic_score": 0.6021,
+    "topic_text": "복잡하게 생각하지 않고 '권투 시합 중 강한 펀치를 맞고 고개가 돌아간 40대 남성을 쇄골 주위까지 만드시오'라고 제시된 문장을 그대로 형상화하기에 집중했습니다."
   }
 }

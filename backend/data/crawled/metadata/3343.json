@@ -22,5 +22,14 @@
     "student_strength": "주변은 대부분 유리구슬을 주제부로 하였는데 빨간색 다용도칼을 주제부로 한 것과 개체 간에 표정을 지어준 것이 합격에 도움이 되었던 것 같습니다.",
     "teacher_feedback": "피드백을 계속 생각하며 단점을 개선하려고 노력했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 32.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.132
+  },
+  "clip_topic": {
+    "topic_score": 0.5755,
+    "topic_text": "출제문제는 다용도칼, 유리구슬, 우산이었는데 개체 3개간의 관계를 만들어서 표정을 지어주는 게 중요하다고 생각하여 칼이 우산을 찌르고 찢어진 우산 사이로 유리구슬이 튀어나오는 내용으로 풀어나갔습니다."
   }
 }

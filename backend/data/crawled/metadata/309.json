@@ -22,5 +22,10 @@
     "student_strength": null,
     "teacher_feedback": "선생님들이 여러가지 기준과 자료, 조언을 통하여 다양한 방법의 지도를 해주셔서 제 방식에 맞는 테크닉적인 부분을 보완 할 수있게 되었습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 77.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.678
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "그냥 간절함과 최대한 평소작 처럼 하겠다는 마음가짐이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다. 동덕여대는 색 변형이 가능한 곳이라고 알고있어서 포인트 부분에 노란색으로 포인트를 줬고 단추들로 점적인 요소들을 만들고 색의 균형을 맞췄습니다."
+  },
+  "tier_refined": {
+    "tier_score": 64.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.809
+  },
+  "clip_topic": {
+    "topic_score": 0.5697,
+    "topic_text": "동덕여대는 검정색과 흰색이 섞인 체크무늬 핀쿠션과 하얀색 줄자가 나왔어요. 일단 둘다"
   }
 }

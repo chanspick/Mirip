@@ -22,5 +22,10 @@
     "student_strength": "선생님들께: 제가 서울대학교에 합격할 수 있었던 것은 주변사람들의 도움 덕분이었습니다. 특히 기술적으로, 심리적으로 저를 이끌어주신 모든 선생님들께 감사하다는 말씀 드리고 싶습니다. 선생님들께 받은 가르침과 은혜를 바탕으로 대학교에서도 열심히 해보겠습니다!",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 90.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

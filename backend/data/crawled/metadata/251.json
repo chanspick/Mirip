@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "그래서 시간분배에 가장 신경을 썼다. 그리는 속도가 빠른 만큼 구도 생각하는 시간이나 스케치하는 시간을 늘렸다."
+  },
+  "tier_refined": {
+    "tier_score": 77.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.678
+  },
+  "clip_topic": {
+    "topic_score": 0.6135,
+    "topic_text": "평소 에도 손이 빠른편인데 시험장에서는 더욱 빨라져서 시간이 남는 편이었다. 그래서 시간분배에 가장 신경을 썼다."
   }
 }

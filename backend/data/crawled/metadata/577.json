@@ -23,5 +23,14 @@
     "student_strength": "천천히 대칭을 맞춘 뒤에 멀리 나가서 모델과 작품을 비교하며 고쳤던 게 도움이 되었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 48.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.032
+  },
+  "clip_topic": {
+    "topic_score": 0.5976,
+    "topic_text": "안구가 돌출된 느낌이 특징인 여성분이었는데, 가장 어려워하는 특징 중 하나여서 긴장했지만 그래서 더 차분하게 만들었습니다."
   }
 }

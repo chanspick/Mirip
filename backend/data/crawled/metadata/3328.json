@@ -22,5 +22,14 @@
     "student_strength": "다른곳에 집중하지 않고, 주제를 잘 강조해서 보여줬던것이 교수님께 잘 보였던거 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "주제가 블루투스 헤드폰이여서 헤드폰를 최대한 강조시켜 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 60.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.605
+  },
+  "clip_topic": {
+    "topic_score": 0.5754,
+    "topic_text": "손목 시계와 전화기로 블루투스 헤드폰을 기초디자인 하시오 였습니다. 주제가 블루투스 헤드폰이여서 헤드폰를 최대한 강조시켜 그렸습니다."
   }
 }

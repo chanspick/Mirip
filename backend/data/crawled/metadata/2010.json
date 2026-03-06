@@ -22,5 +22,14 @@
     "student_strength": "체계적으로 입시를 준비할 수 있다는 점에서 도움을 받을 수 있을 거라 생각하여 창조의아침을 선택하게 되었고 또 학생들이 많기 때문에 주위 친구들의 그림을 보면서 자신의 것과 비교하고 또 서로 좋은 점을 배워나갈 수 있다는 점이 좋았습니다.",
     "teacher_feedback": "피드백을 받으면서 리메이크하는 것을 반복했습니다.",
     "ideation_process": "ALESSI 버드 주전자의 홍보 포스터를 그리시오. 2."
+  },
+  "tier_refined": {
+    "tier_score": 69.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.212
+  },
+  "clip_topic": {
+    "topic_score": 0.635,
+    "topic_text": "1. ALESSI 버드 주전자의 홍보 포스터를 그리시오."
   }
 }

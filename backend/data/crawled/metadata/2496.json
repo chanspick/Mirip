@@ -22,5 +22,14 @@
     "student_strength": "선생님의 피드백과 그리고 내 문제를 고쳐 나갈수있는 끈기와 노력이라고 생각한다",
     "teacher_feedback": "선생님이 피드백 주신 내용으로 그림을 그렸고 선생님이 가르쳐주신 것을 기반으로 내 스타일의 그림을 찾을려고 노력했다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 39.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.477
+  },
+  "clip_topic": {
+    "topic_score": 0.5969,
+    "topic_text": "출제문제는 와인병 와인잔이었으며 기본구도를 쓰는 대신 색과 터치로 실기를 끌어갔다"
   }
 }

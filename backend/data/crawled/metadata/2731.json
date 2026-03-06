@@ -22,5 +22,14 @@
     "student_strength": "좁은 공간에서 사진을 가지고 계속 나와서 비교한것이 주요인이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": ". 측면사진에 목끝나는 지점이 나와있지 않아서 잘 생각하며 완성해야겠다고 생각했다."
+  },
+  "tier_refined": {
+    "tier_score": 72.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.415
+  },
+  "clip_topic": {
+    "topic_score": 0.613,
+    "topic_text": "40대 아저씨 사진이 나왔다 ."
   }
 }

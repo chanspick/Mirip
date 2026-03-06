@@ -23,5 +23,14 @@
     "student_strength": "시험에 들어가기에 앞서 평소에 실수가 잦았던 부분들이나 선생님께서 피드백해주신 부분들을 머릿속으로 다시금 생각했습니다. 제시물로 나온 병뚜껑과 볼펜의 관계보다는 제시어로 나온 볼펜의 ‘분해’를 표현하는데 더 신경 썼고 시험 중간에도 계속 그림에 틀린 부분은 없는지 더 추가할 부분은 없는지 확인하면서 그려서 밀도 높은 그림을 완성할 수 있었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.341
+  },
+  "clip_topic": {
+    "topic_score": 0.6059,
+    "topic_text": "구두솔과 치약이 나왔습니다."
   }
 }

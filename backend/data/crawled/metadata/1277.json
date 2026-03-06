@@ -24,5 +24,14 @@
     "student_strength": "시험의 처음부터 끝까지 내 작품을 계속 의심하며 만든 게 합격에 도움이 된 것 같습니다.",
     "teacher_feedback": "선생님과 대화를 통해 풀어가고 학원에서 시험을 보며 부족한 것들을 연습했습니다.",
     "ideation_process": "늘 지적받았던 것들을 학원에서보다 더 주의 깊게 보고 계속 사진을 들고나가 관찰하고 수정하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 48.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.032
+  },
+  "clip_topic": {
+    "topic_score": 0.6123,
+    "topic_text": "여자 모델의 여덟 각도 사진이 제시되었습니다. 늘 지적받았던 것들을 학원에서보다"
   }
 }

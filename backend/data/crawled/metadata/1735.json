@@ -23,5 +23,14 @@
     "student_strength": "평소에 선생님께서 잘 가르쳐 주셔서 실력이 많이 늘었고 그림을 깔끔하고 튀게 그릴려고 노력했습니다.",
     "teacher_feedback": "선생님께서 해주신 피드백들을 잘 새겨 들었습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 62.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.744
+  },
+  "clip_topic": {
+    "topic_score": 0.6037,
+    "topic_text": "브로콜리와 주사기였고 문제지를 유의해서 읽고 개체의 특성을 잘 고려하여 그렸습니다."
   }
 }

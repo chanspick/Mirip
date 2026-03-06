@@ -22,5 +22,14 @@
     "student_strength": "선생님께서 지적해주신 부분을 다음번에 고쳐서 다시 그려보려 했고 나는 한번 완성한 그림을 한번으로 끝내는 것이 아니고 꼭 3~4번씩 더 그렸다. 그러다 보니 그 그림 자체를 안보고도 그릴 수 있고 그렸던 그림을 또 다르게 응용하여 다양한 투시로도 바꿔 그릴 수 있게 되었다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 37.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.372
+  },
+  "clip_topic": {
+    "topic_score": 0.5854,
+    "topic_text": "컴퓨터 프로그램을 이용한 연극무대를 그려본 적은 없었기 때문에 처음에 주제를 받았을 땐 조금 당황스러웠지만 그려왔던 그림들을 하나하나 떠올리며 연습했던 것에 적용해서 주제가 선명히 보여 지게 연출하려 노력했다."
   }
 }

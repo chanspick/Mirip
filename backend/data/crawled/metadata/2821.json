@@ -23,5 +23,14 @@
     "student_strength": "전체적으로 살짝 빛 받는 듯한 따듯한 톤으로 맞추었던 점 이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 61.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.656
+  },
+  "clip_topic": {
+    "topic_score": 0.5797,
+    "topic_text": "당일 주제는 '아침' 이였고, 바닥구성의 그림자를 햇빛 받는 것 처럼 노랑계열로 맞추면서 그렸고, 주제부 사물도 노란끼를 섞어가면서 그렸습니다."
   }
 }

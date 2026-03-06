@@ -22,5 +22,10 @@
     "student_strength": null,
     "teacher_feedback": "선생님들의 피드백을 기록하고, 그림의 부족한 부분을 기억하여 조금씩 고쳐나갔습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 65.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.045
   }
 }

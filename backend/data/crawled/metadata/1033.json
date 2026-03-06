@@ -23,5 +23,10 @@
     "student_strength": "성적이 우선적으로 중요하다고 생각했으나 결과를 놓고 보니 실기력도 성적 만큼이나 중요함을 깨달았다. 성적은 목표 학교의 실기고사를 치르기 위한 수단인 것이고, 실기력이 합격, 불합격을 결정한다는 것을 크게 느꼈다. 학원에서 학과의 특성, 학생 특성에 맞는 문제 풀이 및 실기 방향을 안내해 주는 것이 가장 좋았다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 84.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.124
   }
 }

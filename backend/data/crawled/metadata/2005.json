@@ -22,5 +22,14 @@
     "student_strength": "스토리텔링을 하는 방법과 대비 요소 등 미술의 기본적인 이론 같은 것을 많이 배워서 그걸 그림에 적용 시키면서 도움을 많이 받은 거 같습니다.",
     "teacher_feedback": "선생님이 내주신 숙제를 굉장히 열심히 했고요.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 82.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.933
+  },
+  "clip_topic": {
+    "topic_score": 0.6057,
+    "topic_text": "소재 : 철수세미, 빨래집게, 백붓, 백붓비닐커버 소재 같은 경우에는 철 수세미가 나와서 굉장히 당황 했는데 평소 수업을 떠올리며 비슷한 소재를 생각하면서 풀었습니다."
   }
 }

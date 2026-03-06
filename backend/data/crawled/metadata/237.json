@@ -23,5 +23,14 @@
     "student_strength": "평가할 때 내그림만 보지않고 다른 친구들의 장점과 단점을 나의그림에 비교,분석하며 지적받은 부분을 다음 그림엔 보완이 될수있도록 노력했습니다. 그런 노력이 있기에 합격한 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 65.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.877
+  },
+  "clip_topic": {
+    "topic_score": 0.5765,
+    "topic_text": "축구공과 가위가 나왔으며 문제를 받았을때에 축구공과 가위의 연관성과 물체의 디테일 특성,재질을 파악하려 했고, 그동안 그려왔던 그림을 바탕으로 오바하지 않고 기본에 충실할 수 있도록 그리려 노력했습니다."
   }
 }

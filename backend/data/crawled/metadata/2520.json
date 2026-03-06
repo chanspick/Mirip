@@ -23,5 +23,14 @@
     "student_strength": "붙을 리가 없다고 생각했던 학교라 붙고 난 후 저도 많이 놀랐습니다. 성적도 많이 낮았기에 더 그랬던 것 같습니다. 아무래도 성적이 낮으면 실기 덕에 합격했다고 할 수 있을 것 같은데요 합격하는 그림은 많은 그림들 사이에서 전하고 싶은 내용이나 아이디어가 잘 보여지는 그림이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.94
+  },
+  "clip_topic": {
+    "topic_score": 0.6011,
+    "topic_text": "주전자로 여유로움을 표현하시오"
   }
 }

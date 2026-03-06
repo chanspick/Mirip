@@ -22,5 +22,14 @@
     "student_strength": "그림을 깔끔하게 완결지었고 남들과 달라보이는 포인트를 찾으려했다.",
     "teacher_feedback": "선생님의 피드백을 노트에 받아적어 시험 당일날까지 정독했다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 48.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.919
+  },
+  "clip_topic": {
+    "topic_score": 0.5867,
+    "topic_text": "만년필, 종이, 스탠드조명이 나왔고 다이나믹이라는 제시어를 충분히 보여주려고 했다."
   }
 }

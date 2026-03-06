@@ -23,5 +23,14 @@
     "student_strength": "내가 취약한 부분을 머릿속에서 계속 강조하며 실수하지 않도록 집중했습니다. 쉬운 소재라 마무리 시간을 많이 남겨놓고 밀도를 계속 올렸기 때문에 완성도가 높아져서 합격할 수 있게 된 것 같습니다.",
     "teacher_feedback": "선생님의 피드백을 계속 떠올렸습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 61.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.691
+  },
+  "clip_topic": {
+    "topic_score": 0.5744,
+    "topic_text": "럭비공과 골프채가 나왔고 평소 학원에서 사용하던 구도에 맞춰 연출했고, 출제된 물체의 물성을 주제부에 부각되어 보이도록 했습니다."
   }
 }

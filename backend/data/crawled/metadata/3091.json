@@ -23,5 +23,14 @@
     "student_strength": "선생님께서 주신 피드백 받은 내용을 노트에 적어 복습하고 다양한 주제로 연습을 했던 것이 큰 도움이 되었습니다.",
     "teacher_feedback": "선생님께서 주시는 피득백을 적극적으로 반영하려고 노력했습니다..",
     "ideation_process": "어렵게 나왔지만 학원에서 연습한 대로 차분히 풀어갈려고 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 58.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.538
+  },
+  "clip_topic": {
+    "topic_score": 0.5965,
+    "topic_text": "주제는(레이서,우승하다,재치있는)이었습니다.주제가 생각보다 어렵게 나왔지만 학원에서 연습한 대로 차분히 풀어갈려고 했습니다."
   }
 }

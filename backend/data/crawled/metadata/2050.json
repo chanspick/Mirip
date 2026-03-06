@@ -22,5 +22,14 @@
     "student_strength": "부족한 부분을 복기하고 학원 전임 선생님들의 피드백을 보완하면서 실기를 준비했던 게 주요했던 거 같습니다.",
     "teacher_feedback": "선생님께 항상 여쭈어보면서 보완했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 73.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.433
+  },
+  "clip_topic": {
+    "topic_score": 0.5752,
+    "topic_text": "평소 학원 선생님께서 제 그림을 보시며 강조하셨던 주제부 키우기를 생각하며 스케치를 했고, 채색을 할 때는 대비에 신경 썼습니다."
   }
 }

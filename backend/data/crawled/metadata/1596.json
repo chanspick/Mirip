@@ -24,5 +24,10 @@
     "student_strength": "일기같이 글을 많이 적으면서 나의 생각을 정리하는 게 도움이 되었던 것 같습니다. 머리를 한번 비워내야 잘 써먹을 수 있더라고요. 그리고 열심히 잤습니다. 또 학원 이름답게 입체를 조형하는 방법을 크게 배워갔습니다. 3차원 공간에 대한 인지, 무게에 대한 이해, 공간에 배치하는 방식 등 2차원에 갇혀있던 눈을 깨울 수 있었습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 73.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.429
   }
 }

@@ -24,5 +24,14 @@
     "student_strength": "선생님말씀을 잘 따르는것 이라고 생각합니다. 또한 잘 안되는 부분들을 계속 시도해보며 나의것으로 만드려고 노력했습니다.",
     "teacher_feedback": "선생님말씀을 전적으로 믿고 따르려 했습니다.",
     "ideation_process": "접근했고 머리양이 깨지지 않고 볼륨감을 잘 살려 표현했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.058
+  },
+  "clip_topic": {
+    "topic_score": 0.5988,
+    "topic_text": "실물모델로 각지고 파마를 한 20대 남자가 나왔습니다. 평소 구조가 잘보이는 모델을 선호했기 때문에 구조를 잘 맞춰 접근했고 머리양이 깨지지 않고 볼륨감을 잘 살려 표현했습니다."
   }
 }

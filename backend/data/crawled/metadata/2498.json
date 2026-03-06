@@ -22,5 +22,14 @@
     "student_strength": "최대한 한 눈에 잘 보이는 그림이 중요하다고 생각합니다 물체의 특성을 잘 살려 그림을 그렸기 때문에 좋은 결과가 있었다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "판단하여 기본구도를 썼고 전구를 이용해 최대한 화사하게 가고자 하였습니다. 물체의 특성을 살려 구도를 짜려고 노력했습니다"
+  },
+  "tier_refined": {
+    "tier_score": 42.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.64
+  },
+  "clip_topic": {
+    "topic_score": 0.5803,
+    "topic_text": "전구, 운동화끈, 세차장갑이었으며 구도를 실험적으로 가는 거보다는 기본구도가 가장 낫다 판단하여 기본구도를 썼고 전구를 이용해 최대한 화사하게 가고자 하였습니다."
   }
 }

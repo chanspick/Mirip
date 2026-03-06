@@ -23,5 +23,14 @@
     "student_strength": "공부와 실기 모두를 챙기려 노력한 것이라 생각한다. 성적 70에 실기 30인 고려대학교를 목표로 삼은 만큼, 실기뿐만 아니라 공부도 열심히 하였다. 또, 원장님께서 그림자료를 다양하게 챙겨주셔서 많은 도움이 되었다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 71.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.341
+  },
+  "clip_topic": {
+    "topic_score": 0.5705,
+    "topic_text": "한번도 그려보지 않은 개체가 나와 처음에는 당황스러웠지만 사물 간 연관성과 개체의 특성을 파악하여 문제를 풀이하려고 노력했다."
   }
 }

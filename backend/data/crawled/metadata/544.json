@@ -22,5 +22,14 @@
     "student_strength": "건국대에서 요구하는 문제를 정확하게 그림에 잘 보여주는것이 중요한 것 같습니다. 건국대는 항상 제시물의 물성특징 및 조형성을 중요시 여기는 학교이기 때문에 이부분을 집중 공략하는 것이 좋은 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "병뚜껑의 반사와 삼색볼펜의 3가지 색깔을 활용하여 화면을 구성하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 74.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.494
+  },
+  "clip_topic": {
+    "topic_score": 0.5932,
+    "topic_text": "병뚜껑과 삼색볼텐이 출제되어 제시물의 조형적 특성과 물성을 활용하여 구성하라고 하였습니다. 병뚜껑의 반사와 삼색볼펜의 3가지 색깔을 활용하여 화면을 구성하였습니다."
   }
 }

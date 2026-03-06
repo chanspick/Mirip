@@ -24,5 +24,10 @@
     "student_strength": "디지털작업이 주가 되는 시대에 눈에 띄는 손그림이 저만의 매력포인트였던 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.344
   }
 }

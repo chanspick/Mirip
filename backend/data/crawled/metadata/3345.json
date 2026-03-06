@@ -22,5 +22,14 @@
     "student_strength": "선생님께서 강평 해주셨던 내용을 떠올렸던 것이 도움이 되었습니다.",
     "teacher_feedback": null,
     "ideation_process": "풀어나갔습니다. 맥가이버칼은 학원에서 연습했던 소재여서 구성이 쉽게 풀렸던 것 같습니다."
+  },
+  "tier_refined": {
+    "tier_score": 32.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.132
+  },
+  "clip_topic": {
+    "topic_score": 0.5746,
+    "topic_text": "맥가이버칼과 우산, 유리구슬이 나왔습니다. 소재가 3개이기 때문에 산만해지지 않도록 구성을 배치하여 풀어나갔습니다."
   }
 }

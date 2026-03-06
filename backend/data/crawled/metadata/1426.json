@@ -23,5 +23,14 @@
     "student_strength": "쌤들의 조언과 여러 작품들을 관찰한 것이 도움이 되었습니다.",
     "teacher_feedback": "선생님과 예상문제들을 분석하고 풀어보면서 여러 그림들을 그렸습니다..",
     "ideation_process": "표현하고자 했습니다. 아이스크림의 녹는 특성을 활용해 점점 사라지는 모습을 표현했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.104
+  },
+  "clip_topic": {
+    "topic_score": 0.6399,
+    "topic_text": "녹아내리고 있는 소프트 아이스크림 + 코로나관련지문 코로나 관련 지문이 나와서 예전과 달라진 우리의 삶을 표현하고자 했습니다. 아이스크림의 녹는 특성을 활용해 점점 사라지는 모습을 표현했습니다."
   }
 }

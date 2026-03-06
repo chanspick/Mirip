@@ -23,5 +23,14 @@
     "student_strength": "꾸준한 드로잉 연습이라고 생각합니다.",
     "teacher_feedback": "선생님들이 고치라는 부분을 고치려고 최대한 노력했습니다..",
     "ideation_process": "좀비 바이러스가 뒤덮은 도시를 주인공이 밧줄을 타고 아슬아슬하게 탈출하는 상황을 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 47.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.862
+  },
+  "clip_topic": {
+    "topic_score": 0.6423,
+    "topic_text": "\"전염병 위기로 도시 한복판에서 탈출하는 상황\" 이었습니다. 좀비 바이러스가 뒤덮은 도시를 주인공이 밧줄을 타고 아슬아슬하게 탈출하는 상황을 그렸습니다."
   }
 }

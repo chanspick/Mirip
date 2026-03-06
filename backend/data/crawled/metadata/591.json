@@ -22,5 +22,14 @@
     "student_strength": "학원에서 선생님들이 많이 신경써 주셨고 끝까지 포기하지 않았기 때문에 합격할 수 있었다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 69.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.243
+  },
+  "clip_topic": {
+    "topic_score": 0.5985,
+    "topic_text": "큐브, 오카리나, 오선지, 음표 큐브의 다양한 모습을 그리려 노력했고 리듬감이 느껴질 수 있도록 오선지와 음표를 활용하였습니다."
   }
 }

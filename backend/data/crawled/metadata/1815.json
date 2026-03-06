@@ -22,5 +22,14 @@
     "student_strength": "시험 전 날에 선생님이 말씀해주신 문제점들을 최대한 피하고 자주 하던 실수를 줄인것이 주요인 같다.",
     "teacher_feedback": "선생님이 말씀해주시는걸 필기했고 틈이 나는대로 SNS로 합격작이나 시범 등을 자료를 많이 찾아 봤었다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 61.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.696
+  },
+  "clip_topic": {
+    "topic_score": 0.5686,
+    "topic_text": "스키장갑, 정수기물통, 벨트가 나왔는데 최대한 시험 전 날 선생님이 강평해주실때 지적받은 문제점들을 절대 여기서 그리고 가지 않겠다고 생각하며 하나하나 체크하며 그렸던거 같다."
   }
 }

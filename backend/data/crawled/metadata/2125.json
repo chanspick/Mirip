@@ -23,5 +23,14 @@
     "student_strength": "선생님들께서 다양하게 문제 풀이를 해주셔서 시험 당일에도 부담감을 조금이나마 덜고 진행할 수 있었고 평소에 그림에 대해 들었던 내용들을 되새김 하면서 그렸던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 75.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.537
+  },
+  "clip_topic": {
+    "topic_score": 0.6081,
+    "topic_text": "학원에서 거의 똑같은 문제로 몇 번 풀었기 때문에 당황하지 않고 잘 풀어낼 수 있었습니다."
   }
 }

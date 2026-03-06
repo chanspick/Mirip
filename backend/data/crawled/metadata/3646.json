@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": "피드백들은 머리속에 바로바로 넣으려고 노력했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 50.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.116
+  },
+  "clip_topic": {
+    "topic_score": 0.6015,
+    "topic_text": "처음 모델이 앉았을 때 부터 끝날 때 까지 전체를 보려 노력했습니다."
   }
 }

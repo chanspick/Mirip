@@ -24,5 +24,10 @@
     "student_strength": "만화에 독특한 연출법을 적용한 것이라고 생각합니다. 단순히 네모난 칸 안에 그림을 집어넣는 평범한 만화가 아닌 여러 모양의 컷과 구도를 자유자재로 쓴 만화를 만들고자 하였고, 그런 개성에서 많은 점수를 얻을 수 있었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.344
   }
 }

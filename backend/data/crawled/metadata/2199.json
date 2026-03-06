@@ -23,5 +23,10 @@
     "student_strength": "제가 합격할 수 있게 많이 도와주신 선생님들께 정말 감사하다는 말을 드리고 싶습니다. 선생님들이 항상 제가 제 문제와 단점을 제대로 파악하고 고칠 수 있도록 지도해주셨기 때문에 좋은 결과를 낼 수 있었습니다.",
     "teacher_feedback": "선생님들의 피드백을 메모해두고 실기연습을 할 때 지적받은 부분과 스스로 모자라다고 생각하는 부분을 학원에 있는 많은 자료들과 그림들을 보며 고치기 위해 노력했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

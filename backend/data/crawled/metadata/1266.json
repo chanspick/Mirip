@@ -22,5 +22,14 @@
     "student_strength": "실기를 칠 때 밝은 노란색을 최대한 활용하며 그림을 밝고 쨍하게 그리려고 노력했었는데, 덕분에 좋은 결과가 있었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 42.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.617
+  },
+  "clip_topic": {
+    "topic_score": 0.5788,
+    "topic_text": "레몬과 비눗방울이 출제되었으며, 레몬을 잘라 나오는 레몬즙과 비눗방울을 이용해 레몬을 향한 집중도를 높혔으며, 그림의 뒤에서부터 앞까지 레몬껍질을 길게 배치하여 거리감이 느껴지도록 유도하였습니다."
   }
 }

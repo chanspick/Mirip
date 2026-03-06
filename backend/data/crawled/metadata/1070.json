@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 76.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.6
+  },
+  "clip_topic": {
+    "topic_score": 0.5972,
+    "topic_text": "옆자리 사람이 너무 잘그려서 그사람보다는 잘그리고싶다는 일념으로 열심히 그렸더니 그게 효과가 있었나봅니다."
   }
 }

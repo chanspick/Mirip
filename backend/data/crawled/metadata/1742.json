@@ -22,5 +22,14 @@
     "student_strength": "물은 맑은 개체라고 생각을 해서 최대한 타지 않고 깔끔하게 그리려고 노력 했던 것 같습니다.",
     "teacher_feedback": "선생님께서 피드백 해주신 것들을 듣고 문제점 개선을 위해 노력했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 35.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.263
+  },
+  "clip_topic": {
+    "topic_score": 0.5794,
+    "topic_text": "백산수와 줄자가 나왔고 양쪽에 배치 된 줄자를 타고 백산수에서 나온 물이 흘러 내리는것을 반복했습니다."
   }
 }

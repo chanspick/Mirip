@@ -23,5 +23,10 @@
     "student_strength": "학원에서 준비한 미술활동보고서와 면접대비가 상황에 맞게 잘 준비 한 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 71.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.316
   }
 }

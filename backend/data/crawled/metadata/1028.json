@@ -23,5 +23,14 @@
     "student_strength": "성적과 실기 컨디션 등 모든것이 밸런스가 맞은 것 그리고 선생님에 대한 믿음과 소통이 잘 이루어진것이라고 생각합니다.",
     "teacher_feedback": "선생님께 많이 여쭤보고 고치려고 노력했습니다..",
     "ideation_process": "제시된 물체의 사진이 자세히 안보였기 때문에 재질의 표현에 신경썼습니다."
+  },
+  "tier_refined": {
+    "tier_score": 51.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.16
+  },
+  "clip_topic": {
+    "topic_score": 0.5857,
+    "topic_text": "두루마리 휴지 ,비닐지퍼백,면도날이 나왔고 모두 무채색 물체이기 때문에 물체가 쉽게 떨어지지 않아서 물체간의 명도차이에 집중했다. 제시된 물체의 사진이 자세히 안보였기 때문에 재질의 표현에 신경썼습니다."
   }
 }

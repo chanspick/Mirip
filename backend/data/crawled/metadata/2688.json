@@ -22,5 +22,14 @@
     "student_strength": "스탠드를 활용한 모습을 보여준 것이 좋았던 것 같고, 색을 다양하게 사용한 점이 좋게 보인 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 37.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.356
+  },
+  "clip_topic": {
+    "topic_score": 0.5852,
+    "topic_text": "귤, 스탠드 조명, 털 장갑이 나왔고 스탠드의 활용과 털 장갑의 묘사를 잘 보여주는 것이 좋을 것 같았습니다."
   }
 }

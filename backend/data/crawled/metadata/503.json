@@ -22,5 +22,14 @@
     "student_strength": "합격을 위해서는 우선 성실하게 꾸준히 실기연습해서 실기력을 키우는게 중요한것같습니다! 선생님 말씀 잘듣고요.",
     "teacher_feedback": "선생님이 시키는대로 묵묵히하다보면 대학 갈거에요 !!.",
     "ideation_process": "까다로운 문제같아요. 가위와 테이프를 활용해서 반사필름을 재미있게 조형하고 그것을 배경으로 크레욜라를 창의적으로 배치하라는 문제였는데요."
+  },
+  "tier_refined": {
+    "tier_score": 69.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.241
+  },
+  "clip_topic": {
+    "topic_score": 0.5836,
+    "topic_text": "이번 국민대 실기고사문제는 다행히도 작년이랑 비슷한 유형이었지만 작년보다 까다로운 문제같아요."
   }
 }

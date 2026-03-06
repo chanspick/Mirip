@@ -23,5 +23,14 @@
     "student_strength": "원장선생님의 말씀이 도움이 많이 되었습니다",
     "teacher_feedback": "선생님들 말씀만 잘 듣고 열심히 했습니다.",
     "ideation_process": "표현하시오 저는 이주제를 보고 주변 외로운 형상들이 뭐가있는지 찾아보다가 건물 기둥이 혼자 서있는게 인상깊어서 원기둥을 만들었습니다"
+  },
+  "tier_refined": {
+    "tier_score": 54.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.31
+  },
+  "clip_topic": {
+    "topic_score": 0.5977,
+    "topic_text": "기하학적 형상으로 '멜랑콜리' 를 표현하시오 저는 이주제를 보고 주변 외로운 형상들이 뭐가있는지 찾아보다가 건물 기둥이 혼자 서있는게 인상깊어서 원기둥을 만들었습니다"
   }
 }

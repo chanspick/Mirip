@@ -22,5 +22,14 @@
     "student_strength": "모델의 이미지와 측면선, 전체적인 느낌을 맞춘것이 중요했다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "어께나 동세까지 사진에서 다 확인할 수 있었기 때문에 전체적인 느낌까지 맞추려고 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 69.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.217
+  },
+  "clip_topic": {
+    "topic_score": 0.6085,
+    "topic_text": "살짝 미소를 짓고있는 20대 여자가 나왔습니다. 어께나 동세까지 사진에서 다"
   }
 }

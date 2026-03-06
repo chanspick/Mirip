@@ -23,5 +23,14 @@
     "student_strength": "평소 학원에서 시험볼 때 좋은 평가를 받았던 상황표현들을 생각하며 가장 주제에 부합하는 그림에 맞춰 구도를 짰고, 교수님들이 제가 어떤 걸 그렸는지 알 수 있도록 주제에 최대한 부합하는 그림을 그리려고 노력했습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하세요. 인물과 배경(보호소)의 비율을 생각하여 모습을 표현해주세요."
+  },
+  "tier_refined": {
+    "tier_score": 50.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.131
+  },
+  "clip_topic": {
+    "topic_score": 0.5796,
+    "topic_text": "청강대: 당신은 유기견입니다. 임시 보호소에서 입양을 기다리고 있는 상황을 유기견의 관점에서 표현하세요."
   }
 }

@@ -24,5 +24,14 @@
     "student_strength": "입체의 선생님들이 다들 유연하시다. 다른 이의 말과 행동에 많은 영향을 받는 나인데 이 곳에서는 꼼꼼하게 나의 상태를 이해하고 고급스러운 채찍과 당근을 통해 나를 단련하였다. 그 과정에 나는 조금 더 성장했음을 느꼈고 궁극적으로는 나 스스로를 믿을 수 있었다.",
     "teacher_feedback": "선생님에게 듣게 된 말이 너무 충격과 공포여서 멘탈이 와르르 무너졌었다.",
     "ideation_process": "배운 것처럼 보이는 것을 최대한 표현하자."
+  },
+  "tier_refined": {
+    "tier_score": 48.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.032
+  },
+  "clip_topic": {
+    "topic_score": 0.6141,
+    "topic_text": "20대 여성, 8면의 A4사진. 배운 것처럼 보이는 것을 최대한 표현하자."
   }
 }

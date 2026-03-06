@@ -23,5 +23,14 @@
     "student_strength": "재미있는 구도들과 부족함 없는 분량, 그리고 눈에 띄는 묘사라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.93
+  },
+  "clip_topic": {
+    "topic_score": 0.5758,
+    "topic_text": "고무장갑과 와인 오프너가 나왔으며 사물들의 특성을 살려 그림에 이야기를 만들어 재미있는 구도를 연출하였습니다."
   }
 }

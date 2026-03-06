@@ -22,5 +22,14 @@
     "student_strength": "시간 좀 남아서 밀도와 정리를 꼼꼼하게 한 부분이 좋게 작용했다고 생각합니다",
     "teacher_feedback": "선생님이 주신 주제들을 풀며 지도에 따라 열심히 준비했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 83.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.958
+  },
+  "clip_topic": {
+    "topic_score": 0.5996,
+    "topic_text": "당일 출제문제는 핸드크림,털실이였고 즐겨쓰던 구성에 대입하여 그려나갔습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "하지만 중앙대를 연습하는 동안 항상 문제가 어렵다고 생각했어서 금방 받아들이고 최대한 빠르게 완성하려고 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 73.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.421
+  },
+  "clip_topic": {
+    "topic_score": 0.5876,
+    "topic_text": "럭비공, 축구공, 직조 패턴 공이 두 개나 출제되어서 당황했다. 하지만 중앙대를 연습하는 동안 항상 문제가 어렵다고 생각했어서 금방 받아들이고 최대한 빠르게 완성하려고 노력했다."
   }
 }

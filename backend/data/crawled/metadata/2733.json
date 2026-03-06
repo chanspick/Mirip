@@ -22,5 +22,14 @@
     "student_strength": "선생님들의 멘탈케어 입니다",
     "teacher_feedback": "선생님들의 따듯한 피드백을 수용하며 계속 보완했습니다 103.",
     "ideation_process": "당황하지 않고 큰 실루엣과 내부 구조점을 생각하며 사진과 비교하며 풀어갔습니다"
+  },
+  "tier_refined": {
+    "tier_score": 74.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.493
+  },
+  "clip_topic": {
+    "topic_score": 0.5988,
+    "topic_text": "60대 남성모델입니다 당황하지 않고 큰 실루엣과 내부 구조점을 생각하며 사진과 비교하며 풀어갔습니다"
   }
 }

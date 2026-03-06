@@ -23,5 +23,14 @@
     "student_strength": "입시기간동안 선생님들께 정말 많이 배웠어요. 하나하나 잘 가르쳐주셔서 감사했습니다.",
     "teacher_feedback": "선생님들께 배워갔던것들이 많았던 것 같다.",
     "ideation_process": "시험장은 조용하고 자리에서 아무것도 안보여서 시험시간 중에는 마음이 편했었던 것 같다."
+  },
+  "tier_refined": {
+    "tier_score": 48.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.037
+  },
+  "clip_topic": {
+    "topic_score": 0.5986,
+    "topic_text": "시험장에 붓을 챙겨가지 않았어서 시험 시작 직전에 많이 당황했었다. 시험장은 조용하고 자리에서 아무것도 안보여서 시험시간 중에는 마음이 편했었던 것 같다."
   }
 }

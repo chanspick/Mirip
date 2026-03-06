@@ -23,5 +23,14 @@
     "student_strength": "열심히 했고 선생님께서 잘 가르쳐주셨다.",
     "teacher_feedback": "선생님께 그림 평가를 받았다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 73.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.421
+  },
+  "clip_topic": {
+    "topic_score": 0.5929,
+    "topic_text": "소라, 의자, 딱풀을 이용한 자유표현"
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "기본기에 충실하려고 했다. 그게 합격 요인같다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오. 카라멜이 담긴 어항이 날아오면서 안에 있던 카라멜이 쏟아지는 장면을 그리려고 했다."
+  },
+  "tier_refined": {
+    "tier_score": 40.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.54
+  },
+  "clip_topic": {
+    "topic_score": 0.5815,
+    "topic_text": "문제: 끈, 카라멜, 복주머니 모양 어항/주어진 사물을 활용하여 속도감을 표현하시오. 카라멜이 담긴 어항이 날아오면서 안에 있던 카라멜이 쏟아지는 장면을 그리려고 했다."
   }
 }

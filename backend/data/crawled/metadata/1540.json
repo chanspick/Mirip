@@ -23,5 +23,14 @@
     "student_strength": "화면 구성이 그림 점수의 절반 이상이다 보니 화면에도 많이 신경 쓰긴 했지만 가장 많이 고민한 것은 완성도입니다. 평소 손이 느리다는 말을 많이 들었고 고치려고 애썼지만 쉽게 고쳐지지 않는 미궁이었습니다.",
     "teacher_feedback": null,
     "ideation_process": "좀 충격이었지만 정신 차리고 문제지를 꼼꼼히 읽었습니다. 그다음에 제시어 분석을 들어갔죠."
+  },
+  "tier_refined": {
+    "tier_score": 48.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.018
+  },
+  "clip_topic": {
+    "topic_score": 0.5888,
+    "topic_text": "수시에서 화지 방향이 세로로 나왔는데 정시에서 또 나올 수가 있다?! 좀 충격이었지만 정신 차리고 문제지를 꼼꼼히 읽었습니다."
   }
 }

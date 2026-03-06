@@ -22,5 +22,14 @@
     "student_strength": "성적관리와 선생님의 피드백을 받고 그림의 단점을 빠르게 고치려고 한 점이 합격의 주요인인 것 같습니다",
     "teacher_feedback": "선생님께서 가르쳐주신대로 피드백을 잘 수용하며 더 나은 그림을 그릴 수 있도록 노력했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 37.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.388
+  },
+  "clip_topic": {
+    "topic_score": 0.6006,
+    "topic_text": "스포이드,금속카드링,노끈이 나왔고 제시어는 리듬감이었는데 평소에 리듬감으로 쓰던 구도가 있었어서 제 구도에 응용 하여 문제를 풀었습니다"
   }
 }

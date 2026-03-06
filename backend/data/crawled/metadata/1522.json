@@ -22,5 +22,14 @@
     "student_strength": "국어 점수가 많이 부족했던 만큼 영어 점수와 실기에 더 치중했으며 실기의 경우 특이한 구도와 연출에 신경 썼습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 64.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.802
+  },
+  "clip_topic": {
+    "topic_score": 0.6019,
+    "topic_text": "손을 제시어로 받고 굉장히 당황했지만, 의류디자인과에 맞게끔 제시어와 사물의 특성을 최대한 찾아내려고 노력하여 했습니다."
   }
 }

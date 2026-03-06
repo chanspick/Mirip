@@ -22,5 +22,14 @@
     "student_strength": "나의 부족함을 적극적으로 받아들이고 학원선생님이 피드백을 해주시는 부분을 최대한 빠르게 그림에 반영하려고 했다. 안되는 부분은 계속 시도해보고 단점을 극복해내는 것이 나의 합격 포인트라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "제시어가 잘 보일 수 있도록 천천히 고민해보고 차분하게 문제를 풀어갔다."
+  },
+  "tier_refined": {
+    "tier_score": 64.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.831
+  },
+  "clip_topic": {
+    "topic_score": 0.606,
+    "topic_text": "그려봤던 제시물들이 있었기에 긴장감을 덜했다. 제시어가 잘 보일 수 있도록 천천히 고민해보고 차분하게 문제를 풀어갔다."
   }
 }

@@ -23,5 +23,10 @@
     "student_strength": "저 같은 경우는 실제 시험장에서 긴장을 심하게 하는 편이기 때문에 최대한 마음의 여유를 갖기 위해 모든게 잘될거라고 스스로 마인드 컨트롤을 했습니다. 그리고 이 시험은 단지 청 미술학원에서 똑같은 그림을 그리는 것일 뿐 이라고 자기 최면을 하며 그림을 진행 하였습니다.",
     "teacher_feedback": "선생님들의 다양한 채본들을 보며 많은 시도를 해보곤 했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 50.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.105
   }
 }

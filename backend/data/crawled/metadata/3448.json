@@ -22,5 +22,14 @@
     "student_strength": "오토바이의 시점과 기울기가 중요하다고 생각합니다 역동적인 시점과 기울기가 오토바이의 물성과 잘 어우러진다고 느꼈습니다 그리고 완성도랑 주제부밀도도 중요하다고 생각합니다",
     "teacher_feedback": "선생님이 주시는 문제들로 시험을 치면서 준비했습니다.",
     "ideation_process": "오토바이가 역동적인 물체니까 그걸로 도넛을 부시는 이미지를 상상하며 그렸습니다"
+  },
+  "tier_refined": {
+    "tier_score": 32.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.137
+  },
+  "clip_topic": {
+    "topic_score": 0.5715,
+    "topic_text": "오토바이,도넛,고무밴드가 나왔습니다 오토바이가 역동적인 물체니까 그걸로 도넛을 부시는 이미지를 상상하며 그렸습니다"
   }
 }

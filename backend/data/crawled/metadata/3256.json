@@ -22,5 +22,10 @@
     "student_strength": "저는 성적대가 높은 편도 아니었고 그림 그리는 스킬도 남들보다 월등히 뛰어나지도 않았습니다.",
     "teacher_feedback": "선생님들의 세심한 피드백을 통해 이화여대가 어떤 그림을 원하는지, 그리고 어떻게 그려야 실기장에서 더욱 돋보일 수 있을지 매일 고민하고 점차 그 포인트들을 깨달아 저만의 그림으로 풀어낼 수.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 79.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.746
   }
 }

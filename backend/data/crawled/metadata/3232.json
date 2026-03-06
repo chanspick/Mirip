@@ -23,5 +23,14 @@
     "student_strength": "주어진 조건에 벗어나지 않고 깔끔하게 표현한 것이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하려고 하는 제시물의 질감을 확실히 보여주는 것에 집중했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 54.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.317
+  },
+  "clip_topic": {
+    "topic_score": 0.5796,
+    "topic_text": "최대한 깔끔하게 그리려고 노력했고 제시물이 가지고 있는 물적 특성을 활용하여 그리려고 노력했습니다. 주제 부분에 제시물을 크게 넣어 표현하려고 하는 제시물의 질감을 확실히 보여주는 것에 집중했습니다."
   }
 }

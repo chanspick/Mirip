@@ -22,5 +22,14 @@
     "student_strength": "선생님과 함께 정한 구도에 최대한 정확히 맞추려했고, 채도가 떨어지거나, 농도가 잘못되지 않도록 신경 썼습니다.",
     "teacher_feedback": "피드백을 받고 고쳐나가며 퀄리티를 높여나갔습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 81.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.863
+  },
+  "clip_topic": {
+    "topic_score": 0.5855,
+    "topic_text": "주제는 철사끈으로 묶인 비닐봉지에 담긴 고구마와 털실뭉치가 나왔고, 털실뿐만 아니라 고구마의 껍질 또한 선제로 사용하고, 고구마 채도를 높임으로서 다른 그림들과 차이를 두려했습니다."
   }
 }

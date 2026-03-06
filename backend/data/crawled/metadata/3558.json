@@ -23,5 +23,14 @@
     "student_strength": "선생님들께서 힘써주신게 가장 크다고 생각합니다",
     "teacher_feedback": "선생님들의 피드백을 최대한 수용하고자 했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 74.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.511
+  },
+  "clip_topic": {
+    "topic_score": 0.5843,
+    "topic_text": "고개를 살짝 기운채, 옅은 미소를 띄고 살짝 위를 바라보고 있는 표정의 여성이었고 의상이 어깨까지 전부 노출된 상태라 보이는 만큼 가슴판까지 잘 만들어내고자 하였습니다."
   }
 }

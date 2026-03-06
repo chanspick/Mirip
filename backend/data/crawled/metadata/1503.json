@@ -23,5 +23,14 @@
     "student_strength": "선생님들의 가르침과 많은 주제어를 연습해보고 피드백을 받고 친구들 그림과 비교해 본 것이 도움이 됐던것 같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 50.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.137
+  },
+  "clip_topic": {
+    "topic_score": 0.5865,
+    "topic_text": "처음에 문제를 받고 당황했는데 주제부 연출을 먼저 생각하고 나머지 부주제부는 어울리게 배치했다."
   }
 }

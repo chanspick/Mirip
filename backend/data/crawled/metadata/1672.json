@@ -23,5 +23,14 @@
     "student_strength": "평소 하던대로 최선을 다했기 때문이 아닐까. 막상 붙고 보니, 합격의 요인이 따로 있는 것 같지 않다. 합격하기 위해서는 평소의 실력을 높이고, 단점을 고치려고 최선을 다하는 것. 그것이 중요한 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "조금만 더 힘내자. 혼자 되내이며 긍정적 마인드로 시험을 봤다."
+  },
+  "tier_refined": {
+    "tier_score": 75.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.525
+  },
+  "clip_topic": {
+    "topic_score": 0.6109,
+    "topic_text": "20여자 (묶은머리)-사진제시 시험보면서 나는 할 수 있다는 마음으로 계속 만들었다. 조금만 더 힘내자."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님이 평가하시며 말씀해 주시는 내용을 메모함.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.334
+  },
+  "clip_topic": {
+    "topic_score": 0.61,
+    "topic_text": "보온병 마우스 핸드폰 충전기"
   }
 }

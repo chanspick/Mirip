@@ -23,5 +23,14 @@
     "student_strength": "성신여대 합격작을 분석해보면 대체로 밝은 옐로와 어두운 블루계열의 대비가 있는 그림들이 많이 뽑혓습니다. 저 또한 종이컵 안쪽 어둠과 휴지의 밝고 가벼운 느낌을 대비준 것에서 교수님들 눈에 띄었던 게 아닌가 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "둘다 가벼운 물체고 어둠이 모자를 것 같아 종이컵안쪽 면의 어둠과 또다른 종이컵의 밝은부분을 활용해 대비효과를 줄 수 있도록 화면구성했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 65.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.892
+  },
+  "clip_topic": {
+    "topic_score": 0.6012,
+    "topic_text": "종이컵과 휴지의 물성과 질감을 생각해 구성했습니다. 둘다"
   }
 }

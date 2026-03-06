@@ -23,5 +23,14 @@
     "student_strength": "예비반때 선생님의 말씀대로 포기하지 말고 끝까지 열심히 했다는것이 주요인이라 생각합니다.",
     "teacher_feedback": "선생님들의 피드백들과 여러 자료 참고 드로잉 연습으로 최대한 실력을 올리려했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.316
+  },
+  "clip_topic": {
+    "topic_score": 0.5883,
+    "topic_text": "메타버스 기술의 발달로인한 메타버스 대학 캠퍼스 또는 교육환경에서 기기와 기슬활용을 일상과 접목한 생활을 상상하시오였고 이전에 연습했던 미래적인 공간에서 요리를 하는 싱황표현을 한적이 있어 조리학과라라는 컨셉으로 메타버스와 접목시켜 풀어나갔습니다."
   }
 }

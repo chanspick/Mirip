@@ -22,5 +22,14 @@
     "student_strength": "남들과는 다른 스토리해석 방법으로 새로운 스토리를 만들려고 했던게 좋은 영향이 끼친 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "풀어나가야 하나 고민했고, 지금까지 연습해온 방식대로 새로운 시선으로 주제를 풀어나갈려고 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 34.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.233
+  },
+  "clip_topic": {
+    "topic_score": 0.5856,
+    "topic_text": "(주제: 인구 급감의 시대. 그 이유는 무엇일까? 우리는 어떻게 이 문제를 해결할 수 있을까?) 이 주제를 받고 처음엔 어떻게 풀어나가야 하나 고민했고, 지금까지 연습해온 방식대로 새로운 시선으로 주제를 풀어나갈려고 노력했습니다."
   }
 }

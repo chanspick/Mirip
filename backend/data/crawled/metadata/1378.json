@@ -22,5 +22,10 @@
     "student_strength": "실기의 경우에는 평소에 선생님들이 시키신것을 그대로 열심히 한 것 이다",
     "teacher_feedback": "선생님들이 올려주신 자료들을 눈으로 익히려고 노력했다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.064
   }
 }

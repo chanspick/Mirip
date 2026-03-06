@@ -22,5 +22,14 @@
     "student_strength": "정말 열심히 그렸으며 선생님들이 자주 강요하신것과 조언해주신 점들을 생각하며 그리는게 중요한거 같다.",
     "teacher_feedback": "선생님께 질문을 많이하려 노력했다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 78.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.687
+  },
+  "clip_topic": {
+    "topic_score": 0.5857,
+    "topic_text": "당일 출제물은 스텐주전자,국화,사과,감,삼다수(대),비닐봉지,흰 와이셔츠,종이가방 이였으며, 중앙대 특성인 자유로운 갯수 활용을 이용하여 독특한 구성을 그리려 했으며 그동안 선생님들께서 조언해주신 점들을 생각하며 각 정물의 특징을 살려 그리려고 노력했으며 시간 분배에 신경 썼다."
   }
 }

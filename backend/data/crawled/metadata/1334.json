@@ -23,5 +23,10 @@
     "student_strength": "손이 빠른 편이었지만 첫번째 시험에서 너무 빨리 완성해서 덧칠이 많아지는 실수가 있었기 때문에, 두번째 시험부터는 오히려 더 천천히 그리려고 노력했습니다. 후반부에 급해지더라도 첫 20분부터 형태까지의 시간을 충분히 들이는 것이 좋은 점수를 받을 수 있는 길이라 생각됩니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 50.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.117
   }
 }

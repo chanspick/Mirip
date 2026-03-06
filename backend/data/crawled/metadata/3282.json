@@ -23,5 +23,14 @@
     "student_strength": "확실한 명암대비라 생각합니다.",
     "teacher_feedback": "원장님께서 보완해야 할 부분을 정확하게 짚어주신 것이 큰 도움이 되었다고 생각해요.",
     "ideation_process": "각 소재의 물성을 각각 강조하기위해 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 56.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.411
+  },
+  "clip_topic": {
+    "topic_score": 0.5993,
+    "topic_text": "검정색 스니커즈, 커피드리퍼, 펜3개를 소묘하는 것이 었습니다. 각 소재의 물성을 각각 강조하기위해 노력했습니다."
   }
 }

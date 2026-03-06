@@ -23,5 +23,14 @@
     "student_strength": "정말 열심히 하면 이루어지는 것 같습니다. 선생님에게 늘 혼나도 절망하지 않고 개선점을 노트에 정리하고 버스에서 오고가는 와중에 계속해서 그것들을 보며 개선방안을 착안해나갔습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 79.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.778
+  },
+  "clip_topic": {
+    "topic_score": 0.5803,
+    "topic_text": "2차원과 3차원에 관한 주제였는데 이를 보고 저의 꿈에 관하여 생각이 났고 2차원의 청사진과 지도표들을 보고 3차원의 조형적인 건축물들을 끌어내 디자인할 수 있는 능력을 기르고 싶다는 저의 염원을 담아 표현하였습니다."
   }
 }

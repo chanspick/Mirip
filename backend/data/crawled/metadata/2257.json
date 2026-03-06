@@ -22,5 +22,14 @@
     "student_strength": "성장하는 모습을 스스로 높게 평가했던 것이 큰 도움이 되었습니다. 과거의 자신보다 실력이 좋아졌다는 점을 감사하게 생각했고 동시에 욕심을 가지게 되었습니다.",
     "teacher_feedback": null,
     "ideation_process": "보니 결과적으로 동일인물이라는 생각이 들게끔 만들어진 것 같습니다. 작품에 너무 빠져들지 않도록 눈을 식히며 객관화하려 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 76.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.605
+  },
+  "clip_topic": {
+    "topic_score": 0.6076,
+    "topic_text": "처음에는 기울기가 심한 모델이라 고민이 많았지만 양과 닮기에만 집중하다 보니 결과적으로 동일인물이라는 생각이 들게끔 만들어진 것 같습니다."
   }
 }

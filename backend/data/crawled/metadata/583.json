@@ -23,5 +23,14 @@
     "student_strength": "멀리 나와서 내 작품을 보고 대칭을 맞춘 것",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 48.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.032
+  },
+  "clip_topic": {
+    "topic_score": 0.5908,
+    "topic_text": "살집이 조금 있는 여자모델이였으며 다양한 각도에서 모델을 파악했다"
   }
 }

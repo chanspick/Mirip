@@ -22,5 +22,14 @@
     "student_strength": "아무래도 성적 반영이 다른 학교보다 높았던 것이 큰 이유 같습니다. 또한 합격작의 특징을 참고하여 그린 것도 큰 도움이 된 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "완전한 개체의 소묘 하나를 포함하시오"
+  },
+  "tier_refined": {
+    "tier_score": 61.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.686
+  },
+  "clip_topic": {
+    "topic_score": 0.598,
+    "topic_text": "신라면 컵라면, 나무젓가락, 분홍색 손선풍기 - 주어진 소재를 조형적으로 배치하시오 제시물의 색을 바꾸지 마시오. 완전한 개체의 소묘 하나를 포함하시오"
   }
 }

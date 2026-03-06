@@ -22,5 +22,14 @@
     "student_strength": "합격의 주 요인은 대비되는 색 조합과 특이한 화면 구성, 큰 주제부 구성인 거 같다",
     "teacher_feedback": "선생님이 피드백해 주신 대로 문제점을 고치려고 했고 느린 속도를 올리기 위해 과감하게 그리려고 많이 노력했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 42.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.64
+  },
+  "clip_topic": {
+    "topic_score": 0.6001,
+    "topic_text": "실기고사 문제는 속이 빈 전구랑 끈, 털 행주 장갑? 이였고 문제를 받고 기본 구도에 전구를 주제로 물체 색깔이 겹치지 않게 화면구성을 하고 창의성을 보여주기 위해 전 구안에 장갑을 넣고 끈은 선재로 주제 전구를 다른 전구가 깨는 구도로 했습니다."
   }
 }

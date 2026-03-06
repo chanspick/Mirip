@@ -23,5 +23,14 @@
     "student_strength": "기본기와 끈기 있는 모습이라고 생각합니다. 수시때는 밀도만 생각하며 밀도만 올리면 된다는 마음가짐으로 완성도에만 집착했었는데 별로 좋지 못한 결과를 받았습니다. 정시때는 스타일을 바꾸며 인체나 투시 등 기본기에 더욱 초점을 두고 연습했는데 이것이 합격의 주요인 이었다고 생각합니다.",
     "teacher_feedback": "피드백을 많이 들었습니다.",
     "ideation_process": "발상하여 풀이했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 52.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.242
+  },
+  "clip_topic": {
+    "topic_score": 0.604,
+    "topic_text": "(출제문제 – 손자와 삼계탕집에 들어간 할아버지. 삼계탕이 나왔는데, 그 안에 들어있던 닭은 정말 작았다."
   }
 }

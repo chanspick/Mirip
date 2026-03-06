@@ -22,5 +22,14 @@
     "student_strength": "주제부였던 빨간 전구가 그림에서 잘 보였기 때문이라고 생각합니다",
     "teacher_feedback": "선생님의 피드백을 그림에 적어두어서 같은 실수를 반복하지 않으려고 노력하며 실기를 준비하였습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 43.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.675
+  },
+  "clip_topic": {
+    "topic_score": 0.5901,
+    "topic_text": "당일 출제 문제는 전구와 아보카도였고 전날에 아보카도와 전구 스케치해 봤던 것을 바탕으로 스케치하였고 아보카도와 전구 중에 더 잘 보일 수 있을 것 같았던 전구를 빨간색으로 변형하여 주제부에 두면서 풀어나갔습니다"
   }
 }

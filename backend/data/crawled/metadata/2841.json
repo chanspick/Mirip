@@ -23,5 +23,14 @@
     "student_strength": "저에게는 간절함이라고 생각합니다. 간절함이 묻어나는 면접 태도와, 간절하기 때문에 열심히 준비한 실기들과 작업 경험들을 좋게 봐주셨을 것 같아요.",
     "teacher_feedback": null,
     "ideation_process": "발상이 들어간 극적인 오버랩 구도를 사용하고, SF 요소를 넣었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 79.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.771
+  },
+  "clip_topic": {
+    "topic_score": 0.583,
+    "topic_text": "1차에는 소설 ‘오기 렌의 크리스마스 이야기’의 내용 중 몇 단락이 나왔습니다. 음향과 ‘인생이 만약 꿈이라면?’이라는 문구를 읽는 주인공의 감정에 초점을 두고 몽환적인 연출에 신경을 써서 풀이했습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "주변을 긍정적으로 바라보고 내것으로 만드는 것. 이라고 생각합니다. 같은반 친구들 실기 수준이 뛰어났었는데 배우고 싶을때 도움을 요청하기도 하고 경쟁자가 아닌 동반자다! 라는 생각으로 배우다 보니 짧은 경력에도 많이 발전하여 합격할 수 있었던 것 같습니다!",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 57.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.471
+  },
+  "clip_topic": {
+    "topic_score": 0.5959,
+    "topic_text": "개체는 모기향이 나왔고 주제어는 '균형'이였는데 모기향을 그려본적은 없어 난감했지만, 균형하니까 저울이 떠올라 물체들의 상호작용을 통해 생성된 불꽃이 저울의 형상을 띄며 균형을 보여주는 포인트가 되도록 풀이 하였습니다."
   }
 }

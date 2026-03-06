@@ -22,5 +22,14 @@
     "student_strength": "- 다른 학교에 비해 성적이 크게 반영된다는 것과 어려운 문제가 나왔을때 당황하지 않고 문제를 푼 것이라 생각된다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 62.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.737
+  },
+  "clip_topic": {
+    "topic_score": 0.5978,
+    "topic_text": "- 자동차, 레몬스퀴즈, 의자 - 형태가 어려운 자동차가 나와서 형태가 틀리지 않게 옆면이나 윗면을 활용하여 자동차를 배치할 수 있게 구도를 짰다."
   }
 }

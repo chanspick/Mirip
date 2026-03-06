@@ -22,5 +22,14 @@
     "student_strength": "소묘에서 관찰을 열심히 했고, 디자인에서 물체의 특성을 잘 살린 점과 구성에서 좋은 점수를 받았던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "각각의 물체가 가지고 있는 특징을 최대한 활용 하려고 했습니다. 핸드크림에 복잡한 무늬와 상표가 있었는데 무늬를 간략하게 그리는 사람이 많은 것 같아서 상표와 무늬 표현에 더 신경 썼습니다."
+  },
+  "tier_refined": {
+    "tier_score": 82.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.939
+  },
+  "clip_topic": {
+    "topic_score": 0.5628,
+    "topic_text": "핸드크림과 털실이 나왔습니다. 각각의 물체가 가지고 있는 특징을 최대한 활용 하려고 했습니다."
   }
 }

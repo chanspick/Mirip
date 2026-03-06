@@ -22,5 +22,14 @@
     "student_strength": "나군 시험을 망쳤는데 그게 오히려 자극이 되어 다군 밖에 안 남았다는 간절함이 합격할 수 있게 만들어준 큰 이유였던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 53.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.269
+  },
+  "clip_topic": {
+    "topic_score": 0.5825,
+    "topic_text": "단국대학교는 오징어와 커피포트가 나왔는데 오징어의 움직임과 다리로 연출을 더 적극적으로 하자라고 생각하고 또 물을 그려도 상관이 없어서 물을 토하는 연출을 통해 더 극대화하자고 생각했던 것 같습니다."
   }
 }

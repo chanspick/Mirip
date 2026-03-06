@@ -22,5 +22,14 @@
     "student_strength": "실기를 늦게 시작하게 되면서 수시 합격에 대한 부담감이 컸었습니다. 마음도 몸도 충분히 급했지만 저에게 맞는 속도를 찾으며 안정적인 상태에서 그림을 그리는데 집중 할 수 있었고 그 만큼 멘탈을 유지하는데도 도움이 되었습니다.",
     "teacher_feedback": null,
     "ideation_process": "풀어나가기 위해 평소보다 스토리와 연출에서 많은 시간을 투자했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 44.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.71
+  },
+  "clip_topic": {
+    "topic_score": 0.5665,
+    "topic_text": "당시 이 문제를 가지고 내가 가진 스토리로 어떻게 연출할 수 있을까에 대해 많이 고민했습니다. 평소에 접해보기 어려운 주제여서 당황도 많이 했고 그 만큼 침착하게 풀어나가기 위해 평소보다"
   }
 }

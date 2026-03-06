@@ -22,5 +22,14 @@
     "student_strength": "선생님들의 피드백을 최대한 수용하려고 노력했기 때문이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오. 2.(디자인) 유리병과 스펀지 수세미의 특성을 이용하여 감귤(밀감)을 디자인하시오."
+  },
+  "tier_refined": {
+    "tier_score": 51.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.181
+  },
+  "clip_topic": {
+    "topic_score": 0.662,
+    "topic_text": "소재 : 유리병, 스펀지 수세미 1.(소묘) 유리병의 뚜껑을 열고 스펀지 수세미를 넣어 표현하시오. 2.(디자인) 유리병과 스펀지 수세미의 특성을 이용하여 감귤(밀감)을 디자인하시오."
   }
 }

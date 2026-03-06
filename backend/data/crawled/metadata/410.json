@@ -23,5 +23,14 @@
     "student_strength": "아무래도 눈에 띄게 배치한 주제와 주제를 돋보이게 해주는 배경부에 스토리설명 요소들 덕분에 합격한 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하면 경쟁력이 없을것 같아 스토리 위주의 주재풀이를 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 60.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.604
+  },
+  "clip_topic": {
+    "topic_score": 0.5974,
+    "topic_text": "비치파라솔과 속도라는 주제를 받고 비행기에서 추락하는 사람에게 낙하산 대신 파라솔을 쥐어주는 아이디어를 짰습니다. 단순히 속도만 표현하면 경쟁력이 없을것 같아 스토리 위주의 주재풀이를 했습니다."
   }
 }

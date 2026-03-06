@@ -24,5 +24,14 @@
     "student_strength": "욕심부리지 않고 기본적인 것들 정확하게 맞추기. 원장님께서 자주 해 주신 말씀인데 실기 방향 잡는 것에 큰 도움이 된 것 같습니다. 그리고 항상 진심으로 지도해 주신 선생님들 밑에서 배운 것.",
     "teacher_feedback": null,
     "ideation_process": "사진을 받자마자 섣부르게 시작하기보다는 모델 파악을 꼼꼼히 했습니다. 두상 자체의 양감도 큰 특징이었지만 비례가 깨지면 인상이 절대 나올 수 없는 사람이라 생각해 평소보다"
+  },
+  "tier_refined": {
+    "tier_score": 49.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.08
+  },
+  "clip_topic": {
+    "topic_score": 0.6028,
+    "topic_text": "20대 여자 모델이 나왔습니다. 사진을 받자마자 섣부르게 시작하기보다는 모델 파악을 꼼꼼히 했습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "약점 보완을 잘 한 것 같습니다. 자주 지적되는 부분을 단련했습니다.",
     "teacher_feedback": null,
     "ideation_process": "기출문제에서 했던 하도를 활용하고, 해파리와 고양이의 특징을 살리려고 노력했습니다. 해파리의 영롱한 색감과 고양이 털의 질감 등등."
+  },
+  "tier_refined": {
+    "tier_score": 83.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.093
+  },
+  "clip_topic": {
+    "topic_score": 0.5852,
+    "topic_text": "해파리와 고양이 특징을 이용해 반려로봇을 만드는 문제였습니다. 기출문제에서 했던 하도를 활용하고, 해파리와 고양이의 특징을 살리려고 노력했습니다."
   }
 }

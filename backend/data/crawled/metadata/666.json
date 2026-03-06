@@ -23,5 +23,10 @@
     "student_strength": "저는 입시를 고3에서야 시작했습니다. 입시 그림도 당연히 처음이었습니다. 아무것도 모르는 상태에서 무작정 입시를 시작했고, 학원에서 미술을 배우면서 차차 알아갔습니다. 그 때는 정말 아는 것이 아무것도 없어서 몰랐는데, 지금 와서 생각해보면 저는 하나부터 열까지 손이 가지 않는 곳 하나 없는 까다로운 학생이었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "시간안에 완성할수 있는 그림을 그릴려고 했던것과 교수님의 출제의도를 잘 파악하는것 이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오 4시간 전공 수채화 인간과 사물의 표현을 통해 소리를 시각화하시오 주어진 주제를 그림을 보면 알 수있도록 , 기본기를 바탕으로 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 65.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.03
+  },
+  "clip_topic": {
+    "topic_score": 0.5753,
+    "topic_text": "1시간 소묘 검은색, 흰색 색연필 흑과백의 의미를 자유롭게 표현하시오 4시간 전공 수채화 인간과 사물의 표현을 통해 소리를 시각화하시오 주어진 주제를 그림을 보면 알 수있도록 , 기본기를 바탕으로 그렸습니다."
   }
 }

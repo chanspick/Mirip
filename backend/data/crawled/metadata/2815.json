@@ -22,5 +22,14 @@
     "student_strength": "동물을 잘 그리지 못해 시험 전에 여러 번 그려보았던 게 큰 기복을 만들지 않았고, 금붕어 안에서 노란색부터 붉은 계열까지 쓰려고 했던게 좋았던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "평소에 어렵다고 생각한 개체가 나와 조금 당황했지만 학원에서 연습했던 구도를 떠올리며 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 54.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.308
+  },
+  "clip_topic": {
+    "topic_score": 0.5921,
+    "topic_text": "문제는 금붕어, 줄자, 연필이 나왔습니다. 평소에 어렵다고 생각한 개체가 나와 조금 당황했지만 학원에서 연습했던 구도를 떠올리며 그렸습니다."
   }
 }

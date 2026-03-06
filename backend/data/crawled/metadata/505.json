@@ -22,5 +22,14 @@
     "student_strength": "소묘 실기이기 때문에 많은 연습량이였다고 생각하고 또 하나는 학원 선생님이 하라는데로 했더니 합격한 것 같습니다. 시험장에서는 긴장도 많이 하고 생각도 잘 나지 않아서 그냥 배운대로 할 수 밖에 없는 상황이 되는것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시요. 였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 73.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.421
+  },
+  "clip_topic": {
+    "topic_score": 0.5771,
+    "topic_text": "이화여대 실기주제는 5가지 개체를 가지고 장력과 무게감을 표현하시요. 였습니다."
   }
 }

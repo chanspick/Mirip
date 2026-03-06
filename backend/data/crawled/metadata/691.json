@@ -23,5 +23,14 @@
     "student_strength": "선생님의 말씀을 잘 듣는 것과 꾸준히 노력하는 것, 또 자기 그림에 대한 자신감이 가장 중요하다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 56.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.441
+  },
+  "clip_topic": {
+    "topic_score": 0.5919,
+    "topic_text": "시험주제가 ‘홈로봇’과 같이 낯선 주제가 나와서 처음에는 매우 당황했지만 침착한 마음으로 선생님이 알려 주신대로 진행한다는 마음으로 잘 마치고 나왔습니다."
   }
 }

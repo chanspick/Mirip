@@ -23,5 +23,14 @@
     "student_strength": "시험장에서 당황하지 않고 차분히 문제를 풀어나갔던 것이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "미리 제시해준 물체이고, 이미 연습해본 물체라 어려움없이 풀어나갔던것같습니다."
+  },
+  "tier_refined": {
+    "tier_score": 51.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.16
+  },
+  "clip_topic": {
+    "topic_score": 0.5719,
+    "topic_text": "휴지, 면도날, 투명 지퍼백이 흑백이미지로 제시되었고 특성을 활용하여 자유구성하는 문제였습니다. 미리 제시해준 물체이고, 이미 연습해본 물체라 어려움없이 풀어나갔던것같습니다."
   }
 }

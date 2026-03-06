@@ -22,5 +22,14 @@
     "student_strength": "다른 학교보다 성적 반영 비율이 높아 유리했다고 생각합니다.(실기 반영 비율-60% 성적 반영 비율-40%)",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 60.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.623
+  },
+  "clip_topic": {
+    "topic_score": 0.606,
+    "topic_text": "당일 출제 문제는 큐브, 책, 이어폰이었고, 책을 그렸던 경험이 있어 그때를 생각하며 그렸습니다."
   }
 }

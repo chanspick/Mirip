@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "또한 시험장에서 나눠주는 도화지에 그림을 그리다가 물감이 묻었을 때 애써 지우려고 화이트 물감을 덧대지 말아라. (심각한 수준이 아니라면 두는 게 더 낫다."
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5751,
+    "topic_text": "학원에서 밝고 하얀 조명에서만 그림을 그리다가 시험장에 가서 누렇고 탁한 조명 아래에서 그림을 그리면 자기 물감이 이상한가, 붓이 이상한가 많은 생각이 들텐데 조명 때문이니 당황하지 말고 차분하게 그림을 그려라. 또한 시험장에서 나눠주는 도화지에 그림을 그리다가 물감이 묻었을 때 애써 지우려고 화이트 물감을 덧대지 말아라."
   }
 }

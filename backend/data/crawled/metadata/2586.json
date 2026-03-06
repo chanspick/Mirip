@@ -23,5 +23,14 @@
     "student_strength": "문제에 표시된 도형의 비례를 잘 맞추려고 했던게 합격의 주요인인 것같습니다.",
     "teacher_feedback": null,
     "ideation_process": "저는 도형들이 끼워질 수 있는 특징을 활용하여 도형들의 형태가 잘 보이게 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 81.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.843
+  },
+  "clip_topic": {
+    "topic_score": 0.5983,
+    "topic_text": "당일 기출문제는 평면도와 정면도로 주어진 도형 세 개를 가지고 하나의 입체물을 만드는 것이였습니다. 저는 도형들이 끼워질 수 있는 특징을 활용하여 도형들의 형태가 잘 보이게 그렸습니다."
   }
 }

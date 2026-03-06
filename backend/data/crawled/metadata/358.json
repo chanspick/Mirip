@@ -22,5 +22,14 @@
     "student_strength": "내가 생각한 대로 과장된 표현보다는 자연스러운 표정을 선택한 것이 주 요인이라고 생각한다.",
     "teacher_feedback": "선생님께 한번 지적받은 것은 3일 내에 고치려고 노력하였다..",
     "ideation_process": "크고 과장된 표현보다는 작은 표정 변화를 통해 자연스럽게 풀어나가려고 했다."
+  },
+  "tier_refined": {
+    "tier_score": 53.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.273
+  },
+  "clip_topic": {
+    "topic_score": 0.6132,
+    "topic_text": "기차를 놓쳐 안타까워하는 20대 남자였다. 크고 과장된 표현보다는 작은 표정 변화를 통해 자연스럽게 풀어나가려고 했다."
   }
 }

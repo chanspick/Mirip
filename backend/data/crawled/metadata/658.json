@@ -22,5 +22,14 @@
     "student_strength": "학원에서 정시특강을 했던것이 많은 도움이 되었습니다.",
     "teacher_feedback": "선생님,친구들과 정시특강때 여러번 시험을 보며 준비를 했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 59.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.555
+  },
+  "clip_topic": {
+    "topic_score": 0.5848,
+    "topic_text": "인하대학교 특성 상 여러가지 소재가 나오는 것으로 알고있었기때문에, 다양한 소재를 이용하여 재밌거리를 주되 물체의 특성(학용품)을 잘 살릴 수 있도록 노력했습니다."
   }
 }

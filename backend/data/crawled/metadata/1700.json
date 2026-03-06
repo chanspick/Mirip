@@ -23,5 +23,14 @@
     "student_strength": "결과가 않좋으리라 생각하고 있었기에 합격 확인을 뒤늦게 하게 되었습니다. 확인하자마자 엄마한테 달려갔더니 엄마도 너무 좋아해주시고 같이 안아주셨던게 기억에 남습니다.",
     "teacher_feedback": "선생님께서 해주신 말을 토대로 따라가려 노력하니 조금씩 나아지게 된 것 같아요..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.98
+  },
+  "clip_topic": {
+    "topic_score": 0.6011,
+    "topic_text": "콜라캔과 이어폰이 출제되었습니다."
   }
 }

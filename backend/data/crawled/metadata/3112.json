@@ -22,5 +22,10 @@
     "student_strength": "유일하게 평소 느낌과 실력으로 시험을 봤던 학교였고, 배경 등 차별적인 요소를 두어서 합격 할 수 있었던 것 같습니다.",
     "teacher_feedback": "선생님들이 그림을 평가하고 나열하실 때 몰래 보다 보면 꽤 상위권이였습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 46.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.798
   }
 }

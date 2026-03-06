@@ -23,5 +23,14 @@
     "student_strength": "평소 연습했던 자세가 출제되어 크게 당황하지 않고 그릴 수 있었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 48.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.037
+  },
+  "clip_topic": {
+    "topic_score": 0.6113,
+    "topic_text": "훌라후프를 잡고 앉아있는 여자가 출제되었고, 형태와 피부표현에 가장 많이 신경을 썼습니다."
   }
 }

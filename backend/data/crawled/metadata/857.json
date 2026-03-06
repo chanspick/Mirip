@@ -23,5 +23,14 @@
     "student_strength": "선생님들에게 의문을 가지지 않고 믿고 따른 것, 선생님 말씀에는 틀린 것이 없다.선생님들 말씀에 의심을 가질 수록 실기력 향상이 더디게 된다.",
     "teacher_feedback": "선생님들을 믿고 따르며 해주신 피드백들을 최대한 많이 받고 고치려 노력했다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 56.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.441
+  },
+  "clip_topic": {
+    "topic_score": 0.6075,
+    "topic_text": "주제는 '미래에 홈로봇들이 가정에 보급 되면서 가족들과 홈로봇 사이에 감정 교류를 상황표현 하시오' 축제 같은 밝은 분위기보다는 조금 가라앉은 분위기로 그리는 것이 좋을 것 같아서, 장례식이라는 조금 어두운 소재를 선택했다."
   }
 }

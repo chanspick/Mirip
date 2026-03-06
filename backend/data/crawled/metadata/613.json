@@ -22,5 +22,14 @@
     "student_strength": "수능성적이 다른 학생들보다 낮았기 때문에 부족한 점수를 채울 수 있는 그림이 필요했습니다. 시험에 들어가기에 앞서 평소에 실수가 잦았던 부분들이나 선생님께서 피드백해주신 부분들을 머릿속으로 다시금 생각했습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 74.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.494
+  },
+  "clip_topic": {
+    "topic_score": 0.5891,
+    "topic_text": "제시물은 병뚜껑과 다색볼펜이 나왔고 제시어는 볼펜의 ‘분해’였습니다."
   }
 }

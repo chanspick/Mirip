@@ -22,5 +22,14 @@
     "student_strength": "그림의 어둠이 부족하면 대체적으로 가벼워 보이는 점을 생각해서 어둠을 확실하게 잡으려 한 것이 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.395
+  },
+  "clip_topic": {
+    "topic_score": 0.5746,
+    "topic_text": "호박, 판사봉, 붓, 팔레트가 출제 되었고 호박의 쪼개지는 특성과 물감이 가진 형태의 자유성을 이용해서 그렸습니다."
   }
 }

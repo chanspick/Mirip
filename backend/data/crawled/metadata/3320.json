@@ -22,5 +22,14 @@
     "student_strength": "미대 입시 학원을 잘 알아보고 찾아보며 선택하는 것!",
     "teacher_feedback": "선생님이 피드백해주신 내용 수정하고, 다시 시험보고 또 수정/보완하며 준비했고, 인하대 의류디자인 기출문제 중심으로 준비했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 62.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.738
+  },
+  "clip_topic": {
+    "topic_score": 0.5843,
+    "topic_text": "신발, 여자 수영복, 헤드폰 신발, 수영복, 헤드폰 중에서 일단 신발을 주제부로 넣고 헤드폰으로 감싸는 구도를 선택했고, 그 다음 수영복을 배치해서 그려보았습니다."
   }
 }

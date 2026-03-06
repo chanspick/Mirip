@@ -23,5 +23,14 @@
     "student_strength": "눈에 띄여야된다고 생각해서 밀도 높고,호감도있는 생김새의작품을 만들고 중간중간 객관적으로 보기 위해 거리를 두고 많이 관찰했습니다.",
     "teacher_feedback": "선생님들이 평가해주신 단점들을 고치려했고,장점을 최대한 살리려고노력했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 76.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.583
+  },
+  "clip_topic": {
+    "topic_score": 0.5959,
+    "topic_text": "항공 최연소 부기장이되어서 제복을 입고 TV프로그램에 나가서 밝게 인터뷰하는 20대 남성."
   }
 }

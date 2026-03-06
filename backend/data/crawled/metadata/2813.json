@@ -23,5 +23,10 @@
     "student_strength": "하루하루 학원에서 쳤던 시험이 가장 도움이 되지 않았을까 합니다. 시험 한 장 한 장을 허투루 보내지 않고 최선을 다했던 것이 평소에 쌓이고 쌓여 좋은 결과가 났던 것 같습니다. 시험을 치고 그 시험 피드백을 계속 반복해서 읽고 고민하고 어떻게 개선할지 평소에 습관처럼 계속 생각했었습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 56.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.432
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "레터링을 꼼꼼하게 쓴거랑 계량컵이 겹쳐지는 내용을 넣었던 것이 좋은 점수를 받았던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각해서 그 내용을 중심으로 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 83.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.96
+  },
+  "clip_topic": {
+    "topic_score": 0.5861,
+    "topic_text": "누룽지와 계량컵이 출제되었고 계량컵끼리 겹치는걸 보여주면 좋을 것 같다고 생각해서 그 내용을 중심으로 풀어나갔습니다."
   }
 }

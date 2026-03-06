@@ -22,5 +22,14 @@
     "student_strength": "주어진 조건을 다 잘 지킨 요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하는데에 집중했던 것 같습니다. 주변에서 아무리 화려하게 그려도 휘말리지 않고 저는 저대로 그렸어요."
+  },
+  "tier_refined": {
+    "tier_score": 38.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.41
+  },
+  "clip_topic": {
+    "topic_score": 0.5943,
+    "topic_text": "노리개와 홀로그램 컵 두개가 나왔는데, 우선 연출을 화려하게 하는것이 조금 어렵겠다 생각하여 주어진 개체를 표현하는데에 집중했던 것 같습니다."
   }
 }

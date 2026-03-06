@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "표현하고자 하는 그림을 만들고자 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 80.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.818
+  },
+  "clip_topic": {
+    "topic_score": 0.6092,
+    "topic_text": "누워있는 사람이 2명이 나와서 많이 당황했습니다. 남들도 다"
   }
 }

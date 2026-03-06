@@ -23,5 +23,14 @@
     "student_strength": "잘 안되는 주제가 있을때 될때 까지 그렸다. 그리고 평소에도 계속 구도를 짜고, 부족한 묘사력을 늘리기위해 많은 사진과 그림을 찾아보고 따라해 보았다.",
     "teacher_feedback": null,
     "ideation_process": "주제를 크게 두고, 재미있는 연출을 넣고, 주제부 묘사에 가장 큰 시간을 두었다."
+  },
+  "tier_refined": {
+    "tier_score": 60.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.641
+  },
+  "clip_topic": {
+    "topic_score": 0.5885,
+    "topic_text": "딸기, 은박접시., 나무 옷걸이가 나왔다. 주제를 크게 두고, 재미있는 연출을 넣고, 주제부 묘사에 가장 큰 시간을 두었다."
   }
 }

@@ -22,5 +22,10 @@
     "student_strength": null,
     "teacher_feedback": "선생님의 조언을 잘 듣고 다음 그림에서는 보완하기 위해 생각하고 그렸습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 77.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.677
   }
 }

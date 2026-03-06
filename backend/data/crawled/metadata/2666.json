@@ -23,5 +23,14 @@
     "student_strength": "무언가를 더 해보거나 시도한다기 보다 평소에 하던대로 한다는 생각으로 하는게 중요한거 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 60.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.605
+  },
+  "clip_topic": {
+    "topic_score": 0.5706,
+    "topic_text": "전구와 민들레 홀씨가 나왔으며, 전구의 투명한 특성을 살리고 민들레 홀씨의 하얀 분위기를 죽이지 않으려 노력했습니다."
   }
 }

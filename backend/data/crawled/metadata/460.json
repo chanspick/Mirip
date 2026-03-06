@@ -22,5 +22,10 @@
     "student_strength": "인체유형으로 실기고사를 치루는 학교를 준비한다면, 해당 유형을 많이 연습하고 실제 실기고사와 비슷한 분위기의 환경에서 입시를 준비하는 것이 필요하다. 청 미술학원에서 역시 좋은 유형의 예상 문제들을 많이 접할 수 있었고 많은 시험을 통해서 실제 고사장에서 실수하지 않는 법을 배울 수 있었다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 77.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.634
   }
 }

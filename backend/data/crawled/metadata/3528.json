@@ -23,5 +23,10 @@
     "student_strength": "생기부 자체는 평범했던 편이라 성적이 당락에 중요한 역할을 했던 것 같습니다. 경희대 수시 모집 요강에서 생기부 평가에서 중요한 요소가 언어 영역이었던걸로 기억하는데 국영 내신이 약 1.21이라 그 점이 유리하게 작용했던 것 같습니다.",
     "teacher_feedback": "선생님께 적극적으로 질문하며 보완하도록 했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "가장 큰 합격요인은 학원선생님의 그림에 대한 충분한 조언과 저의 꾸준한 노력과 자신감 덕분인 것 같습니다.",
     "teacher_feedback": "선생님과 상담을 통해 자신감을 얻었고 다른친구들 그림과 제 그림을 비교해 가며 부족한 점을 채우려고 노력했어요.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 50.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.133
+  },
+  "clip_topic": {
+    "topic_score": 0.6124,
+    "topic_text": "최대한 떨지 않고 그리려고 노력한거 같아요~"
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "가장 중요한 기본기와 입시에서는 자신의 장점을 최대한 살리고 단점은 잘 감추는게 중요하다고 생각합니다. 그리고 전략을 같이 잘 세워주신 선생님의 도움도 컸습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하고, 게임으로 인한 비극적 결말을 그려내시오."
+  },
+  "tier_refined": {
+    "tier_score": 51.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.171
+  },
+  "clip_topic": {
+    "topic_score": 0.5885,
+    "topic_text": "넷플릭스에서 오징어게임은 큰 인기를 얻어 시즌2가 나오게 되었다 오징어게임은 무궁화꽃, 구슬치기, 줄다리기 등등.."
   }
 }

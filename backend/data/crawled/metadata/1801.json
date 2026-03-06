@@ -22,5 +22,14 @@
     "student_strength": "학원에서 다양한 그림을 그려 보고 학원 선생님께서 고쳐줌으로써 좋은 그림을 만들 수 있었고 개인적으로 다시 그려봄으로써 실기 시험에서 당황하지 않고 그려본 것을 조합하여 그릴 수 있었습니다.",
     "teacher_feedback": "선생님의 가르침이 큰 도움이 되었습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 37.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.371
+  },
+  "clip_topic": {
+    "topic_score": 0.6077,
+    "topic_text": "“해어진 쌍둥이가 다시 만났을 때의 상황”에 대한 것이었고, 문제를 받고 학원에서 최대한 다양하게 그림을 그려본 덕분에 상황에 맞게 연습했던 연출과 구도, 사물을 조합하여 그렸습니다."
   }
 }

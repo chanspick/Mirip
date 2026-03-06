@@ -23,5 +23,14 @@
     "student_strength": "시험 전날 선생님이 피드백하신것을 계속 떠올리려 노력히였고, 너무 긴장되지 않게 마음을 가볍게 준비 한것 때문에 제 실력이 잘 발휘 되지 않았나 생각이 듭니다.",
     "teacher_feedback": null,
     "ideation_process": "처음 모델사진을 보았을때 모델이 귀여운듯 하면서도 성숙한 이미지를 가지고 있었습니다. 그래서 모델의 이미지를 잡기 어려웠었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 75.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.525
+  },
+  "clip_topic": {
+    "topic_score": 0.6108,
+    "topic_text": "출제문제는 20대 여자 사진이였습니다. 처음 모델사진을 보았을때 모델이 귀여운듯 하면서도 성숙한 이미지를 가지고 있었습니다."
   }
 }

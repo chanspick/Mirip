@@ -23,5 +23,14 @@
     "student_strength": "기초도형을 충실히 준비했기 때문에 더 유리하지 않았나 생각합니다. 질감묘사에 집중하다보면 기본적인 틀이 무너지기 때문에 언제나 기초도형과 구조를 만드는 기본적인 틀을 생각하면서 그렸으면 좋겠습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하는 것이었습니다. 문제를 받고 기초도형으로 게임이라는 분위기를 내주고, 블랙홀이 떠오를만한 화면구성에 주제부연출에서 위기감이 생기도록 최대한 제시어위주로 생각하고 풀었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 50.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.108
+  },
+  "clip_topic": {
+    "topic_score": 0.5938,
+    "topic_text": "당일 문제는 점.선.면. 구."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "기본구도에서 포인트쪽에는 컬러변경 물성연출등 재미를 준게 합격요인이 된 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 42.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.646
+  },
+  "clip_topic": {
+    "topic_score": 0.5778,
+    "topic_text": "핸드폰과 화분이 나왔는데 예상치못한 주제여서 약간 당황 했지만 평소에하던 구도로 완성도를 높이자고 생각했습니다."
   }
 }

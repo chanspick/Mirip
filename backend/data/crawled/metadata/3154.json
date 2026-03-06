@@ -22,5 +22,14 @@
     "student_strength": "제시어 수업이 제일 많이 도움이 되었던 것 같습니다. 또 제시어 공부 시간을 주셔서 스스로 공부해보고 자료를 찾아봤던 게 도움이 많이 된 것 같습니다. 또 연합시험 리뷰를 통해 A권대 그림과 B권대 그림의 차이점 그리고 A권대 그림 안에서의 차이점을 알 수 있어서 좋았습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 68.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.185
+  },
+  "clip_topic": {
+    "topic_score": 0.5893,
+    "topic_text": "고무장갑, 대칭 고무장갑과 연관성이 있는 스펀지를 추가하고 대칭을 보여주기 위해 거울을 추가하여 표현하였습니다."
   }
 }

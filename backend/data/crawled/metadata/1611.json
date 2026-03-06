@@ -22,5 +22,14 @@
     "student_strength": "면접에서 떨지않고 차분히 논리적인 설명을 했던 점이라고 생각한다.",
     "teacher_feedback": "선생님들이 내주시는 유사한 문제들을 계속 풀면서 실기고사를 대비했다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.064
+  },
+  "clip_topic": {
+    "topic_score": 0.6147,
+    "topic_text": "제시물 : 스테인플러, 손, 종이 문제 : 스테일플러를 모르는 사람이 사용법을 이해할 수 있도록 사용법을 설면 하시오."
   }
 }

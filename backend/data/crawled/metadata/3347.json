@@ -22,5 +22,14 @@
     "student_strength": "전부 익숙했던 개채들이었기 때문입니다.",
     "teacher_feedback": "선생님의 말씀에 귀기울이며 잊지 않고 하나 하나 적극 반영했습니다.",
     "ideation_process": "운이 매우 좋게도 전부 며칠 전에 했거나 시험을 봤던 경험이 있던 개채들이어서 자주 쓰던 구성에 대입을 하고 바로 시작하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 32.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.132
+  },
+  "clip_topic": {
+    "topic_score": 0.59,
+    "topic_text": "맥가이버칼, 유리구슬, 우산이 나왔는데요 운이 매우 좋게도 전부 며칠 전에 했거나 시험을 봤던 경험이 있던 개채들이어서 자주 쓰던 구성에 대입을 하고 바로 시작하였습니다."
   }
 }

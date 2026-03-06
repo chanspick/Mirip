@@ -24,5 +24,10 @@
     "student_strength": "혼자 일기를 많이 썼다. 나의 슬픔을 남과 많이 공유하려고 하지 않았다. 다른 사람들도 다 힘들기 때문에... 그럼에도 격려를 해주시는 선생님과 부모님, 함께하는 친구들이 있는 것은 든든한 일이다. 개인마다 극복 방법은 다르기 때문에 나의 방법이 옳다고 생각하지는 않는다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 73.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.429
   }
 }

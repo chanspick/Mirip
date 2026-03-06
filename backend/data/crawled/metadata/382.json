@@ -22,5 +22,14 @@
     "student_strength": "서울대 시험 때 너무 긴장해서 그런지 과기대 볼 때에는 긴장을 하지 않았습니다. 오히려 이전으이 경험이 좋은 결과를 내는 데 약이 되었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 57.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.496
+  },
+  "clip_topic": {
+    "topic_score": 0.6189,
+    "topic_text": "출제 문제는 잠자리(곤충) / 음악이 사람에게 끼치는 좋은 영향 이었으며, 평소 수업 때 그려보았던 뜨개질 하는 손 구도가 주제와 어울렸기에 그려봤던 방식에 스토리를 풀어나갔습니다."
   }
 }

@@ -23,5 +23,10 @@
     "student_strength": "저는 입시를 늦게 시작해서 불안한 마음이 늘 있었습니다. 그리고 수능을 준비조차 하지 않아서 수시에 합격을 해야 한다는 초초함이 더욱더 불안하게 만들었습니다. 연합 시험을 봐도 만족스러운 결과를 받은 적이 없어서 정말 포기할까라는 고민을 수없이 했습니다. 그럴 때 마다 친구와 담임 선생님께서 제가 포기하지 않게 이야기를 해주었습니다.",
     "teacher_feedback": "선생님의 그림과 다른 아이들의 그림을 보고 장점들을 쏙쏙 기억하였습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

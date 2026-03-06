@@ -22,5 +22,14 @@
     "student_strength": "합격의주요인은 과감하게 기존의것을변형한것이라고생각한다",
     "teacher_feedback": null,
     "ideation_process": "내가평소연습하던캔커피는 레쓰비였지만 다른캔커피가나와서 초반에 상당히고민했지만 자유롭게 변형하라는 제시어가있었기에 레쓰비 캔커피도 넣어서 그렸다"
+  },
+  "tier_refined": {
+    "tier_score": 36.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.328
+  },
+  "clip_topic": {
+    "topic_score": 0.5966,
+    "topic_text": "실기고사당일문제는 스타벅스 캔 커피였다 내가평소연습하던캔커피는 레쓰비였지만 다른캔커피가나와서 초반에 상당히고민했지만 자유롭게 변형하라는 제시어가있었기에 레쓰비 캔커피도 넣어서 그렸다"
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "선생님께서 그림에 대해 평가해주신 부분들을 세세하게 적었고, 오늘 받은 지적은 내일부터 안받도록 매일매일 더 나은 그림을 그리게끔 의식하고 고쳐가며 저를 다듬었습니다. 또한 제 그림 뿐만 아니라 같이 준비하는 학생들의 그림에 대한 평가도 좋은 부분이 있으면 적어두고, 제 그림에 적용해보기도 했습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.092
+  },
+  "clip_topic": {
+    "topic_score": 0.6044,
+    "topic_text": "‘삼파장 전구’로 ‘조합’이라는 주제를 표현해야하는 문제였는데, 전구와 어울리는 소재인 ‘스탠드’를 추가소재로 사용해 구성함으로써 어울리는 ‘조합’을 그림으로 풀어냈습니다."
   }
 }

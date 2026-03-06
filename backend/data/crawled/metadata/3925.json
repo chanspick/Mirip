@@ -22,5 +22,14 @@
     "student_strength": "쉬는 날 없이 학원에 나와 실기 준비를 했고 선생님들께 들은 피드백을 메모해두고 다음 그림을 그릴 때마다 생각하며 그렸습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하는 문제였습니다. 개체의 활용도와 주제어를 잘 보여주고자 노력하였고 시험이 끝나기 직전까지 주제부 밀도를 올리는데에 집둥하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 36.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.316
+  },
+  "clip_topic": {
+    "topic_score": 0.5788,
+    "topic_text": "샴페인과 휴지로 폭발과 무중력을 표현하는 문제였습니다. 개체의 활용도와 주제어를 잘 보여주고자 노력하였고 시험이 끝나기 직전까지 주제부 밀도를 올리는데에 집둥하였습니다."
   }
 }

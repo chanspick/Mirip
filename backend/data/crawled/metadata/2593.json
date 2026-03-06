@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "피드백 기록하여 수시로 보면서 노력.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 33.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.152
+  },
+  "clip_topic": {
+    "topic_score": 0.5694,
+    "topic_text": "박스+커터칼 준비해간 구도로 그려서 쉬웠다"
   }
 }

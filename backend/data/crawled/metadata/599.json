@@ -23,5 +23,14 @@
     "student_strength": "그림의 장 수 보다 '깨달음'이 중요한 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "아무리 얇고 오래걸리는 것이더라고 대충그리면 안된다고 생각했다."
+  },
+  "tier_refined": {
+    "tier_score": 52.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.2
+  },
+  "clip_topic": {
+    "topic_score": 0.5893,
+    "topic_text": "얇은 줄무늬 남방이 나왔다. 아무리 얇고 오래걸리는 것이더라고 대충그리면 안된다고 생각했다."
   }
 }

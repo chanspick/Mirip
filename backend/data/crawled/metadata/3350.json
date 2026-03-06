@@ -22,5 +22,14 @@
     "student_strength": "주제의 특성이 잘 드러난 것이라고 생각합니다.",
     "teacher_feedback": "선생님의 지도를 성실히 따르면서 그림그리는 시간을 일정시간 유지하려고 노력하였습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 65.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.877
+  },
+  "clip_topic": {
+    "topic_score": 0.5969,
+    "topic_text": "출제문제는 털실, 신용카드, 노란고무줄이었고, 최대한 각 주제의 특성을 잘 살릴려고 노력하였습니다."
   }
 }

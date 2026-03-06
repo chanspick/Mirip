@@ -23,5 +23,14 @@
     "student_strength": "실기가 힘들어도 포기하지않은 것이 주요인이라고 생각합니다",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다 매운음식이니까 인상을 쓰고 입을 벌리고 있을거 같아서 혀가 살짝 보이게 만들었습니다"
+  },
+  "tier_refined": {
+    "tier_score": 54.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.344
+  },
+  "clip_topic": {
+    "topic_score": 0.5845,
+    "topic_text": "출제문제는 매운 음식을 먹은20대 단발 여자 였으며 문제를 받고나서 5분정도는 어떻게 만들지 생각했습니다 매운음식이니까 인상을 쓰고 입을 벌리고 있을거 같아서 혀가 살짝 보이게 만들었습니다"
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "하얀 물체끼리 나와서 눈에 띄기 쉽지 않은데 컬러변화와 어둠을 잘 잡아줘서 눈에 좀 더 잘 띄지 않았나 싶습니다.",
     "teacher_feedback": "선생님이 자주 말해주셨던 문제점들을 고치려 노력했고, 다른 잘 그린 그림들을 보면서 자신의 부족한 점을 보완하려했습니다..",
     "ideation_process": "둘 다 하얀 물체여서 당황했지만 컬러를 변경하여 눈에 더 잘 띌 수 있도록 하였고 어두운 면적을 잘 찾아주려했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.963
+  },
+  "clip_topic": {
+    "topic_score": 0.5836,
+    "topic_text": "두루마리 휴지와 셔틀콕 이였습니다. 둘 다"
   }
 }

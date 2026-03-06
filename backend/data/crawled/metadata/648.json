@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님들께서 말씀하시는 하나하나 그림에 적용하려고 노력했고, 그렸던 그림들을 찍어놓고 시간날때 어떤 부분에서 어떻게 했어야 하는가를 생각하는 것이 도움이 많이 �榮�.",
     "ideation_process": "내가 시험장에서는시험 정물이 배치될 때부터 구도와 구성을 생각해낸 후, 형태 뜰 때부터 완성했을 때 어떤 완성도여야할지를 생각했었다."
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.598,
+    "topic_text": "시험장에서는 그냥 평소처럼 그렸다. 내가 시험장에서는시험 정물이 배치될 때부터 구도와 구성을 생각해낸 후, 형태 뜰 때부터 완성했을 때 어떤 완성도여야할지를 생각했었다."
   }
 }

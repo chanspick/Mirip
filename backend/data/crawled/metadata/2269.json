@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "그래서 거품기의 특징적인 부분을 크게 그리며 그 안에 골프공을 크게 넣어 열심히 묘사하였다. 또한 큰 개체들과 대비가 되는 작은 개체들과 중간크기의 개체를 추가해 화면이 허전하지 않게 하였다."
+  },
+  "tier_refined": {
+    "tier_score": 67.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.97
+  },
+  "clip_topic": {
+    "topic_score": 0.5894,
+    "topic_text": "개인적인 생각이지만 여태껏 덕성여대에 합격한 그림들을 보니 개체를 크게 잘 그리며 그 관계성을 잘 드러내는 것이 좋은 점수를 받는 것 같았다. 그래서 거품기의 특징적인 부분을 크게 그리며 그 안에 골프공을 크게 넣어 열심히 묘사하였다."
   }
 }

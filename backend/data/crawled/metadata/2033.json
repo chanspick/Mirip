@@ -23,5 +23,14 @@
     "student_strength": "학원에서 선생님들이 가르쳐 주신 내용을 바탕으로 주제에 맞게 해석을 하고, 딴 생각을 하지 않기 위해 선생님들이 하라고 한 것 만했다.",
     "teacher_feedback": "선생님들께 많은 질문을 하며 버릇을 고쳐나가고 답변 해주신 내용을 바탕으로 연습했다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 31.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.067
+  },
+  "clip_topic": {
+    "topic_score": 0.6003,
+    "topic_text": "제시물 : 제트스키, 거울"
   }
 }

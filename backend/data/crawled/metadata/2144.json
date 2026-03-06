@@ -23,5 +23,14 @@
     "student_strength": "높은 밀도라고 생각한다.",
     "teacher_feedback": "피드백을 기억하며 보완하려고 했으며 스스로 더 보완할 점이 없는지 생각해보았다.",
     "ideation_process": "생각해서, 최대한 물성을 활용하며 끝나기 직전까지 밀도를 높이려고 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 54.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.316
+  },
+  "clip_topic": {
+    "topic_score": 0.5735,
+    "topic_text": "선인장, 서예용 붓을 이용해 화면구성하는 문제가 출제되었다. 선인장 화분으로 크게 화면 분할을 하면서 화분 안의 흙부분이 밀도를 높일 수 있다고 생각해 빼서 주제 부분에 그려주었다."
   }
 }

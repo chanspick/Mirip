@@ -23,5 +23,14 @@
     "student_strength": "'멘탈 조절, 피드백 기억을 가장 중점으로 둔다.'인 것 같습니다. 숙소에서 시험에 대한 생각을 깊게 하지 않고 마지막 평가 시간에 말씀해 주셨던 것들을 녹화해서 숙소에서 4번 정도 돌려보며 기억했었습니다. 그게 합격에 가장 큰 영향을 주지 않았을까 싶어요.",
     "teacher_feedback": null,
     "ideation_process": "풀어나간다거나 해석한다기 보다 주제를 딱 보자마자 떠오르는 흐름 중 가장 강렬한 걸로 골라 그렸던 것 같아요."
+  },
+  "tier_refined": {
+    "tier_score": 59.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.557
+  },
+  "clip_topic": {
+    "topic_score": 0.5835,
+    "topic_text": "선생님이 말씀하셨던 피드백대로 흐름을 잡았던 것 같습니다. 풀어나간다거나 해석한다기 보다"
   }
 }

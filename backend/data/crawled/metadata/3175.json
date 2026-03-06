@@ -22,5 +22,14 @@
     "student_strength": "미술의 시작을 디자인쏘울 미술학원에서 했고 저의 장, 단점을 잘 파악해서 실기력 향상을 이끌어 준 점이 합격의 주 요인이라 생각합니다.",
     "teacher_feedback": "선생님이 피드백해 주시는 것을 놓치지 않으려 했고 부족한 부분을 항상 보완하려 하고 내가 잘하는 걸 보여 주려 열심히 하였습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 45.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.771
+  },
+  "clip_topic": {
+    "topic_score": 0.5823,
+    "topic_text": "쌍안경, 물감, 레고블록, 회중시계 등 소재가 많이 출제되어 처음엔 당황했지만 연습했던 표현을 기억하고 연습했던 구도에 대입하여 문제를 해결했습니다."
   }
 }

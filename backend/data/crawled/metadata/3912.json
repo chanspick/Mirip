@@ -23,5 +23,14 @@
     "student_strength": "선생님들이 해주신 피드백이 너무너무너무너무!! 큰 도움이 되었고, 특히 남들과 좀 더 다르게 문제풀이를 접근해서 그린 게 합격 요인 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "발상에서는 일차원적인 생각을 하지 않으려고 아이디어를 10분 잡고 갔습니다. (놀람이라는 단어를 안경에 적용하기보다"
+  },
+  "tier_refined": {
+    "tier_score": 63.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.754
+  },
+  "clip_topic": {
+    "topic_score": 0.5772,
+    "topic_text": "기초소양이라 연필소묘만 가능했고 3절 5시간이였습니다. 주제는 ‘놀람’이였고 제시물은 안경이였습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "정확한 문제풀이가 중요합니다. 시험날 실기력은 편차가 있을 수 있지만 문제 풀이는 절대 틀려서는 안됩니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 65.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.037
+  },
+  "clip_topic": {
+    "topic_score": 0.601,
+    "topic_text": "제공된 건물의 입구를 바닥으로 뒀을 때 주어진 집게와 랩을 이용해 안에 들어있음을 보여주면서 굴절 왜곡 반사 등을 보여주었습니다."
   }
 }

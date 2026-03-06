@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님과 원장님께 여쭤보면서 자신의 그림을 만들어 나가면 된다..",
     "ideation_process": "미술학원에서 하듯이만 하고 오자라는 마음이 제일 컸다. 학원모의시험을 통해 기복없은 실력을 만들어야 시험장에서 실수하지 않는다."
+  },
+  "tier_refined": {
+    "tier_score": 78.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.725
+  },
+  "clip_topic": {
+    "topic_score": 0.5873,
+    "topic_text": "청 미술학원에서는 많은 모의시험을 봐서 두렵지 않았다. 미술학원에서 하듯이만 하고 오자라는 마음이 제일 컸다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "과한 표현을 하려 하지 않고 기본 양감이나 공간을 빼는 것에 집중한 것이 합격 요인이라 생각한다",
     "teacher_feedback": "선생님께서 해준 피드백을 다음 그림에 꼭 반영하려 했던 거 같다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 68.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.202
+  },
+  "clip_topic": {
+    "topic_score": 0.5839,
+    "topic_text": "육면체 형태로 2개가 나와서 조금 당황하였지만 최대한 학원에서 시험 쳤던 것처럼 기본에 충실하려 노력했다"
   }
 }

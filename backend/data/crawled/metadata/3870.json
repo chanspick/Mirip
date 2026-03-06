@@ -22,5 +22,14 @@
     "student_strength": "세 제시물 중 노리개를 주제부로 선택해 타 수험생들과 차별점을 준 점과 바람개비의 유동적인 특징을 명확히 표현한 점이 가산점이 되었다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하라는 문제였습니다. 제시어가 없는 문제였기에 ‘집중과 확산’이라는 키워드를 설정해 스케치를 진행했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 62.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.736
+  },
+  "clip_topic": {
+    "topic_score": 0.5875,
+    "topic_text": "노리개, 바람개비, 테이프를 활용해 조형적 특성과 기능을 활용하여 자유롭게 표현하라는 문제였습니다. 제시어가 없는 문제였기에 ‘집중과 확산’이라는 키워드를 설정해 스케치를 진행했습니다."
   }
 }

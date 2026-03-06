@@ -22,5 +22,14 @@
     "student_strength": "다정하지만 정확하게 말씀해주신 것이 오히려 마음의 부담을 덜어내어 그림을 막힘없이 그릴 수 있었어요 너무 고맙습니다!",
     "teacher_feedback": null,
     "ideation_process": "침착하게 연습한대로만 하자는 심정으로 그려나갔습니다 선생님이 정리해주셨던 내용을 짚고 넘어가는 식으로 마무리한 것이 정말 큰 도움이 되었습니다"
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5907,
+    "topic_text": "청 화실에서 지도해주신대로 잘 따라가며 연습을 많이 한 결과, 시험장에 가서도 크게 떨리지 않았습니다 침착하게 연습한대로만 하자는 심정으로 그려나갔습니다"
   }
 }

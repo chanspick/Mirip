@@ -22,5 +22,14 @@
     "student_strength": "무엇보다 시험지에 나와있는 두 개체를 잘 관찰하여 사실대로 비슷하게 표현하려 한 점과 두개의 개체의 특징과 형태를 크게 한눈에 들어오게 한 점이 합격의 주요인인 것같다.",
     "teacher_feedback": null,
     "ideation_process": "묘사가 많은 개체였기 때문에 복잡한 아이디어보다 한눈에 들어오게 배치를 해야겠다고 생각했다."
+  },
+  "tier_refined": {
+    "tier_score": 83.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.968
+  },
+  "clip_topic": {
+    "topic_score": 0.612,
+    "topic_text": "꽃게와 헤어롤이 나왔고 두 물체 다 묘사가 많은 개체였기 때문에 복잡한 아이디어보다"
   }
 }

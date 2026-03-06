@@ -22,5 +22,14 @@
     "student_strength": "조명때문에 색이 탁하게 보여서 색을 최대한 쨍하고 선명하게 그렸던 점과 물방울을 많이 그렸던 점인것같습니다.",
     "teacher_feedback": null,
     "ideation_process": "파란 물뿌리개와 노란 해바라기의 대비를 생각하면서 그렸고 물이 이미지로는 나오지 않았지만 물을 많이 그렸습니다. 또 물뿌리개와 우산의 기능적 특징을 살려 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 55.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.397
+  },
+  "clip_topic": {
+    "topic_score": 0.591,
+    "topic_text": "해바라기, 물뿌리개, 우산이 나왔습니다. 파란 물뿌리개와 노란 해바라기의 대비를 생각하면서 그렸고 물이 이미지로는 나오지 않았지만 물을 많이 그렸습니다."
   }
 }

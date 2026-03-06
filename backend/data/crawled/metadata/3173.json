@@ -23,5 +23,14 @@
     "student_strength": "성적이 좀 높은 편이기도 했고, 묘사에 조금 공을 들여서 한 부분이 합격에 영향을 미치지 않았나 싶습니다.",
     "teacher_feedback": "선생님의 피드백을 들으며 최대한 따라가려고 노력했었습니다.",
     "ideation_process": "아무래도 묘사와 디테일을 중시하는 학교다 보니 막판에는 밀도를 올리는 것에 신경썼습니다."
+  },
+  "tier_refined": {
+    "tier_score": 56.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.404
+  },
+  "clip_topic": {
+    "topic_score": 0.5678,
+    "topic_text": "손톱깎이와 자전거 바퀴가 나왔었고, 자전거 바퀴의 역동성과 손톱깎이의 특성을 잘 활용해서 연출하려고 했습니다. 아무래도 묘사와 디테일을 중시하는 학교다"
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "확실한 포인트 설정과 포인트, 주제부 정리감이라고 생각합니다.",
     "teacher_feedback": "선생님께 피드백 받은 부분을 고쳐나가며 준비하였습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 32.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.143
+  },
+  "clip_topic": {
+    "topic_score": 0.5824,
+    "topic_text": "헤드셋/ 빨간 카라꽃 / 절구 방망이 가 출제되었으며, 개체의 물성을 활용하고 크기대비를 주며 풀이했습니다."
   }
 }

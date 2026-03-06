@@ -23,5 +23,14 @@
     "student_strength": "제시물 특성상 최대한 눈에 잘보이고, 예쁘게 그리는게 관건이라고 생각해 주제부를 큼직하고 채도 높게 그렸다는 점이 합격에 큰 영향을 주지않았나 생각합니다.",
     "teacher_feedback": "선생님의 피드백을 통해 잘 보완해나가는 방법으로 준비를 했습니다..",
     "ideation_process": "풀어나갈 수 있었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 79.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.776
+  },
+  "clip_topic": {
+    "topic_score": 0.5744,
+    "topic_text": "건국대 주제는 '커피포트를 이용하여 공간감을 창의적으로 표현하시오' 였습니다. 호서대의 출제문제는 5개의 기출문제중 포도, 숟가락, 젓가락으로 자유롭게 구성하라는 것이었습니다."
   }
 }

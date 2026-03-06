@@ -22,5 +22,14 @@
     "student_strength": "주제부를 커다랗게 그려서 눈에 잘들어오지 않았나..?싶다",
     "teacher_feedback": null,
     "ideation_process": "표현하는것 이였는데 필름으로 흐름을 빼서 시간이 흐르는것을 표현했다"
+  },
+  "tier_refined": {
+    "tier_score": 31.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.049
+  },
+  "clip_topic": {
+    "topic_score": 0.6059,
+    "topic_text": "손목시계,녹는얼음,필름으로 시간을 표현하는것 이였는데 필름으로 흐름을 빼서 시간이 흐르는것을 표현했다"
   }
 }

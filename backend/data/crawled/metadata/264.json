@@ -22,5 +22,14 @@
     "student_strength": "고집스럽게 끝까지 그림을 완성시켰고, 문제를 파악하고 해결했다. 누구보다 많이 경험하고 연구해서 내 방식을 만들 수 있었다.",
     "teacher_feedback": null,
     "ideation_process": "표현하는데 어려움은 없었다."
+  },
+  "tier_refined": {
+    "tier_score": 67.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.12
+  },
+  "clip_topic": {
+    "topic_score": 0.584,
+    "topic_text": "비너스 석고상, 신문, 파프리카, 마른오징어가 나왔다. 석고상의 뒷모습이 나와 아쉬웠지만 표현하는데 어려움은 없었다."
   }
 }

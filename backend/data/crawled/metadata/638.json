@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님들 모두 각자의 그림체와 노하우가 달라서 선생님들 각자에게 배울것이 다르고 다양했다는것이 좋았습니다.",
     "ideation_process": "그리는 도중 너무 떨리거나 집중이 되지 않을때 30초에서 1분 정도 잠시 뒤로 나와서 그림을 보며 쉬는것도 도움이 되었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 49.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.091
+  },
+  "clip_topic": {
+    "topic_score": 0.5944,
+    "topic_text": "시험장에서는 학원에서 보는것처럼 긴장하지 않고 침착하게 보는것이 가장 중요한것 같습니다. 그리는 도중 너무 떨리거나 집중이 되지 않을때 30초에서 1분 정도 잠시 뒤로 나와서 그림을 보며 쉬는것도 도움이 되었습니다."
   }
 }

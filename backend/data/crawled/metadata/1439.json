@@ -22,5 +22,14 @@
     "student_strength": "최대한 침착하게 풀고 제시문을 꼼꼼히 보고 끝까지 한것이 주요인이리고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "참치캔의 내용물을 그리지 말라한 조건이있엇다. 주변의 많은 사람들이 참치캔 내용물을 그려 나에게 좋은 기회가 될수있겠다는 생각으로 그렸다."
+  },
+  "tier_refined": {
+    "tier_score": 70.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.311
+  },
+  "clip_topic": {
+    "topic_score": 0.6167,
+    "topic_text": "제시물은 참치캔과 종이노끈,건전지 다. 참치캔의 내용물을 그리지 말라한 조건이있엇다."
   }
 }

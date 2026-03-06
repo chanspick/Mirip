@@ -22,5 +22,14 @@
     "student_strength": "중간에 포기하지 않고 끝까지 최선을 다해 그려서 합격한것같습니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 42.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.646
+  },
+  "clip_topic": {
+    "topic_score": 0.5702,
+    "topic_text": "핸드폰과 꽃병이 나왔고 평소하던 대로 축과 주제부에 표정만 만들었습니다"
   }
 }

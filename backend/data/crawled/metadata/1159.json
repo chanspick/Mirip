@@ -23,5 +23,14 @@
     "student_strength": "매주 한 6장의 크로키와 선생님들의 말씀을 따랐기 때문인 것같습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하세요. 돼지들의 세계라는 것을 표현하는데 집중하였고 그속에서 사는 인간들은 노예로 표현하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 55.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.362
+  },
+  "clip_topic": {
+    "topic_score": 0.597,
+    "topic_text": "유전자조작남용으로 돼지가 인간보다 똑똑해져 인간들을 지배하며 그들만의 세계를 만들게 됩니다."
   }
 }

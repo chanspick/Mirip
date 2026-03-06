@@ -22,5 +22,14 @@
     "student_strength": "알람시계 기능을 결합하여 ‘탁상용’ 에 적합한 스피커를 디자인 한 것이 합격요인인 것 같습니다.",
     "teacher_feedback": "선생님께서 알려주신 것들을 토대로 저의 것으로 만들기위해 노력했습니다.",
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.06
+  },
+  "clip_topic": {
+    "topic_score": 0.6544,
+    "topic_text": "탁상용 스피커를 디자인 하는 문제였습니다. ‘탁상용’ 이라는 용도가 명확히 제시된 것을 보고 그 용도에 맞는 스피커를 디자인하는 것이 관건이라고 생각했습니다."
   }
 }

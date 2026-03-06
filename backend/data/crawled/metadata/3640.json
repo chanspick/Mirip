@@ -22,5 +22,14 @@
     "student_strength": "물론 개인 역량도 있는 것 같지만 저는 실기력이 좋은 편이 아니었기에 큰 차이점은 학원에서 가르쳐주신 내용들을 실수 없이 정확히 해내고 온 것이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.328
+  },
+  "clip_topic": {
+    "topic_score": 0.5832,
+    "topic_text": "단국대에서는 정십이면체가 나와서 일단 투시를 틀리지 않으려 노력했고 분리가 가능하다는 조건이 붙어있어서 뒷공간부터 점점 정십이면체가 만들어지는 과정을 표현하려고 했습니다."
   }
 }

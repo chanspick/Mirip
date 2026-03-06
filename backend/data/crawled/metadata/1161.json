@@ -22,5 +22,14 @@
     "student_strength": "내신 성적도 중요했던 것 같고 쌤들이 강조하시는 깔끔한 정리와 마감이 중요했던 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 31.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.049
+  },
+  "clip_topic": {
+    "topic_score": 0.5852,
+    "topic_text": "실기고사 당일 출제 문제는 스마트워치, 필름, 녹고있는 얼음이었고 전 날 선생님들께서 찝어주신 부분이나 고쳐야할 점들을 신경써서 평소작을 많이 참고하였습니다"
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "시험 시간 후반부에 지치지 않고 최대한 할 수 있는 묘사와 정리를 하려고 했다. 시험작에서도 평소작 퀄리티가 나오도록 노력한 것이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "탁구채와 탁구공의 역동적인 운동에 의해 모래시계가 깨지는 이미지가 떠올랐고 안에 있는 모래가 튀어나오게 하여 더 역동적인 느낌을 주었다."
+  },
+  "tier_refined": {
+    "tier_score": 82.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.906
+  },
+  "clip_topic": {
+    "topic_score": 0.5833,
+    "topic_text": "모래시계와 탁구공, 탁구채가 나왔다. 탁구채와 탁구공의 역동적인 운동에 의해 모래시계가 깨지는 이미지가 떠올랐고 안에 있는 모래가 튀어나오게 하여 더 역동적인 느낌을 주었다."
   }
 }

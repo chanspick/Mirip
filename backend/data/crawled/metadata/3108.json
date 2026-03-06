@@ -23,5 +23,14 @@
     "student_strength": "작년에 안 나왔던 주제어가 나왔어요. 이번 년도에 현민 쌤이 새로운 패턴을 많이 짜주셨는데 저는 새로운 패턴이 나오면 바로 그날 그림에 써먹어 봤습니다. 그렇게 해서 저랑 맞는 패턴을 몇가지 찾고 실기몇 달 전부터는 연습했던 패턴으로만 시험을 봤습니다! 성신여대는 세로구도 고정이였는데 구도짜는걸 어려워했던 저에게는 이부분이 정말 편하게 다가왔습니다.",
     "teacher_feedback": "선생님이 항상 슬럼프는 메시나 호날두같은 잘하는 사람들이 오는 거라 하셔서...",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 57.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.462
+  },
+  "clip_topic": {
+    "topic_score": 0.5994,
+    "topic_text": "시험주제 - 디퓨저로 과거를 표현하시오."
   }
 }

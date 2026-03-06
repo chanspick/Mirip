@@ -22,5 +22,14 @@
     "student_strength": "수능준비와 실기준비를 함께 병행해 나가면서 꾸준히 해서 가능했던것 같습니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 35.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.271
+  },
+  "clip_topic": {
+    "topic_score": 0.5882,
+    "topic_text": "시험문제로는 귤과딸기가 나왔고, 귤껍질을 이용해서 공간을만들고 그 공간 안에서 구성을 했습니다"
   }
 }

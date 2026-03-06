@@ -23,5 +23,14 @@
     "student_strength": "시간을 충분히 남겨 그림의 밀도를 높인 것 이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.322
+  },
+  "clip_topic": {
+    "topic_score": 0.583,
+    "topic_text": "카메라와 해바라기가 출제되었고, 평소 하던 대로 차분하게 그리려 노력했다."
   }
 }

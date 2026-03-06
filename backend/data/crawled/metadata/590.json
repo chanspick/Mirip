@@ -23,5 +23,14 @@
     "student_strength": "시험을 보기 바로 전 그렸던 그림이 바로 용수철 이었습니다. 선생님께서 시험보기 전 자주 나오는 물체들로 공간구성을 해볼수 있도록 해 주셔서 특히 구도잡는 시간이 오래 걸리는 저에게는 정말 행운이었습니다.",
     "teacher_feedback": null,
     "ideation_process": "‘스프링은 늘어난다. 쇠 질감이다.’, ‘휴지는 찢어지고 주름진다."
+  },
+  "tier_refined": {
+    "tier_score": 57.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.496
+  },
+  "clip_topic": {
+    "topic_score": 0.6096,
+    "topic_text": "스프링, 휴지 문제를 받자마자 각 물체의 특징을 먼저 떠올렸습니다. ‘스프링은 늘어난다."
   }
 }

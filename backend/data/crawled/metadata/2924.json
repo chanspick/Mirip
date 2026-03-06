@@ -23,5 +23,14 @@
     "student_strength": "학원에 왠만하면 빠지지않고 꾸준히 나와서 그림그렸던게 도움이 된 것 같습니다.",
     "teacher_feedback": "선생님 피드백 해주신거에 주의를 기울여서 연습했습니다..",
     "ideation_process": "답변.면접 준비때 배웠던 내용대로 동양 수묵화의 특징과 원근법의 특징을 살려 답변하였습니다. ["
+  },
+  "tier_refined": {
+    "tier_score": 69.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.224
+  },
+  "clip_topic": {
+    "topic_score": 0.5827,
+    "topic_text": "질문.몽유도원도 작품에 대해 1분 이내에 설명하시오. 답변.면접 준비때 배웠던 내용대로 동양 수묵화의 특징과 원근법의 특징을 살려 답변하였습니다."
   }
 }

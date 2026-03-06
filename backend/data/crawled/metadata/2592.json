@@ -22,5 +22,14 @@
     "student_strength": "주제부가 스쳐지나가도 포인트들이 보이게 구성하려 했습니다. 또한, 하나를 그려도 의도를 담고 그리는 것이 중요하다고 생각합니다.",
     "teacher_feedback": "선생님의 피드백을 매일 적으며 중요한 것들을 놓치지 않게 신경썼습니다.",
     "ideation_process": "그와 동시에 주제부 크기와 그 사물에서 가장 중요한 특징들을 한눈에 보이게 그리려고 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 69.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.224
+  },
+  "clip_topic": {
+    "topic_score": 0.5871,
+    "topic_text": "세 물체의 연관성과 기능성을 잘 보이게 하려고 노력했습니다. 그와 동시에 주제부 크기와 그 사물에서 가장 중요한 특징들을 한눈에 보이게 그리려고 했습니다."
   }
 }

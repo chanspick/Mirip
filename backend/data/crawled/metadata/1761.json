@@ -22,5 +22,14 @@
     "student_strength": "개인마다 각자의 캐릭터가 있고 개성도 강하고 그래서 그것만 고집했던 것이 아니라 여러가지 연출을 시도해보고 다시 바꿔보면서 다양성을 줬던 것 같스비닥.",
     "teacher_feedback": "선생님들이 미쳐 설명해 주시지 못하는 부분들을 제 나름대로 감이나 느낌있게 그려서 만들어 나갔습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 45.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.777
+  },
+  "clip_topic": {
+    "topic_score": 0.5749,
+    "topic_text": "가장먼저 떠오르는 당연한 내용을 한번더 되새김 해서 그것을 중점적으로 했었고 안돼더라도 평소 연습했던 연출능력을 더 끌어 올려봤습니다."
   }
 }

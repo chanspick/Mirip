@@ -22,5 +22,14 @@
     "student_strength": "아무래도 주제어해석과 개체활용이 다른 그림보다 잘 보였기 때문이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "또한 주제어를 잘 보여줄 수 있는 방향으로 문제를 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 48.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.938
+  },
+  "clip_topic": {
+    "topic_score": 0.6046,
+    "topic_text": "페르시안고양이와 꿀벌, 풍선껌이 출제 개체로 나왔는데 생명체가 두개나 나왔기에 생동적이고 운동감있는 스케치를 하기위해 많은 고민을 했습니다. 또한 주제어를 잘 보여줄 수 있는 방향으로 문제를 풀어나갔습니다."
   }
 }

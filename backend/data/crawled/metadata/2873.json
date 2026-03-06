@@ -22,5 +22,14 @@
     "student_strength": "선생님들께서 말씀하신 것들을 잘 지키려고 했던 점이 합격에 가장 큰 요인이지 않았나 싶습니다.",
     "teacher_feedback": "선생님과의 크리틱 이후 좋은 방향으로 수정하고 자주 복습을 했던 것 같습니다..",
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 35.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.271
+  },
+  "clip_topic": {
+    "topic_score": 0.5747,
+    "topic_text": "수박과 몽키스패너가 나왔고 학원에서 연습한 만큼 그리고 오자고 생각했습니다."
   }
 }

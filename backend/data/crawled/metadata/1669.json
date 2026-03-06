@@ -23,5 +23,14 @@
     "student_strength": "주인공의 감정을 잘 나타낼 수 있는 연출에 대해 고민을 많이 했는데 이 점이 좋게 평가를 받은 것 같습니다.",
     "teacher_feedback": "선생님의 피드백- 수정 방식으로 수업을 받았고 실기가 얼마 안남았을때는 아주 열심히 시험을 봤던 것 같습니다..",
     "ideation_process": "현지는 남자의 탓이라 생각하며 남자에게 화를 내고 내려야하는 정거장보다 하나 일찍 내린다."
+  },
+  "tier_refined": {
+    "tier_score": 81.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.84
+  },
+  "clip_topic": {
+    "topic_score": 0.5821,
+    "topic_text": "면접을 보러가는 20대 초 현지는 지하철에서 오십대 샐러리맨의 발을 밟게된다. 현지는 남자의 탓이라 생각하며 남자에게 화를 내고 내려야하는 정거장보다"
   }
 }

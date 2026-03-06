@@ -22,5 +22,14 @@
     "student_strength": "표현이나 묘사에 치중하지 않고 오직 조형적으로 다가간게 컸던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "평소 하던것보다 제시한 사물이 많아서 처음엔 당황했지만 차근차근 조형적으로 구성하다"
+  },
+  "tier_refined": {
+    "tier_score": 56.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.404
+  },
+  "clip_topic": {
+    "topic_score": 0.593,
+    "topic_text": "드론, 드론조종기, 와인오프너, 노란색 파우치, 애플워치, 볼펜이 주제로 나왔습니다. 평소 하던것보다"
   }
 }

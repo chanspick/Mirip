@@ -22,5 +22,14 @@
     "student_strength": "시험장에서 새로운 시도를 하지않고 평소에 그렸던 구도로 실수만 하지 않으려 했기 때문이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 31.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.049
+  },
+  "clip_topic": {
+    "topic_score": 0.6014,
+    "topic_text": "얼음, 시계, 필름으로 제시어 시간이 나왔는데 얼음 표현에 자신이 없어서 최대한 갯수를 안넣고 효과적으로 표현하려고 노력했다."
   }
 }

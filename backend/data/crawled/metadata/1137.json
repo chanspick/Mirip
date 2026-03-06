@@ -22,5 +22,14 @@
     "student_strength": "평소에 쌤이 강조하셨던 내용을 떠올렸던 게 도움이 �榮鳴� 생각합니다",
     "teacher_feedback": null,
     "ideation_process": "표현하라고 하였는데, 평소에 하던대로 규칙을 만들어서 강조시키는 구성을 하여서 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 61.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.664
+  },
+  "clip_topic": {
+    "topic_score": 0.6002,
+    "topic_text": "망치와 땅콩이 출제되었고 디자인의 원리를 표현하라고 하였는데, 평소에 하던대로 규칙을 만들어서 강조시키는 구성을 하여서 풀어나갔습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "선생님들의 구체적인 피드백을 수용하며 내 그림의 문제점이 무엇인지 빠르게 인지하고 조언들을 잊지않으며 끝까지 해낼려고 한 것이 합격 주요인이라고 생각한다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 57.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.488
+  },
+  "clip_topic": {
+    "topic_score": 0.5986,
+    "topic_text": "도토리와 나사못 .조개가 나왔습니다."
   }
 }

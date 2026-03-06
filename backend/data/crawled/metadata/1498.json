@@ -22,5 +22,14 @@
     "student_strength": "가고자 하는 학교에 지원하기에 적절한 성적과 실기능력이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오, 바닷가재의 질감은 인조모피로 하시오 였는데 처음에는 당황스러웠지만 15~20분의 시간을 갖고 천천히 생각하여 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 66.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.054
+  },
+  "clip_topic": {
+    "topic_score": 0.5842,
+    "topic_text": "평면도형 동그라미, 세모, 네모를 사용하여 바닷가재를 만들고 배경에는 자개를 액체화 하여 역동적으로 표현하시오, 바닷가재의 질감은 인조모피로 하시오 였는데 처음에는 당황스러웠지만 15~20분의 시간을 갖고 천천히 생각하여 풀어나갔습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "색감과 출제자의도를 파악한 주제해석이라 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "풀어나가면서 발상했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 81.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.871
+  },
+  "clip_topic": {
+    "topic_score": 0.5913,
+    "topic_text": "' 땀 속의 비밀 ' / 땀 속의 비밀이니까 그 땀이 나올만한 상황을 생각했고 어느정도 주제해석의 방향이 잡힌 뒤론 거기서부터 이야기를 풀어나가면서 발상했습니다."
   }
 }

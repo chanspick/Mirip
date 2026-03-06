@@ -22,5 +22,14 @@
     "student_strength": "물체를 크게 그리고 최대한 갯수를 적게 넣으려고 했다. 그리고 낚시릴과 리본의 대비로 그림이 눈에 잘 보인 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "그리고 낚시릴의 손잡이 부분을 활용하여 리본을 찢는 연출을 하려고 했다."
+  },
+  "tier_refined": {
+    "tier_score": 73.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.455
+  },
+  "clip_topic": {
+    "topic_score": 0.595,
+    "topic_text": "낚시릴과 리본이 나왔고, 리본이 밝은색이기 때문에 낚시릴의 어둠을 어둡게 눌러 대비를 주려고 했다. 그리고 낚시릴의 손잡이 부분을 활용하여 리본을 찢는 연출을 하려고 했다."
   }
 }

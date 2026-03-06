@@ -23,5 +23,14 @@
     "student_strength": "선생님이 해주시던 피드백을 항시 유의하며 그림을 그린 것, 다양한 테마의 문제를 풀이하며 핵심을 짚는 능력을 키운 것이 큰 합격요인이라고 생각합니다.",
     "teacher_feedback": "선생님께서 피드백 해주신 부분들을 따로 메모해 같은 실수를 반복하지 않도록 노력했습니다.",
     "ideation_process": "첫사랑을 다시 볼 생각에 설렌다. 문을 열자 내 첫사랑만 보인다."
+  },
+  "tier_refined": {
+    "tier_score": 53.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.259
+  },
+  "clip_topic": {
+    "topic_score": 0.5778,
+    "topic_text": "‘10년만의 동창회. 첫사랑을 다시 볼 생각에 설렌다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "시험장에서 흥분하지 않고 연습한데로 하는 것이 중요하다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 75.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.568
+  },
+  "clip_topic": {
+    "topic_score": 0.6144,
+    "topic_text": "사진모델링이였는데 학원에서 준비한데로 차분하게 들어갔습니다."
   }
 }

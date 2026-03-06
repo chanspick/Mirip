@@ -22,5 +22,10 @@
     "student_strength": null,
     "teacher_feedback": "선생님들과 생각을 나누며 탄탄한 내용을 만들어갈 수 있었습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 91.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.605
   }
 }

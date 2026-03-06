@@ -22,5 +22,10 @@
     "student_strength": null,
     "teacher_feedback": "선생님들의 도움으로 그림을 연구하면서 나만의 그림을 찾아서 준비할 수 있었습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 78.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.725
   }
 }

@@ -22,5 +22,10 @@
     "student_strength": "선생님들이 옆에서 피드백을 그 누구보다 잘해주십니다. 그리고 좋은 쌤들 덕분에 더 편하게 학원을 다닐 수 있었고 고양이가 있습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 38.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님들과 대화과 많은 편인데, 나의 장점과 개선되는 좋은 점들을 알려 주시고 조언도 해주시기 때문에 도움이 많이 되었다..",
     "ideation_process": "접근 할수 있었다. 서울대는 2년 전까지 10줄 내외글을 적어 제출했었는데 이번 시험은 오로지 그림만 내야 했기 때문에 최대한 그림으로 문제에 대한 답이 읽히게끔 그리려고 했다."
+  },
+  "tier_refined": {
+    "tier_score": 93.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.721
+  },
+  "clip_topic": {
+    "topic_score": 0.5999,
+    "topic_text": "학원에서 1년 동안 약 50번 정도의 모의 시험을 본다. 그렇기 때문에 시험장에서 문제를 받고도 당황하지 않고 접근 할수 있었다."
   }
 }

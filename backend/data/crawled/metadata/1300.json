@@ -23,5 +23,14 @@
     "student_strength": "문제에 위반되지 않게 개체 A를 사실적으로 잘 표현했는가와 개체 B에 적당한 변형을 주었는가가 중요하다고 생각했습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하는 것에 신경을 썼습니다."
+  },
+  "tier_refined": {
+    "tier_score": 66.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.909
+  },
+  "clip_topic": {
+    "topic_score": 0.5985,
+    "topic_text": "사실적 묘사를 해야하는 샴페인병과 얼음이 담긴 금속 양동이(이하 A)와 변형된 묘사를 할 수 있는 낡은 소방호수(이하 B)가 나왔기에 문제에 충실하여 A는 있는 그대로 그리고자 하였고 B에서 변형을 하고자 했습니다. 또 얼음의 투명한 특성과 금속 양동이의 비친다는 특성을 표현하는 것에 신경을 썼습니다."
   }
 }

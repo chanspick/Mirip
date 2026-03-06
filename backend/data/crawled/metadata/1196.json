@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님들께서 다양한 방향을 제시해 주셔서 큰 도움이 되었다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5894,
+    "topic_text": "분위기가 어수선하고 긴장되었지만, 조급해하지않고 차분하게 그림을 그렸다."
   }
 }

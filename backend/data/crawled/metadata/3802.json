@@ -23,5 +23,14 @@
     "student_strength": "연습해 본 개체라 자신 있게 그릴 수 있었고, 스테이플러의 기능과 형태를 집중적으로 표현한 것, 채도가 높은 원색을 위주로 사용한 점도 좋은 평가를 받은 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 65.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.897
+  },
+  "clip_topic": {
+    "topic_score": 0.5844,
+    "topic_text": "스테이플러와 책이 나왔고 주어진 자료를 꼼꼼히 보면서 스테이플러의 구조와 형태, 기능을 보여주는 것에 집중했습니다"
   }
 }

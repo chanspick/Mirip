@@ -23,5 +23,14 @@
     "student_strength": "우선 그림 장수 싸움이라는 게 맞는 말인 거 같습니다. 현역 때 이 학원에 정시시험 한달정도를 남기고 옮겨 왔는데 너무나도 촉박했고 그림도 많이 그리지 못했지만 한 자리수 예비를 받았고, 재수를 하면서 그림을 정말 많이 그렸더니 그리는만큼 는다는게 딱 느껴졌습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.97
+  },
+  "clip_topic": {
+    "topic_score": 0.5743,
+    "topic_text": "실기장에서 주제를 받고 최대 15분까지는 아이디어를 짤 수 있도록 정하고 최대한 학원에서 했던 아이디어나 학원선생님들이 제시해 주신 조형에 연결 지어서 생각을 했습니다."
   }
 }

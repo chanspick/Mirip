@@ -22,5 +22,14 @@
     "student_strength": "제 생각에는 화면 의도가 명확하게 보였던 점이 컸던 것 같아요. 소재를 억지로 묶지 않고 자연스럽게 연결하려고 했던 게 플러스 요인이었다고 느껴요. 구성에서 크게 흔들리지 않았던 것도 도움이 된 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "서로 연관성이 좋아서 크게 당황하진 않았습니다. 저는 ‘물이 따르고 있고 티백이 우러나는 순간’을 중심으로 잡았어요."
+  },
+  "tier_refined": {
+    "tier_score": 65.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.861
+  },
+  "clip_topic": {
+    "topic_score": 0.5867,
+    "topic_text": "출제 소재는 금속 주전자, 티백, 유리 찻잔이었어요. 서로 연관성이 좋아서 크게 당황하진 않았습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "실기와 공부를 적절히 병행하고 여러 합격작을 찾아보며 꾸준히 노력한 것에 있다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다. 그리고 종이컵의 담는 기능을 생각하여 물을 사용해 연출을 극대화해서 보여주고자 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 48.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.002
+  },
+  "clip_topic": {
+    "topic_score": 0.579,
+    "topic_text": "제시물은 종이컵이 나왔으며 제시어는 속도가 나왔습니다. 속도라는 주제어는 준비하면서 몇번 풀어보았기에 피드백을 받았던 것을 참고하여 바퀴를 달아야겠다고 생각했습니다."
   }
 }

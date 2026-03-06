@@ -23,5 +23,14 @@
     "student_strength": "그 전날 지적받은 부분은 그다음날 꼭 틀리지 않으려고 했습니다 꼭 하고 넘어가야 할 부분을 시간대별로 정하고 그걸 지키면서 전체적인 완성을 하려고 했습니다 그리고 모델에 인상과 이미지를 뽑으려고 노력했습니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 48.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.032
+  },
+  "clip_topic": {
+    "topic_score": 0.6032,
+    "topic_text": "소조는 20대 머리 묶은 여자가 나왓고 모델분이 특징있게 생겨서 이미지를 끝까지 찾으려고 노력했습니다.소묘는 20대 머리를 넘긴 남자가 나왔고 특징있는 이미지여서 형태를 똑같이 맞추려고 했습니다"
   }
 }

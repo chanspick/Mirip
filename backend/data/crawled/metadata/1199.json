@@ -23,5 +23,14 @@
     "student_strength": "특이한 구도에 남들이 잘 하지 않을 것 같은 연출을 택했습니다. 스팸에 있는 기름을 조금 과장되게 연출 하였고, 채색도 평소보다 채도를 차분하게 써서 어떻게든 다른 그림들과 차별화를 준 것 같아요.",
     "teacher_feedback": null,
     "ideation_process": "두 기물간의 관계성과 특징을 최대한 살릴 수 있게 화면을 구성하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.6001,
+    "topic_text": "스팸과 흰 목장갑이 기물로 나왔습니다. 두 기물간의 관계성과 특징을 최대한 살릴 수 있게 화면을 구성하였습니다."
   }
 }

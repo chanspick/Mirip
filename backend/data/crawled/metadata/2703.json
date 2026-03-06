@@ -23,5 +23,14 @@
     "student_strength": "남들보다 더한 한뼘의 노력 이라고 생각합니다.",
     "teacher_feedback": "선생님들 많이 괴롭혔습니다.",
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 72.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.416
+  },
+  "clip_topic": {
+    "topic_score": 0.5861,
+    "topic_text": "사진에 표현된 인물을 그리시오. 완측은 한쪽만 죽어라 그리라던 선생님 말씀이 생각나서 보이는대로 열심히 그리자 라고 생각했습니다."
   }
 }

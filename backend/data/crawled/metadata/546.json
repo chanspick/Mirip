@@ -23,5 +23,14 @@
     "student_strength": "제시물의 특징과 조형적 특징이 잘 나타나도록 주제부에 크게 배치하고 완성한 것이 중요했던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 56.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.441
+  },
+  "clip_topic": {
+    "topic_score": 0.5816,
+    "topic_text": "밴드와 휴대용뷰러가 나와 각 물체들의 특징이 잘 나타나게 주제부를 구성하였습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "진부하지 않은 문제 풀이와 표현이 눈길을 끌었던 것 같습니다.",
     "teacher_feedback": "선생님이 시험문제를 내주시면 주제에 맞게 4시간 씩 시험을 본 후 피드백을 받으며 준비했습니다..",
     "ideation_process": "문제를 받고 당황하지 않고 평소작을 생각하며 아이디어 스케치를 풀어 나갔습니다"
+  },
+  "tier_refined": {
+    "tier_score": 48.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.926
+  },
+  "clip_topic": {
+    "topic_score": 0.562,
+    "topic_text": "서경대학교의 출제문제는 “대한민국의 미래를 쇼핑 하시오”였습니다. 문제를 받고 당황하지 않고 평소작을 생각하며 아이디어 스케치를 풀어 나갔습니다"
   }
 }

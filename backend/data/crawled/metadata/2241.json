@@ -22,5 +22,14 @@
     "student_strength": "수시는 경쟁률이 높아서 실기를 엄청 잘 해야 된다는 생각에 실기에 만 집중 했던게 합격 요인이 아닌가 싶습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 64.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.831
+  },
+  "clip_topic": {
+    "topic_score": 0.5986,
+    "topic_text": "골프공,골프장갑, 썬캡이 나왔는데 썬캡안에 장갑과 골프공이 잘보이게 주제로 구성하고 골프공이 움직이는 느낌을 연상하며 화면에 구성했습니다."
   }
 }

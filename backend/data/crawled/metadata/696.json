@@ -22,5 +22,14 @@
     "student_strength": "약점노트라는 것을 만들어서 선생님께서 저의 부족한 부분을 말씀해주시면 늘 거기에 적어서 다음에는 실수하지 않게 하려는 노력을 하였습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 58.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.535
+  },
+  "clip_topic": {
+    "topic_score": 0.5978,
+    "topic_text": "럭비공,단풍잎,주사위가 나와서 평소에 연습하던 대로 시험장에서도 풀고 나왔습니다."
   }
 }

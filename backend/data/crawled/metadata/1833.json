@@ -22,5 +22,14 @@
     "student_strength": "선생님 말씀을 잘듣고 실수한 부분이나 보완 할 부분을 선생님께서 잘 알려주셔서 고치려고 노력했습니다.",
     "teacher_feedback": "선생님이 알려주신 구도 방식으로 구도를 짜고 충분한 묘사연습을 하였습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.395
+  },
+  "clip_topic": {
+    "topic_score": 0.5818,
+    "topic_text": "호박.팔레트.물감.망치 수업시간에 기출문제를 준비하면서 짯던 구도를 생각하면서, 선생님이 해주셨던 말씀과 평소에 실수했던 부분을 생각하면서 실수 하지않도록 천천히 문제를 풀어나갔습니다."
   }
 }

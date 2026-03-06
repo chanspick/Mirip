@@ -22,5 +22,14 @@
     "student_strength": "결국엔 그림의 완성도와 기본기가 가장 중요하다고 생각합니다. 화려한 기술 보다는 기본기가 튼튼하면 어떤 사물이 출제된다해도 실기장에서 대처할 수 있는 요인이 된다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.408
+  },
+  "clip_topic": {
+    "topic_score": 0.5885,
+    "topic_text": "스테이플러, 착즙기, 포스트잇이 제시물로 나왔고 최대한 주어진 사물이 잘보이고 사물간에 연관성이 돋보일 수 있도록 스케치 해나갔고 특히 색상의 배열을 신경쓰며 진행했습니다."
   }
 }

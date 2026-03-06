@@ -23,5 +23,14 @@
     "student_strength": "나의 성향을 잘 알고, 그에 맞춰서 수능과 실기를 준비한 것!",
     "teacher_feedback": null,
     "ideation_process": "표현하는 것 보다, 한명에 집중했다."
+  },
+  "tier_refined": {
+    "tier_score": 49.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.089
+  },
+  "clip_topic": {
+    "topic_score": 0.5998,
+    "topic_text": "2명의 군상이 나왔고, 단이 살짝 있었다. 시간이 많지 않기 때문에 두명을 다"
   }
 }

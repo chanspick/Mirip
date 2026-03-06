@@ -23,5 +23,14 @@
     "student_strength": "서울여대가 원래 극악의 확률인 학교라고 생각되었기에, 좀 더 과감한 시도가 잘 통했다고 생각합니다. 서울여대 합격을 통해서 더 큰 자신감을 얻게 되었지만 스스로 자신감과 확신을 가지는 것이 제일 중요하다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.958
+  },
+  "clip_topic": {
+    "topic_score": 0.5956,
+    "topic_text": "맥주병과 병따개였고, 실기 반영률과 경쟁률이 높은 학교였기 때문에 구도를 짤 때 차별화를 주려고 노력했던 것이 좋은 결과로 이어진 것 같습니다."
   }
 }

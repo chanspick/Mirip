@@ -24,5 +24,14 @@
     "student_strength": "평소에 닮게 만들려고 연습했던 것 이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.058
+  },
+  "clip_topic": {
+    "topic_score": 0.5987,
+    "topic_text": "여자 모델링 이었는데 밀도보다는 최대한 닮게 만들기위해 노력했습니다."
   }
 }

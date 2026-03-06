@@ -22,5 +22,14 @@
     "student_strength": "구리 창조의아침에서 수업 중에 많은 구도를 연습했던 게 시험장에서 도움이 많이 됐습니다.",
     "teacher_feedback": "선생님께서 시범도 많이 보여주시고 30분에 한 번 꼴로 그림 봐달라고 엄청 괴롭혀도 귀찮아 안 하시고 잘 봐주셨어요 ㅎㅎ.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5768,
+    "topic_text": "비움과 채움 표현 재활용 마크를 주제로 인간/환경/물질이 포함되게 표현하기"
   }
 }

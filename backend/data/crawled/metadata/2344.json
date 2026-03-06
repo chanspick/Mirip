@@ -22,5 +22,14 @@
     "student_strength": "학원에서 호서대 주제로 여러번 엽습한 것이 제일 큰 합격 요인이 된 것 같다. 선생님들과 피드백을 통해서 더 나은 방향으로 쉽고 빠르지만 예쁘게 그릴 수 있는 방향을 찾아갔다.",
     "teacher_feedback": null,
     "ideation_process": "주제인 새우가 작아지지 않도록 했고 구성이 잘 보이도록 했다."
+  },
+  "tier_refined": {
+    "tier_score": 39.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.451
+  },
+  "clip_topic": {
+    "topic_score": 0.5564,
+    "topic_text": "새우랑 소방호스 학원에서 연습하고 연구한 만큼 그리자라는 마음으로 그렸다. 주제인 새우가 작아지지 않도록 했고 구성이 잘 보이도록 했다."
   }
 }

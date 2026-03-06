@@ -22,5 +22,14 @@
     "student_strength": "저에게 도움주신 선생님들 너무 감사드립니다. 특히 마지막 시점에 강력하게 조언 해주셔서 감사합니다.",
     "teacher_feedback": null,
     "ideation_process": "끝까지 최선을 다해 그려서 잘 마무리할 수 있었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 87.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.326
+  },
+  "clip_topic": {
+    "topic_score": 0.6491,
+    "topic_text": "초반에는 현실적인 상상을 해야 하는 점이 어려워서 헤맸지만 남은 5시간 동안 차분히 생각 정리하면서 구성을 만들어 나갔습니다. 끝까지 최선을 다해 그려서 잘 마무리할 수 있었습니다."
   }
 }

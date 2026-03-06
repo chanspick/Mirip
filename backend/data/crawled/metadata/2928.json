@@ -23,5 +23,14 @@
     "student_strength": "미술 선생님과 예상 문제를 다양하게 풀어보며 준비하고, 모의 면접을 진행하면서 부족한 부분에 피드백을 받으면서 준비한것이 많은 도움이 되었습니다.",
     "teacher_feedback": null,
     "ideation_process": "모의 면접에서 연습했던 질문이라 평이하게 답변할 수 있었고 자세히 파고드는 질문은 연습했던 답변을 변형하여 답변했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 74.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.496
+  },
+  "clip_topic": {
+    "topic_score": 0.5958,
+    "topic_text": "지원동기와 애니메이션 분야 등에 대해서 질문을 받았습니다. 모의 면접에서 연습했던 질문이라 평이하게 답변할 수 있었고 자세히 파고드는 질문은 연습했던 답변을 변형하여 답변했습니다."
   }
 }

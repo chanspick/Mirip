@@ -22,5 +22,14 @@
     "student_strength": "선생님이 시키시는대로 열심히 꾸준히하고 나 의 강점과 약점을 파악하고 기본기를 놓치지 않는 것이다.",
     "teacher_feedback": "선생님의 피드백을 메모장에 적어두 고 다음 시험에서 고쳐나가려 했다..",
     "ideation_process": "지퍼의 경우 정리감을 신경썼다."
+  },
+  "tier_refined": {
+    "tier_score": 35.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.275
+  },
+  "clip_topic": {
+    "topic_score": 0.5669,
+    "topic_text": "테이프 디스펜서, 살구, 지퍼였으며 제시물의 물성을 생각하여 다양한 모습을 그림 안에 그려내려했다. 지퍼의 경우 정리감을 신경썼다."
   }
 }

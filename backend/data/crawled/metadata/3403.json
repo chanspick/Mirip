@@ -23,5 +23,14 @@
     "student_strength": "평소에도 긴장을 하는편이 아니라서 차분하게 컨디션 조절을 잘하고 준비해온 덕분인것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.362
+  },
+  "clip_topic": {
+    "topic_score": 0.6147,
+    "topic_text": "면접전형이라서 실기시험은 없었습니다."
   }
 }

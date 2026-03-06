@@ -23,5 +23,10 @@
     "student_strength": "수시와 정시를 함께 준비하다가 모의고사성적이 좋지 않아 수시로 입시를 올인하게 되었습니다. 수시로 가려는 만큼 실기 실력을 올려야만 한다는 부담감과 대학에 떨어질 수도 있다는 불안감이 매우 컸습니다. 항상 최선을 다했지만 노력한 만큼 결과가 나오지 않을 땐 스트레스도 많이 받고 집에 가버리고만 싶었습니다.",
     "teacher_feedback": "선생님이 지적한 점을 다시는 틀리지 않기 위해 매번 그릴때마다 꼭!.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

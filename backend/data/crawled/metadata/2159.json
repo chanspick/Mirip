@@ -22,5 +22,14 @@
     "student_strength": "서울과기대의 경우 올해 입시 유형이 바뀐 첫해기 때문에, 완성도도 물론 중요하지만, 유형을 바꾼 목적에 초점을 맞추는 것이 가장 중요하다고 생각했습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 51.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.163
+  },
+  "clip_topic": {
+    "topic_score": 0.6483,
+    "topic_text": "산업디자인전공의 경우 제시물인 스프링, 야구공, 탁구공, 테니스공, 셔틀콕, 은박접시가 이미지로 주어졌습니다. 용지의 좌측은 시점이 다른 두 개의 셔틀콕을 소묘하고, 우측은 제시된 사물들을 활용하여 조명기구를 디자인하라는 문제였습니다."
   }
 }

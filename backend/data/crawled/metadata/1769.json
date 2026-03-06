@@ -22,5 +22,14 @@
     "student_strength": "실기는 실기대로 연습을 많이 하고 학교 성적은 성적대로 준비해갔던 것이 도움이 �營윱求�. 무엇보다 한성대는 주제 해석능력이 중요하였습니다.",
     "teacher_feedback": null,
     "ideation_process": "발상 시간 없이 바로 그림을 그릴 수 있었습니다"
+  },
+  "tier_refined": {
+    "tier_score": 51.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.188
+  },
+  "clip_topic": {
+    "topic_score": 0.5845,
+    "topic_text": "한성대학교 주제는 우정과 전구였는데, 이 역시 쉬운 주제가 나와 주제를 받고 발상 시간 없이 바로 그림을 그릴 수 있었습니다"
   }
 }

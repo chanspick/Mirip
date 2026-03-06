@@ -22,5 +22,14 @@
     "student_strength": "선생님이 알려주시는대로 따라가는것이 정답인 것 같습니다",
     "teacher_feedback": "선생님이 알려주시는대로 꾸준히 한계단 한계단 올라가며 따라갔던 것 같습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 40.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.514
+  },
+  "clip_topic": {
+    "topic_score": 0.6146,
+    "topic_text": "생수병 손전등이 나왔고 기존에 출제되어있는 문제여서 그대로 풀어나갔던 것 같습니다"
   }
 }

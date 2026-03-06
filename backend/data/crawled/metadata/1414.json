@@ -22,5 +22,14 @@
     "student_strength": "좋은 선생님과 좋은 친구들 덕분에 끝까지 버틸 수 있었다.",
     "teacher_feedback": null,
     "ideation_process": "기본 정물들과 많은 사람들이 그려보지 못했을 손이 나왔기 때문에 손을 정말 잘 그려야된다고 생각했다."
+  },
+  "tier_refined": {
+    "tier_score": 64.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.802
+  },
+  "clip_topic": {
+    "topic_score": 0.5897,
+    "topic_text": "물컵,털실 이미지와 제시어 손으로 자유롭게 화면구성하시오. 기본 정물들과 많은 사람들이 그려보지 못했을 손이 나왔기 때문에 손을 정말 잘 그려야된다고 생각했다."
   }
 }

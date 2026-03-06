@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "풀어나감 순수한 사랑의 밀도를 반구로 이루어진 하트와 속을 파도와 같이 치고 올라오는 질감 표현을 함"
+  },
+  "tier_refined": {
+    "tier_score": 54.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.307
+  },
+  "clip_topic": {
+    "topic_score": 0.592,
+    "topic_text": "순수한 사랑의 밀도를 추상적으로 점토를 이용하여 표현하시오 문제를 받고 순수한 사랑과 밀도,추상적을 각각 생각하고 3가지를 합쳐 하나로 표현하려고 풀어나감 순수한 사랑의 밀도를 반구로 이루어진 하트와 속을 파도와 같이 치고 올라오는 질감 표현을 함"
   }
 }

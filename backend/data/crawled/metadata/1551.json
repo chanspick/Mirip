@@ -22,5 +22,14 @@
     "student_strength": "대학교가 평소에 원할만한 독특한 상상력을 내보일 수 있는 구도와 주제어가 나오진 않았지만, 내 그림에 재밌는 요소가 많이 숨어있어 합격했다 생각한다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.96
+  },
+  "clip_topic": {
+    "topic_score": 0.5843,
+    "topic_text": "드론 컨트롤러가 나왔고 문제를 받자마자 이와 어울리는 물체와 구도가 뭘까 생각하며 머리로 접목시키며 구도를 짰다."
   }
 }

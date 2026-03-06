@@ -23,5 +23,14 @@
     "student_strength": "성적도 하향에서 적정정도로 넣었기 때문에 일단 괜찮은 내신 성적 때문에 1단계를 붙었고, 사물의 조형적인 특성을 잘 활용해서 잘 그렸기 때문에 최종까지 붙게 되었다고 생각해요.",
     "teacher_feedback": "선생님 지도를 잘 따르려 노력했어요.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 37.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.366
+  },
+  "clip_topic": {
+    "topic_score": 0.5944,
+    "topic_text": "2단짜리 츄파춥스였으며 조형적인 특성을 최대한 활용했고 재미있는 스토리를 만들고 나서 구성했습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "아무리 망했어도 끝까지 그려내는 끈질김이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "소묘는 톤이 적당히 들어 갈 수 있게 신경썼고, 디자인은 행복한 기차여행 분위기가 날 수 있게 난색 위주로 동화스럽게 표현 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.122
+  },
+  "clip_topic": {
+    "topic_score": 0.5809,
+    "topic_text": "소묘와 디자인(행복한 기억을 나타내시오)이 문제였는데. 소묘는 톤이 적당히 들어 갈 수 있게 신경썼고, 디자인은 행복한 기차여행 분위기가 날 수 있게 난색 위주로 동화스럽게 표현 했습니다."
   }
 }

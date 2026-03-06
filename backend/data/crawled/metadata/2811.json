@@ -22,5 +22,14 @@
     "student_strength": "꾸준하게 성실히 학원에 나가서 그림을 그린 것이 나의 합격 노하우인 것 같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 73.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.425
+  },
+  "clip_topic": {
+    "topic_score": 0.5924,
+    "topic_text": "학원에서 그린 것처럼 소재의 특성에 집중하여 그려 수월하게 풀어나간 것 같다."
   }
 }

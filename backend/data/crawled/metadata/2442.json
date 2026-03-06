@@ -22,5 +22,14 @@
     "student_strength": "적극적인 연출이라고 생각합니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 43.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.649
+  },
+  "clip_topic": {
+    "topic_score": 0.5887,
+    "topic_text": "당일에는 와인병과 쇠사슬이 나왔고, 와인으로 큰 표정을 보여주며 쇠사슬로 반복을 주어 공간을 풀어나갔습니다"
   }
 }

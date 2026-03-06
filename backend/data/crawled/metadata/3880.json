@@ -23,5 +23,14 @@
     "student_strength": "제가 실기를 보러 가기 전 강평을 받을 때 원장 선생님께서 출판만화에서 꼭 지켜야 하는 것, 시선의 흐름 방법, 청강대에서 중요하게 보는 것들을 설명해 주셔서 실기장에서 그것을 최대한 지키려고 노력하였습니다. 그리고 흑백 만화인 만큼 깔끔하게 그리는 게 중요하다고 생각해 그것에 신경을 썼던 게 크게 작용한 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "구상하였습니다. 가운데에는 세로로 길고 큰 메인 컷을 그려 눈에 띄게 만들었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 60.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.601
+  },
+  "clip_topic": {
+    "topic_score": 0.5917,
+    "topic_text": "“만화 속 당신의 성별은 여성이다. 우연히 남성이 지배하는 마조 세상에 가게 된다."
   }
 }

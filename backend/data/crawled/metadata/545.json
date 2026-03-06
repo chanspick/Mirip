@@ -23,5 +23,14 @@
     "student_strength": "양옆으로 잘 못그려서 내 그림 이 튀어보이는 효과를 본 것같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.304
+  },
+  "clip_topic": {
+    "topic_score": 0.5753,
+    "topic_text": "출제문제: 흰색 긴팔 카라 티셔츠, 쥐색 치마 레깅스, 빗자루, 맨발인 여성 쥐색 레깅스를 흰색 티셔츠와 대비를 주려고 어둡게 그리려 했다."
   }
 }

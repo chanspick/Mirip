@@ -23,5 +23,14 @@
     "student_strength": "대학교마다 어떤 스타일의 그림을 원하는지 알 수 있던 게 제일 큰 도움이 된 것 같고, 같이 미술 입시하면서 지내는 친구들이 생긴 것도 좋았어요. 그냥 기본적인 입시미술에 대한 모든 것에 대해 도움을 받았어요.",
     "teacher_feedback": null,
     "ideation_process": "(기초디자인) . 디자인 구도도 선생님께서 계속 시키던 게 있던지라 그냥 주제를 받자마자 하던 구도로 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.992
+  },
+  "clip_topic": {
+    "topic_score": 0.5998,
+    "topic_text": "안전모와 스패너를 이용하여 자유롭게 구성하시오. (기초디자인) ."
   }
 }

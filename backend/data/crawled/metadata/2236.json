@@ -22,5 +22,14 @@
     "student_strength": "드론 하나만 잘 그리 자라는 마음으로 산만하게 배치하지 않고 주제부에만 집중해서 완성 했던게 나름 괜찮았다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "드론을 주제로 배치하고 드론 주위로 포커 카드들이 날리는 모습을 상상하며 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 41.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.559
+  },
+  "clip_topic": {
+    "topic_score": 0.585,
+    "topic_text": "출제문제는 드론과 포커카드로 자유롭게 구성하는 문제였습니다. 드론을 주제로 배치하고 드론 주위로 포커 카드들이 날리는 모습을 상상하며 그렸습니다."
   }
 }

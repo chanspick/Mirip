@@ -22,5 +22,14 @@
     "student_strength": "장점은 살리고 단점은 최대한 줄일 수 있었습니다. 항상 옆에서 지켜봐주시고 응원해주셔서 감사합니다.",
     "teacher_feedback": null,
     "ideation_process": "실수하는 부분이 없는지 확인하며 정확하게 시간배분을 하여 그려나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5867,
+    "topic_text": "주어진 주제에 가장 어울리는 이야기를 만들고 그에 맞게 정물을 배치하고자 노력했습니다. 실수하는 부분이 없는지 확인하며 정확하게 시간배분을 하여 그려나갔습니다."
   }
 }

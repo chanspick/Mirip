@@ -23,5 +23,14 @@
     "student_strength": "수업이 끝나고 선생님이 해주신 피드백과 수업내용을 토대로 그림 오답노트를 꾸준히 적고 복습했다. 그리고 평소에 물체를 충분히 관찰하고 그리는 습관을 들였다.",
     "teacher_feedback": "선생님이 수업 해주신 내용을 복습했다..",
     "ideation_process": "제시물의 구조와 형태를 생각하고 조형원리에 맞춰 풀어나갔다."
+  },
+  "tier_refined": {
+    "tier_score": 37.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.388
+  },
+  "clip_topic": {
+    "topic_score": 0.5811,
+    "topic_text": "탁상시계와 연필, 운동화 끈이 나왔다. 제시물의 구조와 형태를 생각하고 조형원리에 맞춰 풀어나갔다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "그냥 여기는 학원이다라고 생각하면서 주변을 신경쓰지 않고 그리면 잘 볼 수 을 것 같다는 생각하고 시험을 치뤘습니다. 그리고 떨지 않는게 제일 중요한 것 같습니다."
+  },
+  "tier_refined": {
+    "tier_score": 50.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.098
+  },
+  "clip_topic": {
+    "topic_score": 0.6049,
+    "topic_text": "오히려 떨지 않고 아무 생각없이 여유롭게 시험을 봐서 더 잘 그리고 온 것 같습니다. 그냥 여기는 학원이다라고 생각하면서 주변을 신경쓰지 않고 그리면 잘 볼 수 을 것 같다는 생각하고 시험을 치뤘습니다."
   }
 }

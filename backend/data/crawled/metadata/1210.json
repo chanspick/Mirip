@@ -23,5 +23,14 @@
     "student_strength": "항상 같이 연구해주시고 가르쳐주신 선생님들과 내그림을 성찰 할 수 있는 오답노트, 그리고, 정말 합격하고 싶어했던 간절함이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.982
+  },
+  "clip_topic": {
+    "topic_score": 0.6013,
+    "topic_text": "고양이와 털실로 화면을 구성하는 것이 문제였는데 고양이와 털실이라서 갖고 노는 것에 초점을 두고 그렸으며, 구도 안에서 스토리텔링을 보여주기 위해 훔쳐보는 고양이를 넣어주었다."
   }
 }

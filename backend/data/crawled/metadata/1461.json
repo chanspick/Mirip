@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님이 평가하시며 말씀해 주시는 내용을 메모함.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.375
+  },
+  "clip_topic": {
+    "topic_score": 0.6104,
+    "topic_text": "참치캔 사각건전지 종이노끈 참치캔의 내용물을 그리면 안된다는 조건을 잘 지키려고 노력했다."
   }
 }

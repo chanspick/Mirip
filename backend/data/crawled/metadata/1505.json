@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님이 지적한 부분은 다시 지적당하지 않도록 노력했고, 이동 시간이나 자기 전 틈틈이 핀터레스트에서 아이디어를 얻었습니다..",
     "ideation_process": "표현하라는 문제(디자인)가 나왔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 58.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.533
+  },
+  "clip_topic": {
+    "topic_score": 0.5929,
+    "topic_text": "직사각형의 전통문양을 입체적으로 묘사하고(소묘), 문양의 형태를 입체적으로 이용해 21세기 인간의 생활용품을 표현하라는 문제(디자인)가 나왔습니다."
   }
 }

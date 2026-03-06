@@ -22,5 +22,14 @@
     "student_strength": "다른 입시생들 그림과 비교하며 배울점을 얻곤 했지만 경쟁 상대를 자신으로 포커스를 맞추는게 가장 도움이 많이 됐던 것 같다. 과거의 나보다 더 잘그려야 정말 느는게 느껴져서인 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "표현하고, 묘사할 시간을 확보했다."
+  },
+  "tier_refined": {
+    "tier_score": 68.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.204
+  },
+  "clip_topic": {
+    "topic_score": 0.5825,
+    "topic_text": "�N이 씌어진 발 이미지가 나왔다. 한번에 형태를 잡았고, 전체적인 느낌을 빨리 표현하고, 묘사할 시간을 확보했다."
   }
 }

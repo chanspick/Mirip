@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "피드백 해주신것을 받아적고 수정하는 과정을 거쳤습니다..",
     "ideation_process": "표현하세요. 문제를 받자마다"
+  },
+  "tier_refined": {
+    "tier_score": 37.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.351
+  },
+  "clip_topic": {
+    "topic_score": 0.5787,
+    "topic_text": "출제문제 : 지하철 역안에서 수상한 사람이 나타났다. 이 사람이 갑자기 난동을 부리는 상황을 표현하세요."
   }
 }

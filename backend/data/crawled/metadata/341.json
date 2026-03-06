@@ -22,5 +22,14 @@
     "student_strength": "합격의 주요원인은 많이 생각해보고 도전하는 것이라고 생각한다. 그림이나 공부가 잘 풀리지 않을 때 포기에서 그치는 것이 아니라 주변선생님이나 친구들의 조언들을 들으며 보완하는 기회로 삼았으면좋겠다.",
     "teacher_feedback": null,
     "ideation_process": "학원에서 연습했던 구도를 생각하며 원과 같은 방향성이 없는 샤워볼을 이용해 공간감을 내기 위해서 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 76.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.625
+  },
+  "clip_topic": {
+    "topic_score": 0.5968,
+    "topic_text": "시험출제문제는 샤워볼과 양초였다. 학원에서 연습했던 구도를 생각하며 원과 같은 방향성이 없는 샤워볼을 이용해 공간감을 내기 위해서 노력했다."
   }
 }

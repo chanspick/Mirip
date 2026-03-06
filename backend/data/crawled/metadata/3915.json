@@ -23,5 +23,14 @@
     "student_strength": "시험을 보거나 평가 때마다 선생님들이 말씀해 주신 피드백들 다 빼먹지 않고 메모해 두고 꾸준히 보면서 장점은 부각시키고 단점은 도칠 수 있도록 생각하면서 준비했습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 62.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.739
+  },
+  "clip_topic": {
+    "topic_score": 0.5849,
+    "topic_text": "당일 출제 석류는 백석대를 준비하면서 그려봤던거라 오히려 자신있게 풀어 낸 것 같습니다."
   }
 }

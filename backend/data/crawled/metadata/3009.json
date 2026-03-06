@@ -23,5 +23,14 @@
     "student_strength": "높은 완성도와 기본기인 것 같습니다. 샤워볼의 모양을 잡다가 덩어리가 깨지는 그림들을 많이 봤는데, 얼마전 학원에서 비슷한 경험이 있었기에 지적받았던 부분을 기억하고 시험장에서는 큰 구조부터 잘 보이게끔 채색했습니다.",
     "teacher_feedback": null,
     "ideation_process": "물체들의 성질을 잘 보여주고자 면도기로 샤워볼을 깎는 연출을 해줬고, 재질 표현에 힘을 써줬습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.961
+  },
+  "clip_topic": {
+    "topic_score": 0.5833,
+    "topic_text": "면도기와 샤워볼이 나왔습니다. 물체들의 성질을 잘 보여주고자 면도기로 샤워볼을 깎는 연출을 해줬고, 재질 표현에 힘을 써줬습니다."
   }
 }

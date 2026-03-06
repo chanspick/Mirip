@@ -22,5 +22,14 @@
     "student_strength": "구도에 얽매이지 않고 최대한 자유롭게 구성을 했고 과감한 채도 대비가 도움이 된 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "유리 뚜껑에 비치는 것을 강조하기 위해 배경을 그레이톤으로 밀고 주제부의 채도를 높여 연출했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 82.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.92
+  },
+  "clip_topic": {
+    "topic_score": 0.5824,
+    "topic_text": "나무 블록과 유리 뚜껑, 나무 제기그릇과 붓으로 자유롭게 구성하는 것이었습니다. 유리 뚜껑에 비치는 것을 강조하기 위해 배경을 그레이톤으로 밀고 주제부의 채도를 높여 연출했습니다."
   }
 }

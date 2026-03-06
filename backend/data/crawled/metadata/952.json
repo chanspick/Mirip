@@ -22,5 +22,14 @@
     "student_strength": "기복 없이 안정적으로 나올만큼의 실기력을 만들어 두었던 것이 합격의 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 57.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.496
+  },
+  "clip_topic": {
+    "topic_score": 0.6004,
+    "topic_text": "물안경과 수건, 나침반, 롱노우즈로 공간을 구성하는 문제였으며 사물이 많아 무엇을 메인으로 설정할지 고민을 많이 했으며 독창적인 구도를 만들려고 노력했습니다."
   }
 }

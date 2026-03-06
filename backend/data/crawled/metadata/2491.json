@@ -22,5 +22,14 @@
     "student_strength": "미리 나와 있는 문제를 모두 준비해가 시험장에서 조급함 없이 시험에 집중할 수 있었기에 좋은 결과가 나올 수 있었다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "개체들이 잘 보일 수 있는 투시로 하여 각 개체 간 관계를 보여주는데 신경을 썼습니다."
+  },
+  "tier_refined": {
+    "tier_score": 57.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.488
+  },
+  "clip_topic": {
+    "topic_score": 0.578,
+    "topic_text": "도토리, 나사못, 조개가 나왔으며 미리 나와 있는 문제에 대한 모든 구도를 준비해 갔기 때문에 시험장에서 따로 고민하지 않았습니다. 개체들이 잘 보일 수 있는 투시로 하여 각 개체 간 관계를 보여주는데 신경을 썼습니다."
   }
 }

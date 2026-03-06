@@ -23,5 +23,14 @@
     "student_strength": "무조건 당황하지 않는 게 가장 좋은 것 같다. 지금까지 보고 온 시험들 중 가장 당황하지 않고 즐겁게 그리고 온 학교에 합격이 되어서 그런지 시험장에서의 컨디션이 얼마나 중요한지 새삼 깨닫게 되었다.",
     "teacher_feedback": null,
     "ideation_process": "둘 다 타 학교 기출이여서 선생님께서 그려보면 좋겠다"
+  },
+  "tier_refined": {
+    "tier_score": 64.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.846
+  },
+  "clip_topic": {
+    "topic_score": 0.6088,
+    "topic_text": "알람시계와 변형이 가능한 치약이 나왔다. 둘 다"
   }
 }

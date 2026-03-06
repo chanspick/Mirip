@@ -23,5 +23,14 @@
     "student_strength": "피드백 수용과 시험장에서의 태도인것 같습니다.",
     "teacher_feedback": "피드백을 받으며 문제점을 개선 하려했습니다.",
     "ideation_process": "일단 각각의 물체의 형태를 중요시하였습니다 의자의 특이한 형태를 잘 보여주려 하였고 휴지는 휴지만의 부드러운 특성을 잘 보여주려 하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 61.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.684
+  },
+  "clip_topic": {
+    "topic_score": 0.5762,
+    "topic_text": "의자와 플라스틱 각티슈가 나왔습니다. 일단 각각의 물체의 형태를 중요시하였습니다"
   }
 }

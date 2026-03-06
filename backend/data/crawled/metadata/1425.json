@@ -22,5 +22,14 @@
     "student_strength": "입시를 하면서 선생님들이 제 그림의 장점과 보완할 점을 계속 강조해주셔서, 그 내용을 잘 떠올리고 집중해서 그렸기때문에 가능했던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "수시 때 출제문제가 금붕어 빼고 같아서 금붕어를 눈에띄게 구성했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 56.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.416
+  },
+  "clip_topic": {
+    "topic_score": 0.5847,
+    "topic_text": "트위스트 전구와 스마트워치, 금붕어가 나왔습니다. 수시 때 출제문제가 금붕어 빼고 같아서 금붕어를 눈에띄게 구성했습니다."
   }
 }

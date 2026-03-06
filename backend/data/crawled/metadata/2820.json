@@ -22,5 +22,14 @@
     "student_strength": "아이디어가 선명하게 잘 보여서 합격한것같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 43.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.678
+  },
+  "clip_topic": {
+    "topic_score": 0.5701,
+    "topic_text": "만년필/나뭇잎/선물상자가 나왔는데 명도가 밝은 나뭇잎 위에 검은 만년필 잉크로 펜의 실루엣을 그리고 밝은 바닥면에 나뭇잎을 그리는 기능성을 살린 연출을 하였고 그 연출을 중점으로 그림을 그렸습니다."
   }
 }

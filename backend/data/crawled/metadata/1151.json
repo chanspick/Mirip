@@ -22,5 +22,14 @@
     "student_strength": "시험볼때 정리하면서 깨끗한 느낌을 주려고 노력했고 무리한 컨셉보다는 기본기에 충실해서 합격한 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 80.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.809
+  },
+  "clip_topic": {
+    "topic_score": 0.5974,
+    "topic_text": "실기고사 당일출제 문제는 줄자랑 용수철 추였고 시험 보기 바로전날 같은 제시어로 시험을 봤었어서 그 구도에 대입했습니다"
   }
 }

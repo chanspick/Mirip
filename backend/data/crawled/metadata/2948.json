@@ -22,5 +22,14 @@
     "student_strength": "금속에 캡슐이 비치는 묘사나 찢기는 묘사를 디테일하게 하려고 노력했고 그 점을 좋게보신 것 같습니다.",
     "teacher_feedback": "피드백을 받는 형식으로 준비했습니다.",
     "ideation_process": "생각해서 각자 물체가 가진 특성을 적극적으로 활용했습니다. 책은 펼치고 찢고 캡슐은 뜯어서 커피가루가 나오게 구성해주었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 48.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.898
+  },
+  "clip_topic": {
+    "topic_score": 0.5864,
+    "topic_text": "책, 스케이플러, 커피캡슐이 나왔습니다. 물체의 특성을 드러내는 것이 중요하다고 생각해서 각자 물체가 가진 특성을 적극적으로 활용했습니다."
   }
 }

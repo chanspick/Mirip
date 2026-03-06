@@ -22,5 +22,14 @@
     "student_strength": "쌤들이 고치라고 했던 점은 최대한 고치려고 했고 쌤들이 칭찬하셨던 부분은 더 드러나게 그리려고 노력했고 전 날 초록색 사물을 그려본게 채색에 도움이 됐다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 37.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.381
+  },
+  "clip_topic": {
+    "topic_score": 0.5843,
+    "topic_text": "오이,뜨개질 한 목도리,스탠드식 원형 거울 정시특강 수업중에 거울,바나나,망치 조합으로 그림을 그렸었는데 문제지를 받고 바로 그 그림 구도에 대입해서 스케치를 했음"
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "여태 노력끝에 된 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 30.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.032
+  },
+  "clip_topic": {
+    "topic_score": 0.6046,
+    "topic_text": "(주제: 사람이 펭귄이었다는 반전이다.) 열심히 고민하면서 풀어나갔습니다."
   }
 }

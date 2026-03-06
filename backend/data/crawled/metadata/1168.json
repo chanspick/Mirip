@@ -22,5 +22,10 @@
     "student_strength": null,
     "teacher_feedback": "선생님들과 의논하고 연구하여 작품을 만들어 나가며 저 자신을 성장 시킬 수 있었습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 91.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.589
   }
 }

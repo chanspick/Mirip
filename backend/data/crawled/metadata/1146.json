@@ -22,5 +22,14 @@
     "student_strength": "구성할때 서두르지 않고 차분하게 했던게 도움이 �榮鳴� 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "그래서 평범한 디자인보다는 좀 특이한 디자인으로 구성을 하려고 노력했습니다.5. 고사장의 구체적인 분위기는 어떠했나요?"
+  },
+  "tier_refined": {
+    "tier_score": 62.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.699
+  },
+  "clip_topic": {
+    "topic_score": 0.5898,
+    "topic_text": "주제는 양말이 나왔는데, 양말을 사진으로 주지 않고 본인이 직접 디자인하라고 했습니다. 그래서 평범한 디자인보다는 좀 특이한 디자인으로 구성을 하려고 노력했습니다.5."
   }
 }

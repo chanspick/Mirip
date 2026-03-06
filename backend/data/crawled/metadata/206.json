@@ -23,5 +23,14 @@
     "student_strength": "평상시 써보지못한 재료나 주제가 나와도 당황하지않고 침착하게 문제를 풀어나가는 것.",
     "teacher_feedback": null,
     "ideation_process": "발상보다는 학생의 조형적 배치능력과 소묘능력,크레용의 색감을 시험하는구나 라는생각으로 풀어나감."
+  },
+  "tier_refined": {
+    "tier_score": 83.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.062
+  },
+  "clip_topic": {
+    "topic_score": 0.5692,
+    "topic_text": "수건, 계란, 수저, 킷켓초코바, 삼다수, 비닐팩으로 수건과 다른 한 소재를 비닐팩에 넣고, 나머지는 비닐팩밖에 배치하시오. 이 문제를 받고 이 문제는 발상보다는 학생의 조형적 배치능력과 소묘능력,크레용의 색감을 시험하는구나 라는생각으로 풀어나감."
   }
 }

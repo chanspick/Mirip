@@ -23,5 +23,14 @@
     "student_strength": "‘사람 일은 모른다’라는 담임 선생님의 말씀이었다. 내가 불합격의 늪에서 허우적거리고 있을 때마다 항상 옆에서 해주신 말씀인데, 저 문장 하나가 입시 내내 뼈저리게 실감났다.",
     "teacher_feedback": null,
     "ideation_process": "한국예술종합학교 시험을 볼 때 내 그림이 다른 그림과 많이 달라서 약간 위축됐었다. 그때 예전에 처음으로 한예종 준비를 하며 그림을 그릴 때가 생각났다."
+  },
+  "tier_refined": {
+    "tier_score": 80.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.794
+  },
+  "clip_topic": {
+    "topic_score": 0.5839,
+    "topic_text": "근거없는 자신감을 가지고 그렸다. 한국예술종합학교 시험을 볼 때 내 그림이 다른 그림과 많이 달라서 약간 위축됐었다."
   }
 }

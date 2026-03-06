@@ -23,5 +23,14 @@
     "student_strength": "지도해주신 선생님을 믿고 제가 노력할 부분을 짚어주시면 최선을 다해서 합격한 것 같습니다.",
     "teacher_feedback": "선생님께서 늘 말씀하셔서 집중적으로 연습하였습니다..",
     "ideation_process": "로봇과 가족 구성원간에 감정교류 혹은 공존"
+  },
+  "tier_refined": {
+    "tier_score": 56.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.441
+  },
+  "clip_topic": {
+    "topic_score": 0.6088,
+    "topic_text": "가까운 미래에 기술이 발전해서 가정에 홈로봇이 보편화 됐다. 로봇과 가족 구성원간에 감정교류 혹은 공존"
   }
 }

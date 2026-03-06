@@ -22,5 +22,14 @@
     "student_strength": "흰 배경과 물감으로 칠한 부분이 깔끔하게 떨어지는 것.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 42.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.625
+  },
+  "clip_topic": {
+    "topic_score": 0.5783,
+    "topic_text": "한세대 나무집게, 안경 명지전문대 달팽이, 알코올램프 정시 특강 기간에 풀어봤던 소재인데다가, 많이 어렵지 않다고 생각했던 문제였기에 다행이었다."
   }
 }

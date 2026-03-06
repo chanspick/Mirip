@@ -23,5 +23,10 @@
     "student_strength": "1, 2학년 때 성적을 병행 해놓은 것이 많은 도움이 되었습니다. 또한 본인만의 노하우라기보다는 힘들어도 빨리 정 신 잡고 성실하게 선생님 가르쳐 주시는 대로 학원 꾸준히 다닌 게 합격에 도움이 되었던 것 같습니다.",
     "teacher_feedback": "선생님께서 시범 보여주신 것을 위주로 개체 연습을 했고 실기가 가까워졌을 때는 계속 시험을 봤던 것 같습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 75.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.563
   }
 }

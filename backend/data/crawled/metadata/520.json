@@ -24,5 +24,14 @@
     "student_strength": "끝까지 멘탈 잡으면서 이미지와 큰실루엣을 끝까지 볼려고 노력했다",
     "teacher_feedback": null,
     "ideation_process": "명확한 이미지를 뽑으려고 했다 소묘는 20대 남자가 나왔는데 모델 이미지랑 색감이 튀지 않게 그릴려고 했다"
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.058
+  },
+  "clip_topic": {
+    "topic_score": 0.6136,
+    "topic_text": "소조는 20대 여자가 나왔는데모델 이미지가 특징있서 다른학생보다 명확한 이미지를 뽑으려고 했다"
   }
 }

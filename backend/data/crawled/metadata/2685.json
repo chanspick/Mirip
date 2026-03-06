@@ -22,5 +22,14 @@
     "student_strength": "스탠드조명을 활용해서 빛을 나타낸 점과 어둠을 확실하게 잡으면서 빛이 강하게 느껴진 점이 아닐까 싶습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 37.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.356
+  },
+  "clip_topic": {
+    "topic_score": 0.5756,
+    "topic_text": "귤, 스탠드조명, 털장갑이 주제로 나왔고, 스탠드 조명을 활용해서 그리려고 했습니다."
   }
 }

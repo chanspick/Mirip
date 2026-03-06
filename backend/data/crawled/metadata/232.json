@@ -22,5 +22,14 @@
     "student_strength": "어느정도 실력을 끌어올린 이후에는 자신의 그림 체계를 명확히 하는 것과 그 정해진 방법으로 시험장에서 미친듯이 그리고 나올 의지가 중요하다.",
     "teacher_feedback": null,
     "ideation_process": "표현하고 난 이후 남은 시간동안 얼굴, 손, 앞 정물을 더 많이 표현했다."
+  },
+  "tier_refined": {
+    "tier_score": 76.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.627
+  },
+  "clip_topic": {
+    "topic_score": 0.587,
+    "topic_text": "한라봉, 은박접시, 콜라 패트병, 비옷입은 인체가 나왔다. 전체 화면구성에 신경썼고, 빠르게 표현하고 난 이후 남은 시간동안 얼굴, 손, 앞 정물을 더 많이 표현했다."
   }
 }

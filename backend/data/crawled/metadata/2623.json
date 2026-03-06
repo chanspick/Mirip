@@ -22,5 +22,14 @@
     "student_strength": "소묘가 잘 나와서 합격하지 않았나 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "그리고 유리 질감은 선을 최대한 곱게 쓰려고 노력했습니다. 1시간 반이 지나고 나서는 소묘를 완성하지 못했어도 과감히 디자인으로 넘어갔는데 이게 오히려 시간 전략에 좋았던 것 같습니다."
+  },
+  "tier_refined": {
+    "tier_score": 51.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.181
+  },
+  "clip_topic": {
+    "topic_score": 0.6467,
+    "topic_text": "소묘는 형태를 절대 틀리지 않겠다고 생각하면서 스케치를 떴고 스펀지의 초록색 부분을 어둠 쪽으로 배치해 자연스럽게 양감이 잡힐 수 있도록 했습니다. 그리고 유리 질감은 선을 최대한 곱게 쓰려고 노력했습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "흔들리지 않는 것이다. 입시를 하면서 자존감이 떨어질 때도 많지만 나를 믿고 끝까지 공부도 실기도 하는 게 중요하다고 생각하고 그렇게 하면 합격도 따라온다고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "표현하고자 했다. 제시해 준 이미지도 단순화 시켜 표현하고 그림 안에 스토리를 만들려고 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 57.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.477
+  },
+  "clip_topic": {
+    "topic_score": 0.5987,
+    "topic_text": "그래픽 적으로 표현하고자 했다. 제시해 준 이미지도 단순화 시켜 표현하고 그림 안에 스토리를 만들려고 노력했다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "시험을 치며 새로운 시도는 하나도 하지 않았습니다. 연습할 때 선생님께서 괜찮다해주신 구도, 배경, 캐릭터, 스토리며 연출, 모두 시험 전날까지 반복하며 써왔던 것을 어떻게해서든 욱여넣었습니다.",
     "teacher_feedback": null,
     "ideation_process": "주인공에게는 반드시 지켜야할 한 가지 원칙이 있다. 그것은 절대로 얼굴을 공개해서는 안 되는 것."
+  },
+  "tier_refined": {
+    "tier_score": 60.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.612
+  },
+  "clip_topic": {
+    "topic_score": 0.5744,
+    "topic_text": "<주인공은 구독자 100만 명을 가진 유튜버이다. 주인공에게는 반드시 지켜야할 한 가지 원칙이 있다."
   }
 }

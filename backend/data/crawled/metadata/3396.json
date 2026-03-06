@@ -22,5 +22,14 @@
     "student_strength": "의지라고 생각합니다. 지적을 받아도 기죽지 않고 다시 일어서는 자세가 좋은 결과를 가져온 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "김밥 안의 내용물을 적극적으로 살리는 게 중요하다고 판단했고, 최대한 수도꼭지와의 관계성이 잘 드러나도록 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 62.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.718
+  },
+  "clip_topic": {
+    "topic_score": 0.5878,
+    "topic_text": "김밥과 수도꼭지가 나왔습니다. 김밥 안의 내용물을 적극적으로 살리는 게 중요하다고 판단했고, 최대한 수도꼭지와의 관계성이 잘 드러나도록 그렸습니다."
   }
 }

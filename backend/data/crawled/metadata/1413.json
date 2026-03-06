@@ -22,5 +22,14 @@
     "student_strength": "느리더라도 꾸준히 지적받은 단점을 고치고 장점을 살려 그린 것이 가장 영향을 끼쳤다고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.351
+  },
+  "clip_topic": {
+    "topic_score": 0.583,
+    "topic_text": "유리병, 나비, 자 전체적인 공간뿐만아니라 개체 하나 안에서도 강약을 주는 것을 가장 신경썼다."
   }
 }

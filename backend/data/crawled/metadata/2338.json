@@ -22,5 +22,14 @@
     "student_strength": "학원에서 도움을 받아서 주제의 다양한 뷰를 그려볼 수 있었다. 그 덕분에 망설임 없이 그림을 그릴 수 있었던 것 같다. 학원에서 다양하게 색을 섞어보며 여러 조합을 찾을 수 있었고 선생님들의 좋은 색 조합을 들어뒀기 때문에 합격 노하우가 생긴 게 아닐까 싶다.",
     "teacher_feedback": "선생님들의 도움을 받아 준비했고 협성대 같은 경우는 주제가 미리 나와있기 때문에 여러 조합으로 연습하며 준비했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 40.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.502
+  },
+  "clip_topic": {
+    "topic_score": 0.5834,
+    "topic_text": "학원에서 다양한 뷰로 미리 그려본 것을 생각하며 긴장하지 않으려고 노력하며 그림을 그려나갔다."
   }
 }

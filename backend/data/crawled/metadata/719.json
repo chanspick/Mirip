@@ -23,5 +23,14 @@
     "student_strength": "주변 분들이 기도도 많이 해주시고 마음을 조금 내려놓은 덕분인 것 같아요.",
     "teacher_feedback": "선생님께서 알려주신 부분은 메모해가며 다시는 틀리지 않기 위해 노력했고,.",
     "ideation_process": "처음에는 진짜 당황스러웠는데, 일단 침착하고 선풍기로 분할을 크게 함과 동시에 과감한 효과를 낼 수 있다고 생각하면서 하나씩 문제의 역할을 정하였습니다"
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5927,
+    "topic_text": "귤이랑 선풍기가 나왔습니다. 처음에는 진짜 당황스러웠는데, 일단 침착하고 선풍기로 분할을 크게 함과 동시에 과감한 효과를 낼 수 있다고 생각하면서 하나씩 문제의 역할을 정하였습니다"
   }
 }

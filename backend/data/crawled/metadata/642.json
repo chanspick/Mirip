@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님들께서 도와주셔서 정말 많은 도움이 되었다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5824,
+    "topic_text": "시험장에서는 솔직히 떨리지 않는다면 거짓말이지만 학원에서 그만큼 시험장과 같은 배치로 자리를 앉고 분위기를 조성해주니까 경험치가 쌓여서 그런지 시험을 막상 시작하고나서는 침착하게 그려 나갈 수 있었다."
   }
 }

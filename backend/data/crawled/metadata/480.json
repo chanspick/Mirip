@@ -24,5 +24,14 @@
     "student_strength": "선생님께서 말씀해주신 인천대학교 스타일이나 성향에 그림을 맞추려고 노력하였던 것이 가장 큰 도움이 된 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "먼저 공간을 재밌게 연출해야겠다는 생각이 들어 평소 학원에서 그렸던 구도들에 대입을 해보고 , 그 중에 주어진 소재에 가장 어울리는 구도를 정해 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 38.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.436
+  },
+  "clip_topic": {
+    "topic_score": 0.589,
+    "topic_text": "인천대학교 출제문제는 건전지였습니다. 먼저 공간을 재밌게 연출해야겠다는 생각이 들어 평소 학원에서 그렸던 구도들에 대입을 해보고 , 그 중에 주어진 소재에 가장 어울리는 구도를 정해 그렸습니다."
   }
 }

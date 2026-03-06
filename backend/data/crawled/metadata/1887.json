@@ -22,5 +22,10 @@
     "student_strength": null,
     "teacher_feedback": "피드백을 같이 들을 수 있을뿐더러, 칭찬 받은 좋은 그림들까지 많이 볼 수 있었습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 62.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.747
   }
 }

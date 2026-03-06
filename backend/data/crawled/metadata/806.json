@@ -22,5 +22,14 @@
     "student_strength": "힘들어서 중간에 포기하고 싶은 그림들이 많았는데...그래도 미왕성을 남기지 말자라는 생각으로 한장한장 최선을 다했다.",
     "teacher_feedback": null,
     "ideation_process": "발상하여 먹는 즐거움을 음악적으로 즐겁고 청량한 느낌이 부각되게 강조하여 표현하였다."
+  },
+  "tier_refined": {
+    "tier_score": 40.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.517
+  },
+  "clip_topic": {
+    "topic_score": 0.5988,
+    "topic_text": "물컵에 담긴 숟가락을 맛의 즐거움을 나타낸 문제가 나왔는데 피아노를 반복시켜 개체발상하여 먹는 즐거움을 음악적으로 즐겁고 청량한 느낌이 부각되게 강조하여 표현하였다."
   }
 }

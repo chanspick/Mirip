@@ -23,5 +23,14 @@
     "student_strength": "이미지보드유형은 대사없이 이미지로만 전달하는게 포인트기 때문에 각 화면 인물의 포즈 및 감정표현이 중요합니다. 대사가 없이도 이해를 시켜야하기 때문에 스토리의 연결성도 중요합니다.",
     "teacher_feedback": null,
     "ideation_process": "괴물에 혀에 다가가는 작은 외계인의 무섭고 힘들 모습을 담아냈습니다."
+  },
+  "tier_refined": {
+    "tier_score": 54.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.347
+  },
+  "clip_topic": {
+    "topic_score": 0.5839,
+    "topic_text": "주제가 엄청 길었는데 간략하게 설명하면 거대한 외계생명체에게 열쇠를 �P어서 달아나는 절체절명에 순간을 그리는 주제였습니다. 괴물에 혀에 다가가는 작은 외계인의 무섭고 힘들 모습을 담아냈습니다."
   }
 }

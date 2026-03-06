@@ -22,5 +22,14 @@
     "student_strength": "매일 학원에서 올린 실기력과 대학교에 관한 목적 의식이 뚜렷한 것이 주요인 이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 80.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.832
+  },
+  "clip_topic": {
+    "topic_score": 0.5793,
+    "topic_text": "드릴과 향수병과 망원경 이었으며 드릴을 주제부 로 공간감이 느껴지게 그렸습니다."
   }
 }

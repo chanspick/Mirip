@@ -22,5 +22,14 @@
     "student_strength": "나의 패션에 대한 깊은 생각과 정체성을 정확히 정리하는 것입니다.",
     "teacher_feedback": "선생님과 수정하였으며 모의 면접도 여러번 준비하였습니다..",
     "ideation_process": "이 차이가 심각해지고 있다 디자이너는 어떻게 해결해야하나? 였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 70.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.281
+  },
+  "clip_topic": {
+    "topic_score": 0.604,
+    "topic_text": "질문은 요즘 수도권과 비수도권의 교육, 인프라가 부족하다 이 차이가 심각해지고 있다"
   }
 }

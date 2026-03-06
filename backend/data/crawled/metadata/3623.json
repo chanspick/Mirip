@@ -22,5 +22,10 @@
     "student_strength": "정확히 해야 할 일과 하지 말아야 할 일을 두고 현실과 마주하는 일이 가장 중요하다고 생각하며 또한 출제한 문제의 의도 파악과 개체의 관찰로 다른 이들과의 차이점을 주는 게 합격의 요인이라고 생각합니다.",
     "teacher_feedback": "선생님의 말씀을 귀 기울이며 중요한 포인트들과 가장 많이 실수하는 부분들을 필기해 두거나 책생위에 붙여두며 자주 보고 자주 상기시키려 하였습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 80.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.815
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "자신의 단점을 보완하려고 노력한 점과 시험장에서 떨지않고 열심히 한 것이라 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "당황했지만 완성시키자는 마음을 가지고 평소하던대로 선생님들께서 강조하신 내용을 기억하며 시험을 봤습니다."
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.058
+  },
+  "clip_topic": {
+    "topic_score": 0.5864,
+    "topic_text": "두상은 웃는 젊은 남자였고 소묘는 사진과 주제어를 함께 주었습니다. 당황했지만 완성시키자는 마음을 가지고 평소하던대로 선생님들께서 강조하신 내용을 기억하며 시험을 봤습니다."
   }
 }

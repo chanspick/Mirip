@@ -22,5 +22,14 @@
     "student_strength": "저는 학원이라고 생각합니다 아무리 재능이있어도 학원을 잘못가서 조소에 대해 흥미를 잃거나 실기를 제대로 배우지 못했다면 대학에 합격할 수 없다고 생각합니다! 저는 저희 학원과 잘 맞고 학원이 좋아서 더 성실히 다닌 것 같습니다!",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 74.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.49
+  },
+  "clip_topic": {
+    "topic_score": 0.5905,
+    "topic_text": "양이 좀 있는 남자가 나왔습니다!"
   }
 }

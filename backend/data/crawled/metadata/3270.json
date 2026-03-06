@@ -23,5 +23,14 @@
     "student_strength": "선생님께서 시험 마지막 날 까지 그림에서 나의 장점을 잘 살릴 수 있도록 같이 고민해주셨기 때문에 잘 완성하고 온 것이 합격의 주요인이라 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "생각해서, 남들보다 더 아이디어가 돋보일 수 있는 연출을 고민하는데 시간을 들였다."
+  },
+  "tier_refined": {
+    "tier_score": 61.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.659
+  },
+  "clip_topic": {
+    "topic_score": 0.5671,
+    "topic_text": "권총과 디퓨저가 나왔다. 디퓨저 막대기를 총 입구에 꽂는것까지는 다른 학생들도 생각해낼 수 있다고 생각해서, 남들보다"
   }
 }

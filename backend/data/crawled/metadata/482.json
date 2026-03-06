@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님께서 지적한 부분은 다음 그림에서 확인을 해가며 그렸다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 77.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.634
+  },
+  "clip_topic": {
+    "topic_score": 0.5944,
+    "topic_text": "어떤 문제가 나올지 몰라 긴장이 될텐데 어떻게든 될꺼라 생각하며 그리면서 긴장을 풀고 연습때와 그림 템포를 맞추려했다."
   }
 }

@@ -23,5 +23,10 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 90.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "기본기를 바탕으로한 높은 묘사력과 톤 정리라 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "동덕여대는 기본기를 좋아하기 때문에 연출보단 제시물의 특징을 그리려고 노력하였습니다. 색은 평소에 자신있는 색상으로 선택하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.948
+  },
+  "clip_topic": {
+    "topic_score": 0.5727,
+    "topic_text": "축구화 다각면 사진 3개와 하나로 묶여있는 신발끈 사진을 주었습니다. 동덕여대는 기본기를 좋아하기 때문에 연출보단 제시물의 특징을 그리려고 노력하였습니다."
   }
 }

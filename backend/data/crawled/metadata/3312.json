@@ -23,5 +23,10 @@
     "student_strength": "생활기록부에 드러난 창의적 융합활동과 리더십, 인성 등이 좋게 반영된 것 같습니다. 아무래도 면접비율이 60%였기에 면접을 잘 봤던 것이 크게 작용했던 것 같습니다. 면접은 대화하듯 편하게 진행했고 얼마나이학교에 적합한 인재 및 성장가능성이 있는 학생인지를 보여주려고 했던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 61.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.676
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "그림이 잘 그려지지 않을때 그림이 잘 나오지 않은 이유와 앞으로 노력해야할 점 등을 반성문처럼 정리했다. 이렇게 적다보면 다음 그림에서 문제점이 바로 고쳐지는 것은 아니지만 한번 더 생각하게 되고 나쁜 점들을 하나씩 없앨 수 있게 도와주는 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "발상과묘사. 햄버거 세트와, 스타벅스종이컵 등이 나왔다."
+  },
+  "tier_refined": {
+    "tier_score": 61.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.695
+  },
+  "clip_topic": {
+    "topic_score": 0.5972,
+    "topic_text": "발상과묘사. 햄버거 세트와, 스타벅스종이컵 등이 나왔다."
   }
 }

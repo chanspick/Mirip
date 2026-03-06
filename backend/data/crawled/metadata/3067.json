@@ -22,5 +22,14 @@
     "student_strength": "우리 학원만의 특별한 조형적 구도와 수없이 연구한 컬러감으로 합격의 주요원인이다,",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 46.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.84
+  },
+  "clip_topic": {
+    "topic_score": 0.5849,
+    "topic_text": "사과,연필,소라 평소에 기출을 열심히 풀어 해당 유형의 문제가 나와 어려움 없이 잘 풀어나갔다."
   }
 }

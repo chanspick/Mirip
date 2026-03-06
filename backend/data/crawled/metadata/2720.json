@@ -22,5 +22,10 @@
     "student_strength": "원하는 학교의 유형을 미리미리 준비하고 계획하는 것까진 모두가 알지만, 실천은 모두가 하진 않는 것 같습니다. 저는 실천을 하였고 그 부분이 합격의 중요 포인트라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.058
   }
 }

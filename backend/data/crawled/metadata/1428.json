@@ -22,5 +22,14 @@
     "student_strength": "학교와 학원에서 시험 주제를 예상해보고 꾸준히 시험 연습을 했다 학원에서 항상 전형 시간에 맞춰 시험을 반복해서 봤기 때문에 실수하지 않고 시간 내에 그림을 완성할 수 있었던 것 같다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 69.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.214
+  },
+  "clip_topic": {
+    "topic_score": 0.6022,
+    "topic_text": "제시된 캔들 라이터, 라이터, 유리병으로 소묘하고 화면을 구성하여 기초 디자인 하기 라이터와 병이 함께 나온 만큼 라이터를 켜서 나오는 불을 이용해 색 변화와 함께 주제부에 시선을 집중시키는 것이 중요하다고 생각했다"
   }
 }

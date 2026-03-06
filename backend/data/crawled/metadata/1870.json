@@ -22,5 +22,14 @@
     "student_strength": "아이디어 스케치를 신중하고 꼼꼼하게 풀어나갔으며 중요한 부분은 확실히 보이게 하고 다양한 디자인요소들을 접목시켜 밀도를 높인 것이 주요인인 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 63.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.749
+  },
+  "clip_topic": {
+    "topic_score": 0.5991,
+    "topic_text": "제시물은 카메라와 스카치테이프로 다소 빈번하게 출제되었고 평소에 해보았던 평범한 소재로 다들 완성도가 나올거라 예상했기때문에 스카치테이프를 곡선과 직선의 대비를 활용히여 굉장히 적극적으로 선재로 사용하고 카메라 렌즈는 다양한 색감으로 밀도를 높여 선명하고 눈에 띄는 그림을 그리도록 풀어나갔습니다."
   }
 }

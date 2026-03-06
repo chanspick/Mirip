@@ -22,5 +22,14 @@
     "student_strength": "주제에 대한 해석이 다른 지원자들보다 좋았던 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오. 주제부는 최대한 강조된 표현을 하려고 했고 종이컵 반복을 통하여 거리감과 공간감을 주었다."
+  },
+  "tier_refined": {
+    "tier_score": 31.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.079
+  },
+  "clip_topic": {
+    "topic_score": 0.5663,
+    "topic_text": "키켓, 종이컵, 종이빨대를 이용하여 공간감을 표현하시오. 주제부는 최대한 강조된 표현을 하려고 했고 종이컵 반복을 통하여 거리감과 공간감을 주었다."
   }
 }

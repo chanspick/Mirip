@@ -22,5 +22,10 @@
     "student_strength": "꾸준한 내신 성적 관리와 다양한 학교 활동 참여가 주요 요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 75.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.528
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "나만의 그림분위기와 공간감을 열심히 표현했던 것이 요인인것 같다.",
     "teacher_feedback": "피드백을 받았다.",
     "ideation_process": "팔찌 고무줄부분이 않았지만 팔찌를 풀어서 사용했다."
+  },
+  "tier_refined": {
+    "tier_score": 75.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.539
+  },
+  "clip_topic": {
+    "topic_score": 0.5895,
+    "topic_text": "애플주스병과 팔찌를 이용하여 기초디자인 하시오. 팔찌 고무줄부분이 않았지만 팔찌를 풀어서 사용했다."
   }
 }

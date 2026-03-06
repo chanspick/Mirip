@@ -23,5 +23,14 @@
     "student_strength": "학원에서 단점을 고칠 수 있는 방법을 계속 찾으려고 노력했던 게 도움이 많이 되었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "1주제와 2주제가 만나면서 강조되는 부분과 그림의 전체적인 느낌을 생각했고 학원에서 하던대로 구도에 적용시켜 그렸습니다"
+  },
+  "tier_refined": {
+    "tier_score": 34.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.233
+  },
+  "clip_topic": {
+    "topic_score": 0.5502,
+    "topic_text": "출제 문제는 초코바와 박스테이프,로즈마리가 나왔습니다. 1주제와 2주제가 만나면서 강조되는 부분과 그림의 전체적인 느낌을 생각했고 학원에서 하던대로 구도에 적용시켜 그렸습니다"
   }
 }

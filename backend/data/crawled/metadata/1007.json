@@ -23,5 +23,14 @@
     "student_strength": "건국대 수업을 바탕으로 조형성과 문제풀이 능력이 많이 키워져서 조건에 맞는 그림을 그렸던게 주 합격 요인이었던 것 같습니다.",
     "teacher_feedback": "선생님께서 고심해서 만들어 주셨던 예상문제들이 실전에서 많은 도움이 되었습니다.",
     "ideation_process": "생각했습니다. 그래서 주제부에서 패턴지의 무늬가 입체물의 그리드에 맞게 커졌다"
+  },
+  "tier_refined": {
+    "tier_score": 52.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.224
+  },
+  "clip_topic": {
+    "topic_score": 0.5967,
+    "topic_text": "병, 패턴, 운동화끈을 주고 주어진패턴을 병에 입혀 운동화끈과 함께 운동감을 표현하시오(세로) - 의상학과 문제다 보니까 입체물에 패턴을 입힌다"
   }
 }

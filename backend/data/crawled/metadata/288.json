@@ -22,5 +22,14 @@
     "student_strength": "선생님들의 조언을 받아 들이려고 하였고 재수를 하면서 혼자 생각 하는 시간을 많이 가지려고 노력하였다.",
     "teacher_feedback": null,
     "ideation_process": "귀주변과 두개골 부분에 신경을 썼고 자주 나와서 보려고 하였다."
+  },
+  "tier_refined": {
+    "tier_score": 69.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.22
+  },
+  "clip_topic": {
+    "topic_score": 0.6069,
+    "topic_text": "초겨울 미세먼지가 있는 날, 출근길에 일주일 전 제대한 현우가 지하철배차역으로 발걸음을 재촉하는 모습 골격구조,해부학구조에 초점을 맞추고 기물이나 동세를 넣기 보다는 기본적인 것에 충실하려고 하였다. 귀주변과 두개골 부분에 신경을 썼고 자주 나와서 보려고 하였다."
   }
 }

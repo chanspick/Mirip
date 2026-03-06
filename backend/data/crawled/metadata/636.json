@@ -22,5 +22,10 @@
     "student_strength": "미대입시준비를 꾸준하게 하는 것이 중요하다고 생각해서 그림과 공부의 밸런스를 생각하면서 꾸준히 준비한 것이 합격의 원인이 된 것 같습니다. 저는 쉽게 만족하는 편이었는데, 입시준비를 하면서 만족하지 않고 스스로 엄격하게 준비한 것이 도움이 되었습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 97.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.977
   }
 }

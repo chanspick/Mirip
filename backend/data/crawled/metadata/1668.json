@@ -23,5 +23,14 @@
     "student_strength": "입시생들이 잘 사용하지 않을 것 같은 소재를 사용한 것이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "그 모습을 계속 빨간색 캐릭터가 보고 있었다. 그날밤 꿈에서 빨간색 캐릭터가 정은의 집에 온다."
+  },
+  "tier_refined": {
+    "tier_score": 52.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.242
+  },
+  "clip_topic": {
+    "topic_score": 0.6276,
+    "topic_text": "8살 정은이랑 정은이 동생이 서커스장에 놀러갔는데 가게에서 예쁜 머리핀을 보고 정은이는 그걸 훔치게된다. 그 모습을 계속 빨간색 캐릭터가 보고 있었다."
   }
 }

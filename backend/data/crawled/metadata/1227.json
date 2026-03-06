@@ -23,5 +23,14 @@
     "student_strength": "나와 맞는 구도를 찾는 게 제일 중요하다고 생각해요. 저는 주제부가 커지면 완성을 잘 못 해서 주제부가 작은 구도를 위주로 연습했어요.",
     "teacher_feedback": null,
     "ideation_process": "스팸보다는 장갑의 변화에 집중하며 아이디어 스케치를 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.978
+  },
+  "clip_topic": {
+    "topic_score": 0.6027,
+    "topic_text": "실기 당일 스팸과 목장갑이 출제 문제로 나왔어요. 스팸보다는 장갑의 변화에 집중하며 아이디어 스케치를 했습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "실기력이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 38.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.406
+  },
+  "clip_topic": {
+    "topic_score": 0.587,
+    "topic_text": "목도리,오이,거울이었으며 주어진 소재를 더 재밌게 구성하고 주어진 시간내에 더 사실적으로 묘사하기위해 손을 더 빠르게 움직였습니다."
   }
 }

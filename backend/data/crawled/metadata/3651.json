@@ -24,5 +24,14 @@
     "student_strength": "이미지가 큰 요인이라고 생각합니다",
     "teacher_feedback": "피드백을 기억할수있게 메모하고 실기전에 보면서 문제점을 하나씩 지워나가는것을 목표로 실기 하였습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 50.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.112
+  },
+  "clip_topic": {
+    "topic_score": 0.6127,
+    "topic_text": "건장한 체격의 포마드머리의 남성이 나왔고 건장한 체격이 잘 느껴지게 양감을 크게 크게 잡으면서 만들어갔습니다"
   }
 }

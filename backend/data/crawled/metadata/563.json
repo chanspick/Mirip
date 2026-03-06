@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님들이 잘 이끌어 주셨다.",
     "ideation_process": "다행히도 앞줄 정면 쪽이라 무리가 없었지만 뒤로 나오기도 쉽지않고 내 뒤에 있는 학생들이 신경쓰이기도 했다. 하지만 학원에서 모델수업을 많이 해봐서 집중을 잘 할 수 있었다."
+  },
+  "tier_refined": {
+    "tier_score": 50.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.098
+  },
+  "clip_topic": {
+    "topic_score": 0.5922,
+    "topic_text": "숙대 시험장은 굉장히 좁았다. 다행히도 앞줄 정면 쪽이라 무리가 없었지만 뒤로 나오기도 쉽지않고 내 뒤에 있는 학생들이 신경쓰이기도 했다."
   }
 }

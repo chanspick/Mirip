@@ -22,5 +22,14 @@
     "student_strength": "제시물의 특성표현과 색상활용인 것 같습니다",
     "teacher_feedback": "선생님들의 피드백을 받고 고쳐나가면서 연습했고 평소 합격작을 보면서 많이 분석했습니다..",
     "ideation_process": "생각해서 제시어와 주어진 제시물들이라도 잘 그리자는 마음으로 풀어나갔습니다 제일 신경썼던 건 제시물들 간의 재미를 주는 것이었습니다"
+  },
+  "tier_refined": {
+    "tier_score": 44.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.733
+  },
+  "clip_topic": {
+    "topic_score": 0.5885,
+    "topic_text": "천체망원경과 다트판, 롤클리너로 리듬감과 긴장감을 표현하라고 했습니다 처음에 받았을 때 세 개의 조합이 이상했고 생소한 제시물들이 나와서 당황했습니다."
   }
 }

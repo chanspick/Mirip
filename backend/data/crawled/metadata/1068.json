@@ -22,5 +22,14 @@
     "student_strength": "상상을 해서 그려야하는 주제에서 인체를 구체적으로 그려낸 것이 합격의 주요인이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "10cm 크기로 작아진 '나'의 시점으로 그리시오 2. 빛의 양 3.교실"
+  },
+  "tier_refined": {
+    "tier_score": 68.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.177
+  },
+  "clip_topic": {
+    "topic_score": 0.5662,
+    "topic_text": "1. 10cm 크기로 작아진 '나'의 시점으로 그리시오 2."
   }
 }

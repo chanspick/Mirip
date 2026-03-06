@@ -22,5 +22,14 @@
     "student_strength": "그림을 깔끔하게 완결지었고 남들과 달라보이는 포인트를 찾으려했다.",
     "teacher_feedback": "선생님의 피드백을 노트에 받아적어 시험 당일날까지 정독했다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 62.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.74
+  },
+  "clip_topic": {
+    "topic_score": 0.5973,
+    "topic_text": "거울,망치,장미가 나왔고, 꽃이 나왔으니 화사한 분위기를 조성하려 했다."
   }
 }

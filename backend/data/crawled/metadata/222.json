@@ -22,5 +22,14 @@
     "student_strength": "하루하루 조금이라도 더 좋은 그림을 그리기 위해 노력한 것.",
     "teacher_feedback": null,
     "ideation_process": "드로잉2) 단면들을 보고 입체물로 상상해서 그리시오. 화면의 구도와 특이함 보다는 자연스러운 표현이 중요하다고 생각했다."
+  },
+  "tier_refined": {
+    "tier_score": 66.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.073
+  },
+  "clip_topic": {
+    "topic_score": 0.5666,
+    "topic_text": "드로잉1) 운동선수가 출발선에서 출발신호가 울렸을 때의 상황을 그리시오. 드로잉2) 단면들을 보고 입체물로 상상해서 그리시오."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "형태, 양감, 묘사 같은 기본적인 요소를 잘 지켰기 때문이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.129
+  },
+  "clip_topic": {
+    "topic_score": 0.607,
+    "topic_text": "여자 인물은 선묘드로잉 하고, 남자 인물은 명암만으로 채색하시오."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "실기 인 것 같다. 성적보다는 실기에 주안점을 뒀다.",
     "teacher_feedback": null,
     "ideation_process": "표현하는데 어려움은 없었다."
+  },
+  "tier_refined": {
+    "tier_score": 56.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.406
+  },
+  "clip_topic": {
+    "topic_score": 0.5817,
+    "topic_text": "대게, 거울판, 오이, 흰 플라스틱 일회용 접시, 단무지, 만두, 젓가락, 흰천 이 나왔다. 정물들이 특이하긴 했지만 표현하는데 어려움은 없었다."
   }
 }

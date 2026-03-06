@@ -23,5 +23,14 @@
     "student_strength": "주제어에 대한 풀이가 교수님께 좋게 보였던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하라는 주제를 받고 주제어를 표현하는데 집중했습니다. 단순하지만 한 눈에 가짜뉴스라는게 보이도록 하려고 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 60.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.645
+  },
+  "clip_topic": {
+    "topic_score": 0.5878,
+    "topic_text": "확성기, 나침반, 스카치테이프로 가짜뉴를 표현하라는 주제를 받고 주제어를 표현하는데 집중했습니다. 단순하지만 한 눈에 가짜뉴스라는게 보이도록 하려고 했습니다."
   }
 }

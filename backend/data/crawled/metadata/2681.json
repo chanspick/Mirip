@@ -22,5 +22,14 @@
     "student_strength": "선생님의 피드백을 계속 생각하면서 시험을 본 것이 합격의 요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "이 세 개 물체들 중에서 가장 화사한 게 귤이라고 생각해, 귤을 중심으로 문제를 풀었습니다"
+  },
+  "tier_refined": {
+    "tier_score": 40.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.502
+  },
+  "clip_topic": {
+    "topic_score": 0.5798,
+    "topic_text": "귤, 털장갑, 스탠드 조명이 나왔습니다. 이 세 개 물체들 중에서 가장 화사한 게 귤이라고 생각해, 귤을 중심으로 문제를 풀었습니다"
   }
 }

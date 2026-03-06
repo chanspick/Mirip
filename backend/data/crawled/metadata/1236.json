@@ -22,5 +22,10 @@
     "student_strength": "시험을 준비하면서는 문제로 출제될 수 있는 다양한 사물들을 연습해보고 많은 자료를 찾아봤던것이 도움이 되었습니다. 시험장에서는 문제가 어렵게 느껴져도 당황하지 않고 침착하게 풀어나간 것이 합격에 영향을 기친 것 같습니다. 학원에서 가르쳐주신 내용들, 친구들과 내 그림을 비교해가면서 준비했던 것도 큰 영향을 끼쳤습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "과감한 설정과 대비를 간조한 표현이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오 라고 문제가 출제되었다. 연출의 폭이 큰 학교라 구도와 색감을 과감하게 표현했다."
+  },
+  "tier_refined": {
+    "tier_score": 49.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.965
+  },
+  "clip_topic": {
+    "topic_score": 0.5795,
+    "topic_text": "모래시계와 회로를 이용하여 미래첨단세계를 표현하시오 라고 문제가 출제되었다. 연출의 폭이 큰 학교라 구도와 색감을 과감하게 표현했다."
   }
 }

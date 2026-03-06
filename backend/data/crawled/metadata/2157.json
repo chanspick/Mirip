@@ -23,5 +23,14 @@
     "student_strength": "정시특강 중 그린 많은 그림들을 통해 만들어놓은 나만의 색감과 그림 스타일을 주제에 맞게 잘 적용한 것이라 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "생각해서 물분사의 모양을 나무로 바꾸었다. 화지의 위쪽에 나무의 이미지로 환경이 회복되는 모습을 표현하고, 아래쪽에는 기후위기로 인해 사람들이 피해를 입는 부정적인 이미지를 표현하여 대비를 주었다."
+  },
+  "tier_refined": {
+    "tier_score": 75.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.537
+  },
+  "clip_topic": {
+    "topic_score": 0.5793,
+    "topic_text": "투명흰색 분무기로 기후위기를 표현하시오. 분무기의 물을 분사하는 특징을 활용하는 것이 중요하다고 생각해서 물분사의 모양을 나무로 바꾸었다."
   }
 }

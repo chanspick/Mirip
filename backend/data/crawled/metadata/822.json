@@ -22,5 +22,10 @@
     "student_strength": null,
     "teacher_feedback": "선생님들로부터 배운 것들을 따라하는 것에서 그치지 않고, 어떻게 나의 그림에서 자기화해 활용할 수 있을까 고민했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 91.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.605
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "학원에서 스케치를 할 때 개체간의 연출법과 소재에 따라 어떻게 채색해야하는지를 잘 알려주셨던 것이 큰 도움이 됐다고 생각합니다. 전에 다니던 학원에서는 어떻게 연출을 하고, 어느 부분을 건드려야하는지 알려주지 않았기 때문에 뭐가 잘못된 것인지 몰랐습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 61.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.666
+  },
+  "clip_topic": {
+    "topic_score": 0.5905,
+    "topic_text": "실기고사 당일에는 전자 손목시계와 피젯 큐브가 나왔습니다. 손목시계의 유리의 깨질 수 있다는 특성과 피젯 큐브의 단단한 특성을 이용해야겠다는 생각을 해 연출을 했습니다."
   }
 }

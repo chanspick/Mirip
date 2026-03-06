@@ -23,5 +23,14 @@
     "student_strength": "저는 제가 직접 겪었던 이야기를 그대로 옮겨 그리는 경우가 많은데 그래서 진정성이 있지 않았나 생각해요.",
     "teacher_feedback": "선생님께 피드백을 받으며 준비했는데, 제가 확신을 가지고 그릴 수 있는게 뭘까 고민한 시간이 길었습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 96.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.899
+  },
+  "clip_topic": {
+    "topic_score": 0.5938,
+    "topic_text": "1차: 코로나가 3년 지속되었을 때 미디어에 미치는 영향이란 주제였는데 새로운 이야기를 만들면 스스로 납득이 되지 않을 것 같아 저를 포함한 제 주변 인물들이 코로나를 견뎌내는 모습에 대해 그렸습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "선생님께서 강평할�� 중요한 점을 비교설명해주신 부분과, 그부분에 대한 보완점을 적어가며 항상 복습하고 피드백이 잘 이루어진 점이 중요했던 것 같습니다.",
     "teacher_feedback": "선생님들이 시키는 대로 했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 46.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.81
+  },
+  "clip_topic": {
+    "topic_score": 0.5643,
+    "topic_text": "축구공과 얼음이 나오고 공간감이라는 제시어가 함께 나왔는데 평소에 많이 연습해본 제시어라 구성하는데 큰 어려움을 느끼지 않고 한 공간 안에 있다는 느낌을 들게 하자고 생각하며 그렸습니다."
   }
 }

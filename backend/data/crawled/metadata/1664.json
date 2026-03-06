@@ -22,5 +22,14 @@
     "student_strength": "멘탈을 잡고 포기하지않고 자신을 내려깎으면 안된다고 생각합니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 39.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.464
+  },
+  "clip_topic": {
+    "topic_score": 0.5842,
+    "topic_text": "처음에 어려워서 당황한 주제도 있었지만 구도를 생각하면서 차분하게 문제를 잘 풀어낸것같습니다"
   }
 }

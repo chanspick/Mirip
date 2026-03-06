@@ -22,5 +22,14 @@
     "student_strength": "구리 창조의 아침 미술학원 임태순 선생님이 그림을 다양하고 창의적이게 가르쳐주셔서 합격할 수 있었다고 생각하고, 친구들의 단점과 장점인 그림을 자주 보고 그 자신의 그림으로 적용하며 그리면서 도움이 되었다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 47.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.856
+  },
+  "clip_topic": {
+    "topic_score": 0.5735,
+    "topic_text": "물고기,코스모스,열쇠로 아름다움을 표현하시오."
   }
 }

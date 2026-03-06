@@ -22,5 +22,14 @@
     "student_strength": "제가 존경하는 우리 학원 선생님들 덕이지요. 그리고 가끔 꿀밤 놓고 싶지만 너무 귀엽고 착한 우리 학원 후배들 덕이기도 합니다~ㅎㅎ",
     "teacher_feedback": null,
     "ideation_process": "소설에 이입하며 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 79.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.736
+  },
+  "clip_topic": {
+    "topic_score": 0.5943,
+    "topic_text": "우울증에 걸린 어머니를 문밖에서 기다리는 아들에 관한 소설의 한 대목이 나왔습니다. 소설에 이입하며 그렸습니다."
   }
 }

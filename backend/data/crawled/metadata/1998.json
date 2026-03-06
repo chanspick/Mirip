@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "떨거나 자신감이 없다면 자신의 그림에 대한 확신도 없어지고 이 것이 그림에도 드러난다고 생각하였기 때문에 ,, 조금의 자만감을 가지고 시험장에서 그림을 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 48.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.037
+  },
+  "clip_topic": {
+    "topic_score": 0.6026,
+    "topic_text": "단단한 마음이 가장 중요한 것 같습니다. 떨거나 자신감이 없다면 자신의 그림에 대한 확신도 없어지고 이 것이 그림에도 드러난다고 생각하였기 때문에 ,, 조금의 자만감을 가지고 시험장에서 그림을 그렸습니다."
   }
 }

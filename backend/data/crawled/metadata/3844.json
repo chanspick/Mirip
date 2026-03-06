@@ -23,5 +23,14 @@
     "student_strength": "큰양 맞추는 것과 보이는 대로 하는게 중요한 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": "문제를 받고 큰양 맞추려 노력했고 보이는대로 했습니다"
+  },
+  "tier_refined": {
+    "tier_score": 83.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.98
+  },
+  "clip_topic": {
+    "topic_score": 0.6074,
+    "topic_text": "고개 든 60대 여성이 나왔습니다 문제를 받고 큰양 맞추려 노력했고 보이는대로 했습니다"
   }
 }

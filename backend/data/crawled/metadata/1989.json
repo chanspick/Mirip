@@ -23,5 +23,10 @@
     "student_strength": null,
     "teacher_feedback": "선생님께서 보여주시는 체본을 볼 때 내 것으로 만들려고 가장 집중을 많이 했던 것 같다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

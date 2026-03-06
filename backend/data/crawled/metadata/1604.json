@@ -24,5 +24,10 @@
     "student_strength": "타인을 신경쓰지 말고 나에게 집중했다. 그러다보니 자연스럽게 타인이 경쟁자로 보이지 않았고 내 발전에 모든 것을 쏟을 수 있었다. 많은 수의 학생과 작품을 접하면서 모두에게 각기 다른 배울 점을 발견할 수 있었다. 자유로운 분위기와 나뿐만 아니라 개성을 추구하는 학생들을 존중한다는 느낌을 이 곳에서 받았다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 71.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.322
   }
 }

@@ -23,5 +23,10 @@
     "student_strength": "청강대 포폴전형을 준비한다면 단순히 칸만화전형 처럼 빠른 전개보다는 나만에 그림체와 나만에 이야기 구성풀이 방식을 통해 나의 색깔을 확실하게 보여줘야 할 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 53.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.257
   }
 }

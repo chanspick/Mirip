@@ -23,5 +23,14 @@
     "student_strength": "그림이 안될땐 좌절할게 아니라 선생님이 알려주시는 나의 장점들에 초점을 맞추고 늘 긍정적인 사고를 가지는것이 입시에 가장 중요한 요인인것같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 50.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.101
+  },
+  "clip_topic": {
+    "topic_score": 0.5871,
+    "topic_text": "숙대는 추상어가 제시된다.학원에서 소리에 대한 표현연습을 해본적이 있어서 학원에서 연습했던 대로 주제에 벗어나지 않고 침착하게 그리려 노력했다."
   }
 }

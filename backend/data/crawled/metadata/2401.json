@@ -23,5 +23,14 @@
     "student_strength": "주어진 사물의 특성을 잘 파악하여 재미있는 주세부와 조화로운 연출이 중요하다고 생각하여 구도를 재미있고 창의적으로 연출하였습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.94
+  },
+  "clip_topic": {
+    "topic_score": 0.5939,
+    "topic_text": "털신과 가위가 출제 되었는데..고맙게도 미술학원에서 연습했던 문제가 출제되어서 아주 마음 편하게 그렸습니다."
   }
 }

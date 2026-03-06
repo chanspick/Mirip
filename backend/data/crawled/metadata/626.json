@@ -24,5 +24,14 @@
     "student_strength": "학원선생님의 조언대로 재수를 할때의 마음가짐에 대해서 스스로도 멘탈관리를 하려고 꾸준히 준비했습니다 그림과 멘탈관리 가 가장 중요한것같습니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 53.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.297
+  },
+  "clip_topic": {
+    "topic_score": 0.5832,
+    "topic_text": "포트폴리오 전형이여서 주제는 없었습니다"
   }
 }

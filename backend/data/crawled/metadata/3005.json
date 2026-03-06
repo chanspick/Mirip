@@ -23,5 +23,14 @@
     "student_strength": "명확한 명도대비와 디테일, 뚜렷한 하이라이트컷 이라고 생각합니다",
     "teacher_feedback": null,
     "ideation_process": "당황한 주인공 그때 머리위로 무언가 떨어졌다 떨어진건 무엇이고 주인공에게 무슨일이 일어났는지 설명하시오."
+  },
+  "tier_refined": {
+    "tier_score": 59.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.557
+  },
+  "clip_topic": {
+    "topic_score": 0.5878,
+    "topic_text": "수업중 엎드려 자고 일어나보니 주위에 아무도 없고 나 혼자 남았다 당황한 주인공 그때 머리위로 무언가 떨어졌다"
   }
 }

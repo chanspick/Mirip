@@ -22,5 +22,14 @@
     "student_strength": "평소에 지적받던 부분을 고치려고 생각하면서 했습니다.",
     "teacher_feedback": "선생님의 피드백을 통해 점차 실기력을 만들어 나갔습니다..",
     "ideation_process": "링을 벌려서 뼈대로 크게 쓰고 주제부에는 스포이드에 링이 걸린 느낌을 줬고 끈은 가볍게 곡선으로 리듬감을 줬습니다."
+  },
+  "tier_refined": {
+    "tier_score": 37.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.388
+  },
+  "clip_topic": {
+    "topic_score": 0.5734,
+    "topic_text": "스포이드와 노끈, 쇠링이 나왔고, 제시어는 리듬감이었습니다. 링을 벌려서 뼈대로 크게 쓰고 주제부에는 스포이드에 링이 걸린 느낌을 줬고 끈은 가볍게 곡선으로 리듬감을 줬습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "최대한 감정을 결여시킨 채 잘 자고 잘 먹고 학원 잘 가고 공부 잘 하고 그대로 시험장에 들어갔던 것 같다",
     "teacher_feedback": null,
     "ideation_process": "풀어나갔다. 면접은 대부분 작품과 관련한 질문이었다."
+  },
+  "tier_refined": {
+    "tier_score": 50.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.116
+  },
+  "clip_topic": {
+    "topic_score": 0.5895,
+    "topic_text": "모델링과 주제소묘로 이루어져 있었고 소묘 문제는 자코메티와 연관하여 출제되었던 것으로 기억한다. 평소 가지고 있던 생각 안에서 풀어나갔다."
   }
 }

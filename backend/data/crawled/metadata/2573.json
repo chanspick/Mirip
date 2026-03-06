@@ -22,5 +22,14 @@
     "student_strength": "수시 시험을 보러 다니는 입시기간 중반까지도 완결도를 잘 못 올려서 스스로도 엄청 답답해 했었는데 전임 선생님, 서브 선생님들이 어떤 부분이 어려운지 먼저 물어봐 주시고 제가 어려워하는 부분을 세세하게 시범도 보여주시면서 도와주셨습니다. 그 이후로 그림을 더 디테일하고 짱짱한 밀도로 완성할 수 있게 되었습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 36.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.339
+  },
+  "clip_topic": {
+    "topic_score": 0.5774,
+    "topic_text": "기타와 볼링핀 (율동감) 제시어에 맞게 기타줄과 기타의 다른 부품들을 활용해 공간을 뒤로 빼면서 율동감을 표현하였습니다."
   }
 }

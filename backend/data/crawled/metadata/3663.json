@@ -22,5 +22,14 @@
     "student_strength": "소묘의 양감이 잘 뽑혔다. 디자인 문제에서는 크기 대비가 잘 나왔던 것 같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 51.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.156
+  },
+  "clip_topic": {
+    "topic_score": 0.6615,
+    "topic_text": "톱니바퀴로 롤러를 만드는 것, 소묘는 수월했으며 디자인 아이디어로는 '점토를 펼치는 롤러'를 구상했다."
   }
 }

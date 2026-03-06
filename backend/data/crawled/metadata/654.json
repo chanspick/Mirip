@@ -22,5 +22,14 @@
     "student_strength": ": 문제를 받고 당황하지 않고 차분하게 생각하는 멘탈!",
     "teacher_feedback": "선생님과 나올만한 것을 다양하게 연습했고, 공예과인 만큼 물체의 세심한 질감 표현에 집중했다..",
     "ideation_process": "무채색인 거울과 반지의 톤변화가 중요한 문제였던 것 같다."
+  },
+  "tier_refined": {
+    "tier_score": 55.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.387
+  },
+  "clip_topic": {
+    "topic_score": 0.5846,
+    "topic_text": "금속 공예에 유명한 학교라 다이아반지를 낸 것 같았다. 무채색인 거울과 반지의 톤변화가 중요한 문제였던 것 같다."
   }
 }

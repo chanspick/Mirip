@@ -22,5 +22,14 @@
     "student_strength": "시험장에서 문제를 보고 당황했지만 그림을 객관적으로 보며 끝까지 집중하여 완성시킨 것이 합격의 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "그리고 주제부에 있는 솔방울의 밀도를 최대한 끌어올리려고 노력하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 42.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.628
+  },
+  "clip_topic": {
+    "topic_score": 0.5918,
+    "topic_text": "솔방울과 돌멩이가 제시물로 나왔는데 선재가 따로 없어서 협성대를 준비할 때 솔방울을 잘라서 사용했던 경험을 토대로 응용하여 구성하였습니다. 그리고 주제부에 있는 솔방울의 밀도를 최대한 끌어올리려고 노력하였습니다."
   }
 }

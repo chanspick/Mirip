@@ -23,5 +23,14 @@
     "student_strength": "자신있는 실력은 아니었지만 일단 부딪혀 보자는 생각으로 끝까지 열심히 했기 때문인 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 48.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.022
+  },
+  "clip_topic": {
+    "topic_score": 0.5923,
+    "topic_text": "8 각도에서 찍은 모델의 사진을 보고 해당 모델을 만드는 것이었으며 모델의 기본적인 양에 집중해서 만들었습니다"
   }
 }

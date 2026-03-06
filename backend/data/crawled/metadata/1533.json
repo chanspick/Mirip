@@ -23,5 +23,14 @@
     "student_strength": "나의 부족한 점들을 보완하며 내가 가장 잘 그릴 수 있는 그림을 그리도록 선생님들께서 지도해주셨고, 부족한 점들에 대한 선생님들의 피드백을 수업시간 이전, 점심/저녁시간, 수업이 끝나고 보완하면서 더 나은 그림을 그리려고 노력했습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.093
+  },
+  "clip_topic": {
+    "topic_score": 0.5802,
+    "topic_text": "바이스의 원래 쓰임새인 “고정시키다”라는 단어를 초점으로 맞추어 제시어를 풀었고, 메모지의 부착하는 특성을 같이 고려하여 책의 원리를 바이스와 메모지를 조합하여 보여주었습니다."
   }
 }

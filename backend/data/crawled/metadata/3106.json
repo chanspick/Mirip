@@ -22,5 +22,14 @@
     "student_strength": "학원 시간보다 일찍 학원에 도착해서 혼자 그림을 연습했었기 때문에 합격하였다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오. - 기초디자인(3절 4시간)"
+  },
+  "tier_refined": {
+    "tier_score": 61.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.683
+  },
+  "clip_topic": {
+    "topic_score": 0.6033,
+    "topic_text": "이미지로 제시된 호랑이의 특징을 활용하여 균형, 변화, 반복, 대칭 등의 디자인적 요소를 이용하여 창의적으로 표현하시오. - 기초디자인(3절 4시간)"
   }
 }

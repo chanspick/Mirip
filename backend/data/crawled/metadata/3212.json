@@ -23,5 +23,14 @@
     "student_strength": "부족해 보이는 부분 없이 그려야 하는 부분들을 다 그리고 나온 점이 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 56.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.411
+  },
+  "clip_topic": {
+    "topic_score": 0.5709,
+    "topic_text": "캔버스 운동화, 펜 4개, 커피 드리퍼가 출제되었으며, 각 정물의 모양을 꼼꼼하고 정확하게 묘사하는 방향으로 풀어내었습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "자신 있는 주제가 나오기도 했고, 평소 선생님들의 말씀과 조언들이 힘이 되어준 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": "표현하는 것이 주제였으며, 학원에서 자신있게 준비한 주제였기에 침착하게 평소 했던대로 진행했습니다"
+  },
+  "tier_refined": {
+    "tier_score": 45.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.795
+  },
+  "clip_topic": {
+    "topic_score": 0.587,
+    "topic_text": "휴가철 해변가의 모습을 표현하는 것이 주제였으며, 학원에서 자신있게 준비한 주제였기에 침착하게 평소 했던대로 진행했습니다"
   }
 }

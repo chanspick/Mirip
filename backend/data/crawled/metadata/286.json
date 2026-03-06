@@ -23,5 +23,14 @@
     "student_strength": "틀린 답에 집착하지 않고, 못그리는 것을 인정하고, 변화하려고 노력했다.",
     "teacher_feedback": null,
     "ideation_process": "왜 이런 조건을 제시했는지 고민했다."
+  },
+  "tier_refined": {
+    "tier_score": 49.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.087
+  },
+  "clip_topic": {
+    "topic_score": 0.6158,
+    "topic_text": "평범한 인체에 발아래 빨간 담요를 그리라고 제시됐다. 왜 이런 조건을 제시했는지 고민했다."
   }
 }

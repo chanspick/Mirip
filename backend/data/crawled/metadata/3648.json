@@ -23,5 +23,14 @@
     "student_strength": "다군까지가는 체력관리가 원인인 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.322
+  },
+  "clip_topic": {
+    "topic_score": 0.5908,
+    "topic_text": "해바라기, 카메라가 나왔고, 며칠전에 학원에서 시험 본 주제와 같아 수월하게 풀었습니다."
   }
 }

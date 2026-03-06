@@ -22,5 +22,14 @@
     "student_strength": "빛과 그림자를 이용한 분위기 때문이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "주인공의 부주의로 인해 동생이 교통사고로 세상을 떠났었다. 자신의 탓이라고 생각한 주인공이 정상적인 생활을 할 수 없자 위로하기 위해 나타난 동생의 이야기를 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 45.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.757
+  },
+  "clip_topic": {
+    "topic_score": 0.6055,
+    "topic_text": "[출제문제] 작년에 교통사고로 죽었던 동생이 초인종을 눌렀다. 주인공의 부주의로 인해 동생이 교통사고로 세상을 떠났었다."
   }
 }

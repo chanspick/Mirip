@@ -22,5 +22,10 @@
     "student_strength": "제가 수시로 미대를 갈 수 있었던 것은 기초를 탄탄하게 쌓았기 때문이라고 생각합니다. 잘 그린 그림도 중요하지만 기초디자인은 학생의 기본적인 면을 보기 위해서 임으로 기초가 중요하다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 80.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.83
   }
 }

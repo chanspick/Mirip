@@ -23,5 +23,14 @@
     "student_strength": "전임선생님과 수시 실패를 한것에 대해서 요인을 분석하고 멘탈적으로도 마음을 다잡으려고 노력한것이 요인이라고 생각합니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 50.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.109
+  },
+  "clip_topic": {
+    "topic_score": 0.5877,
+    "topic_text": "경기대학교 - 스님(명사), 달리다(동사), 차갑다(형용사) 평소에 칸만화를 준비를 했던터라 어렵지 않게 풀어 나갔습니다"
   }
 }

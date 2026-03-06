@@ -23,5 +23,10 @@
     "student_strength": "마인드 세팅과 본질 파악이다. 아무리 열심히 준비해도 본질에서 벗어난 준비를 하고 있으면 소용이 없고, 시험장에서 적절한 결과물을 만들어내는 경험과 자기 자신을 끌어갈 마인드가 없으면 소용이 없다고 생각한다. 실기나 수능이나 마찬가지이다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.107
   }
 }

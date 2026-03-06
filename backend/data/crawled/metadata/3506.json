@@ -22,5 +22,14 @@
     "student_strength": "지금까지 선생님과 수업하면서 배운것들을 잊지 않고 끝까지 기억하면서 마무리하는 것이 중요하다고 생각합니다",
     "teacher_feedback": "선생님께서 말씀주셔던 중요한부분들을 상기시키면 연습했습니다..",
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 48.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.9
+  },
+  "clip_topic": {
+    "topic_score": 0.5878,
+    "topic_text": "출제 문제는 무궁화, 바둑판과 바둑알, 프리즘이 나왔습니다. 이 문제들을 받고 꽃이 가장 잘 보여야 한다고 생각하여 꽃을 중심으로 그리고 나머지는 꽃의 형태를 최대한 해치지않고 공간감 있게 그려야한다고 생각했습니다."
   }
 }

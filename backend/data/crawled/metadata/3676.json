@@ -23,5 +23,14 @@
     "student_strength": "현역 때는 너무 긴장해서 실기장에서 기량만큼 나오지 않았습니다. 그래서 재수 때는 시험장에서 긴장하지만 말자고 다짐했던 거 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "주제할 때 선생님께서 가르쳐주신 동세를 생각하며 기초 뼈대를 탄탄하게 잡았습니다. 사진상 모델분께서 덩치가 있어 보여서 두상의 시원하고 두툼한 양에 집중한 것 같습니다."
+  },
+  "tier_refined": {
+    "tier_score": 64.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.826
+  },
+  "clip_topic": {
+    "topic_score": 0.6086,
+    "topic_text": "동세가 약간 있고 덩치가 있는 남자였습니다. 주제할 때 선생님께서 가르쳐주신 동세를 생각하며 기초 뼈대를 탄탄하게 잡았습니다."
   }
 }

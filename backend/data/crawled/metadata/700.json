@@ -22,5 +22,10 @@
     "student_strength": "게임상황표현에 대해 정확히 이해하고 주어진 주제에 원하는 게임화면 모습을 표현하는 것이 중요한 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 59.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.555
   }
 }

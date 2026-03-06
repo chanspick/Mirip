@@ -22,5 +22,14 @@
     "student_strength": "시험장에서 문제를 보고 당황했지만 그림을 객관적으로 보며 끝까지 집중하여 완성시킨 것이 합격의 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다. 용인대를 준비할때 선생님께서 제시어 풀이를 해주신 것을 토대로 구성을 하려고 노력하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 46.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.81
+  },
+  "clip_topic": {
+    "topic_score": 0.5665,
+    "topic_text": "얼음과 축구공으로 공간감을 표현하는 것이었는데 소재가 쉬워서 표현력보단 공간감이 잘 느껴지는 구성을 하는 것이 우선이라고 생각했습니다. 용인대를 준비할때 선생님께서 제시어 풀이를 해주신 것을 토대로 구성을 하려고 노력하였습니다."
   }
 }

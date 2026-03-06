@@ -22,5 +22,14 @@
     "student_strength": "할 수 있다고 생각하는 긍정적 마인드와 실전에 대비해 시간에 맞춰 완성하는 연습, 선생님이 지적하신 부분들을 개선하려고 노력한 것, 주어진 제시물에 맞는 문제풀이가 중요하다고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 83.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.948
+  },
+  "clip_topic": {
+    "topic_score": 0.5998,
+    "topic_text": "실기고사 당일 출제된 제시물이 그물망과 강아지 장난감이었는데 구 와 천 형태여서 천을 어떻게 사용하느냐에 따라 순위권이 결정될 것이라 생각했고 천을 좀 더 극적으로 표현하려고 노력했다."
   }
 }

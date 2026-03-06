@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "마지막입시라 생각하고 시험을 봤던거라 집중해서 실수하거나 내가 만족하지 못하고 나오는 일이 없도록 시간분배를 해서 차근차근 끝마치게 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 59.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.554
+  },
+  "clip_topic": {
+    "topic_score": 0.6171,
+    "topic_text": "비교적 많이 그려본 정물들이 나와서 자신있게 그리고 나왔던것 같다. 마지막입시라 생각하고 시험을 봤던거라 집중해서 실수하거나 내가 만족하지 못하고 나오는 일이 없도록 시간분배를 해서 차근차근 끝마치게 노력했다."
   }
 }

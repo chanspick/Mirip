@@ -22,5 +22,10 @@
     "student_strength": "평균 이상 정도의 표현력도 중요하지만 무엇보다 가장 중요하다고 생각한 것은 독창성이었어요. 어느 미술학원이든지 그리는 기법과 구도를 가르치고 있고, 교수님들은 수백, 수천장의 그림들이 모두 비슷해 보일 수밖에 없다고 생각해요.",
     "teacher_feedback": "선생님께서 수업해 주신 내용과 저의 단점, 득점 요인 등을 핸드폰 메모에 꼬박꼬박 기록해 두고 계속 보았습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 59.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.565
   }
 }

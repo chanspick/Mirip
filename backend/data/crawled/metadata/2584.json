@@ -23,5 +23,14 @@
     "student_strength": "주변에 손을 주제부로 그린 애들이 많이 없었고, 주제부에 그렸어도 색을 매우 탁하게 써서 그것보단 더 예쁘고 손이 잘 보이도록 그렸습니다!",
     "teacher_feedback": "선생님께서 구도도 많이 알려주시고 피드백도 많이 해주셨습니다!.",
     "ideation_process": "생각했습니다!"
+  },
+  "tier_refined": {
+    "tier_score": 65.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.852
+  },
+  "clip_topic": {
+    "topic_score": 0.5948,
+    "topic_text": "손, 매니큐어 두개, 메이크업 브러쉬 두종류가 나왔습니다! 문제를 받고 원래 쓰던 구도에 넣어서 썼고, 꼭 손이 매니큐어를 잡고있었으면 좋겠다고 생각했습니다!"
   }
 }

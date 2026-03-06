@@ -23,5 +23,14 @@
     "student_strength": "선생님들의 영향이 컸습니다.",
     "teacher_feedback": "선생님들한테 모르는건 질문하고,피드백을 그날그날 노트에 적고 그날 집에가서 다시 확인하는등 했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 33.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.187
+  },
+  "clip_topic": {
+    "topic_score": 0.5695,
+    "topic_text": "시험쳤던 그림들을 다시 생각하면서 열심히 문제를 풀어나갔습니다."
   }
 }

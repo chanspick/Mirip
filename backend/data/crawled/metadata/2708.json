@@ -24,5 +24,14 @@
     "student_strength": "문제가 무엇이 나와도 적용할 수 있는 패턴을 미리 짜놓은 게 주요인이라고 생각합니다. 상황에 따라 적용할 수도 있고 적용하지 못할 수도 있지만 그래도 미리 짜놓은 베이스틀에서 벗어나지않게 응용할 수 있었습니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 51.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.171
+  },
+  "clip_topic": {
+    "topic_score": 0.5902,
+    "topic_text": "나무돋보기,플러그가 나왔으며 시험보러가기전에 동덕여대가 추구하는 스타일을 학원에서 분석해줬기때문에 최대한 다양한 물체의 기능을 보여주며 쉽게 풀어나갈 수 있었습니다"
   }
 }

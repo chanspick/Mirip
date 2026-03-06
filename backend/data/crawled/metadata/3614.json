@@ -23,5 +23,14 @@
     "student_strength": "서류/면접 준비 선생님께 많이 물어보고 얻어가려고 한 것이 팁인 것 같습니다. 또한, 성실한 학교생활과 꾸준한 내신, 생기부 관리가 주요인이라고 생각됩니다.",
     "teacher_feedback": "선생님과 많이 이야기를 하였습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 53.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.25
+  },
+  "clip_topic": {
+    "topic_score": 0.5974,
+    "topic_text": "면접전형으로 제시문이 있었는데 이화작용과 대비를 연관시켜 아이디어를 도출하는 간단한 스케치 시험을 보고 구술로 그림을 발표하는 면접이었습니다."
   }
 }

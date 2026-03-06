@@ -23,5 +23,14 @@
     "student_strength": "선생님의 말을 귀담아 듣고 그것을 소화하도록 꾸준히 노력한것이 주요인이라고 생각한다.",
     "teacher_feedback": "선생님께서 한명한명씩 피드백을 주시는데 이것이 정말 실기에 있어 큰 도움이 되었다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 58.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.517
+  },
+  "clip_topic": {
+    "topic_score": 0.6019,
+    "topic_text": "외발자전거와 양초가 나왔으며, 외발 자전거의 형태가 어렵기때문에 외발 자전거의 형태를 확실히 보여줄수 있는 시점에서 크게 넣을려고 했던거같다."
   }
 }

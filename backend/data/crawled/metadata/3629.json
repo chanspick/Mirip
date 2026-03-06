@@ -23,5 +23,14 @@
     "student_strength": "구도와 명도대비 라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 48.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.007
+  },
+  "clip_topic": {
+    "topic_score": 0.5942,
+    "topic_text": "운동화, 스패너, 과자를 이용하여 기초디자인 하시오."
   }
 }

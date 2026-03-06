@@ -22,5 +22,10 @@
     "student_strength": null,
     "teacher_feedback": "선생님이 많이 계셔서 다양한 의견을 들으며 제 장단점에 대해서 더 잘 파악할 수 있었습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 92.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.643
   }
 }

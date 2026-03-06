@@ -23,5 +23,14 @@
     "student_strength": "주제를 받고 조금 당황했지만 학원에서 선인장을 주제로 그림을 그렸던 경험을 떠올려 쉽게 그릴 수 있었습니다.",
     "teacher_feedback": null,
     "ideation_process": "탁구공과 가시복어의 유사성을 표현하려 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 71.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.341
+  },
+  "clip_topic": {
+    "topic_score": 0.6062,
+    "topic_text": "제시물은 탁구공, 전화기, 가시복어였고 탁구공과 전화기를 조합하여 가시복어를 만들었습니다. 탁구공과 가시복어의 유사성을 표현하려 노력했습니다."
   }
 }

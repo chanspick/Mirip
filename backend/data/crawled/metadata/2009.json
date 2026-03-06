@@ -22,5 +22,14 @@
     "student_strength": "물통이 나왔는데 물을 잘 활용하여 구도를 그렸기에 합격했다생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 52.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.242
+  },
+  "clip_topic": {
+    "topic_score": 0.6066,
+    "topic_text": "물통과 스키장갑과 벨트가 나왔고, 외웠던 구도에 맞춰 넣어 풀었습니다."
   }
 }

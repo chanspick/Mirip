@@ -22,5 +22,14 @@
     "student_strength": "학원에서 올바른 방법으로 가르침을 주신 것과 그 가르침에 따라 시험장에서 그동안에 배웠던 것을 잘 그리려고 노력한 것이 큰 요인이라 생각하고 그 덕에 합격을 한 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "구도는 평소 그리던 구도로 구성하면서 물체 특성이 최대한 잘 보일 수 있도록 신경썼습니다."
+  },
+  "tier_refined": {
+    "tier_score": 55.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.354
+  },
+  "clip_topic": {
+    "topic_score": 0.6372,
+    "topic_text": "학원에서 풀었던 기출문제 중에 그려본 질감들이 나와서 막힘없이 그릴 수 있었습니다. 구도는 평소 그리던 구도로 구성하면서 물체 특성이 최대한 잘 보일 수 있도록 신경썼습니다."
   }
 }

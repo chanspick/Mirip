@@ -22,5 +22,14 @@
     "student_strength": "아무래도 가서 문제를 분석하는 시간을 많이 가지고 그림을 그릴때 당황하지 않고 즐겁게 그렸던게 재밌었어요",
     "teacher_feedback": null,
     "ideation_process": "프라이버시를 보호하는 제품을 만드는 문제 였어요 왼쪽은 일단은 포스터라고 하니까 주제가 돋보여야 하니까 주제부를 좀더 키우고 평면조형 식으로 만들었고요."
+  },
+  "tier_refined": {
+    "tier_score": 69.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.212
+  },
+  "clip_topic": {
+    "topic_score": 0.5939,
+    "topic_text": "실기시험은 일단은 두문제인데 왼쪽은 포스터 주어진 대상에 대한 포스터를 그리는 문제 오른쪽은 주어진 대상없이 제품을 만드는 문제 였습니다. 프라이버시를 보호하는 제품을 만드는 문제 였어요"
   }
 }

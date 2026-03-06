@@ -23,5 +23,14 @@
     "student_strength": "흙이 한덩이 주어졌는데 눈에 띄기 위해 최대한 크게 만들었고, 과장하지 않고 보이는 대로 만들려고 노력했다.",
     "teacher_feedback": null,
     "ideation_process": "하지만, 학원에서 하던대로 큰 실루엣, 이미지에 집중하며 보이는대로 만들려 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 83.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.993
+  },
+  "clip_topic": {
+    "topic_score": 0.6275,
+    "topic_text": "활짝 웃고 있는 할아버지 사진 제시 문제였는데 처음에 사진을 받고 치아가 많이 보여서 당황했다. 하지만, 학원에서 하던대로 큰 실루엣, 이미지에 집중하며 보이는대로 만들려 노력했다."
   }
 }

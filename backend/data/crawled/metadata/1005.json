@@ -24,5 +24,14 @@
     "student_strength": "평소에 선생님께서 조형원리 공부를 많이 시키셔서 합격구도를 짤 수 있었다.",
     "teacher_feedback": null,
     "ideation_process": "하지만 기본도형을 생각하며 어렵지 않다고 마인드컨트롤을 했고, 침착하게 구도를 짰다. 전날 디공과에서 수박이 출제되었다고 해서 과일이 안 나올 줄 알았는데, 귤이 나와서 의외라고 생각했다."
+  },
+  "tier_refined": {
+    "tier_score": 67.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.949
+  },
+  "clip_topic": {
+    "topic_score": 0.5716,
+    "topic_text": "선풍기와 귤이 나왔는데, 선풍기가 한번도 그려보지 않은 개체여서 좀 당황했다. 하지만 기본도형을 생각하며 어렵지 않다고 마인드컨트롤을 했고, 침착하게 구도를 짰다."
   }
 }

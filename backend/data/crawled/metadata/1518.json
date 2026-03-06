@@ -23,5 +23,14 @@
     "student_strength": "간절함과 끝까지 포기하지 않고 무너지지 않은 끈기라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.093
+  },
+  "clip_topic": {
+    "topic_score": 0.5791,
+    "topic_text": "평소 자주 접해보지 못한 제시물이 나와 당황했지만, 이윽고 평정심을 되찾고 제시물의 쓰임새가 잘 보이게 그림을 그려나갔다."
   }
 }

@@ -24,5 +24,10 @@
     "student_strength": null,
     "teacher_feedback": "선생님께 여쭈어 보고 고쳐야 할 것을 집에 와서 기록해두고 선생님께서 하신 것을 따라하면서 극복할 수 있었습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.08
   }
 }

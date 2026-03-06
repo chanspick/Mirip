@@ -23,5 +23,14 @@
     "student_strength": "소재의 자연스러운 연출과 공간감, 정리감이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "연필을 선재로 어떻게 면 분할 하느냐가 제일 중요한 요소라고 생각해 연필의 각도와 크기를 조절했고 둘 다 색이 튀지 않는 개채이기 때문에 채도가 약할 거라 생각되어 티백의 건더기를 마른 잎으로 쓰지 않고 생 잎 처럼 그려 흐름을 나타냈다."
+  },
+  "tier_refined": {
+    "tier_score": 33.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.176
+  },
+  "clip_topic": {
+    "topic_score": 0.589,
+    "topic_text": "립톤 삼각 티백과 더존 연필이 나왔다. 연필을 선재로 어떻게 면 분할 하느냐가 제일 중요한 요소라고 생각해 연필의 각도와 크기를 조절했고 둘 다"
   }
 }

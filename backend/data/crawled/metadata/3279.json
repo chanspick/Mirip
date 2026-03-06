@@ -22,5 +22,14 @@
     "student_strength": "주변 환경에 휘둘리지 않고 할 수 있는 최대한을 시험장에서 보여주고 온 것이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 73.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.455
+  },
+  "clip_topic": {
+    "topic_score": 0.6043,
+    "topic_text": "낚시릴과 무지개색 리본이 출제되었는데 낚시찌로 리본을 낚은 느낌을 주려 하였으며 또한 리본을 얇게 꼬아 낚시줄이 회전하는 이미지를 보여주려 하였습니다."
   }
 }

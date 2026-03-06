@@ -22,5 +22,14 @@
     "student_strength": "실전이라고 생각합니다. 공부와 실기를 실전처럼 연습하면 실전에서도 잘 할 수 있다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오 였습니다. 긴장감이란 제시어를 극도로 표현하기 위해 소재들의 특징을 깊게 생각해 보았습니다."
+  },
+  "tier_refined": {
+    "tier_score": 71.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.318
+  },
+  "clip_topic": {
+    "topic_score": 0.5766,
+    "topic_text": "에어캡, 집게, 모나미 볼펜을 이용하여 긴장감을 표현하시오 였습니다. 긴장감이란 제시어를 극도로 표현하기 위해 소재들의 특징을 깊게 생각해 보았습니다."
   }
 }

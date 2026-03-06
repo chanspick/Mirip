@@ -22,5 +22,14 @@
     "student_strength": "한눈에 봤을 때 물체끼리 정확하게 떨어져 보이는 정리감과 높은 밀도, 표현력이라고 생각한다.",
     "teacher_feedback": "선생님께서 해주시는 말씀은 다 메모해놓고 까먹지 않도록 복습했다.",
     "ideation_process": "볼트, 너트는 입시생이라면 한 번 쯤은 꼭 해봤을 만한 주제였기 때문에 남들보다 튀는 임팩트가 필요하다고 생각했다."
+  },
+  "tier_refined": {
+    "tier_score": 42.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.611
+  },
+  "clip_topic": {
+    "topic_score": 0.577,
+    "topic_text": "볼트, 너트와 은행잎이 나왔다. 볼트, 너트는 입시생이라면 한 번 쯤은 꼭 해봤을 만한 주제였기 때문에 남들보다"
   }
 }

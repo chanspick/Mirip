@@ -23,5 +23,14 @@
     "student_strength": "실기 고사장에 가서 주변사람들 신경 쓰지않고 평소에 하던 대로 했습니다.",
     "teacher_feedback": "선생님이 하는 말씀 잘 듣고 그대로 그렸습니다..",
     "ideation_process": "단순해서 오히려 어려웠는데 내가 제일 잘 하는 구도로 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 61.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.656
+  },
+  "clip_topic": {
+    "topic_score": 0.5895,
+    "topic_text": "페트병 주전자 병솔 / 처음 문제를 보고 생각한거 보다 단순해서 오히려 어려웠는데 내가 제일 잘 하는 구도로 그렸습니다."
   }
 }

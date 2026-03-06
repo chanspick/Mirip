@@ -22,5 +22,14 @@
     "student_strength": "동아대는 자유 칼라라 전구의 따뜻한 느낌을 줄려고 옐로우 색상으로 포인트를 준 것이 아닐까 조심스럽게 생각 합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 40.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.544
+  },
+  "clip_topic": {
+    "topic_score": 0.5764,
+    "topic_text": "전구의 유리질감을 특성을 살려 굴절표현 과 붕어고리의 기능성을 활용하여 표현하게 되었습니다."
   }
 }

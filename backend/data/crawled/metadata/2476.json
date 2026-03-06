@@ -23,5 +23,14 @@
     "student_strength": "점수가 깎일 요인을 최소화하자는 생각으로 기본적인 형태와 구도, 완성도에 유의하며 그렸습니다. 최대한 많이 그려보며 경험을 쌓는 것이 중요하다고 느껴 그림 한장한장 열심히 그렸던 것 같습니다.",
     "teacher_feedback": "피드백을 메모하고 다음 그림에 적용을 하며 점수가 깎이는 요인들을 하나씩 줄여나갔습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 79.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.763
+  },
+  "clip_topic": {
+    "topic_score": 0.5743,
+    "topic_text": "거품기와 제시어‘에너지’가 출제됐습니다."
   }
 }

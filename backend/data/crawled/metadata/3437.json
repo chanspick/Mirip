@@ -23,5 +23,14 @@
     "student_strength": "힘들어도 포기하지 않고 달려온 마음가짐이라고 생각합니다.",
     "teacher_feedback": "피드백을 잊지 않으려 메모하였고 꾸준히 확인하며 고치려고 했습니다.",
     "ideation_process": "형태와 빛 표현에 가장 신경을 많이 썼으며 실제와 가깝게 그리려고 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 61.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.662
+  },
+  "clip_topic": {
+    "topic_score": 0.6218,
+    "topic_text": "입상의 여성에 흰반팔티, 밝은 통 넓은 카고 청바지에 파란색 가방, 모자를 착용하며 야구점퍼를 어깨에 메고 있었습니다. 형태와 빛 표현에 가장 신경을 많이 썼으며 실제와 가깝게 그리려고 했습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "본인 노력외에 미술학원 동훈선생님을 믿고 꾸준하게 실기준비를 하는것이 합격의 가장 중요한 점 인것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "접근하는것을 보고, 최대한 차별점을 두기위해 구도 스케치에 집중하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.127
+  },
+  "clip_topic": {
+    "topic_score": 0.5903,
+    "topic_text": "중앙대 시각디자인학과 출제문제는 서울우유, 에이스과자, 유리컵이었습니다 대부분의 아이들이 평범한 구도로 접근하는것을 보고, 최대한 차별점을 두기위해 구도 스케치에 집중하였습니다."
   }
 }

@@ -24,5 +24,14 @@
     "student_strength": "관찰에 의한 섬세한 묘사와 앞과 뒤의 관계를 생각하여 그리는 것이 합격할 수 있었던 주요인같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 61.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.695
+  },
+  "clip_topic": {
+    "topic_score": 0.6653,
+    "topic_text": "불고기버거세트(불고기버거,감자튀김,콜라),검은봉지,콜라캔,서울여대신문지 / 눈에 보이는 정물을 최대한 관찰해서 보여줄 부분만 묘사하면서 풀어나갔습니다."
   }
 }

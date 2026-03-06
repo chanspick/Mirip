@@ -23,5 +23,10 @@
     "student_strength": "주변 상황에 쉽게 흔들리는 성격인데 입시 하는 내내 차분한 학원 분위기 속에서 긍정적인 영향을 많이 받았다. 실기고사 전날 시험을 망치고 자신감을 완전히 잃었었는데 수업이 끝난 후 따로 불러 힘이 되는 말들을 해주셨다. 그 후 마음이 진정되어 실기장에서 제 실력을 발휘할 수 있었다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 84.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.999
   }
 }

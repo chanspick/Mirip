@@ -23,5 +23,10 @@
     "student_strength": "학원에 다니면서 가장 만족스러운 것은? 학원만의 스타일로 밀어붙이기보다는 학생들이 각자의 스타일을 찾을 수 있도록 도와준다는 점이었습니다. 또 자신만의 스타일이 생긴만큼 스스로가 더 열심히 하게 된다는 장점도 있었습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 75.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.555
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "선생님이 해 주신 피드백을 참고하면서 학원에서 준비했을 때 부족했던 부분을 실제 시험장에서 고치려고 노력했습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 43.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.693
+  },
+  "clip_topic": {
+    "topic_score": 0.5879,
+    "topic_text": "와인잔과 줄자가 나왔고 학원에서 준비했던 구도를 사용하고 조금 추가해서 제 그림만의 분위기가 돋보이도록 노력했습니다"
   }
 }

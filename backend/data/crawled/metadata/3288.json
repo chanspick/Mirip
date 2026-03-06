@@ -22,5 +22,14 @@
     "student_strength": "소묘와 어떤 제시물이어야만 할 수 있는 특성을 부각한 아이디어인 것 같습니다.",
     "teacher_feedback": "선생님이 지적하신 것을 적어놓고 한 번 지적받은 건 다시 지적받지 말자는 마인드로 계속 외웠습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 52.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.212
+  },
+  "clip_topic": {
+    "topic_score": 0.6417,
+    "topic_text": "비누와 두루마리 휴지로 주전자를 만들라는 문제가 나왔고, 전에 학원에서 주전자는 많이 연습했기 때문에 연습한 디자인에 해당 제시물만이 할 수 있는 특성을 생각해보고 이를 바탕으로 아이디어를 생각해냈습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "2절 연필 문제2: 참고자료의 <그림2>는 벨라스케스의 작품 <시녀들>을 피카소가 재해석하여 그린 그림이다. ‘문제 1의 답안’ 과 동일한 장면을 <그림2>의 표현방식을 이해하고 활용하여 그리시오."
+  },
+  "tier_refined": {
+    "tier_score": 87.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.333
+  },
+  "clip_topic": {
+    "topic_score": 0.6335,
+    "topic_text": "문제1: 제시된 다양한 질감의 정물을 사실적으로 그리시오. 2절 연필 문제2: 참고자료의 <그림2>는 벨라스케스의 작품 <시녀들>을 피카소가 재해석하여 그린 그림이다."
   }
 }

@@ -23,5 +23,10 @@
     "student_strength": "꾸준한 정신 관리와 건강 관리가 합격에 도움이 된 것 같다. 또한 선생님께 모르는 것에 대해 자주 질문을 하면서 아쉬운 부분을 보강했고, 많은 자료를 찾으면서 실기에 활용한 것이 합격의 주요인이 된 것 같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.084
   }
 }

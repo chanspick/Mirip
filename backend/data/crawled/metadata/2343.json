@@ -22,5 +22,14 @@
     "student_strength": "평소 평가를 들을 때 적었던 평가노트, 그리고 주변 친구들과 내가 받은 평가와 그림을 비교하며 나의 부족한 점을 고치고자 했던 부분이 큰 도움이 되었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "평소 묘사가 부족하다는 지적을 많이 받았기 때문에 묘사를 내 생각보다 더 과하게 하고자 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 57.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.488
+  },
+  "clip_topic": {
+    "topic_score": 0.5872,
+    "topic_text": "상명대는 문제은행이 있기 때문에 소재를 보자마자 미리 짜놨던 하도를 1시간 이내에 끝내고 채색을 들어갔습니다. 평소 묘사가 부족하다는 지적을 많이 받았기 때문에 묘사를 내 생각보다"
   }
 }

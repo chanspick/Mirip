@@ -22,5 +22,14 @@
     "student_strength": "선물 상자에서 리본, 만연필에서 잉크같이 활용할 수 있는 모든 것을 활용한 것일 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 43.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.678
+  },
+  "clip_topic": {
+    "topic_score": 0.5664,
+    "topic_text": "만연필과 선물 상자, 나뭇잎이 나왔고 만연필과 선물상자를 골랐습니다. 만연필에서 사용할 수 있는 모든 것을 활용하고 선물 상자의 공간을 보여주며 리본 등 활용할 수 있는 것을 찾는 게 좋을 것 같다고 생각했습니다."
   }
 }

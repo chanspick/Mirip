@@ -24,5 +24,14 @@
     "student_strength": "그림을 제출하면서 소묘 부분이랑 채색 부분 둘 다 다른 사람들의 그림처럼 화려하지 않아서 걱정했었는데, 오히려 그런 부분이 제 아이디어와 소묘를 제대로 보여줄 수 있었던 장점으로 보이지 않았나라는 생각을 했습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.38
+  },
+  "clip_topic": {
+    "topic_score": 0.6019,
+    "topic_text": "투명 컵뚜껑으로 행복한 기억을 그리는 문제가 나왔는데, 투명 컵뚜껑을 모자형식의 빔프로젝터로 만들어서 모자를 쓰면 빔프로젝터를 통해 행복했던 기억을 보여주는 방식으로 그림을 그렸습니다."
   }
 }

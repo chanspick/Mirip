@@ -22,5 +22,14 @@
     "student_strength": "다리미를 스팀다리미로 한것이 다른 애들과 차별화가 되었을것이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "다리미는 밑부분이 안보이길래 스팀다리미로 해도 괜찮겠다고 생각을하여 물요소를 추가해서 그렸다.그리고 나비와 같은 생명체는 동선과 형태가 중요하다 생각하여 최대한 다양한 형태의 나비를 그렸다."
+  },
+  "tier_refined": {
+    "tier_score": 55.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.354
+  },
+  "clip_topic": {
+    "topic_score": 0.5968,
+    "topic_text": "제시물은 다리미와 나비였다. 다리미는 밑부분이 안보이길래 스팀다리미로 해도 괜찮겠다고 생각을하여 물요소를 추가해서 그렸다.그리고 나비와 같은 생명체는 동선과 형태가 중요하다"
   }
 }

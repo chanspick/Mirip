@@ -22,5 +22,14 @@
     "student_strength": "선생님만 믿고 따르는 것 외엔 없습니다.. 처음엔 의문이 들고 걱정될수도 있지만 끝까지 따르는 사람이 승자가 될것입니다.",
     "teacher_feedback": "선생님이 알려주시는 팁이나 피드백을 적어놓고 집이나 학교에서 시간이 나면 연습하면서 부족한 점을 보안하기 위해 노력했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 63.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.779
+  },
+  "clip_topic": {
+    "topic_score": 0.5788,
+    "topic_text": "석류, 나무집개, 금고자물쇠 가천대학교는 석류의 톡톡 튀는 느낌을 살리려고 했고, 다른 학생들은 석류로 주제부를 그리기에 자물쇠를 주제부로 하며 다른점을 주었고,최대한 디테일을 살리며 그렸습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "가고 싶은 대학의 합격작을 많이 찾아보고 각 학교가 원하는 그림의 콘셉트와 구도에 맞추려고 노력했습니다.",
     "teacher_feedback": null,
     "ideation_process": "변형이 쉬운 개체와 디테일이 많은 개체의 특성을 최대한 살리면서 세 물체가 모두 잘 보이도록 하며 문제를 풀었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 59.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.575
+  },
+  "clip_topic": {
+    "topic_score": 0.5846,
+    "topic_text": "드릴, 양키캔들, 목장갑이 출제되었습니다. 변형이 쉬운 개체와 디테일이 많은 개체의 특성을 최대한 살리면서 세 물체가 모두 잘 보이도록 하며 문제를 풀었습니다."
   }
 }

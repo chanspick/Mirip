@@ -22,5 +22,14 @@
     "student_strength": "선생님들의 노력과 저의 노력이 배가되어 좋은 결과를 얻은것 같다.",
     "teacher_feedback": "선생님의 평가를 잘듣고 잘못된 부분을 최대한 고치려고 노력했다.",
     "ideation_process": "주제부의 연출을 재미있게 하자는 생각을 하며 그렸다."
+  },
+  "tier_refined": {
+    "tier_score": 72.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.385
+  },
+  "clip_topic": {
+    "topic_score": 0.5973,
+    "topic_text": "스프레이, 병따개, 머리집게였다. 주제부의 연출을 재미있게 하자는 생각을 하며 그렸다."
   }
 }

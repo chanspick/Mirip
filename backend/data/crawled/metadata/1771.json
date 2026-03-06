@@ -23,5 +23,14 @@
     "student_strength": "사진을 관찰하고 최대한 비슷하게 그리려고 노력한 점이 좋았다고 생각합니다.",
     "teacher_feedback": "선생님께 지적받았던 부분들을 정리해서 고치려고 노력했습니다..",
     "ideation_process": "소재의 특성을 잘 보여주려 하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.97
+  },
+  "clip_topic": {
+    "topic_score": 0.5943,
+    "topic_text": "골프공과 거품기가 나왔습니다. 소재의 특성을 잘 보여주려 하였습니다."
   }
 }

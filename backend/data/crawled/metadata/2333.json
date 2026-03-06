@@ -22,5 +22,14 @@
     "student_strength": "선생님이 지도해주시는 말씀들을 잊지 않고 기억하는 것과 지금까지 해왔던 노력들의 결과이지 않을까 싶습니다.",
     "teacher_feedback": null,
     "ideation_process": "풍선과 먼지떨이에 대한 특징을 생각하면서 최대한 물체의 특성이 보이게 그리는 것에 신경 썼습니다. 학원 수업 시간에 선생님께 들었던 주의사항을 신경 쓰면서 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 83.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.986
+  },
+  "clip_topic": {
+    "topic_score": 0.5985,
+    "topic_text": "풍선과 먼지떨이가 나왔습니다. 풍선과 먼지떨이에 대한 특징을 생각하면서 최대한 물체의 특성이 보이게 그리는 것에 신경 썼습니다."
   }
 }

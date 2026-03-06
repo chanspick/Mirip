@@ -22,5 +22,14 @@
     "student_strength": "제시어를 잘 보여주려고 했다는 점과 평소처럼 그림을 밀도 있게 완성했다는 점 같습니다.",
     "teacher_feedback": "선생님들의 피드백을 받으며 다음 그림에 부족한 부분을 채우려 노력했습니다..",
     "ideation_process": "돋보기의 특성을 활용하여 완두콩을 확대해서 크기 대비가 명확하게 보이도록 표현하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 47.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.86
+  },
+  "clip_topic": {
+    "topic_score": 0.5797,
+    "topic_text": "돋보기와 완두콩이 나오고 제시어는 대비였습니다. 돋보기의 특성을 활용하여 완두콩을 확대해서 크기 대비가 명확하게 보이도록 표현하였습니다."
   }
 }

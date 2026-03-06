@@ -24,5 +24,10 @@
     "student_strength": null,
     "teacher_feedback": "선생님들께서 저는 '실기에 적합한 그림체를 가지고 있다'라고 하셔서 칸 만화 실기를 준비하게 되었습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.334
   }
 }

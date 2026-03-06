@@ -23,5 +23,14 @@
     "student_strength": "시험장에서도 선생님이 반복적으로 피드백해주신 부분을 잊지않고 그림을 그릴때 신경을 써서 그렸던것이 도움이 되었던것 같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 62.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.744
+  },
+  "clip_topic": {
+    "topic_score": 0.5933,
+    "topic_text": "당일 출제문제는 브로콜리와 주사기였으며 명지대의 경우 개체중 한개는 연출에대한 제한이 있기때문에 자유롭게 사용할 수 있는 개체의 특성을 생각하며 최대한 다양한 방법으로 연출하려 노력했다."
   }
 }

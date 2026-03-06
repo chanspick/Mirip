@@ -22,5 +22,14 @@
     "student_strength": "선생님과 잘하는 친구들을 닮아가려 노력했던 것이 주요인 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 74.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.487
+  },
+  "clip_topic": {
+    "topic_score": 0.6058,
+    "topic_text": "다행히도 학원에서 그려보았던 물체들이 나와 당황하지않고 평소 하던대로 그림을 그려나갔습니다."
   }
 }

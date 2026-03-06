@@ -23,5 +23,14 @@
     "student_strength": "학원에 왠만하면 빠지지않고 꾸준히 나와서 그림그렸던게 도움이 된 것 같습니다.",
     "teacher_feedback": "선생님 피드백 해주신거에 주의를 기울여서 연습했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 35.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.29
+  },
+  "clip_topic": {
+    "topic_score": 0.5712,
+    "topic_text": "건전지, 하리보 젤리 절지에 비해 시간이 짧은 학교였는데, 다행히 학원에서 준비해봤던 문제라 연습했던 내용을 기억하며 풀 었습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "만연필에서 활용할 수 있는 모든 것을 활용하고 테니스 공의 질감을 잘 보여준 것이 좋은 결과를 만든 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 37.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.392
+  },
+  "clip_topic": {
+    "topic_score": 0.5692,
+    "topic_text": "만연필과 테니스 공이 나왔고, 만연필에서 사용할 수 있는 모든 것을 활용하고 테니스 공의 질감을 보여주는 것이 좋을 것 같다고 생각했습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "물체끼리의 개연성과 흐름?!",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 52.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.236
+  },
+  "clip_topic": {
+    "topic_score": 0.5903,
+    "topic_text": "벨트와 휴지 곡선재인 벨트로 공간 구성을 크게 하고 주제에 휴지로 할 수 있는 연출을 최대한 보여줘야겠다고 생각했다."
   }
 }

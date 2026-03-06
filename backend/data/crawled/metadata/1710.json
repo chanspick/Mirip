@@ -22,5 +22,14 @@
     "student_strength": "출제문제가 외형이 쉽거나 단순한 물체가 나왔을 때 는 연출 싸움이라고 생각하고 그 부분에 집중했습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하라 하였습니다. 조건에 “관련 개체 추가 가능”을 보고 주머니를 추가하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 79.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.774
+  },
+  "clip_topic": {
+    "topic_score": 0.5949,
+    "topic_text": "커피포트가 나왔고 자유롭게 표현하라 하였습니다. 조건에 “관련 개체 추가 가능”을 보고 주머니를 추가하였습니다."
   }
 }

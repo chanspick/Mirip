@@ -23,5 +23,14 @@
     "student_strength": "선생님께서 늘 제게 주제부 정리감에 신경쓰라는 말씀을 하셨어서 마지막까지 주제부 정리감에 신경을 많이 썼는데 그것이 합격의 주요인이 되었다고 생각합니다.",
     "teacher_feedback": "선생님께서 해주신 피드백을 다음 그림에 대입하려 노력했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 64.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.806
+  },
+  "clip_topic": {
+    "topic_score": 0.5841,
+    "topic_text": "향수와 손수건이 나왔으며, 구성에서 향수병이 안정적으로 화면에 들어오게 배치하려 노력했고 손수건을 화면 분할, 선제등으로 활용하였습니다."
   }
 }

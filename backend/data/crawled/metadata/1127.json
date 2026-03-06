@@ -23,5 +23,14 @@
     "student_strength": "독특한 그림 스타일이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 53.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.253
+  },
+  "clip_topic": {
+    "topic_score": 0.579,
+    "topic_text": "실기고사 당일 출제문제가 판타지스러운 주제였으며 최대한 남들과는 다른 화면구성 연출로 그림을그려 풀어나갔습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "항상 따뜻한 조언과 세심한 지도로 성장할 수 있도록 이끌어주셔서 감사드리며, 선생님들의 가르침이 큰힘이 되었습니다. 선생님들 덕분에 합격할 수 있었어요!",
     "teacher_feedback": "선생님들께 조언을 얻으면서 고쳐나갔습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 87.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.326
+  },
+  "clip_topic": {
+    "topic_score": 0.6648,
+    "topic_text": "긴장도 많이 됐지만 여태까지 연습을 토대로 저의 최대치를 끌어올리고자 노력했습니다."
   }
 }

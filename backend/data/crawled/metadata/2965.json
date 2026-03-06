@@ -22,5 +22,14 @@
     "student_strength": "시험 보기 전에 문득 생각나서 아보카도 시범을 다시 한번 보고 들어갔는데 평소에도 자신있었던 개체라 운이 좋았습니다",
     "teacher_feedback": "선생님께서 학교별로 나눠서 시험을 보게 해주셨기에 각 학교 스타일에 맞게 준비할 수 있었습니다.",
     "ideation_process": "아보카도로 생수병을 찌그러트리고 물이 팍 튀는 듯한 연출을 했습니다"
+  },
+  "tier_refined": {
+    "tier_score": 42.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.632
+  },
+  "clip_topic": {
+    "topic_score": 0.5731,
+    "topic_text": "생수병, 아보카도가 나왔습니다 아보카도로 생수병을 찌그러트리고 물이 팍 튀는 듯한 연출을 했습니다"
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "끝나기 직전까지 계속 양을 찾으려고 하였고 정직하고 객관적이게 작품을 보려고 하였습니다",
     "teacher_feedback": "선생님들의 지시에 따라 실기하였습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 73.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.468
+  },
+  "clip_topic": {
+    "topic_score": 0.5986,
+    "topic_text": "턱이 박히고 눈이 나온 머리를 푼 30대 여성이 나왔으며 평소처럼 편하게 실기하였습니다"
   }
 }

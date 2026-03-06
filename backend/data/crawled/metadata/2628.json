@@ -23,5 +23,14 @@
     "student_strength": "구리 창에에서 현민 쌤의 전략을 믿고 따랐고, 준비 기간 동안 그림 계속해서 보완해나간 것. 그리고 입시 기간 통틀어 제일 집중해서 열심히 4시간 동안 그리고 왔습니다!",
     "teacher_feedback": null,
     "ideation_process": "연습했던대로 충실하게 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 73.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.443
+  },
+  "clip_topic": {
+    "topic_score": 0.5768,
+    "topic_text": "손, 타자기, 커터칼로 화면구성 이었습니다. 연습했던대로 충실하게 그렸습니다."
   }
 }

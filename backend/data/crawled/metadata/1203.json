@@ -22,5 +22,14 @@
     "student_strength": "선생님께서 제시물의 재밌는 시점을 사용하고 그림을 완성도 있게 끝내는 것이 중요하다고 자주 말씀 하셨었는데 그 말을 새겨들은 것이 합격요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하라고 해서 물적특성,특징을 잘보이게 하려고 노력하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 60.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.643
+  },
+  "clip_topic": {
+    "topic_score": 0.5952,
+    "topic_text": "조선사발과 수저의 형태적 특성,디자인의 원리(확대,축소,반복,균형,대칭,변화)를 표현하라고 해서 물적특성,특징을 잘보이게 하려고 노력하였습니다."
   }
 }

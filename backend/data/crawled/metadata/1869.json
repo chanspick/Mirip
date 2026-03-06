@@ -23,5 +23,14 @@
     "student_strength": "도시를 일반적인 건물들 처럼 표현하지 않은 것과 쓰레기들을 그린 것이 중요 요인인 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": "환경 재앙이라는 키워드가 나온만큼 키워드에서 뽑아낼 수 있는 요소들을 많이 생각하여 그렸으며 북극곰과 물을 어울리게 그리기 위해 노력했습니다"
+  },
+  "tier_refined": {
+    "tier_score": 63.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.769
+  },
+  "clip_topic": {
+    "topic_score": 0.5834,
+    "topic_text": "북극곰,물 그리고 도시가 나왔으며 제시어는 환경 재앙이였습니다 환경 재앙이라는 키워드가 나온만큼 키워드에서 뽑아낼 수 있는 요소들을 많이 생각하여 그렸으며 북극곰과 물을 어울리게 그리기 위해 노력했습니다"
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "훌륭하신 선생님들의 피드백과 그 피드백을 고치려는 노력 그리고 꾸준한 실기 연습을 해야한다.",
     "teacher_feedback": "선생님의 피드백을 잘 고쳐나갔다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 53.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.278
+  },
+  "clip_topic": {
+    "topic_score": 0.5821,
+    "topic_text": "조롱박과 반사가 나왔는데 처음에는 당황했지만 시험 전날 문제은행에 있던 조롱박을 한 번 풀어봐서 구도에 쉽게 넣어 풀어갔다."
   }
 }

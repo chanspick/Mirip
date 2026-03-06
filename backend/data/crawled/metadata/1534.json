@@ -22,5 +22,14 @@
     "student_strength": "어떻게 보면 운이라고 할 수도 있는데 조건을 잘 지킨 것과 그전에 여러 번 연습했었던 주제들이 나온 것과, 5시간을 체계적으로 분배하는 타임테이블 덕분인 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.411
+  },
+  "clip_topic": {
+    "topic_score": 0.6127,
+    "topic_text": "동원참치캔, 사각 건전지가 나왔는데 내용물이 보이지 않게 화면을 구성하는 조건이 있었습니다."
   }
 }

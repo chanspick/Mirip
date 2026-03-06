@@ -22,5 +22,14 @@
     "student_strength": "단순히 화면을 구성하는 것이 아니라, 공예과의 특성을 생각하며 화면을 구성한 것이 합격에 영향을 중 것 같습니다. 물체의 질감, 헝태, 쓰임등을 생각하며 구성했습니다.",
     "teacher_feedback": null,
     "ideation_process": "공예과인 만큼 유리 질감, 금속 질감의 차이를 돋보이게 스케치하였습니다. 유리로 된 물체 중에서도 불투명한 유리, 반투명한 색유리로 나뉘었기 때문에 질감의 차이를 강조시켰습니다."
+  },
+  "tier_refined": {
+    "tier_score": 83.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.972
+  },
+  "clip_topic": {
+    "topic_score": 0.5815,
+    "topic_text": "숟가락,포크,컵,접시 입니다. 공예과인 만큼 유리 질감, 금속 질감의 차이를 돋보이게 스케치하였습니다."
   }
 }

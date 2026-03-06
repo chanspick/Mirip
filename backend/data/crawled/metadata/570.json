@@ -23,5 +23,14 @@
     "student_strength": "앞에서 말했다싶이 학원에서 배운 채색법과 그림 안에서의 내용 등이 남들보다 훨씬 눈에 띌 수 있었던 이유라고 생각한다. 색감.채도부터가 다른 그림들이랑 달랐다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 48.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.015
+  },
+  "clip_topic": {
+    "topic_score": 0.5867,
+    "topic_text": "주제어가 반복이었는데 마침 선생님께서 주제어가 반복이나 나열될게 나오면 알려주신 구도가 있었기에 고민 없이 문제풀이를 할 수 있었다."
   }
 }

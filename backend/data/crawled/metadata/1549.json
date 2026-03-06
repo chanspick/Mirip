@@ -23,5 +23,14 @@
     "student_strength": "투시랑 색감을 더 이쁘고 깔끔하게 쓰려고 노력했다. 그리고 수업 때 선생님의 말씀을 잘 기억하고 실천했다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.989
+  },
+  "clip_topic": {
+    "topic_score": 0.5953,
+    "topic_text": "자전거와 자전거 헬멧으로 구성하는 문제였고 이미 실기고사를 한번 경험해봐서 긴장하지 않고 차분하게 완성을 목표로 그렸다."
   }
 }

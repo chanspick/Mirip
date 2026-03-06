@@ -23,5 +23,14 @@
     "student_strength": "끝없을 것만 같은 시험과 피드백을 통한 반복 숙달로 실기력을 높인 것과 여러 평가로 알게 된 나의 장점을 그림에 옮긴 것이 영향을 미친 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오. 정말 난감하게도 한번도 풀어보지 못한 소재들이 나와서 걱정을 많이 하였다."
+  },
+  "tier_refined": {
+    "tier_score": 59.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.567
+  },
+  "clip_topic": {
+    "topic_score": 0.5824,
+    "topic_text": "문제: 스프레이통,손톱깎이,참외를 사용하여 회전과 확산을 표현하시오. 정말 난감하게도 한번도 풀어보지 못한 소재들이 나와서 걱정을 많이 하였다."
   }
 }

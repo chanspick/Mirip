@@ -22,5 +22,14 @@
     "student_strength": "뭐가 어떻게 되든지 계속 그리면 다 그린다는 마인드, 붓터치 하나하나가 쌓여 실력이 는다는 마인드.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.374
+  },
+  "clip_topic": {
+    "topic_score": 0.5855,
+    "topic_text": "사탕, 물이 든 삼각플라스크, 버너가 나왔고 기능을 활용하라는 문제여서 불을 쓰고, 불과 물을 이용해서 사탕을 녹였다."
   }
 }

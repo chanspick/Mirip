@@ -22,5 +22,10 @@
     "student_strength": "화면 구성에서 소재가 가지고 있는 이미지를 잘 보여 준 것이 좋은 점수를 받은 것 같습니다. 또 채색에서도 미리 정리해가면서 채색을 하고 마지막에 주제부의 밀도를 올리는 연습을 많이 했는데 시험장에도 그 시간분배가 적절히 돼서 다른 학생들 그림보다 주제부의 밀도가 높아진 점도 합격에 영향을 준 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 62.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.723
   }
 }

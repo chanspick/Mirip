@@ -24,5 +24,14 @@
     "student_strength": "평소에 원장선생님께서 구도 짜는 것을 매일 연습시키셨는데, 짰던 구도를 기억하려고 그림 팁과 원장선생님의 말씀, 평가를 담은 노트에 필기하고 수시로 보았습니다. 구도 하나에 끼워맞추는 것이 아니라, 상황에 맞게 구도를 응용하는 연습을 했던 것이 도움이 된 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "평소 사용하던 구도에 무조건 끼워맞추는 것보다는 소재와 상황에 맞게 잘 판단하여 그림을 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5873,
+    "topic_text": "문제는 금붕어와 자가 나왔습니다. 평소 사용하던 구도에 무조건 끼워맞추는 것보다는 소재와 상황에 맞게 잘 판단하여 그림을 그렸습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "색깔과 표현 방식을 특이하게 사용한 것이 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하려고 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 53.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.278
+  },
+  "clip_topic": {
+    "topic_score": 0.587,
+    "topic_text": "문제로는 조롱박과 반사를 받았고 조롱박을 둘로 쪼개 그 안의 상황이 시사적으로 서로 반사대는 상황을 표현하려고 노력했습니다."
   }
 }

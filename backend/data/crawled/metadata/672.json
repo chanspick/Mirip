@@ -22,5 +22,10 @@
     "student_strength": "고3시절 생각보다 낮은 수능 성적에 재수를 하겠다던 제게 할 수 있다며 붙여 주시겠다고 말씀 하신 약속을 믿고 정시를 준비해 상향으로 지원한 대학교에 합격할 수 있었지만 과가 맞지 않아 학교를 다니며 고민하던 중 선생님과 다시 상담을 하고 반수를 도전하기로 결심 했습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

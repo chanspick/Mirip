@@ -22,5 +22,10 @@
     "student_strength": "선생님께 : 질문과 답변이 조화롭게 이루어져 선생님들과 대화하는것이 항상 즐거웠습니다. 같이 입시하는 듯한 느낌도 받아 더욱 애틋했던 것 같습니다. 학원 좋은 점 : 많은 자료와 많은 사람들 그리고 고양이 새 토끼 등등 다양한 동물들로 힐링이 됐던 점이 좋았습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 88.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.426
   }
 }

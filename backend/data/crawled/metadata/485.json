@@ -22,5 +22,14 @@
     "student_strength": "고사장에서 문제를 받고 떨지않았던 점과 자신있었던 개체가 나온것. 시험장에서 주위를 둘러봤을때 눈에 잘 보였다는 점과 저와 비슷한 그림이 없었기 때문이라고 생각합니다. 또 원장 선생님,강사쌤의 말을 믿고 따른점과 주제와 제시물이 어렵다고 그냥 넘어가지않고 확실히 짚고 넘어간 점",
     "teacher_feedback": "선생님께 찾아가 고칠점이나 더할부분은 없는지 계속 질문했었다.",
     "ideation_process": "였습니다 ."
+  },
+  "tier_refined": {
+    "tier_score": 39.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.48
+  },
+  "clip_topic": {
+    "topic_score": 0.5741,
+    "topic_text": "솔방울을 참고하여 미래의 주거 공간를 표현 하시오. 였습니다"
   }
 }

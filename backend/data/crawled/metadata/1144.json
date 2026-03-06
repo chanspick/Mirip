@@ -23,5 +23,14 @@
     "student_strength": "선생님들에게 배운것을 생각하려고 했던것과 마지막까지 안심하지 않는 것 이라 생각합니다",
     "teacher_feedback": null,
     "ideation_process": "상황표현으로 표현하시오."
+  },
+  "tier_refined": {
+    "tier_score": 48.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.033
+  },
+  "clip_topic": {
+    "topic_score": 0.6079,
+    "topic_text": "미래에 실험으로 돼지가 사람보더 높은 지능을 가지게 되고 돼지가 인간을 포함한 모든 동물을 다루는 세상이 왔다. 상황표현으로 표현하시오."
   }
 }

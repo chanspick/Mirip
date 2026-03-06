@@ -22,5 +22,14 @@
     "student_strength": "그냥 의심없이 하던대로 열심히 꿋꿋하게 달린게 가장 크지 않나 싶습니다… 물론 실력도 중요하지만 정신적인 마인드가 영향을 많이 끼치는 것 같습니다. 특히 수시실기기간때는 정신적인 영향이 매우 큰 것 같아서 그때 마인드 관리를 잘 한게 크지 않았나 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 61.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.686
+  },
+  "clip_topic": {
+    "topic_score": 0.582,
+    "topic_text": "라면이랑 선풍기를 보고 아 이건 많이그리면 절대 완성 못하겠다 싶어서 정확하게 각각 사물이 잘 보일 정도로만 그렸습니다."
   }
 }

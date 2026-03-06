@@ -22,5 +22,14 @@
     "student_strength": "장갑을 손동작이 연상되도록 표현했고 각각 다른 상황과 동작으로 그렸습니다.",
     "teacher_feedback": "선생님께 질문하였고 강평을 듣거나 시범을 볼 때 필기하면서 도움이 되는 점을 찾으려했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.38
+  },
+  "clip_topic": {
+    "topic_score": 0.5334,
+    "topic_text": "장갑과 아이스크림이 제시물로 나왔고 제시물들의 개연성을 만들려고 노력했습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "평소보다 정리가 잘 됐고 제시어가 잘 보였다고 생각합니다",
     "teacher_feedback": null,
     "ideation_process": "표현하라고 나왔고 주제부는 최대한 강한느낌으로 원경은 약한 느낌으로 표현하려고 노력했습니다"
+  },
+  "tier_refined": {
+    "tier_score": 57.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.475
+  },
+  "clip_topic": {
+    "topic_score": 0.5757,
+    "topic_text": "배터리와 악어집게로 강함과 약함을 표현하라고 나왔고 주제부는 최대한 강한느낌으로 원경은 약한 느낌으로 표현하려고 노력했습니다"
   }
 }

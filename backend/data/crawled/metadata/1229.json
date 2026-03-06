@@ -23,5 +23,14 @@
     "student_strength": "경쟁률이 너무 높아서 걱정했는데 시험 문제가 너무 어려워서 차라리 운이 좋았다고 생각합니다.",
     "teacher_feedback": "선생님 말씀 잘 듣고 다음 수업시간에 적용시키려노력했습니다..",
     "ideation_process": "생각해서 자전거가 달리는 모습을 연출해 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.989
+  },
+  "clip_topic": {
+    "topic_score": 0.6106,
+    "topic_text": "자전거와 헬멧이 나왔는데 자전거가 앞으로 달리는 모습을 그리면 좋겠다고 생각해서 자전거가 달리는 모습을 연출해 그렸습니다."
   }
 }

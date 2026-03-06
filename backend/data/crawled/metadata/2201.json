@@ -23,5 +23,14 @@
     "student_strength": "어색하게 만화학원을 갔는데 모든 선생님들께서 항상 친절하고 섬세하게 저의 단점을 해결해주시고 장점을 더 발전시켜주셔서 큰 어려움 없이 수시에 합격 할 수 있었습니다. 그리고 공부, 그림 모두 꾸준히 하는 것이 중요하다는 거 잊지마세요.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.316
+  },
+  "clip_topic": {
+    "topic_score": 0.5809,
+    "topic_text": "“초등학생 소녀가 헌책방에서 맘에 드는 동화책을 골라~ “학원에서 연습한데로 주제를 정해서 자연스럽게 전개해주고 반전을 통한 임팩트를 주었습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "제가 그린 평소작 그림 한 장 한 장에 많은 선생님들이 관심 써주셨기 때문에 합격한 것이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "남서울대가 문제은행 방식이기 때문에 전임 선생님들을 믿고 외워간 대로 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 36.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.339
+  },
+  "clip_topic": {
+    "topic_score": 0.5729,
+    "topic_text": "제시물은 기타와 볼링핀, 제시어는 율동감이었습니다. 남서울대가 문제은행 방식이기 때문에 전임 선생님들을 믿고 외워간 대로 그렸습니다."
   }
 }

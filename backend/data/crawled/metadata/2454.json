@@ -24,5 +24,14 @@
     "student_strength": "조급해 하지않고 그날 그림을 그렸을때 부족한 점을 생각하고 다음날에는 이렇게 하지 말아야지 라고 생각하니까 그림이 단기간에 많이 늘었던것 같습니다 조급해 하지 않고 노력하니까 늘어가는 실력에 자신감이 점점 붙어 그림을 과감하게 그릴수 있었습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각해서 그리는데 내가 최대한 잘그릴수 있는컷이란 컷은 다 넣으려고 노력 하면서 그렸습니다"
+  },
+  "tier_refined": {
+    "tier_score": 60.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.612
+  },
+  "clip_topic": {
+    "topic_score": 0.5886,
+    "topic_text": "무명 작가인 내게 유명 웹툰의 어시스턴트 제안이 온다 알고보니 작가가 AI였다"
   }
 }

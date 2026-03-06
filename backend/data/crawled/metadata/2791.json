@@ -22,5 +22,14 @@
     "student_strength": "선생님이 해주신 지적이나 합격요인을 계속해서 생각하면서 그리고 지적받은 부분을 빨리 고치는 것이라고 생각한다.",
     "teacher_feedback": "선생님에게 지적받았던 내용들을 노트에 적어놓고 그 부분을 고치려고 노력했다.",
     "ideation_process": "표현하였다. 그리고 레고를 쌓아놓는 것도 조형적으로 보이도록 그렸다."
+  },
+  "tier_refined": {
+    "tier_score": 71.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.361
+  },
+  "clip_topic": {
+    "topic_score": 0.5888,
+    "topic_text": "주어진 소재(레고블럭)과 제시어(반사)를 적용하여 창의적으로 디자인하시오. 반사라는 제시어가 잘 보이는게 중요하다고 생각하여서 거울에 레고를 비추는 것을 표현하였다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "문제은행 학교다보니 그 만큼 어떻게 주제풀이를 했고 퀄리티를 끌어올리느냐 싸움이라고 생각했습니다.",
     "teacher_feedback": "선생님이 부족한 부분에 대해 잘 알려주셔서 빨리 좋으진 것 같습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 38.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.441
+  },
+  "clip_topic": {
+    "topic_score": 0.5727,
+    "topic_text": "문제은행 학교였기때문에 준비했던 것 그대로 200%로 끌어올리고 실기 전 감독관분들 께서 말씀하셨던 유의사항에 주의하여 그렸습니다."
   }
 }

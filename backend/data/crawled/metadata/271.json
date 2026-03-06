@@ -23,5 +23,14 @@
     "student_strength": "시험장에서의 '생각'이라고 생각한다. 자신의 장단점을 파악한 후 마지막에 어떤 그림을 그릴 것인지 등 계속 생각하며 문제를 풀어나갔다.",
     "teacher_feedback": null,
     "ideation_process": "그래서 최대한 자연스러운 구도를 잡으려 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 78.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.711
+  },
+  "clip_topic": {
+    "topic_score": 0.5822,
+    "topic_text": "'훌라후프를 하는 사람의 모습을 그릴 것' 많은 학생들이 정면 구도에 뻣뻣하게 그릴 것이라고 생각했다. 그래서 최대한 자연스러운 구도를 잡으려 노력했다."
   }
 }

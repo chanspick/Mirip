@@ -23,5 +23,10 @@
     "student_strength": "해당하는 과목의 공부를 하고 꾸준히 관심을 갖고 노력하는 것이라고 생각합니다..",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 39.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.46
   }
 }

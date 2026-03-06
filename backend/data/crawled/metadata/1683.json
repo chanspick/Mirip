@@ -23,5 +23,14 @@
     "student_strength": "반드시 지켜야 할것들과 평소 내 작품의 문제점을 시험이 끝날때까지 생각하며 작품을 만들었던게 도움이 되었던것 같습니다.",
     "teacher_feedback": "선생님과 이야기를 나누며 고쳐갔던것 같습니다..",
     "ideation_process": "접근하기보다 사진을 조금 멀찍이 둔 상태에서 모델이 가진 이미지나 큰 특징들을 파악하려 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 75.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.525
+  },
+  "clip_topic": {
+    "topic_score": 0.5921,
+    "topic_text": "20대 여자 사진이 출제되었습니다. 처음부터 구조나 비례를 재가며 접근하기보다"
   }
 }

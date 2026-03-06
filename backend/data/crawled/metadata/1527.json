@@ -23,5 +23,14 @@
     "student_strength": "색변화가 자유로웠던 시험이였기에 눈에 잘띄게 주제부 색상을 바꾼것이 제시어 해석에 큰 도움이 되었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "그리고 제시어로 힘과 부드러움을 표현해야 했습니다. 제시어가 나와 주제부는 힘."
+  },
+  "tier_refined": {
+    "tier_score": 54.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.309
+  },
+  "clip_topic": {
+    "topic_score": 0.5948,
+    "topic_text": "면봉과 면봉통. 그리고 제시어로 힘과 부드러움을 표현해야 했습니다."
   }
 }

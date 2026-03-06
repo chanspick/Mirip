@@ -22,5 +22,14 @@
     "student_strength": "너무 과하지도 않고 소재답게 그리는 것과 양감이 잘 나와서 인 것 같다.",
     "teacher_feedback": "선생님께서 잘 이끌어 주셔서 다시 기초적인 것 가장 기본적인 것들을 많이 준비하였다..",
     "ideation_process": "선생님께 받은 피드백과 내가 실수한 순간을 기억하면서 천천히 진행하였다."
+  },
+  "tier_refined": {
+    "tier_score": 45.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.748
+  },
+  "clip_topic": {
+    "topic_score": 0.5779,
+    "topic_text": "쇠구슬과 나무집게였다. 선생님께 받은 피드백과 내가 실수한 순간을 기억하면서 천천히 진행하였다."
   }
 }

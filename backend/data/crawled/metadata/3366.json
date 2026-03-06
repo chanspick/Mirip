@@ -23,5 +23,14 @@
     "student_strength": "형태, 양감, 밀도, 색감, 공간, 디테일을 모두 살리려고 노력했습니다. 가까이 봐야 보이는 주름 하나까지 그리려고 노력했고 엄청 맑지만 밀도는 높게 그렸던 거 같습니다",
     "teacher_feedback": null,
     "ideation_process": "손이 앞쪽에 있었기 때문에 손을 가장 강조하고 뒤 공간을 생각하며 그리려고 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 81.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.847
+  },
+  "clip_topic": {
+    "topic_score": 0.5973,
+    "topic_text": "남자가 분홍색 검은색 스트라이프 반팔 티에 검은색 바지를 입고 야구공과 야구배트를 들고 서있었습니다. 손이 앞쪽에 있었기 때문에 손을 가장 강조하고 뒤 공간을 생각하며 그리려고 했습니다."
   }
 }

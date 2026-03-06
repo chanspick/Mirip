@@ -23,5 +23,14 @@
     "student_strength": "평소 선생님의 조언을 떠올리며 시험에 임했고,어떤 소재가 나와도 당황하지 않고 그릴수 있는 연습을 많이 한게 도움이 많이 됐다.",
     "teacher_feedback": null,
     "ideation_process": "어려운 소재다 보니 많은 학생들이 소묘에 시간을 많이 투자해서 디자인이 약한편이였는데 두장모두 탄탄하게 그리려했다."
+  },
+  "tier_refined": {
+    "tier_score": 50.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.133
+  },
+  "clip_topic": {
+    "topic_score": 0.5855,
+    "topic_text": "형태가 단순하지 않은 소재 3개가 나왔고 시간안에 그리는게 정말 중요할거란 생각이 들었다. 어려운 소재다"
   }
 }

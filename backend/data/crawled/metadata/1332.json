@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "책상 위 정물들이 잘 보이지 않는다고 날려 그리진 않았고 평소 관찰했던 것들을 바탕으로 보완했다."
+  },
+  "tier_refined": {
+    "tier_score": 78.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.717
+  },
+  "clip_topic": {
+    "topic_score": 0.5935,
+    "topic_text": "자리가 책상 위 정물 일부가 잘 보이지 않았던 자리였기 때문에 사진 자료에 주어진 정물을 최대한 잘 그리려고 노력했다. 책상 위 정물들이 잘 보이지 않는다고 날려 그리진 않았고 평소 관찰했던 것들을 바탕으로 보완했다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "사전이 학원에서 그려본것이 큰 영향을 준것같습니다. 원장선생님과 구도 등을 수정하며 완성도를 높였습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각해서 주제부에 넣어주었고, 또 분유병의 대/소를 주제부에 넣어 크기대비를 주었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 52.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.225
+  },
+  "clip_topic": {
+    "topic_score": 0.6063,
+    "topic_text": "문제는 비치볼과 분유병, 그리고 흑백의 극락조화였습니다. 분유병과 함께 액체가 있었기 때문에 튀기는듯한 표현을 해주었고, 비치볼은 공이기 때문에 흐름을 잘 보여줘야 한다는 생각으로 잔상을 이용해 표현해주었습니다."
   }
 }

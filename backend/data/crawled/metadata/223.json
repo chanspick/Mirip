@@ -24,5 +24,14 @@
     "student_strength": "완성에 초점을 두지 않고, 좋은 그림을 그리려는 마음가짐을 가진 것.",
     "teacher_feedback": null,
     "ideation_process": "밀도나 완성도 보다 자연스러운 표현이 중요하다고 생각했다."
+  },
+  "tier_refined": {
+    "tier_score": 49.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.087
+  },
+  "clip_topic": {
+    "topic_score": 0.6017,
+    "topic_text": "흰티에 청바지, 맨발에 머리를 묶은 여성이 나왔다. 밀도나 완성도 보다"
   }
 }

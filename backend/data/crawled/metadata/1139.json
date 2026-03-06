@@ -22,5 +22,14 @@
     "student_strength": "저는 구도나 개체표현력에서 어려움을 느껴 최대한 기본기가 흔들리지않는것에 집중을 해서 감점요소가 딱히 보이지 않게 그린거같다",
     "teacher_feedback": "선생님들이 그림 피드백을 해주시면 바로바로 고칠려고 노력했고 인스타나 핀터레스트에서 그림자료를 많이 찾아보고 좋은점은 내그림에 대입할려고 했다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 53.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.292
+  },
+  "clip_topic": {
+    "topic_score": 0.5976,
+    "topic_text": "앵무조개, 파란못, 책 구도는 공간빼는 위주에 연출보다는 단순하게 원경한세트를 넣어줬고 주제에서 조개를 못으로 뿌시는 연출같은거 하면서 주제부 밀도를 많이 올릴려고했다"
   }
 }

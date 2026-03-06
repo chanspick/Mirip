@@ -23,5 +23,14 @@
     "student_strength": "남들과 다른 생각 또는 채색이라고 생각하면서 그렸습니다!",
     "teacher_feedback": "선생님이라면 뭘 고치라 하셨을까를 생각해봤습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 65.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.867
+  },
+  "clip_topic": {
+    "topic_score": 0.5886,
+    "topic_text": "주제는 향수병이랑 손수건같은거 나왔었고 기초디자인이었습니다"
   }
 }

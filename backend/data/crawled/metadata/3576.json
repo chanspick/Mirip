@@ -23,5 +23,14 @@
     "student_strength": "주어진 소재의 활용과 명확한 주제 전달이 합격의 요인이라고 생각한다.",
     "teacher_feedback": "선생님의 피드백을 수용해 가며 문제점을 개선해 나갔다.",
     "ideation_process": "표현하려 했다. 그리고 소묘는 가장 어두운 명도부터 밝은 명도까지 톤 차이가 명확하게 보이도록 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 66.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.093
+  },
+  "clip_topic": {
+    "topic_score": 0.6002,
+    "topic_text": "비닐이 달린 크래프트 봉투로 자연과 환경을 표현해야 했다. 우선 제시물이 눈에 잘 들어와야 한다고 배워서 크래프트 봉투를 화면 중앙에 배치했고 그 안에서 햇빛과 물이 쏟아져나와 해바라기가 피어난 모습을 표현했다."
   }
 }

@@ -24,5 +24,14 @@
     "student_strength": "자주 나가서 잘 만들어나가고 있는지 비교하고 큰 특징만큼은 틀리지 않게 주의하고 시작하기전에 5분정도 모델파악을 열심히 했던 게 도움이 �榮� 것 같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.08
+  },
+  "clip_topic": {
+    "topic_score": 0.6061,
+    "topic_text": "8각도 사진을 주고 사진속 인물을 똑같이 만들기였는데 모델의 특징을 파악후, 계속 밖으로 나가보면서 내 작품이 모델과 똑같이 만들어나가고있는지 비교하면서 진행했다."
   }
 }

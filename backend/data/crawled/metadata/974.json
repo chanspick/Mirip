@@ -22,5 +22,10 @@
     "student_strength": "평소 학원에서 문제에 얽매여 그림을 만들지 못하는 실수를 저지르지 않도록 연습시켜주셨다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 69.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.225
   }
 }

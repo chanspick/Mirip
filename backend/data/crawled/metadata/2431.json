@@ -23,5 +23,14 @@
     "student_strength": "만화, 애니 계열은 실기비중이 높고 다들 그림은 잘 그려서 대학별 스타일을 만화학원에서 잡아주시고 저의 장점을 최대한 활용하여 실기를 준비할 수 있도록 해주신 것이 가장 큰 요인인 것 같습니다.",
     "teacher_feedback": "선생님께서 주시는 피드백과 조언을 메모하고 지적받은 부분을 반복해서 틀리지 않도록 했습니다..",
     "ideation_process": "풀어나갈지를 고민했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 64.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.803
+  },
+  "clip_topic": {
+    "topic_score": 0.6131,
+    "topic_text": "주제는‘어느 날 붉은 달이 떴다. 주인공 a는~..."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "동덕여대는 다른 학교들과 조금 다르게 연출이 과하고 주제부가 눈에 띄게 큼직해야 한다고 생각했기 때문에 평소 그리던 것보다 더 대범하게 그렸던 것이 좋은결과를 준 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "구상하였다. 이어폰줄은 주로 선재 연출로 사용하였다."
+  },
+  "tier_refined": {
+    "tier_score": 67.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.98
+  },
+  "clip_topic": {
+    "topic_score": 0.6336,
+    "topic_text": "콜라캔과 이어폰이었다. 형태변화가 쉬운 물체들이었기 때문에 캔의 찌그러짐과 콜라(액체)가 뿜어져 나오는 것을 중점으로 구상하였다."
   }
 }

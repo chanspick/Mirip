@@ -23,5 +23,14 @@
     "student_strength": "학원에서 했던 많은 유사 구도풀이로 인해 도움을 받았습니다. 리소쌤이 만들어주신 정물 풀이 구도자료가 실제 시험장 문제와 매우 유사해서 합격할 수 있었던 것 같습니다.",
     "teacher_feedback": "선생님께 많은 질문과 평가를 통해 극복해 나갔습니다.",
     "ideation_process": "평소 연습이 많이 되어있던 정물이어서 당황하지는 않았습니다."
+  },
+  "tier_refined": {
+    "tier_score": 51.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.19
+  },
+  "clip_topic": {
+    "topic_score": 0.6325,
+    "topic_text": "가위, 투명 손 소독제 통 이었습니다. 평소 연습이 많이 되어있던 정물이어서 당황하지는 않았습니다."
   }
 }

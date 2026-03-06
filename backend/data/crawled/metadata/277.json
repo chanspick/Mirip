@@ -23,5 +23,14 @@
     "student_strength": "선생님과 나 자신을 믿고 조금 더딘것 같더라도 묵묵히 참고 견디는것입니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.059
+  },
+  "clip_topic": {
+    "topic_score": 0.5885,
+    "topic_text": "제시물은 2구 멀티탭 이었고 주제가 '소리'였기에 그에 맞추어 스피커와 음표를 더해 공간감이 잘 느껴지도록 연출했고 최대한 깔끔하게 마무리했습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "버틸수 있게 해준 친구들과 잘가르쳐주신 선생님이 있으셔서 합격할 수 있었다. 😊",
     "teacher_feedback": "선생님이 하시는 말씀을 기억하고 메모해서 그림을 그릴때 많이 실천하려고 노력했다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 83.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.977
+  },
+  "clip_topic": {
+    "topic_score": 0.6485,
+    "topic_text": "섬광전구와 공예품 쥐였는데 형체가 어렵고 알아보기 힘들어서 사진에 있는그대로 그리려고 노력했고 주제부의 어둠과 묘사에 신경을 많이 썼다."
   }
 }

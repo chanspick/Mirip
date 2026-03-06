@@ -23,5 +23,14 @@
     "student_strength": "너무 많은 고민을 하지 않고 지금 앞에 놓인것에 집중하기위해 노력한 것이 가장 도움이 된 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": "먼저 원근감 있게 새 3마리를 어떻게 배치할지 고민했습니다. 새들의 동세와 크기 배치를 결정한 후 운동화로 어떻게 새를 구성할지 고민하며 문제를 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 65.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.012
+  },
+  "clip_topic": {
+    "topic_score": 0.5756,
+    "topic_text": "제시된 운동화를 분해하여 새 3마리를 구성하고 이를 원근감 있게 배치하는 것이었습니다. 먼저 원근감 있게 새 3마리를 어떻게 배치할지 고민했습니다."
   }
 }

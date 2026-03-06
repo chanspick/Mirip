@@ -23,5 +23,14 @@
     "student_strength": "실기와 공부, 미술 활동 모두 열심히 준비한 것이 주요인인 것 같습니다. 원장 선생님께서 강조하신 동양화의 조형 원리에 대한 이해와 부원장 선생님과의 대화로 나의 색을 알아가는 과정이 성대, 큰 도움이 되었습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 48.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.012
+  },
+  "clip_topic": {
+    "topic_score": 0.6031,
+    "topic_text": "고화 모사라는 예상치 못한 문제가 나와 당황했지만 평소 학원에서 연습하던 필묵법과 선생님께서 해주신 조언들을 떠올리며 그렸습니다."
   }
 }

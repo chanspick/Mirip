@@ -22,5 +22,14 @@
     "student_strength": "고3 때 입시를 실패하고 실기에 자신이 없었지만, 학원에서 정기적인 세미나를 통해 자신감이 생겼습니다. 또 유니온 미술학원에서 기초디자인 이론 교재들과 각 대학교별 준비 교재가 있어서 점점 더 실기에 대한 자신감이 생겨 정말 많은 도움이 되었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "쉬운 얼음이랑 축구공이 나왔습니다. 사물들을 보면 둘 다"
+  },
+  "tier_refined": {
+    "tier_score": 46.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.81
+  },
+  "clip_topic": {
+    "topic_score": 0.5898,
+    "topic_text": "기디가 첫해라 기출이 없어서 많이 무서웠었는데, 생각보다 쉬운 얼음이랑 축구공이 나왔습니다."
   }
 }

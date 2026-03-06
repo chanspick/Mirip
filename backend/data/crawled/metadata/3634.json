@@ -22,5 +22,14 @@
     "student_strength": "이전 입시에서는 그림 실력뿐만 아니라, 구도에 대한 이해도도 많이 부족 했던 것 같습니다. 단계별 트레이닝을 통해 스케치 트레이닝 단계에서 이런 약점을 보완했던 것이 합격에 영향을 미쳤다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 65.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.018
+  },
+  "clip_topic": {
+    "topic_score": 0.5953,
+    "topic_text": "솔방울과 마이크가 출제되었고 솔방울이 가변 소재니까 솔방울이 마이크에 부딪혀 깨지고, 마이크의 버튼이 눌려 구조적인 부분을 보여주려고 했습니다."
   }
 }

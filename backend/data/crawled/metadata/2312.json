@@ -23,5 +23,14 @@
     "student_strength": "부족한부분을 선생님들이 지적해주고 그 부족한걸 줄이면서 주제를 알아볼수있게 크게 그린것도 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 38.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.401
+  },
+  "clip_topic": {
+    "topic_score": 0.5864,
+    "topic_text": "출제문제는 금붕어와 블록이 나왔고 블록은 끼워 맞춰서 건축물같이 만들수있는 특징이있기때문에 건축물을 쌓아올린것처럼 표현했고 금붕어가 잘보이게 하기위해서 크게 넣었던것같습니다."
   }
 }

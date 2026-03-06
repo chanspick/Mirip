@@ -23,5 +23,14 @@
     "student_strength": "선생님들의 피드백을 꼼꼼히 정리하고 계속해서 내 방식으로 다음 실기에 적용하려 했던 것이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오. 시를 기반으로 그림은 부드러운 분위기로, 조형은 과감하고 러프하게 잡아가며 만들었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.138
+  },
+  "clip_topic": {
+    "topic_score": 0.5919,
+    "topic_text": "<손> 이라는 시가 보기로 주어짐. 1."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "자신을 가르치는 선생님에대한 신뢰가 가장 중요한것 같습니다. 무조건 저는 선생님 말씀이 답이다 생각하고 믿고 따랐습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각하고 긴장 안하려고 노력했습니다. 구성은 나름 맘에 들었지만 그림이 좀 심심한것 같아 걱정했었는데 장학생까지 될줄이야....."
+  },
+  "tier_refined": {
+    "tier_score": 68.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.199
+  },
+  "clip_topic": {
+    "topic_score": 0.6126,
+    "topic_text": "소묘구성-스프링 붓 디자인구성- 병뚜껑, 분필, 화면분할 평소에 시험식 수업을 계속 해왔기 때문에 학원에서 그린다 생각하고 긴장 안하려고 노력했습니다."
   }
 }

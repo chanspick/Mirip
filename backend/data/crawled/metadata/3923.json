@@ -22,5 +22,14 @@
     "student_strength": "디테일한 표현력과 어떠한 상황에서도 긴장하지 않는 마음가짐이였던거 같습니다",
     "teacher_feedback": null,
     "ideation_process": "라는 주제가 나왔습니다. 저는 추억을 담는 물건인 카메라와 프릴드레스 스티커등 어린이들이 좋아했을법 한 물건들로 채워 조형물을 만들었습니다"
+  },
+  "tier_refined": {
+    "tier_score": 69.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.232
+  },
+  "clip_topic": {
+    "topic_score": 0.6033,
+    "topic_text": "‘기억의 조각’을 주제로 어린시절 추억의 물건의 형태를 변형하여 조형적으로 점토조형하시오. 라는 주제가 나왔습니다."
   }
 }

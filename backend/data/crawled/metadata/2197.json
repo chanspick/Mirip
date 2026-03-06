@@ -24,5 +24,14 @@
     "student_strength": "원장선생님께서 개인의 능력에 적절한 학교를 잘 상담해 주셨고 여러가지 독특한 아이디어를 그림에 활용하는 경쟁력을 갖추도록 이끌어 주셨습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 61.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.659
+  },
+  "clip_topic": {
+    "topic_score": 0.5938,
+    "topic_text": "캠코더와 벼가 문제로 나왔고, 캠코더의 특성이 잘 보일 수 있도록 문제를 풀어나갔습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "밀도와 묘사라고 생각한다. 털실 하나하나 그리기위해 노력하였고 보석을 눈에 띄도록 묘사하였다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오. 이었고 부드러움의 잘느껴 지도록 털실을 배치하였다."
+  },
+  "tier_refined": {
+    "tier_score": 39.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.456
+  },
+  "clip_topic": {
+    "topic_score": 0.6059,
+    "topic_text": "출제문제는 털실과 반지를 이용하여 부드러움을 표현하시오. 이었고 부드러움의 잘느껴 지도록 털실을 배치하였다."
   }
 }

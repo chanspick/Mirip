@@ -22,5 +22,14 @@
     "student_strength": "학원에서 여러번의 모의시험에서 얻은 나만의 노하우,선생님의 노하우를 배워 나의 한계를 알고 문제 별 최선의 그림을 만들고 안되는 부분은 끝까지 연습해 머리에 되새기는 것입니다.",
     "teacher_feedback": "선생님의 지도하에 여러번 모의시험을 치뤘으며 부족한 문제는 시범을 보며 실력을 향상시켰습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 30.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.027
+  },
+  "clip_topic": {
+    "topic_score": 0.5802,
+    "topic_text": "출제 기물은 손톱깎이,복주머니,받침대 였으며 문제은행이라 바로 스케치를 시작했습니다."
   }
 }

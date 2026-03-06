@@ -22,5 +22,14 @@
     "student_strength": "평소에 선생님이 지적해주시는 부분을 잘 적어두고 계속해서 고쳐나가는 것이 제일 큰 영향이였습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 69.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.219
+  },
+  "clip_topic": {
+    "topic_score": 0.5797,
+    "topic_text": "양파의 껍질 색과 안경테의 부분이 같은 색상이여서 종이가 매우 중요한역할을 하는 것 같았기 때문에 종이의 분포를 신경써야하는 문제였지 않을까 싶다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "동덕여대만의 특성이나 합격작에 대한 분석을 평소 많이 했었고, 수업시간에 한번틀린것을 다시 틀리지 않으려고 노력했다.",
     "teacher_feedback": null,
     "ideation_process": "접근하였으며 물리적연출을 극대화 해서 그림을 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 62.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.742
+  },
+  "clip_topic": {
+    "topic_score": 0.5922,
+    "topic_text": "출제주제는 형광등과 사무용집게였고, 재미있는 구도가 생각나지 않아서 평소 연습한 구도에서 변형하여 접근하였으며 물리적연출을 극대화 해서 그림을 풀어나갔습니다."
   }
 }

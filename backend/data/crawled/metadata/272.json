@@ -23,5 +23,14 @@
     "student_strength": "마인드컨트롤인 것 같다. 그림은 자기가 판단해서 그리는 싸움이기 때문에 멘탈이 무너져 버리면 그림을 그려도 소용이 없기 때문에, 실패해도 금방 다시 원래 마인드로 돌아올 수 있는 멘탈이 필요하다고 생각했다.",
     "teacher_feedback": null,
     "ideation_process": "일반적인 정물이어서 어렵지 않았다."
+  },
+  "tier_refined": {
+    "tier_score": 59.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.591
+  },
+  "clip_topic": {
+    "topic_score": 0.6084,
+    "topic_text": "배추,라면봉지,머그잔,평붓,노트,등산용의자,감자칼 등이 나왔다. 일반적인 정물이어서 어렵지 않았다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "입시에 대한 고정관념을 깬 것.",
     "teacher_feedback": null,
     "ideation_process": "문제가 어렵지 않아. '한번 해볼 수 있겠다'는 생각을 했다."
+  },
+  "tier_refined": {
+    "tier_score": 61.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.695
+  },
+  "clip_topic": {
+    "topic_score": 0.5916,
+    "topic_text": "햄버거 세트, 종이컵, 비닐봉지 등이 나왔다. 문제가 어렵지 않아."
   }
 }

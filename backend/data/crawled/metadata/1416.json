@@ -23,5 +23,14 @@
     "student_strength": "안테나 선생님들이 해주시는 문제풀이가 큰 도움었습니다. 출제 가능성이 있는 사회이슈들을 손수 선정해서 정리해 주시기 때문에 어떤 주제가 나와도 당황하지 않게 되는 것 같습니다. 소묘와 채색은 ' 리소쌤' 한테 배우면 못 그리기 힘들죠.",
     "teacher_feedback": null,
     "ideation_process": "학원에서 유사한 주제들을 많이 풀어봐서 비교적 쉽게 문제를 풀었던 것 같습니다."
+  },
+  "tier_refined": {
+    "tier_score": 69.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.252
+  },
+  "clip_topic": {
+    "topic_score": 0.6527,
+    "topic_text": "‘가상현실’이라는 주제를 현재 상황에 고려해서 언택트와 유사하게 풀었습니다. 학원에서 유사한 주제들을 많이 풀어봐서 비교적 쉽게 문제를 풀었던 것 같습니다."
   }
 }

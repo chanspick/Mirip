@@ -22,5 +22,14 @@
     "student_strength": "구도 자체에서의 제시어 표현이 잘 나타나고 맑은 색감이 주요인이라고 생각합니다.",
     "teacher_feedback": "선생님들의 조언과 말씀을 그대로 실천하고 다음 그림에 적용하려고 노력했던 것 같습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 53.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.253
+  },
+  "clip_topic": {
+    "topic_score": 0.5876,
+    "topic_text": "대칭이라는 제시어가 한눈에 잘 보이는지 확인하면서 구도와 주제부안에서의 대칭을 보여주는데에 신경을 많이 쓰고 물체간의 색감으로 대비감을 주려고 노력했습니다"
   }
 }

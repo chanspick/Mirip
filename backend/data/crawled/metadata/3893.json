@@ -23,5 +23,14 @@
     "student_strength": "주제미스가 나지 않도록 주제를 잘 해석한 것과 시선의 흐름을 신경 쓴 것이 주요인이라고 생각합니다.",
     "teacher_feedback": "선생님의 피드백을 적어 시험 전에 읽고 개선해나가는 식으로 실기력을 높였습니다..",
     "ideation_process": "우연히 남자가 지배하는 마초 세상에 오게 되었다. 마초 세상의 정부는 나타난 여자를 지하감옥에 가두려한다."
+  },
+  "tier_refined": {
+    "tier_score": 59.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.588
+  },
+  "clip_topic": {
+    "topic_score": 0.6102,
+    "topic_text": "주제 : 당신은 여자다. 우연히 남자가 지배하는 마초 세상에 오게 되었다."
   }
 }

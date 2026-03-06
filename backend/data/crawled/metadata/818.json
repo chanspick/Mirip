@@ -22,5 +22,14 @@
     "student_strength": "실기가 안정적으로 나오는게 아주 중요하다고 생각해요. 박샘 다비드를 다니면서 보기좋은 작품을 만드는 능력과 감각적 센스가 많이 성장됐어요. 서울대 시험은 워낙 다인원이 보다보니 교수님들이 한 작품을 몇십분씩 보면서 해석하는 건 불가능하거든요. 그래서 수많은 작품을 보다가 제 작품 보면 잠이 확 깰 만한 섬세한 소조 능력과 센스를 기르려 노력했어요.",
     "teacher_feedback": null,
     "ideation_process": "표현하라는 것이었어요. 저는 아무래도 수이다"
+  },
+  "tier_refined": {
+    "tier_score": 90.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.6459,
+    "topic_text": "문제는 숫자 0의 의미를 자유롭게 표현하라는 것이었어요. 저는 아무래도 수이다"
   }
 }

@@ -24,5 +24,14 @@
     "student_strength": "살면서 이렇게 잘 지낸 학원이 없었던 것 같음. 원장쌤을 아빠라고 느낌. 그리고 저같은 나태(쓰레기)를 이끄는 최고의 인내심을 가진 선생님덜..존경합니다.",
     "teacher_feedback": null,
     "ideation_process": "그래서 억지로 해낸듯?"
+  },
+  "tier_refined": {
+    "tier_score": 49.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.08
+  },
+  "clip_topic": {
+    "topic_score": 0.5909,
+    "topic_text": "(두상/여자, 소묘/안경쓴 남자) 선생님들의 목소리가 이명처럼 들렸음. 그래서 억지로 해낸듯?"
   }
 }

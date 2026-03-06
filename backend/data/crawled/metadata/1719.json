@@ -22,5 +22,14 @@
     "student_strength": "멘탈이 깨지지 않고 포기하지 않는 것과 연습을 엄청 하는 것이 중요하다고 생각합니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 42.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.617
+  },
+  "clip_topic": {
+    "topic_score": 0.5777,
+    "topic_text": "줄자와 와인이 나왔으며, 줄자를 적극적으로 사용하고 배웠던 것을 최대한 생각해내서 그렸던 거 같습니다"
   }
 }

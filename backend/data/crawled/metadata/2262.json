@@ -22,5 +22,14 @@
     "student_strength": "실력도 실력이지만 교수님의 마음에 드는 것이라고 생각합니다. 색채를 좋아하셨다고 들었는데, 다행이 그 조건에 들어 맞았나봅니다. 그리고 운도 가미된다 생각해요.",
     "teacher_feedback": null,
     "ideation_process": "발상으로 시도해보았습니다."
+  },
+  "tier_refined": {
+    "tier_score": 41.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.597
+  },
+  "clip_topic": {
+    "topic_score": 0.5961,
+    "topic_text": "드론과 트럼프 카드를 배치하는 것이었는데, 평소 준비하고 자주쓰던 구도에 드론으로 인한 바람으로 카드가 모양있게 흩날리면 좋겠다는 발상으로 시도해보았습니다."
   }
 }

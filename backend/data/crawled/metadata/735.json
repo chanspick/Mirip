@@ -22,5 +22,14 @@
     "student_strength": "수시다 보니까 발상력을 더 본 것 같아서 아마 스토리텔링 면에서 점수를 보인 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": "생각해서 얼음을 쓰레기로 바꿔 표현했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 56.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.425
+  },
+  "clip_topic": {
+    "topic_score": 0.6395,
+    "topic_text": "얼음이 없는 남극을 표현하는 것이었는데 지구온난화, 환경 오염이라고 생각해서 얼음을 쓰레기로 바꿔 표현했습니다."
   }
 }

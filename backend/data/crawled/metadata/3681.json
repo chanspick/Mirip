@@ -24,5 +24,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.058
+  },
+  "clip_topic": {
+    "topic_score": 0.5989,
+    "topic_text": "실물모델링 계속 나와보고 모델을 있는 그대로 읽어내려고했고 좀 더 간절해보자는 마인드로 실기를 했다"
   }
 }

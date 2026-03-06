@@ -23,5 +23,14 @@
     "student_strength": "시험장에서 욕심 부리지 않고 학생답게 명도를 잘 구분하고 주제부 질감묘사에 충실했던 점과 다른 친구들이 시도하지 못했던 재료와 스스로 창작한 구도를 사용해 창의적으로 그림을 완성한 것이 매년 비슷한 그림을 평가하시는 교수님들 눈에 띄었을거라 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.94
+  },
+  "clip_topic": {
+    "topic_score": 0.6073,
+    "topic_text": "재단가위, 고무털신으로 기초디자인 하시오 (흰색 포함 배경은 그리지 마시오 / 화지는 가로로 사용하시오)"
   }
 }

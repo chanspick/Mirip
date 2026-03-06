@@ -23,5 +23,10 @@
     "student_strength": "고3이 되고 성적과 그림 실력에 대해 깊이 생각을 하면서 과연 대학에 갈 수 있을까 라는 생각을 많이 했습니다. 다행히 좋은 선생님들을 만나고 잘 따른 덕에 대학에 붙을 수 있었습니다.",
     "teacher_feedback": "선생님들께서 추가적으로 알려주시는 것들은 한 번씩 꼭 해보려고 노력했고, 선생님들의 다양한 붓질 방법을 따라 하며 저에게 맞는 붓질 방법을 찾아 그림을 그리기도 했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

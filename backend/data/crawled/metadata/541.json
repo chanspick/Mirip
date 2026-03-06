@@ -23,5 +23,14 @@
     "student_strength": "제 기준에서 1순위는 성적이라고 생각합니다. 성적이 되면 고를 수 있는 학교의 폭이 넓어지고 일단 본인이 가지고 있는 부담감이 덜어져서 실기에 조금 더 집중할 수 있다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.304
+  },
+  "clip_topic": {
+    "topic_score": 0.5897,
+    "topic_text": "흰 셔츠에 회색 레깅스 치마, 빗자루가 나왔으며 완측 자리에서 고개를 튼 자세였기 때문에 까다로웠지만 자리를 조정하고 강조할 수 있는 부분을 최대한 강조하여 그렸습니다."
   }
 }

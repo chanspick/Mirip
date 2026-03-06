@@ -22,5 +22,14 @@
     "student_strength": "입시만 바라보고 질문을 많이 해서였던것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 36.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.339
+  },
+  "clip_topic": {
+    "topic_score": 0.5963,
+    "topic_text": "애벌레, 아이스 아메리카노, 신발끈이 나왔고 아이스아메리카노가 쏟아지는 것을 집중시키려 했습니다."
   }
 }

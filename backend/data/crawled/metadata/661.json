@@ -23,5 +23,10 @@
     "student_strength": "학원에서 이미 여러번 연습을 했기 때문에 전혀 떨지 않았습니다. 시험장에서는 제가 학원에서 그렸던 그림의 평균값 정도로 그려낸 것 같습니다.",
     "teacher_feedback": "선생님이 상담해주셔서 마지막에는 많이 안정이 되었다고 생각합니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.062
   }
 }

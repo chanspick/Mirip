@@ -23,5 +23,14 @@
     "student_strength": "평소에도 머리속에 조소 밖에 없었다. 이런 주제가 나오면 이런거 해봐야지, 저런 주제가 나오면 저런거 해봐야지 이런 생각을 많이 했던 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "두 사람의 감정이 서로에게 감겨서 하나가 된 모습을 표현했다. 만들고 나서 과연 이게 '순수한' 사랑으로 보일까 급 걱정이 됐지만 성공했나보다."
+  },
+  "tier_refined": {
+    "tier_score": 54.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.341
+  },
+  "clip_topic": {
+    "topic_score": 0.5843,
+    "topic_text": "가족간의 사랑, 애인과의 사랑, 친구와의 사랑 등 여러가지의 사랑에 대입해도 납득이 갈 수 있도록 만들고 싶었다. 두 사람의 감정이 서로에게 감겨서 하나가 된 모습을 표현했다."
   }
 }

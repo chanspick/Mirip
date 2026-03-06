@@ -23,5 +23,14 @@
     "student_strength": "사실상 제시물 운과 거기에 들어맞은 발상이라고 생각합니다. 또 제가 색깔을 많이 변형하는 편이 아닌데 주변에서 전부 색을 바꿨던 것도 이유라 생각합니다. 색상 부분에서 뭔가 특이점이 생겼지 않았나 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "발상하는데 큰 어려움은 없었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 52.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.217
+  },
+  "clip_topic": {
+    "topic_score": 0.5933,
+    "topic_text": "출제 문제는 주사위 딱 하나만 나왔습니다. 처음엔 의외다"
   }
 }

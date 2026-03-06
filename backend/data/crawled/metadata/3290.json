@@ -22,5 +22,14 @@
     "student_strength": "학과 성향에 맞게 입체감과 질감표현에 신경 쓴 것이 합격의 요인이라 생각됩니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 52.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.212
+  },
+  "clip_topic": {
+    "topic_score": 0.6603,
+    "topic_text": "휴지, 거품이 묻은 비누를 활용하여 주전자를 만드는것이 주제였고 비누의 거품이나 느슨하게 풀린 휴지의 형태 등 제시물이 갖고있는 고유형태를 더 살리기 위해 노력했습니다."
   }
 }

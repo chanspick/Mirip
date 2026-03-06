@@ -22,5 +22,14 @@
     "student_strength": "실기부분의 경우 제시어의 정확한 풀이와 색감,대비,분량이 주는 힘이 확실히 효과가 있었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 48.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.932
+  },
+  "clip_topic": {
+    "topic_score": 0.5959,
+    "topic_text": "출제주제는 적양파, 노란테이프, 하리보젤리6색 이였으며, “집중과 분산”이라는 제시어를 바탕으로 양파링을 적극적으로 사용하여 풀이하였습니다."
   }
 }

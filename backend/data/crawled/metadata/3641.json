@@ -23,5 +23,14 @@
     "student_strength": "이전에는 합격의 기준이 불분명했고 그냥 시간 안에 완성만 하려 하다 보니 기본적인 것들을 지키지 못했었는데 1년 동안 배운 학원 이론의 기준들을 지키려 하다 보니 합격 된 것 같습니다. 마인드맵, 아이디어 스케치의 중요성을 준비하면서 많이 느껴서 시간을 많이 쓰게 됐는데 저는 그게 그림 좋아지는 데 가장 큰 도움을 준 것 같습니다",
     "teacher_feedback": null,
     "ideation_process": "하고 넘어가려 했습니다. 미리 계획이 다"
+  },
+  "tier_refined": {
+    "tier_score": 55.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.383
+  },
+  "clip_topic": {
+    "topic_score": 0.5751,
+    "topic_text": "아이디어 스케치에 시간을 좀 더 들여서 색 톤까지 계획을 다 하고 넘어가려 했습니다."
   }
 }

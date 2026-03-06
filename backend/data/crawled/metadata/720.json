@@ -22,5 +22,14 @@
     "student_strength": "평소, 기출문제 해석과 연습을 통해서 상명대학교가 추구하는 방향을 그림에 담으려고 노력했습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하라해서 줄자를 이용해 율동감을 강조했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 63.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.75
+  },
+  "clip_topic": {
+    "topic_score": 0.6046,
+    "topic_text": "빨간통에 담긴 줄자와 커터칼이 나왔고, 공간감을 표현하라해서 줄자를 이용해 율동감을 강조했습니다."
   }
 }

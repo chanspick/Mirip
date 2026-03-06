@@ -22,5 +22,10 @@
     "student_strength": "그림의 구도였던 것 같습니다. 시험을 진행하는 중 빈 공간이 생기지 않도록 채색하며 밀도와 어둠을 올리는데 집중을 했고 마침 주변 애들의그림은 그림자가 별로 없고 선으로 밀도를 올리는 방식으로하여 주변그림과 비교하였을때 눈에 띄었을 거라 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

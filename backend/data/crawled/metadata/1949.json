@@ -24,5 +24,14 @@
     "student_strength": "조소입시에서는 마음가짐과 기본이 중요하다는 걸 늘 말씀하시는 원장님과 실기를 하다가 막히는 부분이 생겼을 때 함께 고민하며 해결해주려고 노력하신 선생님들 덕분에 부족한 부분들이 많이 채워지며 성장한 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "이목구비에 다 특징이 있었고 얼굴형 실루엣을 잘 맞춰야 하는 모델이었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 49.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.08
+  },
+  "clip_topic": {
+    "topic_score": 0.6071,
+    "topic_text": "실기고사 당일 출제문제는 머리카락이 두개골에 딱 달라붙어있는 20대 여자였습니다. 이목구비에 다"
   }
 }

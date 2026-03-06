@@ -23,5 +23,10 @@
     "student_strength": "나의 경우는, 한 번의 실패를 경험하고 반수를 통해 새로운 대학에 진학하게 되었다. 실패했다고 좌절하지 말고 끝까지 도전하고 성실히 하는 것이 중요한 것 같다. 또한 이것저것 고민만 하지 말고 그 시간에 당장 할 수 있는 일에 열중하는 것이 나만의 입시 노하우인 것 같다.",
     "teacher_feedback": "선생님께서 제 말을 끝까지 믿고 함께 해주신 것이 좋았다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.058
   }
 }

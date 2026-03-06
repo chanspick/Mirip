@@ -22,5 +22,14 @@
     "student_strength": "고사시간에 불필요한 시간을 안쓰고 계속 그림에 집중하려고 노력했기 때문이라고 생각합니다.",
     "teacher_feedback": "선생님께서 해주시는 강평을 듣고 최대한 다음 그림에 반영하도록 노력했습니다.",
     "ideation_process": "3절지에 그려야 하는 상황이었기 때문에 그림이 작아지지 않고 눈에 잘띄게 보이도록 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 34.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.201
+  },
+  "clip_topic": {
+    "topic_score": 0.5852,
+    "topic_text": "공구, 머리끈이 나왔었습니다. 3절지에 그려야 하는 상황이었기 때문에 그림이 작아지지 않고 눈에 잘띄게 보이도록 그렸습니다."
   }
 }

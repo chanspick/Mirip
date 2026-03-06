@@ -24,5 +24,10 @@
     "student_strength": "탄탄한 기본기를 가르쳐 주시는 게 입체 미술학원의 가장 큰 장점이라고 생각한다. 기본을 언제나 중시하시고 또 언제나 기본을 충실하게 알려주신다. 그리고 실기 준비에 있어 학생 개개인의 장점을 살려주려고 하시는 것 또한 학원의 장점이라고 생각한다. 도전해 볼 수 있는 여러가지 길을 제시해 주셔서 조소로의 길을 포기하지 않게 도와주셨다.",
     "teacher_feedback": "선생님들에게 점검을 받았던 기억이 난다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.128
   }
 }

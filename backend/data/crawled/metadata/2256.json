@@ -22,5 +22,14 @@
     "student_strength": "주제두상은 기본기가 가장 중요한것 같다. 기본적인 사람을 만들고 그위에 주제를 표현한것이 큰 도움이 되었다",
     "teacher_feedback": null,
     "ideation_process": "다행이 침착하게 문제를 풀어 갔다"
+  },
+  "tier_refined": {
+    "tier_score": 76.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.605
+  },
+  "clip_topic": {
+    "topic_score": 0.6014,
+    "topic_text": "웃고 있는 노년 이 출제 되었는데 바로 전날 성별만 다른 주제를 했었다. 다행이 침착하게 문제를 풀어 갔다"
   }
 }

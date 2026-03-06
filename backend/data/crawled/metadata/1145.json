@@ -23,5 +23,14 @@
     "student_strength": "학원을 빠지지 않고 끈기있게 수업에 열심히 참여를 한것이 합격의 가장 큰 주요인인것같습니다.",
     "teacher_feedback": null,
     "ideation_process": "풀어나가야겠다는 생각이 들어서 돼지와 반란군이 싸움을 하는 모습을 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 55.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.362
+  },
+  "clip_topic": {
+    "topic_score": 0.5772,
+    "topic_text": "\"유전자 조작 남용으로 인해 고지능을 가지게 된 돼지가 지구를 지배하는 모습' 이라는 문제가 나왔고, 최대한 재미있게 이야기를 풀어나가야겠다는 생각이 들어서 돼지와 반란군이 싸움을 하는 모습을 그렸습니다."
   }
 }

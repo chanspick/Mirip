@@ -12,5 +12,10 @@
   "images": [],
   "crawled_at": "2026-01-27T13:18:07.941267+00:00",
   "source_url": "https://midaeipsi.com/art/board.php?board=academynews&command=body&no=433",
-  "normalized_dept": "other"
+  "normalized_dept": "other",
+  "tier_refined": {
+    "tier_score": 38.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  }
 }

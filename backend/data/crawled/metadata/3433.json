@@ -23,5 +23,14 @@
     "student_strength": "참신한 구도와 간절함이라고 생각합니다. 간절해야 더 노력하고 더 성실해지는 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.944
+  },
+  "clip_topic": {
+    "topic_score": 0.5763,
+    "topic_text": "사이다캔과 나무주걱으로 화면을 구성하시오 주걱이 음료캔을 찍어누르면서 캔이 찌그러지고 캔 뚜껑이 터지는 연출이 많을 것 같아 최대한 소재간 연관성을 보여주면서 소재의 다양한 뷰를 보여주려는 의도로 구상하고 진행했습니다"
   }
 }

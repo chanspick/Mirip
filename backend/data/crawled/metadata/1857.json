@@ -22,5 +22,10 @@
     "student_strength": "이전 학원에서 실기를 할 때 저의 문제점을 인지하지 못하고 그리는 경우가 많았는데 아트포엠에서 실기 준비를 하는동안 선생님들께서 저의 문제점을 바로바로 말씀해주셨고 다양한 피드백을 받으며 제가 몰랐던 저의 문제점을 고칠 수 있게 되었습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 38.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

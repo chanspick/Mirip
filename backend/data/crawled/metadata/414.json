@@ -22,5 +22,14 @@
     "student_strength": "평소에 지적받던 것들에 대해 계속 신경쓰면서 그렸고 동세를 크게 잡아 종이의 크기를 잘 활용했기 때문인 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "귀뚜라미가 바위에서 뛰어내리고 밑에 깔린 거울에 비치는 구성을 했다. 크게 변형하는 것 보다는 완성도에 더 신경을 썼다."
+  },
+  "tier_refined": {
+    "tier_score": 77.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.634
+  },
+  "clip_topic": {
+    "topic_score": 0.6142,
+    "topic_text": "소묘는 귀뚜라미, 바위, 거울을 한 개씩 사용해서 구성하는 것이었다. 귀뚜라미가 바위에서 뛰어내리고 밑에 깔린 거울에 비치는 구성을 했다."
   }
 }

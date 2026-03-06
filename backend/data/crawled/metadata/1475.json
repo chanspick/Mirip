@@ -22,5 +22,14 @@
     "student_strength": "평소작을 활용할수 있는 문제가 나와 운이 좋았던것 같습니다. 하지만 그 운을 만들수 있었던건 평소 수업때 면분할과 같은 요소들을 자주 고민하고 선생님의 피드백이 큰 도움이 되었던것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "목도리. 거울이 나왔으며."
+  },
+  "tier_refined": {
+    "tier_score": 36.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.347
+  },
+  "clip_topic": {
+    "topic_score": 0.6,
+    "topic_text": "오이. 목도리."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "제가 지원한 학교는 수능 과목 중 두 과목만 반영이 되었는데, 운이 좋게 좋은 점수를 받은 두 과목이 있어서, 높은 점수로 지원할 수 있었던 게 첫 번째 이유가 아닐까 싶어요. 그리고 두 번째는 당연하게도 저의 임태순 선생님의 엄청난 가르침.",
     "teacher_feedback": null,
     "ideation_process": "표현하고, (왼쪽) 주어진 주제를 정물을 활용하여 표현하시오."
+  },
+  "tier_refined": {
+    "tier_score": 63.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.755
+  },
+  "clip_topic": {
+    "topic_score": 0.5936,
+    "topic_text": "정물 : 망치 / 주제 : 무거움 2절 종이를 반으로 나누어, (오른쪽) 주어진 정물을 똑같이 소묘로 표현하고, (왼쪽) 주어진 주제를 정물을 활용하여 표현하시오."
   }
 }

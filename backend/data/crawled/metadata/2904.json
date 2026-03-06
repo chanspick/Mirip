@@ -22,5 +22,14 @@
     "student_strength": "사람답게 만들어라 양을 풍부하게 써라",
     "teacher_feedback": null,
     "ideation_process": "조금이라도 재밌게 하려고 즐거운 표정대신 부러운 표정?을 만들었습니다"
+  },
+  "tier_refined": {
+    "tier_score": 78.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.713
+  },
+  "clip_topic": {
+    "topic_score": 0.6003,
+    "topic_text": "비행기를 보는 남자였습니다 조금이라도 재밌게 하려고 즐거운 표정대신 부러운 표정?을 만들었습니다"
   }
 }

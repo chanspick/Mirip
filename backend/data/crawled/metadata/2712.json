@@ -22,5 +22,14 @@
     "student_strength": "원장쌤의 말씀과 스스로의 마인드컨트롤",
     "teacher_feedback": "피드백 최대한수용하려고 노력했고 집에서도 항상 다른사람그림을 많이 봄.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 44.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.713
+  },
+  "clip_topic": {
+    "topic_score": 0.5758,
+    "topic_text": "주제는 털실, 가위, 다양한손동작이고 사람들이 다양한손동작에 살짝멘붕왔을것같아서 저는 제시물 3개를 최대한 다잘보이게 구성했습니다."
   }
 }

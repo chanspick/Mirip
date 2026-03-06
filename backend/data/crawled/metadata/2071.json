@@ -23,5 +23,14 @@
     "student_strength": "항상 누구보다 더 열심히 하자는 마음으로 학원에 빠지지 않고 열심히 그림을 그렸고 무엇보다 선생님께서 가르쳐주신대로 그림을 그렸더니 실력이 많이 향상된것 같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.083
+  },
+  "clip_topic": {
+    "topic_score": 0.5887,
+    "topic_text": "컵, 컵받침, 스텐딩 램프가 나왔는데 학원에서 많이 연습해본 사물 이었기 때문에 학원 쌤들이 가르쳐주신 기억을 떠올리며 그림을 그렸다."
   }
 }

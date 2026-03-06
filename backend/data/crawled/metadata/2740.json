@@ -22,5 +22,10 @@
     "student_strength": "수능을 망쳐도 어차피 수시가 합격해서 상관없을 거라 착각하고 수능 때 긴장을 하지 않았는데 그것이 오히려 도움이 됐습니다. 물론 평소에 공부를 해둔 덕도 있습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 68.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.194
   }
 }

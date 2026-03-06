@@ -22,5 +22,14 @@
     "student_strength": "스케치를 빠르게 하고 완성도에 신경을 썼다 주제 크기를 크게 그리고 채도와 커터칼과 사과로 나타낼 수 있는 표현(깎인 사과나 칼로 썰어서 나온 사과 조각이나 사과 껍질 등)들을 적극적으로 써서 좋은 점수를 얻지 않았을까 생각한다 .",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 38.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5877,
+    "topic_text": "출제 문제는 사과와 커터칼이였으며 기물 난이도가 높지 않았기에 물성파악 후 그렸다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "문제를 정확하게 읽고 조건을 다 지킨 그림이 많지 않았던 것 같다. 조건을 다 맞추고 주제부에서 반사를 잘 보여준 점이 좋은 점수를 받은 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "생각해서 도형을 나열하고 거울 두 개를 크게 써서 주제부에 반사를 보여줬다."
+  },
+  "tier_refined": {
+    "tier_score": 75.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.533
+  },
+  "clip_topic": {
+    "topic_score": 0.6505,
+    "topic_text": "기본 도형으로 공간을 구성하고 거울의 반사를 보여주는 문제였다. 형태를 정확하게 보여주는게 제일 중요하다고 생각해서 도형을 나열하고 거울 두 개를 크게 써서 주제부에 반사를 보여줬다."
   }
 }

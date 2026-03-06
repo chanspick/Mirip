@@ -22,5 +22,14 @@
     "student_strength": "화면의 전체적인 설정과 그림의 분위기가 좋은 점수를 받은것 같다.",
     "teacher_feedback": null,
     "ideation_process": "제시물의 특성을 최대한 활용하여 표현하려고 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 68.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.162
+  },
+  "clip_topic": {
+    "topic_score": 0.5923,
+    "topic_text": "전동드라이버, 잉크병, 노끈이 나왔다. 제시물의 특성을 최대한 활용하여 표현하려고 노력했다."
   }
 }

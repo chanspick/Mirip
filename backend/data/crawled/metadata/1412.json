@@ -22,5 +22,14 @@
     "student_strength": "지원 성적이 적절했고, 주변 응시생들과 그림을 비교했을 때 조건을 잘 지켰기 때문인 것 같다.",
     "teacher_feedback": "선생님이 가르쳐주시는 것들을 열심히 배웠다..",
     "ideation_process": "실제로는 안 보이는 건전지의 부분이 참치캔에 비춰 보이는 모습을 추가했다."
+  },
+  "tier_refined": {
+    "tier_score": 81.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.881
+  },
+  "clip_topic": {
+    "topic_score": 0.6181,
+    "topic_text": "선재 간의 간격이나 전체적인 구성에 신경 쓰고 득점 요인 중 반사를 보여주려고 했다. 실제로는 안 보이는 건전지의 부분이 참치캔에 비춰 보이는 모습을 추가했다."
   }
 }

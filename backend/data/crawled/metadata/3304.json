@@ -23,5 +23,10 @@
     "student_strength": "하려고 했던 장르가 확고하게 잘 표현된 것 같아 만화의 내용이 잘 전달되었던 것 같습니다. 학원을 다니면서 가장 만족스러운 것은 열심히 도와주신 선생님들인 것 같습니다. 피드백도 적극적으로 들어주셔서 큰 도움이 되었던 것 같습니다!",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 57.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.456
   }
 }

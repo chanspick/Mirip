@@ -23,5 +23,10 @@
     "student_strength": "잘하든 못하든 포기하지 않고 최선을 다해서 한것과 원장쌤의 이야기 그리고 실기노트인거 같다",
     "teacher_feedback": "선생님이 가르쳐주시는데로 했고 모르는게 있으면 선생님께 여쭤보고 고칠점과 새로 알게된 부분도 실기노트에 정리 하였다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 75.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.525
   }
 }

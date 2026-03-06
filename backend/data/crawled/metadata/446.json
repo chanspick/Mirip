@@ -23,5 +23,14 @@
     "student_strength": "건강한 체력과 어떤 문제가 나와도 당황 하지 않는 멘탈 관리가 주 요인 이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "리본을 이용해서 남들과 다른 회전감 을 보여주기 위해 많이생각 했던 것 같다. 주제부의 회전감 말고도 다른 형태의 회전감도 보여주고 싶었으며 모두 리본을 이용한 연출을 보여주려고 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 56.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.432
+  },
+  "clip_topic": {
+    "topic_score": 0.5878,
+    "topic_text": "아령으로 회전을 나타내는 문제였다. 리본을 이용해서 남들과 다른 회전감 을 보여주기 위해 많이생각 했던 것 같다."
   }
 }

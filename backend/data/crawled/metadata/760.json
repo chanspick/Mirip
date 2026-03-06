@@ -22,5 +22,14 @@
     "student_strength": "문제를 해결하는 능력을 키우는 데 주력하였고 그 덕분에 문제를 해결할 수 있었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "위의 글이 그 당시 시험문제였다. 문제를 받고 나서는 이해가 바로 되질 않아 많이 읽어 보았습니다."
+  },
+  "tier_refined": {
+    "tier_score": 58.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.508
+  },
+  "clip_topic": {
+    "topic_score": 0.6068,
+    "topic_text": "주제: 제시문 : 고대 그리스의 철학자 아리스토텔레스에게 “예술이 가진 창조성의 근원은 무엇입니까?”라고 물었을 때, 그는 그것을 ‘은유(metaphor,메타포)라고 대답했다고 한다 위의 글이 그 당시 시험문제였다."
   }
 }

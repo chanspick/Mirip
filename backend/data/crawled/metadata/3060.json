@@ -22,5 +22,14 @@
     "student_strength": "다른 학생들과 차별화되는 그림 스타일 덕분이라고 생각합니다",
     "teacher_feedback": "선생님께서 주시는 피드백을 토대로 그림을 개선해 나갔습니다 30.",
     "ideation_process": "표현하기 위해 노력했습니다"
+  },
+  "tier_refined": {
+    "tier_score": 46.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.84
+  },
+  "clip_topic": {
+    "topic_score": 0.5985,
+    "topic_text": "소라 , 연필 , 사과가 나왔고 사과나무에 소라로 된 집을 만들고 연필로 빈 공간을 채우는 형식을 취해 세개의 제시어의 개연성을 잘 보이도록 표현하기 위해 노력했습니다"
   }
 }

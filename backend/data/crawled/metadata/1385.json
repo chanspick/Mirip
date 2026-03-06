@@ -24,5 +24,14 @@
     "student_strength": "끝나는 시간까지 최대한 묘사하며 마무리한것이 약간의 차이를 만들었다고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "전체적인 색 배치의 밸런스와 시계와 나비모양 노리개가 잘보이며 강한 임펙트를 갖도록 주제부를 꾸몃다. 나왔던 개체들이 그리기에 시간이 많이 걸릴거 같았지만."
+  },
+  "tier_refined": {
+    "tier_score": 59.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.548
+  },
+  "clip_topic": {
+    "topic_score": 0.5902,
+    "topic_text": "자명종 시계와 윷, 나비모양 노리개가 나왔다. 전체적인 색 배치의 밸런스와 시계와 나비모양 노리개가 잘보이며 강한 임펙트를 갖도록 주제부를 꾸몃다."
   }
 }

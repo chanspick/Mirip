@@ -22,5 +22,14 @@
     "student_strength": "제가 잘 하는 부분을 잘 살리고 크기나 섬세하게 만든 부분이 좋게 평가된것 같습니다",
     "teacher_feedback": "선생님과 피드백을 주고 받으며 보완했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 53.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.253
+  },
+  "clip_topic": {
+    "topic_score": 0.5948,
+    "topic_text": "지나친 엉킴이라는 주제였고 메스감을 잘 살릴 수 있는 전에 만들었던 작품을 주제에 맞춰 풀어나갔습니다"
   }
 }

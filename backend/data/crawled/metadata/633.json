@@ -23,5 +23,14 @@
     "student_strength": "겁먹지 않고 다양한 시도를 하고 모르는 것을 바로바로 선생님께 물어보면서 실기실력을 키운 것이 합격에 주요인인 것 같다.",
     "teacher_feedback": "선생님들의 조언을 나에게 맞게 흡수했다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 68.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.157
+  },
+  "clip_topic": {
+    "topic_score": 0.6011,
+    "topic_text": "커피믹스가 실물로 나왔고 출제문제는 한류열풍이었다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "학원에서 배우는것을 복습하고 빈둥거리지않으며 노력했다는점 입니다",
     "teacher_feedback": null,
     "ideation_process": "발상표현하시오 였으며, 평소 아이디어에 비중을 두어 차분하게 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 50.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.125
+  },
+  "clip_topic": {
+    "topic_score": 0.5836,
+    "topic_text": "주제는 문구류가 사는세상을 발상표현하시오 였으며, 평소 아이디어에 비중을 두어 차분하게 풀어나갔습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "큰 마이크의 인상과 표현력과 정리감이라고 생각됩니다.",
     "teacher_feedback": "선생님이 짜주신 커리큘럼을 따라가며 특이한 제시어를 중점으로 연습하며 구성을 많이 연습했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 46.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.84
+  },
+  "clip_topic": {
+    "topic_score": 0.5743,
+    "topic_text": "마이크,주사기였고 마이크의 소리의 파장을 생각하며 마이크 전선으로 파장을 만들어 소리의 울림을 표현했습니다."
   }
 }

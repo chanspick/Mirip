@@ -22,5 +22,14 @@
     "student_strength": "선생님들의 자세한 설명과 스트레스없이 실기를 할 수 있는 가족 같은 분위기가 좋았습니다!",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 78.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.704
+  },
+  "clip_topic": {
+    "topic_score": 0.5935,
+    "topic_text": "학원에서 많이 해봤던 비슷한 주제라 자신이 있어 편안하게 실기에 임했고, 실기장 내 다른 학생들 작품을 둘러보아 내 작품과 비교해보고, 많이 멀리 나와 전체적인 형태에 집중을 하였습니다."
   }
 }

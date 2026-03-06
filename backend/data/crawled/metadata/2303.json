@@ -23,5 +23,14 @@
     "student_strength": "제시물에 맞는 유연한 사고방식이 합격의 주요인이었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "문제 간의 물체의 특성을 어떻게 표현할까, 대비는 어떻게 구성할까를 중점으로 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 66.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.928
+  },
+  "clip_topic": {
+    "topic_score": 0.6012,
+    "topic_text": "실기고사 당일 출제 문제는 종이비행기와 드라이버였습니다. 문제 간의 물체의 특성을 어떻게 표현할까, 대비는 어떻게 구성할까를 중점으로 풀어나갔습니다."
   }
 }

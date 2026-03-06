@@ -22,5 +22,14 @@
     "student_strength": "수시 때 ‘이 정도면 합격하겠다.’ 라는 생각을 했다. 불합격을 통해 내 생각보다 합격의 기준이 높다는 것을 알게 되었다.",
     "teacher_feedback": null,
     "ideation_process": "희고, 투명한 표현은 많이 만지기 보다 깔끔하게 표현되는 것이 중요하다고 생각했다."
+  },
+  "tier_refined": {
+    "tier_score": 50.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.12
+  },
+  "clip_topic": {
+    "topic_score": 0.6119,
+    "topic_text": "흰 니트, 청바지를 입고, 투명한 우산을 든 여자 모델이 나왔다. 희고, 투명한 표현은 많이 만지기 보다"
   }
 }

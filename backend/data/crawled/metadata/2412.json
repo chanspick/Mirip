@@ -23,5 +23,14 @@
     "student_strength": "주제를 받고 그 물체에 특성파악을 하고 많은 구도를 생각하면서 어떻게 풀이하면 재밌어보일까 고민했던거 같아요.",
     "teacher_feedback": null,
     "ideation_process": "표현하라는 문제가 나왔으며 주제부에서 자명종과 줄넘기에 긴장감을 주고 원경으로 갈수록 느슨하게 뺄려고 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 79.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.786
+  },
+  "clip_topic": {
+    "topic_score": 0.5928,
+    "topic_text": "자명종과 줄넘기를 활용하여 긴장감과 느슨함을 표현하라는 문제가 나왔으며 주제부에서 자명종과 줄넘기에 긴장감을 주고 원경으로 갈수록 느슨하게 뺄려고 했습니다."
   }
 }

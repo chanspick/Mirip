@@ -22,5 +22,14 @@
     "student_strength": "끝까지 포기하지않고 만들려고 노력했던 것인 것 같다.",
     "teacher_feedback": "선생님들께서 하신 말씀을 다 받아들이려고 노력하였고 매일 수업시간보다 일찍나와서 연습했다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 71.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.346
+  },
+  "clip_topic": {
+    "topic_score": 0.5881,
+    "topic_text": "4~50대 여성이었고 만드는 과정을 최대한 매끄럽게 진행하려 했으며 구조를 잘 만들려고 노력했다."
   }
 }

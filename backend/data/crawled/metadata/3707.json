@@ -22,5 +22,14 @@
     "student_strength": "다양한 구도를 써보면서 저에게 잘 맞는 구도를 찾고 그 과정에서 담당 전임선생님이 많이 도와주시고 배우면서 그 구도를 제가 잘 활용하게 된 점이 합격한 주 요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 70.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.261
+  },
+  "clip_topic": {
+    "topic_score": 0.5905,
+    "topic_text": "야구공과 페인트붓이 나왔고 자유롭게 구성하라고 나왔습니다"
   }
 }

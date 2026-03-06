@@ -23,5 +23,14 @@
     "student_strength": "집념과 끈기라고 생각합니다. 도망치고 싶고 힘든 순간도 많았지만 간절히 이루고 싶은 목표를 생각하며 계속 버텼기 때문에 합격까지 올 수 있었던 것 같습니다.",
     "teacher_feedback": "선생님께서 저의 부족한 부분을 채울 수 있도록 지도해주셔서 점점 발전할 수 있었습니다..",
     "ideation_process": "발상을 토대로 무용 공연 홍보 포스터를 디자인하시오."
+  },
+  "tier_refined": {
+    "tier_score": 56.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.424
+  },
+  "clip_topic": {
+    "topic_score": 0.573,
+    "topic_text": "문제A : 몸, 커뮤니케이션을 포용하는 장면을 그리시오 문제B : 문제A의 발상을 토대로 무용 공연 홍보 포스터를 디자인하시오."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "시험보는 학교의 합격작들을 최대한 많이 찾아보고 분석했으며, 그림을 그릴때마다 내 그림의 단점들을 최소 하나씩이라도 고쳐나가려고 신경 쓴 점이라고 생각합니다.",
     "teacher_feedback": "선생님들께 물어보고 체크하며 자주 실수하는 부분들을 메모해뒀습니다.",
     "ideation_process": "표현하고자 고민을 많이했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 47.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.871
+  },
+  "clip_topic": {
+    "topic_score": 0.5923,
+    "topic_text": "집게, 에이스과자, 물병을 가지고 질감, 형태의 특성을 살리라고 나왔습니다. 집게의 집는 특징을 최대한 살리고, 과자가 쪼개지는 물적 특성을 표현하고자 고민을 많이했습니다."
   }
 }

@@ -24,5 +24,14 @@
     "student_strength": "어느정도 맞춰놓은 성적과 이미지를 잘뽑는게 합격의 주된 요인이였다고 생각합니다",
     "teacher_feedback": "선생님 피드백을 최대한 따랐습니다 77.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.058
+  },
+  "clip_topic": {
+    "topic_score": 0.6108,
+    "topic_text": "시립대학교는 모델링으로 평평한 얼굴의 남자가 나왔고 측면을 정말 열심히 보려고 노력했습니다"
   }
 }

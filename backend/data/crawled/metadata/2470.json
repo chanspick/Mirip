@@ -23,5 +23,14 @@
     "student_strength": "평소에 3절도 4시간 시험으로 많이 봤기에 3절 5시간이 여유 있었고 그덕에 금붕어의 형태 같은 기초적인걸 놓치지 않고 잘 지켰기 때문인 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 38.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.401
+  },
+  "clip_topic": {
+    "topic_score": 0.5944,
+    "topic_text": "금붕어/레고블럭 이였고 금붕어가 사료를 먹는걸 생각해 더 작은 블럭으로 이루어진 물고기를 먹는 걸 발상 했습니다."
   }
 }

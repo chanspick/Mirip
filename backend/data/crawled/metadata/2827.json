@@ -22,5 +22,14 @@
     "student_strength": "기초소양평가와 기초디자인 실기를 모두 경험하면서 손에 대한 관찰과 묘사를 준비했던 것이 합격의 주요인인 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 44.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.713
+  },
+  "clip_topic": {
+    "topic_score": 0.5837,
+    "topic_text": "다양한 손 동작, 털실 그리고 가위가 출제되어서 털실로 장갑을 만드는 과정의 손 동작을 가능한 한 자연스럽게 표현했습니다."
   }
 }

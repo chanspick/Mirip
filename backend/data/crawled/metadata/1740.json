@@ -23,5 +23,14 @@
     "student_strength": "학원선생님들이 해주시는 말씀과 더불어 그 말들을 잊지않고 새로운 작품을 만들 때 틀리지 않도록 노력한 것이 도움이 되었다",
     "teacher_feedback": "선생님이 말씀해주시는 모델의 특이점, 지켜야 할 것들을 새겨듣고 작품을 만드는 데 적용하려고 하였고 틀렸던 것을 메모하며 다음 날 틀리지 않도록 하였다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 57.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.496
+  },
+  "clip_topic": {
+    "topic_score": 0.5946,
+    "topic_text": "20대 남자가 나왔고 눈을 찌푸리고 있고 입을 벌리고 있는 표정과 동세가 있었다."
   }
 }

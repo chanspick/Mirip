@@ -22,5 +22,14 @@
     "student_strength": "그림의 한 곳에 시선이 끌리고, 그곳의 표현력과 완성도가 높았으며 뒤쪽의 부주제 부분까지 꼼꼼하게 그려준 것이 합격의 요인이었다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 70.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.261
+  },
+  "clip_topic": {
+    "topic_score": 0.5813,
+    "topic_text": "출제 문제는 야구공,페인트 붓이었고, 나무 손잡이의 부서진 파편과 선재를 적극적으로 활용하였습니다."
   }
 }

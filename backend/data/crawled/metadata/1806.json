@@ -23,5 +23,10 @@
     "student_strength": "저는 멘탈이 약하여 여러번 포기하고 싶었을 때가 많았지만 그럴 때마다 선생님들의 따듯한 응원과 격려의 말씀들 덕분에 포기하지않고 끝까지 도전할 수 있었습니다. 또한 학원만의 긍정적이고 좋은 분위기도 큰 도움이 되었습니다.",
     "teacher_feedback": "피드백 들은 것을 정리하여 저의 장단점을 보완하고 발전시키기 위해 좋은 연출을 찾아보고, 저만의 스타일을 찾기 위해 노력하였습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 60.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.612
   }
 }

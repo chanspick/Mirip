@@ -22,5 +22,14 @@
     "student_strength": "시간 조절에 많은 의미를 두었다. 마지막 묘사할 시간을 조금 더 투자하여 밀도를 높이고자 노력하였고, 다른 친구들보다 공간감과 거리감을 두려고 노력했던 것이 합격의 주요인인 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "사슬 . 페인트 붓// 연습을 많이 했던 물체가 나와서 마음이 편했고, 주변 다른 학생들도 다들 잘 그렸기 때문에 시험 당일 좀 더 경쟁의식을 느끼며 욕심내서 그릴 수 있었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 30.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.024
+  },
+  "clip_topic": {
+    "topic_score": 0.5956,
+    "topic_text": "페인트 통. 사슬 ."
   }
 }

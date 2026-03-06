@@ -23,5 +23,10 @@
     "student_strength": "입시를 시작하며 “다른 친구들을 신경쓰지 말고, ‘나’를 보여주자…” 를 목표로 삼았습니다. 일반고를 다녔기에 미술 이론이나 실기 등이 예고 친구들에 비해 턱없이 부족했습니다. 그렇기에 학원에서 이런 부분을 전부 배웠어야 했는데, 미술사 - 이론 들을 실기하는 와중에도 계속 강조해 주셔서 부족함 없이 공부할 수 있었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 68.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.202
   }
 }

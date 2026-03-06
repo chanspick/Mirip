@@ -22,5 +22,14 @@
     "student_strength": "최대한 여러번 그릴려고 했고, 그렸던 그림들을 스케치를 다시 하고, 지적받았던 것들을 고칠려고 한게 합격의 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "또 동전에 있는 사람 얼굴과 독수리가 잘 보이도록 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 52.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.199
+  },
+  "clip_topic": {
+    "topic_score": 0.5862,
+    "topic_text": "선인장과 동전 벼과 나왔고, 전날에 선인장 형태를 지적 받았기때문에 선인장 형태에 신경을 썼습니다. 또 동전에 있는 사람 얼굴과 독수리가 잘 보이도록 그렸습니다."
   }
 }

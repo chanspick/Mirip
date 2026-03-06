@@ -22,5 +22,14 @@
     "student_strength": "기본에 충실해야한다 생각한다. 구도, 덩어리감을 최우선으로 해야한다. 괜히 묘사 욕심을 부리다가 안좋게보일수도 있다.그리고 부모님,선생님 그리고 친구들의 끊임없는 격려와 칭찬이였다. 이러한것들이 없었다면 여기까지 오기 힘들었을것이다.",
     "teacher_feedback": null,
     "ideation_process": "표현하라' 였다. 선재,나무재질이 나오길 바랬는데 바이올린이 나왔다."
+  },
+  "tier_refined": {
+    "tier_score": 48.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.903
+  },
+  "clip_topic": {
+    "topic_score": 0.5883,
+    "topic_text": "바이올린이 나왔다. 제시어는 '주어진 제시물을 자유롭게 변형하여 자신이 꿈꾸는세계를 표현하라' 였다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "교수님들이 딱 봤을때 한눈에 들어오는 그림을 그렸다고 생각합니다",
     "teacher_feedback": "선생님께서 그날 그날 다른 주제를 주셔서 다양한 개체들을 그려볼 수 있었고 평소 화이트 묘사하는게 부족했는데 선생님들께서 도움을 주셔서 많이 보완이 됐습니다.",
     "ideation_process": "생각했습니다"
+  },
+  "tier_refined": {
+    "tier_score": 72.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.377
+  },
+  "clip_topic": {
+    "topic_score": 0.5895,
+    "topic_text": "버드와이저 캔 맥주, 빼빼로, 야구공이 나왔고 주제어가 에너지였기 때문에 그림 안에서 많은 움직임을 보여줘야겠다고 생각했습니다"
   }
 }

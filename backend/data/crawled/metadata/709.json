@@ -22,5 +22,14 @@
     "student_strength": "학원 선생님들께서 해주셨던 조언과 평가들을 필기노트에 정리하고, 매일 복습하며 그림 그릴 때마다 고쳐나가려 했던 것이 좋은 결과를 가져온 것 같습니다.",
     "teacher_feedback": "선생님께서 감평해주신 내용은 필기를 하며 매일 되새겼습니다..",
     "ideation_process": "최대한 제시 소재만 이용하려고 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 57.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.464
+  },
+  "clip_topic": {
+    "topic_score": 0.5828,
+    "topic_text": "문제를 읽고 ‘도구로 전락해버린 자연’을 떠올리며 자연물을 톱니바퀴로 변형하여 그렸습니다. 최대한 제시 소재만 이용하려고 노력했습니다."
   }
 }

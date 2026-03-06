@@ -23,5 +23,14 @@
     "student_strength": "진부하지만 당연히 여기까지 이끌어주신 선생님들의 노력과 노고 덕분이 아닐까합니다. 끝까지 저를 믿어주신 가족들 덕분에 힘내서 할 수 있었고, 잘되고 싶다, 잘하고싶다 라는 생각을 항상 가지고 임했던게 결과로 나온거 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.955
+  },
+  "clip_topic": {
+    "topic_score": 0.5692,
+    "topic_text": "야구공과 금속배트가 나왔는데 동덕은 역시 과감한 연출과 뼈대, 뻗어나가는 여러 방향성이 중요하다는 것을 토대로 구도를 짰으며, 야구공의 표정도 과감하게 표현하였습니다."
   }
 }

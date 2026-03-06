@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "비닐 우산을 들고있고, 상반신만 그릴 것. 상반신만 그리는 조건이 있었지만 전신과 크게 다르지 않다고 생각했다."
+  },
+  "tier_refined": {
+    "tier_score": 50.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.12
+  },
+  "clip_topic": {
+    "topic_score": 0.6035,
+    "topic_text": "머리묶고, 흰색 목폴라에 청바지를 입은 여성. 비닐 우산을 들고있고, 상반신만 그릴 것."
   }
 }

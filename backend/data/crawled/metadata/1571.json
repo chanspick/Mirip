@@ -22,5 +22,14 @@
     "student_strength": "학원 벽에 걸려있는 우수작과 합격작 그림을 많이 보고 질감 표현이나 주제부 크기, 각도 등을 외우려고 노력했습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다. 벽돌의 경중이 선인장보다"
+  },
+  "tier_refined": {
+    "tier_score": 33.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.163
+  },
+  "clip_topic": {
+    "topic_score": 0.5773,
+    "topic_text": "양재성과 면재성이 강한 사물들이 나와서 가변을 통해 선재와 점재를 만들어야겠다고 생각했습니다. 벽돌의 경중이 선인장보다"
   }
 }

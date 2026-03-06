@@ -22,5 +22,14 @@
     "student_strength": "모델과 많이 비교한 것이라고 생각한다. 모델링은 앞에 있는 모델이 정답이기 때문에 다르게 만들면 답이 틀려버린다 생각했다. 원에서 모델과 똑같이 만드려고 혼자 열심히 뛰어다닌 덕분이라고 생각한다.",
     "teacher_feedback": "피드백을 적극적으로 받아들였고, 그것을 고치려고 노력을 많이 했다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 79.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.768
+  },
+  "clip_topic": {
+    "topic_score": 0.5985,
+    "topic_text": "모델링이었고, 마음을 차분히 먹고 과정을 차근차근 생각하면서 더 잘하려는 마음보단 평소 학원에서 하던대로 하려고 노력하였다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "실기나, 면접도 물론 중요하지만 두 학교 모두 성적을 많이 보는 학교인 만큼 성적이 가장 크게 작용했다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "발상 시간 없이 바로 그림을 그릴 수 있었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.371
+  },
+  "clip_topic": {
+    "topic_score": 0.5791,
+    "topic_text": "세종대학교 주제가 정확히 기억이 나지 않는데 미디어의 발전에 따른 윤리적 문제와 해결방법 이었던 것 같습니다. 운 좋게 면접을 준비하며 한 번 생각해보았던 기출문제에서 나와 시험장에서는 고민없이 답안지를 작성할 수 있었습니다."
   }
 }

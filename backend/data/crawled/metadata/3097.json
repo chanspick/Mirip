@@ -23,5 +23,14 @@
     "student_strength": "과하지 않고 차분히 연출을 보여준게 합격 요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "색은 바꾸지 않고 흰색과 파란색의 고유명도 차이와 강한 면도날의 철과 부드러운 샤워볼의 특성 차이를 보여주고자 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.961
+  },
+  "clip_topic": {
+    "topic_score": 0.5705,
+    "topic_text": "면도기와 샤워볼이 나왔습니다. 색은 바꾸지 않고 흰색과 파란색의 고유명도 차이와 강한 면도날의 철과 부드러운 샤워볼의 특성 차이를 보여주고자 했습니다."
   }
 }

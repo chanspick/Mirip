@@ -22,5 +22,10 @@
     "student_strength": "그림이 잘 그려지지 않을땐 우울할 수 있지만 그 이유를 알고 고쳐나가면 된다고 생각했다. 힘들어도 끝까지 완성해보는게 중요한 것 같다 선생님들이 나의 장단점을 파악해 단점은 보완하면서 장점은 극대화시킬 수 있게 많이 알려주셨고 각각 대학별로 스타일을 잘 짚어주셔서 입시하면서 도움이 많이 되었다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 38.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

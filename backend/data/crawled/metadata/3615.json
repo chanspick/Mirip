@@ -22,5 +22,14 @@
     "student_strength": "기본기가 부족하다고 생각해왔는데 클래스별 집중수업을 통해 부족한 기본기를 보완할 수 있었고 학교별 집중 수업을 통해 시험치기 전 학교에 대한 준비를 디테일하게 할 수 있어서 좋았습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 50.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.127
+  },
+  "clip_topic": {
+    "topic_score": 0.6237,
+    "topic_text": "쇠주전자를 활용하여 휴대용 음료 용기를 디자인하는 문제였고 정확한 문제풀이를 하기 위해 학원에서 배웠던 내용들을 떠올리면서 시험을 진행하였습니다."
   }
 }

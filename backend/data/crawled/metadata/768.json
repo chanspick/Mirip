@@ -23,5 +23,14 @@
     "student_strength": "뭐든 주어진 상황에서 열심히 하지않으면 불안해하는 성격이기 때문에, 실기는 물론 내신관리와 수능점수 유지까지 신경을 쓴 것이 합격에 영향을 끼친것 같다.",
     "teacher_feedback": null,
     "ideation_process": "모델의 인상이 나오는 것을 최우선으로 하여 집중해서 비례와 양을 맞추었다. 시간이 5시간으로 4시간 시험보다는 넉넉하기 때문에 더욱 많이 나가서 고쳐야할 점들을 찾아냈다."
+  },
+  "tier_refined": {
+    "tier_score": 77.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.647
+  },
+  "clip_topic": {
+    "topic_score": 0.5765,
+    "topic_text": "실기고사 출제문제는 20대 여자 소조(인물두상) 실제크기 5시간 이었다. 모델의 인상이 나오는 것을 최우선으로 하여 집중해서 비례와 양을 맞추었다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "학과에 맞는 서류 작성과 실기 준비라고 생각합니다.",
     "teacher_feedback": "선생님께서 주신 자료를 계속 보면서 스스로 응용해보고 피드백을 받고 다시 고치는 것을 반복하였습니다.",
     "ideation_process": "생각해서 옛날 함선을 모티브로 구조물을 만들었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 80.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.788
+  },
+  "clip_topic": {
+    "topic_score": 0.586,
+    "topic_text": "각 사물의 비율과 질감을 정해주고 조합하는 문제였습니다. x,y,z 축으로 뻗어 나가는 형상이 재밌겠다고 생각해서 옛날 함선을 모티브로 구조물을 만들었습니다."
   }
 }

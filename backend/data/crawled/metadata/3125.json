@@ -22,5 +22,14 @@
     "student_strength": "그림을 너무 복잡하지 않게 그렸던게 합격의 주요인이라 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "처음에 받고 당황했지만 촛불의 흰색과 밝은 불과 태운 버섯의 어두운 면을 대비시키면 어떨까 생각하며 차분하게 그리고자 했습니다. 배경으로 연기를 피워 연결성을 보여주고자 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 83.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.984
+  },
+  "clip_topic": {
+    "topic_score": 0.5817,
+    "topic_text": "당일 버섯과 샹들리에 촛불이 나왔습니다. 처음에 받고 당황했지만 촛불의 흰색과 밝은 불과 태운 버섯의 어두운 면을 대비시키면 어떨까 생각하며 차분하게 그리고자 했습니다."
   }
 }

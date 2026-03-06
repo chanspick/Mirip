@@ -23,5 +23,10 @@
     "student_strength": "내신, 수능, 실기 중 어느 하나 소홀히 하지 않고 열심히 했던 것이라고 말씀드리고 싶습니다. 홍대는 내신, 서류, 수능 최저뿐만 아니라 드로잉 면접도 봐야 하는 학교이기에 하나에 치우치지 않고 다 챙겼던 것이 가장 큰 합격 요인이라고 생각합니다.",
     "teacher_feedback": "피드백은 놓치지 않고 메모하여 다음 그림을 그릴 때 적용했던 것이 실기력 향상에 있어 많은 도움이 되었습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

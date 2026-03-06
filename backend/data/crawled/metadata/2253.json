@@ -22,5 +22,14 @@
     "student_strength": "주제두상에서 가장 중요한 기본적인 호감남자를 잘만들었던것이 가장 중요했던것 같습니다",
     "teacher_feedback": "선생님이 말씀하시는 것은 꼭 지키려고 노력했습니다 65.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 70.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.281
+  },
+  "clip_topic": {
+    "topic_score": 0.5927,
+    "topic_text": "웃는 남자 였는데 남자 골격을 신경쓰면서 평소 준비 했던 표정을 만들었습니다"
   }
 }

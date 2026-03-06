@@ -22,5 +22,14 @@
     "student_strength": "개별적으로 티쳐스톡방을 활용하여 세심한 케어를 많이 받았습니다. 궁금한 것이라던지 고쳐야할 부분들을 체계적으로 잘 정리해주셨습니다.",
     "teacher_feedback": null,
     "ideation_process": "앵무새를 예쁘게 그리려 하고 색보다 앵무새의 구조가 더 먼저 잘 보이도록 하려 노력 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 53.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.288
+  },
+  "clip_topic": {
+    "topic_score": 0.581,
+    "topic_text": "상명대는 문제를 미리 알려주기 때문에 준비해간 대로 그렸습니다. 앵무새를 예쁘게 그리려 하고 색보다"
   }
 }

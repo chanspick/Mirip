@@ -23,5 +23,14 @@
     "student_strength": "평소 서울대 유형 준비를 하면서 손과 발을 자주 만들어봤던 게 큰 도움이 되었다. 또한 큰 사이즈의 손을 제작했기 때문에 많은 작품들 속에서 눈에 잘 띄었던 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "표현하는 것이라고 생각했다. 또한 그것을 어떻게 조형적으로 잘 배치하였는가가 합격의 주요한 요인이라고 생각했다"
+  },
+  "tier_refined": {
+    "tier_score": 57.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.459
+  },
+  "clip_topic": {
+    "topic_score": 0.6148,
+    "topic_text": "40cm 월척붕어를 잡고 있는 손과 그물의 형상을 조형적으로 만드는 문제였는데 가장 중요한 것은 손과 그물을 잘 표현하는 것이라고 생각했다. 또한 그것을 어떻게 조형적으로 잘 배치하였는가가 합격의 주요한 요인이라고 생각했다"
   }
 }

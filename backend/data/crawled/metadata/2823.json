@@ -22,5 +22,14 @@
     "student_strength": "학원 선생님들이 열심히 가르쳐 주셨습니다. 그리고 전 학원을 최대한 안 빠지고 성실하게 열심히 갔습니다 .",
     "teacher_feedback": "선생님들 믿고 착실하게 열심히 하였습니다.",
     "ideation_process": "했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 52.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.23
+  },
+  "clip_topic": {
+    "topic_score": 0.5857,
+    "topic_text": "상명대 문제은행을 최소 한 번이상씩은 해봐서 기억나는 대로 최선을 다 했습니다."
   }
 }

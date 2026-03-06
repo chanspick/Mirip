@@ -23,5 +23,10 @@
     "student_strength": "재수생이라는 타이틀 때문에 압박감이 있어서 쉬는 날에도 잘 쉬지 못하고 걱정만 했었는데 지금 생각해보면 쉴때는 쉬고,할때는 하는것이 효율적이고 좋다고 생각합니다. 저는 고민이 있을때 실기쌤이랑 같이 얘기를 하면서 도움을 많이 받았습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

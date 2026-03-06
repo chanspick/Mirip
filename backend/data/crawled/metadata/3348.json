@@ -22,5 +22,14 @@
     "student_strength": "최대한 평소 학원에서 그리던거처럼 그릴려고 했고 밀도 있고 성실하개 그린것이 합격의 주요인이라고 생각합니다",
     "teacher_feedback": "선생님이 지적해주신 피드백을 항상 생각하며 그렸습니다.",
     "ideation_process": "모두 한번씩 그려봤던 소재라 그때의 기억을 떠올라며 그렸습니다"
+  },
+  "tier_refined": {
+    "tier_score": 32.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.132
+  },
+  "clip_topic": {
+    "topic_score": 0.571,
+    "topic_text": "시험 문제는 맥가이버칼 우산 유리구슬이 나왔고 기본에 충실하게 그동안 피드백 받은 것을 최대한 지켜 그릴려 하였습니다 모두 한번씩 그려봤던 소재라 그때의 기억을 떠올라며 그렸습니다"
   }
 }

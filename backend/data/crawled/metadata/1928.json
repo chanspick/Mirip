@@ -22,5 +22,14 @@
     "student_strength": "남들과는 차별화되는 독특한 소재를 사용한 스토리 풀이가 주가 됐을 거라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "여행을 갔는데 바닷물이 사라져있었다’였습니다. 문제를 받고 바다와 연관된 모든 키워드들을 나열해 놓다보니, 남반구 산타클로스는 여름에 활동한다는 것이 떠올라 이를 중점으로 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 36.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.321
+  },
+  "clip_topic": {
+    "topic_score": 0.5867,
+    "topic_text": "축약해서 ‘한여름 바다 여행을 갔는데 바닷물이 사라져있었다’였습니다."
   }
 }

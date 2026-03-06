@@ -22,5 +22,14 @@
     "student_strength": "제시어에 대한 해석과 완성도였다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하라고 해서 스프링으로 공간을 만들어서 벽시계가 그 공간을 타고 넘어오는 듯하게 구성하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 41.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.562
+  },
+  "clip_topic": {
+    "topic_score": 0.5752,
+    "topic_text": "벽시계와 바인더 스프링으로 시간여행을 표현하라고 해서 스프링으로 공간을 만들어서 벽시계가 그 공간을 타고 넘어오는 듯하게 구성하였습니다."
   }
 }

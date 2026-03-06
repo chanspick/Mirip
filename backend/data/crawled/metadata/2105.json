@@ -23,5 +23,14 @@
     "student_strength": "기능이 잘 보인 게 가장 크고 기본적인 득점 요인이라고 생각한다. 그 다음으로는 집중감(?) 있는 구도와 적절한 색상배치가 중요했던 것 같다",
     "teacher_feedback": "선생님이 내주시는 숙제는 열심히 해갔다.",
     "ideation_process": "케이블타이. 각 사물들의 기능을 잘 보여주겠다는 것을 1순위로 정하고, 고사장 주변 사람들이 화면을 꽉 채우는 걸 많이 봐서, 나는 시원하면서도 텅 비어 보이지 않게 그리려고 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 55.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.372
+  },
+  "clip_topic": {
+    "topic_score": 0.6007,
+    "topic_text": "컴퍼스와. 케이블타이."
   }
 }

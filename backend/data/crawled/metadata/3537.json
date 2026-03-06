@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 33.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.157
+  },
+  "clip_topic": {
+    "topic_score": 0.6185,
+    "topic_text": "종이컵, 자유시간, 노끈 실물을 받았기 때문에, 틀리지 않도록 최대한 사물을 신경쓰며 그림을 그렸다."
   }
 }

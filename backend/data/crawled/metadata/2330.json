@@ -23,5 +23,14 @@
     "student_strength": "출제문제인 전구를 그리지 않았다. 전구를 넣으면 주제가 작아지고 그림의 큰 축이 사라질 것 같았다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오‘ 이 주제를 받고 평소에 연습한 역동성이라는 주제를 떠올렸고 최대한 그림속에 움직임을 많이 표현하려 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 48.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.919
+  },
+  "clip_topic": {
+    "topic_score": 0.5858,
+    "topic_text": "’만년필, 스텐드 전구, 종이로 다이나믹한 디자이너의 삶을 표현하시오‘ 이 주제를 받고 평소에 연습한 역동성이라는 주제를 떠올렸고 최대한 그림속에 움직임을 많이 표현하려 했습니다."
   }
 }

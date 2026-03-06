@@ -22,5 +22,14 @@
     "student_strength": "평소에 수없이 많은 지적을 받았고 그 문제점을 고치면서 입시를 준비하다 보니 실기 당일날 실수를 하지않아서 합격 할 수 있었던 것 같습니다. 부족한 실기실력을 바로잡아 주신 전임선생님께 감사의 말을 전해드리고 싶습니다.",
     "teacher_feedback": null,
     "ideation_process": "그래서 마치 음악이 나오는 듯한 구성을 생각해 내어 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 63.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.774
+  },
+  "clip_topic": {
+    "topic_score": 0.5894,
+    "topic_text": "키보드, 휴지, 이어폰, 악보가 나왔는데 제시어는 없었지만 개체의 연관성에서 ‘율동감’을 떠올렸습니다. 그래서 마치 음악이 나오는 듯한 구성을 생각해 내어 풀어나갔습니다."
   }
 }

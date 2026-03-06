@@ -24,5 +24,14 @@
     "student_strength": "자신의 실력의 위치가 어느 정도인지를 잘 숙지하는게 중요하다 생각합니다. 자기가 못하는지를 모르면서 오만에 빠질 수도 있고, 자신의 실기가 뛰어나지만 자신감이 부족해서 본 실력을 발휘하지 못하는 경우가 종종 있다고 봅니다`.",
     "teacher_feedback": "선생님들께 실기를 배우고 본인 실기의 문제점을 실기의 문제점을 지속적으로 탐구해 나갔습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.6156,
+    "topic_text": "대칭이 심한 여성 모델이 나왔지만 모델의 특징과 양감을 해석해나가며 실기를 진행하였습니다."
   }
 }

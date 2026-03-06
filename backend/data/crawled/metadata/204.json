@@ -23,5 +23,14 @@
     "student_strength": "매일 시험을 봤기 때문에 시험에 대한 부담이 적었고 시간배분을 잘 할 수 있었다. 그리고 학원 선생님들의 가르침 덕분에 효과적인 그림을 그릴 수 있었다.",
     "teacher_feedback": null,
     "ideation_process": "표현하기 위해 끈을 사용했다."
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5714,
+    "topic_text": "제시물은 목장갑이었고 제시어는 가벼움이었다. 가벼움하니 깃털이 떠올랐고 깃털이 떠오를 수 있는 바람을 표현하기 위해 끈을 사용했다."
   }
 }

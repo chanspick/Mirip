@@ -22,5 +22,10 @@
     "student_strength": "주임선생님들이 학교에 대해 분석하시고 구도부터 채색까지 세세하게 코칭해주셔서 가능했던 것 같다. 또 나 스스로 몇시간씩 일찍 나와 연습했고, 선생님들이 지적하신 부분은 꼭 고칠 수 있도록 노력했다.",
     "teacher_feedback": "선생님들과 해당 학교를 지속적으로 분석했고, 물성을 활용하여 구도를 짜고 효율적으로 채색을 하기 위해 노력하였다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

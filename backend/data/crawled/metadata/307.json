@@ -22,5 +22,10 @@
     "student_strength": "정말 열심히 그렸다. 조금 더 간절한 사람이 합격한다는 말을 실감할 정도로 열심히 그렸다.",
     "teacher_feedback": "선생님들이 특히 자주 강조하신 것도 구성에 대한 부분이었어서 정말 많은 연습을 했다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.067
   }
 }

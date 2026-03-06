@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님 말씀을 최대한 잘 들으려고 노력했다 2.",
     "ideation_process": "시간계획대로 하려고 노력했다 청자켓이 까매지지 않고 내용이 많이 들어갈 수 있게 노력했다"
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.371
+  },
+  "clip_topic": {
+    "topic_score": 0.5874,
+    "topic_text": "깃세운 청자켓에 검정 스키니 바지 한손엔 돌돌 말린 흰색 목도리를 들고있었고 끈이 풀린 컨버스화를 신었다. 시간계획대로 하려고 노력했다"
   }
 }

@@ -23,5 +23,10 @@
     "student_strength": "제 그림체가 흔하지 않은 편이라 실기 시험에서 차별화가 되었던 것 같습니다. 다소 모험적인 선택이었지만, 그 부분이 오히려 좋은 결과를 가져온 것 같아요. 그리고 마지막까지 포기하지 않고 방향을 계속 수정해가며 그린 것도 영향을 준 것 같습니다.",
     "teacher_feedback": "선생님이 주시는 조언을 믿고 따르며, 제 스타일을 유지하되 평가에서 점수를 받을 수 있는 방향으로 그림을 많이 바꿨습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 54.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.341
   }
 }

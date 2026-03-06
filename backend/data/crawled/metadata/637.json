@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "피드백을 다양한 관점으로 받을 수 있어 그림을 향상시키는데 도움이 되었다.",
     "ideation_process": "시험장에서 늘 떠는데 떨지말라던 쌤 말씀을 떠올리며 시험에 응했다. 4시간이 주어지기에 적당한 크기에 주제를 만드는것이 중요하다."
+  },
+  "tier_refined": {
+    "tier_score": 68.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.168
+  },
+  "clip_topic": {
+    "topic_score": 0.5764,
+    "topic_text": "종이 사이즈가 큰 만큼 자리는 넉넉했다. 시험장에서 늘 떠는데 떨지말라던 쌤 말씀을 떠올리며 시험에 응했다."
   }
 }

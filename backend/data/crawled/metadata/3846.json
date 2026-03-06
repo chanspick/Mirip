@@ -22,5 +22,14 @@
     "student_strength": "선생님이 시키시는대로 열심히 꾸준히하고 나 의 강점과 약점을 파악하고 기본기를 놓치지 않는 것이다.",
     "teacher_feedback": "선생님의 피드백을 메모장에 적어두 고 다음 시험에서 고쳐나가려 했다..",
     "ideation_process": "평소 하던대로 침착히 그려나갔다."
+  },
+  "tier_refined": {
+    "tier_score": 59.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.575
+  },
+  "clip_topic": {
+    "topic_score": 0.577,
+    "topic_text": "드릴, 목장갑, 향초였으며 사물의 물성과 크기대비를 생각하며 그리려했다. 평소 하던대로 침착히 그려나갔다."
   }
 }

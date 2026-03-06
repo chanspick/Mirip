@@ -23,5 +23,14 @@
     "student_strength": "학교에서 원하는 성적 반영을 어느 정도 맞춰놓은 것도 있었고 실기에서 다른 사람들과 다르게 문제풀이를 해나간 것도 컸다고 생각한다.",
     "teacher_feedback": "선생님의 도움과 학원 친구들 덕분에 다시 이겨내며 즐겁게 있을 수 있었다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 59.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.558
+  },
+  "clip_topic": {
+    "topic_score": 0.5797,
+    "topic_text": "콘 아이스크림과 100원 동전을 자유롭게 배치하기 (가로만 허용, 동전은 사람 얼굴이 꼭 나오게 하기)"
   }
 }

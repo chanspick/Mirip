@@ -23,5 +23,14 @@
     "student_strength": "다양한 이미지를 많이 찾아본게 실기향상에 도움이 많이 된거같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 74.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.476
+  },
+  "clip_topic": {
+    "topic_score": 0.5737,
+    "topic_text": "산 정상에 올라 야호 하는 젊은 남자가 나왔고 눈은 웃으면서 호~하는 느낌으로 만들었습니다."
   }
 }

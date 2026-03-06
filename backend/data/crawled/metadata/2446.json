@@ -22,5 +22,14 @@
     "student_strength": "전구와 빨대는 학원에서 많이 그려보고 또 선생님의 시범을 통해 컬러의 다양성을 알게되고나서 돋보이는 컬러감과 소량의 물을 사용한것이 도움이 되지 않았나 생각합니다",
     "teacher_feedback": null,
     "ideation_process": "문제를 받고 빨대를 이용해 공간감이 극대화되게 하려고 생각하며 풀어나갔습니다"
+  },
+  "tier_refined": {
+    "tier_score": 39.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.488
+  },
+  "clip_topic": {
+    "topic_score": 0.5812,
+    "topic_text": "당일에 문제는 전구와 빨대가 나왔는데 학원에서 시험이 가까워졌을때 딱 전구와 빨대로 시험을 봤었는데 그게큰 도움이 된것같습니다 문제를 받고 빨대를 이용해 공간감이 극대화되게 하려고 생각하며 풀어나갔습니다"
   }
 }

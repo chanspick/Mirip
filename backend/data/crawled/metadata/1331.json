@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "피드백 받으면서 준비했습니다..",
     "ideation_process": "표현하도록 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 65.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.014
+  },
+  "clip_topic": {
+    "topic_score": 0.5884,
+    "topic_text": "학원에서 선생님들이 조언해주신 것들을 생각하며 그림에 표현하도록 노력했습니다."
   }
 }

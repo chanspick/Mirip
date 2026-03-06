@@ -23,5 +23,10 @@
     "student_strength": "좋은작품을 많이보고 분석을 했던게 도움이 많이되었습니다. +그림을 그릴때 가장 중요한건 나를 보여주는것이라 생각을하는데 주제를받고 '내가 이걸 애니로 만들면 어떻게 진행을 하고싶고 어떤 떡밥을 넣고싶을까?'를 하나하나 생각하며 말그대로 그리고싶은대로 그린덕에 합격을 하게된것이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

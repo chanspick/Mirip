@@ -23,5 +23,14 @@
     "student_strength": "문제를 잘 해석해 풀어낸 것이 합격의 주원인이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "문제를 해석할 때는 주어진 환경이 외계 혹성이라는 것에 집중하여 사물을 변형해 문제를 풀었다."
+  },
+  "tier_refined": {
+    "tier_score": 70.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.264
+  },
+  "clip_topic": {
+    "topic_score": 0.5837,
+    "topic_text": "제시된 사물(꽃피는 선인장)을 외계 혹성에 심은 후 10년이 지난 뒤의 모습을 상상하여 그리고, 원과 사각형을 이용해 구성하는 것이 출제문제였다. 문제를 해석할 때는 주어진 환경이 외계 혹성이라는 것에 집중하여 사물을 변형해 문제를 풀었다."
   }
 }

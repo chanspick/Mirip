@@ -23,5 +23,14 @@
     "student_strength": "힘들 때도 있었지만 제 자신만 힘든 게 아니라고 생각하고 좀만 버티면 된다는 생각을 하면서 제 자신을 컨트롤 한 것이 합격의 길이라고 생각합니다. 그리고 선생님이 해주시는 말을 새겨듣는 것도 굉장히 중요합니다.",
     "teacher_feedback": "선생님의 피드백을 받으면서 제 습관들을 고치고 최대한 효율적으로 그림을 그리려 노력했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 50.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.137
+  },
+  "clip_topic": {
+    "topic_score": 0.5842,
+    "topic_text": "살짝 당황했지만 문제를 해석하는 것에 집중을 했고 무조건 완성을 하겠다는 마음을 가지고 차근차근 그려나갔습니다."
   }
 }

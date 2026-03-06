@@ -22,5 +22,14 @@
     "student_strength": "침착하게 학원에서 시험보듯 기본기만생각하면서 무리하지 완성도에 신경을 �㎢平÷寬� 같아요.",
     "teacher_feedback": "선생님들을 100% 믿고 따라가려는 생각으로 준비했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.991
+  },
+  "clip_topic": {
+    "topic_score": 0.5791,
+    "topic_text": "주제를 보고 잠깐 당황을 했지만 평소에 그려왔던 것 처럼 침착하게 그림을 완성해 나갔습니다."
   }
 }

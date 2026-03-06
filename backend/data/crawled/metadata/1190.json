@@ -23,5 +23,14 @@
     "student_strength": "실기100%인 전형 덕에 성적이 안들어가 이점이 영향을 많이 끼친거같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.934
+  },
+  "clip_topic": {
+    "topic_score": 0.6071,
+    "topic_text": "윷과 장기알의 물적 특성을 활용하였다."
   }
 }

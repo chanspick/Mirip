@@ -22,5 +22,14 @@
     "student_strength": "주제 표현력과 구성의 재미인것 같습니다.",
     "teacher_feedback": "피드백 받으면서 실기 실력을 늘렸습니다..",
     "ideation_process": "보여줄수있는 묘사부분을 섬세히 표현하고자 했습니다"
+  },
+  "tier_refined": {
+    "tier_score": 38.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.445
+  },
+  "clip_topic": {
+    "topic_score": 0.5728,
+    "topic_text": "새우와 소방호스였습니다, 어떻게든 주제를 연관시켜서 재밌게 풀어보고자 했습니다 보여줄수있는 묘사부분을 섬세히 표현하고자 했습니다"
   }
 }

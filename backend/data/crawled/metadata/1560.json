@@ -23,5 +23,10 @@
     "student_strength": "제시된 사물의 겉모습만 표현하라고 명시되어있었는데 조건을 지키지 않은 사람들이 꽤 많았다. 주어진 제시 조건을 잘 읽고 조건을 지켜서 참치의 내용물을 그리지 않은 것이 합격에 가장 큰 영향을 끼친 것 같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 56.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.4
   }
 }

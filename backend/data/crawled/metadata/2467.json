@@ -23,5 +23,14 @@
     "student_strength": "주제미스를 내지 않은 것이 가장 컸다고 생각합니다",
     "teacher_feedback": null,
     "ideation_process": "표현하라고 했기 때문에 강아지의 시야에서 보는 구도로 구상을 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 50.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.13
+  },
+  "clip_topic": {
+    "topic_score": 0.5939,
+    "topic_text": "“당신은 유기견입니다. 임시보호소에서 입양되길 바라는 유기견의 시점을 표현해보세요, 비율에 맞게 공간과 사람을 구성해보세요.” 였고 비율에 맞게 표현하라고 했기 때문에 강아지의 시야에서 보는 구도로 구상을 했습니다."
   }
 }

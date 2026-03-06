@@ -22,5 +22,14 @@
     "student_strength": "특이한 구도를 하려고 했던게 합격의 주요인이라고 생각합니다.",
     "teacher_feedback": "선생님이 피드백 해주시는 대로 고치려고 최대한 노력했고 학원 안빠지고 열심히 다녔습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 64.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.838
+  },
+  "clip_topic": {
+    "topic_score": 0.6006,
+    "topic_text": "가스랜턴, 지문, 스톱워치가 나왔고 문제를 받고 제가 준비한 구도에 맞춰서 흔하지 않는 그림을 그리려고 했습니다"
   }
 }

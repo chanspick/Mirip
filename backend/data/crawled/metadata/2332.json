@@ -22,5 +22,14 @@
     "student_strength": "옷이나 안경을 만들어본 경험이 거의 없었지만 그냥 체념하고 꿋꿋이 다 만들었고 도중에 뒤로 나와서 많이 봤습니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 57.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.47
+  },
+  "clip_topic": {
+    "topic_score": 0.6196,
+    "topic_text": "안경을 쓴 고개를 밑으로 내리고 올려다보는 여자"
   }
 }

@@ -22,5 +22,10 @@
     "student_strength": "사실 고교연계전형 입결 평균에 비해 제성적은 0.3 정도 모자랍니다. 그래서 저는 일관된 장례희망과 다양한분야에서 광고디자인에대한 관심을 보여준 것이 큰영향을 끼쳤다고 생각하고,미리 생기부에 활동이 많았던 덕분에 자소서를 쓰는 것도 수월 했던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

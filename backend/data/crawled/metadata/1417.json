@@ -23,5 +23,14 @@
     "student_strength": "선생님과 정시특강 동안 그려봤던 물체들이 나와 응용하기에 수월하였고 제가 구도 짜는 것에 정말 약했는데 선생님께서 끝까지 저를 포기하시지 않고 많이 도와주셨습니다. 피드백도 매 그림마다 꼼꼼하게 잘 해주셔서 저의 그림실력이 향상하는 데에 많은 도움이 되어서 합격까지 이를 수 있게 된 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 63.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.785
+  },
+  "clip_topic": {
+    "topic_score": 0.6388,
+    "topic_text": "덕성여대에서 주제로 곰인형과 국자가 나왔는데 저는 물체를 보자마자 국자에 인형을 담고 곰인형이 국자를 잡고있는 연출을 해야겠다고 생각했습니다."
   }
 }

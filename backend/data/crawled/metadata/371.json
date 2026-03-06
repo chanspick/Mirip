@@ -23,5 +23,14 @@
     "student_strength": "정리감과 물체의 특성을 잘 살려서 그린것 같습니다.",
     "teacher_feedback": "선생님께서 문제 제시물을 처음 받았을 때 그 물체의 특성을 고려하는 것이 중요하다고 하셔서 항상 물체가 돋보일 수 있도록 노력했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.997
+  },
+  "clip_topic": {
+    "topic_score": 0.5785,
+    "topic_text": "문제로 모래시계와 줄이 나왔는데 줄이라는 물체의 재미있는 선재 특성과 유리의 투명한 질감을 부각하여 표현했습니다."
   }
 }

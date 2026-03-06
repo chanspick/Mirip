@@ -22,5 +22,14 @@
     "student_strength": "꾸준함이 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 71.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.346
+  },
+  "clip_topic": {
+    "topic_score": 0.5937,
+    "topic_text": "커피포트, 꽃무늬 모자, 핀란드 동전이 나왔고 모자 색감이 대체로 칙칙해서 표현해내기 어려운 색감을 어떻게 살려 그릴지 생각하며 그렸습니다."
   }
 }

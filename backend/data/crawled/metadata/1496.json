@@ -22,5 +22,14 @@
     "student_strength": "좋은 성적이 아니기 때문에 열심히 준비한 실기 덕분에 붙었다고 생각합니다.",
     "teacher_feedback": "선생님들의 평가를 참고해서 제 단점을 고치려고 했던 것 같습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 35.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.26
+  },
+  "clip_topic": {
+    "topic_score": 0.5953,
+    "topic_text": "양파와 우산이 나왔고, 조금 빡센 개체 두 개가 나와서 당황했지만, 준비할 때와 비슷하게 그리고 나왔습니다."
   }
 }

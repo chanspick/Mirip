@@ -23,5 +23,14 @@
     "student_strength": "구리 창조의아침이 다른 학원과는 차별화된 그림과 꼼꼼한 소묘가 아닐까 싶습니다. 발상을 그리고도 한... 2시간?정도가 남아서 남은 시간 동안 소묘 묘사를 더 했었는데, 그게 도움이 되었을 수도 있고요. 사실 실기 하루 전 날까지 발상 그림을 한 장도 안 그리고 갔었는데 오히려 저는 그게 더 도움이 된 것 같아요.",
     "teacher_feedback": "선생님 몰래 그냥 반 접어서 쓰레기통에 버렸습니다...",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.94
+  },
+  "clip_topic": {
+    "topic_score": 0.5842,
+    "topic_text": "드립 주전자를 왼쪽에는 소묘, 오른쪽에는 ‘여유로움’으로 발상"
   }
 }

@@ -24,5 +24,14 @@
     "student_strength": "입체에서는 입시미술 뿐만이 아니라 진짜 미술을 배우는 느낌이였습니다. 그리고 정해진 루틴이 아닌 나만의 방식으로 할 수 있었던 점이 좋았습니다. 편안한 분위기와 좋은 친구들, 선생님들 덕분에 스트레스를 덜 받고 힘든 입시를 웃으면서 즐겁게 했던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "소묘는 안경쓴 남성이 나왔고 형태에 신경을 많이 썼습니다."
+  },
+  "tier_refined": {
+    "tier_score": 49.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.08
+  },
+  "clip_topic": {
+    "topic_score": 0.5979,
+    "topic_text": "머리를 묶은 여성이 나왔고 인상을 잡기위해 비례를 안틀리려고 했고 측면을 최대한 똑같이 맞추려고 했습니다. 소묘는 안경쓴 남성이 나왔고 형태에 신경을 많이 썼습니다."
   }
 }

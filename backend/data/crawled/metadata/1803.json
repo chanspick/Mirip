@@ -23,5 +23,14 @@
     "student_strength": "선생님의 말씀을 잘 듣고 자신이 부족한 부분을 고쳐나가는 것이 가장 중요하다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "구상하고 학원에서 알려주신대로 준비했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 31.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.081
+  },
+  "clip_topic": {
+    "topic_score": 0.6046,
+    "topic_text": "포트폴리오를 준비 했기 때문에 아이디어를 구상하고 학원에서 알려주신대로 준비했습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "선생님들의 말씀을 잘듣고 고치고 실행하는것이 중요한거같습니다 시험장에서 객관적으로 붙을거같다라는 생각이 들게끔 만드는게...",
     "teacher_feedback": null,
     "ideation_process": "생각해서 턱밑양을 맞추려고 노력했고 이미지와 표정을 잡으려고 노력했다"
+  },
+  "tier_refined": {
+    "tier_score": 74.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.49
+  },
+  "clip_topic": {
+    "topic_score": 0.5954,
+    "topic_text": "양이 많고 정면과 측면에서 느낌이 다른 남자가 나왔습니다 턱살이 특징이 중요하다고 생각해서 턱밑양을 맞추려고 노력했고 이미지와 표정을 잡으려고 노력했다"
   }
 }

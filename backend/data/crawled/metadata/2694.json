@@ -22,5 +22,14 @@
     "student_strength": "아이스크림을 녹이거나 종이에 끼워져 있는 클립을 활용하는 등 활용할 수 있는 모든 것을 활용한 것일 것 같습니다.",
     "teacher_feedback": "선생님들과 피드백을 통해서 더 나은 방향으로 바꿀 수 있었습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 52.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.23
+  },
+  "clip_topic": {
+    "topic_score": 0.582,
+    "topic_text": "아이스크림이 녹는 모습과 종이의 다양한 모습을 그리는 것이 좋을 것 같다고 생각했고, 학원에서 준비한 만큼 그리자고 생각하며 그렸습니다."
   }
 }

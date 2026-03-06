@@ -23,5 +23,14 @@
     "student_strength": "꾸준하게 학원에 빠지지 않고 잘나오면서 꾸준하게 오답노트를 꼼꼼히 쓰는게 도움이 된 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "에코백이란 소재가 환경과 관련된 소재임을 파악하고 환경과 연관지어 문제를 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 63.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.786
+  },
+  "clip_topic": {
+    "topic_score": 0.5765,
+    "topic_text": "<에코백+시원함>이 나왔습니다. 에코백이란 소재가 환경과 관련된 소재임을 파악하고 환경과 연관지어 문제를 풀어나갔습니다."
   }
 }

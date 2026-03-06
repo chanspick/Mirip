@@ -23,5 +23,14 @@
     "student_strength": "학원을 다니면서 지원한 대학의 합격작을 자주 관찰하며 선생님과 충분히 구도를 연습하고 표현의 특징들을 캐치하여 연습한 게 주요했던 거 같다.",
     "teacher_feedback": "선생님께서 꼼꼼하게 정리해 주셔서 각각 대학에 맞는 커리큘럼으로 준비를 했고 부족한 부분은 바로바로 채워서 보완하려고 노력했다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 58.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.544
+  },
+  "clip_topic": {
+    "topic_score": 0.5843,
+    "topic_text": "숙명여대-줄넘기 제시어 팽창 호서대-청포도,숟가락,젓가락 경기대-로켓트,시계,인간진화(제시어:우주여행)"
   }
 }

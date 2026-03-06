@@ -23,5 +23,14 @@
     "student_strength": "주제에서 나이대를 크게 나가지 않은게 중요했던것 같습니다. 완성도도요.",
     "teacher_feedback": null,
     "ideation_process": "여고생이라는 키워드에 맞추어서 최대한 나이댜룰 맞추려고 노렸했습니다, 기물로도 교복을 선택해서 학생같은 느낌을 주려고 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 80.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.804
+  },
+  "clip_topic": {
+    "topic_score": 0.5793,
+    "topic_text": "지각하여 급하게 달려가는 여고생의 두상을 제작하는 것이였고. 여고생이라는 키워드에 맞추어서 최대한 나이댜룰 맞추려고 노렸했습니다, 기물로도 교복을 선택해서 학생같은 느낌을 주려고 노력했습니다."
   }
 }

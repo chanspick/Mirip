@@ -22,5 +22,14 @@
     "student_strength": "저의 작년 입시와 비교해보았을 때, 현재의 그림에 안주하거나 무언가에 의지하지 않고 계속해서 높은 목표를 좇은 것이 주요한 차이였습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5938,
+    "topic_text": "이화여대는 기본만 질 지키자고 생각하며 풀었습니다."
   }
 }

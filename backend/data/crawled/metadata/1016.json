@@ -22,5 +22,14 @@
     "student_strength": "학원에서 배운 것을 최대한 활용하였고 조금의 운도 있었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 39.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.456
+  },
+  "clip_topic": {
+    "topic_score": 0.5859,
+    "topic_text": "전구가 나왔기에 뒤에 물체를 두어 투명인 재질을 더 잘 나타날수 있게 하였고, 선재로 사용할 수 있는 테이프는 비어보이는 곳으로 지나가게 하여 공간분할을 더 해주었습니다."
   }
 }

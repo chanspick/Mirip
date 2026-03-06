@@ -23,5 +23,10 @@
     "student_strength": "담당선생님을 적극적으로 믿고 따랐고, 고등학교 기간동안 그림에만 집중하였으며, 성실하고 꾸준한 노력에 대한 결과라고 생각합니다.",
     "teacher_feedback": "선생님께서 지도해주시는대로 믿고 따르며, 성실하게 실기를 준비했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 83.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.959
   }
 }

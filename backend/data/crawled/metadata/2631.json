@@ -22,5 +22,14 @@
     "student_strength": "그림에 대한 확신과 주제부의 명시성과 흐름이 잘 읽히는 구도라고 생각합니다.",
     "teacher_feedback": "선생님들의 피드백을 메모하며 단점을 고치려고 노력했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 33.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.176
+  },
+  "clip_topic": {
+    "topic_score": 0.5868,
+    "topic_text": "파프리카와 물감나이프가 출제되었는데 파프리카는 입시를 하면서 많이 그려봤던 주제라 자신있게 그릴 수 있었고 주제부를 빨간색으로 잡고 포인트를 초록색으로 잡아서 주제부가 잘 보이도록 했고 물감나이프의 쇠 부분의 특성을 사용해서 비치는 표현과 찌르는 표현을 해서 그렸습니다."
   }
 }

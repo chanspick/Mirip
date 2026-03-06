@@ -22,5 +22,14 @@
     "student_strength": "일러스트 배경을 시간이 흐르는 것처럼 느껴지게 로마자숫자와 시곗바늘을 강조하여 구성한 점이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.15
+  },
+  "clip_topic": {
+    "topic_score": 0.5793,
+    "topic_text": "개체는 자명종시계, 주제는 시간의 흐름이고, 시계를 평면으로 배경을 채워서 구상했다"
   }
 }

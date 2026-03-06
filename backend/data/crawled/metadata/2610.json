@@ -22,5 +22,14 @@
     "student_strength": "틈틈이 연습한 재료 사용 연습과 구도 연습인 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "표현하는 문제였다. 멋지게 하되 소재가 잘보이도록 하는 것을 최우선으로 하고 원근감을 신경쓰며 채색을 했다."
+  },
+  "tier_refined": {
+    "tier_score": 65.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.022
+  },
+  "clip_topic": {
+    "topic_score": 0.5631,
+    "topic_text": "신발을 분해하여 새 3마리를 만들면서 원근감을 표현하는 문제였다. 멋지게 하되 소재가 잘보이도록 하는 것을 최우선으로 하고 원근감을 신경쓰며 채색을 했다."
   }
 }

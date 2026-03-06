@@ -22,5 +22,14 @@
     "student_strength": "손이 느려서 입시 막바지에도 완성을 못했기에, 완성도가 아쉽더라도 시간과 완성도 사이에 타협을 봐서 제시간에 완성하는것을 중시했다.",
     "teacher_feedback": null,
     "ideation_process": "시간안배를 하면서 최대한 주어진 소재가 갖고 있는 물성적 특징과 질감별 차이를 연필의 맛을 살려가면서 완성하였다."
+  },
+  "tier_refined": {
+    "tier_score": 82.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.911
+  },
+  "clip_topic": {
+    "topic_score": 0.5843,
+    "topic_text": "탁구공, 탁구채, ,모래시계 이미지로 연필소묘 하시오. 시간안배를 하면서 최대한 주어진 소재가 갖고 있는 물성적 특징과 질감별 차이를 연필의 맛을 살려가면서 완성하였다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.357
+  },
+  "clip_topic": {
+    "topic_score": 0.5876,
+    "topic_text": "자연물의 색깔을 예쁘게 칠하려고 노력했고, 주사기의 형태에 유의했다"
   }
 }

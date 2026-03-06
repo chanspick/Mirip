@@ -23,5 +23,14 @@
     "student_strength": "제시어가 잘 보이도록 표현하려 한 것과 전체적으로 부족한 부분을 추가하고 시험시간이 끝날때까지 조금이나마 더 완성도를 높이려고 노력했기 때문에 합격했다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하라는 문제가 나왔고 빠르게 지나가는 숫자와 지팡이로 세월의 흐름을 표현했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 62.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.741
+  },
+  "clip_topic": {
+    "topic_score": 0.5991,
+    "topic_text": "시계와 안경,지팡이를 이용해 ‘고령화사회’를 표현하라는 문제가 나왔고 빠르게 지나가는 숫자와 지팡이로 세월의 흐름을 표현했습니다."
   }
 }

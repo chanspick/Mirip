@@ -23,5 +23,10 @@
     "student_strength": null,
     "teacher_feedback": "선생님들과 함께 다양한 시점, 구도 그리고 정물들의 특성을 연구해 그림의 장점을 살리고 단점을 보완해 나가는 쪽으로 준비를 하였다 학원에서는 매우 다양하고 특이한 정물들이 구비되어 있어 시험.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 42.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.625
   }
 }

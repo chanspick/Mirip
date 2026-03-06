@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님들께 궁금한 점들은 고민하지 않고 그때그때 물어봤다..",
     "ideation_process": "시험장에서 문제가 나왔을 때는 조금 놀랐다. 왜냐하면 청에서 연습했던 대로 나왔기 때문이다."
+  },
+  "tier_refined": {
+    "tier_score": 68.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.177
+  },
+  "clip_topic": {
+    "topic_score": 0.5838,
+    "topic_text": "우선 좌석에 대해서는 청에서도 충분히 연습하고 익숙해졌기에 이상한 자리가 나와도 당황하지 않았다. 시험장에서 문제가 나왔을 때는 조금 놀랐다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "학원에서 구도를 자주 연습한 것이 스케치 시간을 많이 줄여 주었습니다.",
     "teacher_feedback": "선생님께 피드백을 받으며 수정 과정을 거쳤습니다..",
     "ideation_process": "귤의 채도와 귤락 묘사가 어색해 보이지 않도록 하는 것에 집중했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 53.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.255
+  },
+  "clip_topic": {
+    "topic_score": 0.5762,
+    "topic_text": "귤, 페인트롤러, 톱 / 미리 정했던 구도에 맞춰 문제를 풀었습니다. 귤의 채도와 귤락 묘사가 어색해 보이지 않도록 하는 것에 집중했습니다."
   }
 }

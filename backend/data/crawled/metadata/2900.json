@@ -22,5 +22,14 @@
     "student_strength": "많은 주제들을 풀어보면서 발상하는 능력을 키우고 선생님께서 피드백 해주신 피드백을 다음 문제에도 적용하려고 했던 것 이 주요인이였던 것 같다",
     "teacher_feedback": null,
     "ideation_process": "발상하는데 어려움 없이 수월했던 것 같다."
+  },
+  "tier_refined": {
+    "tier_score": 77.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.672
+  },
+  "clip_topic": {
+    "topic_score": 0.6077,
+    "topic_text": "개체는 유리포트, 주제는 한국의 미이고 주제와 부합하게 한국의 전통을 살리려고 했다. 학원에서 주제와 비슷한 유형의 문제를 그려본 적이 있어 발상하는데 어려움 없이 수월했던 것 같다."
   }
 }

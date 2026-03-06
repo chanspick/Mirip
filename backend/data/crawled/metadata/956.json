@@ -22,5 +22,14 @@
     "student_strength": "일정 수준의 실기력은 누구나 만들 수 있다고 생각합니다. 하지만, 치열한 경쟁률을 뚫고 합격하기 위해서는 남들과 차별화 된 한가지가 있어야 할 것 같습니다. 다행히 이번 수시에서 부족했던 한가지를 채워주신 선생님께 감사의 말씀을 전하고 싶습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 58.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.504
+  },
+  "clip_topic": {
+    "topic_score": 0.6045,
+    "topic_text": "검은우산, 수전호스, 선인장이 나왔으며 너무 식상해지지 않도록 물성연출에 중점을 두고 조금은 다른시각으로 그림을 완성시켰던 것 같습니다."
   }
 }

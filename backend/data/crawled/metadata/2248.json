@@ -23,5 +23,14 @@
     "student_strength": "끝까지 내가 만든것의 단점과 모델과 다른점을 찾아내면서 완성하는 것을 까먹지않기",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.074
+  },
+  "clip_topic": {
+    "topic_score": 0.6091,
+    "topic_text": "기억이 안나는데 어어 머리가 엄청 얇고 목이 두껍고 눈이 짝짝이인데 얼굴이 약간 딸기같은 사람이었던거같은데 그거를 먼저 파악해놓고 들어가기"
   }
 }

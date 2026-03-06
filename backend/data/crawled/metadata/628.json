@@ -23,5 +23,14 @@
     "student_strength": "과기대 유형은 문제풀이가 가장 중요하다고 생각합니다. 그리고 글과 그림을 같이 그리는 만큼 제시문과 제시어간의 관계성이 글과 그림에 잘 반영되는 것 또한 중요하다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다.그리고 둘의 공통점을 ‘현대사회에 지친 사람들의 안식처’라고 설정하여 문제를 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.657,
+    "topic_text": "제시문은 ‘아날로그의 반격’중 ‘종이’에대한 내용을 서술하고있었고 제시문은 ‘쥐’였습니다. 처음엔 쥐가 나와서 당황했지만 아날로그와 쥐의 공통점이나 연관성을 찾으려 했습니다."
   }
 }

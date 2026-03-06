@@ -22,5 +22,14 @@
     "student_strength": "시간이 많이 부족해서 완성이 안 될 것 같은 상황이었음에도 포기하지 않고 그려 나간 것이다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 78.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.723
+  },
+  "clip_topic": {
+    "topic_score": 0.5727,
+    "topic_text": "일단 분리라는 단어에서 파생되어 나올 수 있는 단어를 쓰고 나서 각각 연결 지어 연출했다."
   }
 }

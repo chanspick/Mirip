@@ -24,5 +24,14 @@
     "student_strength": "빨리 망치고 고치는 연습을 많이 한 것.",
     "teacher_feedback": null,
     "ideation_process": "인체는 자연스러운 형태가 가장 중요하다고 생각했고, 정물은 인체와 함께 나왔다고 해서 소홀히 그리면 안된다고 생각했다."
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.349
+  },
+  "clip_topic": {
+    "topic_score": 0.6054,
+    "topic_text": "의자에 앉아있지 않고, 바닥에 앉아있었다. 인체는 자연스러운 형태가 가장 중요하다고 생각했고, 정물은 인체와 함께 나왔다고 해서 소홀히 그리면 안된다고 생각했다."
   }
 }

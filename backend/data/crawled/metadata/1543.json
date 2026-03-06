@@ -22,5 +22,14 @@
     "student_strength": "학원에 열심히 나오는 성실함이 주 요인이라고 생각하고 있고, 그날 최선을 다하는 마음가짐이 제일 중요하가고 생각한다,",
     "teacher_feedback": null,
     "ideation_process": "생각해서 그 구도에 사물들을 배치하여 적절히 연출하였다."
+  },
+  "tier_refined": {
+    "tier_score": 47.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.888
+  },
+  "clip_topic": {
+    "topic_score": 0.5896,
+    "topic_text": "휴대용 선풍기와 파우더를 가지고 집중과 확산을 표현하라는 문제가 나왔다. 우선 제시어가 제일 잘 보이는 구도를 생각해서 그 구도에 사물들을 배치하여 적절히 연출하였다."
   }
 }

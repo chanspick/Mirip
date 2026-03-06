@@ -22,5 +22,14 @@
     "student_strength": "그날의 컨디션+ 끝까지 맞추려는 노력",
     "teacher_feedback": "선생님들이 알려주시는대로(과정이나 디테일) + 나만의 타임테이블 53.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 75.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.551
+  },
+  "clip_topic": {
+    "topic_score": 0.6053,
+    "topic_text": "측면 관계랑 비례를 잘 맞추려고 노력함"
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "그림의 완성도와 깔끔한 정리가 정말 중요한 요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "주인공은 그곳 거주민들과 교신 끝에 방문해도 좋다는 허거를 받고 방문하게 된다. 그런데 대기권에 진입하자마자 탐사선이 추락 하게 된다."
+  },
+  "tier_refined": {
+    "tier_score": 57.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.458
+  },
+  "clip_topic": {
+    "topic_score": 0.5656,
+    "topic_text": "문제:서기 2225년, 주인공은 오랜시간 우주를 항해 하던 중 지구와 흡사한 행성을 발견하게된다. 주인공은 그곳 거주민들과 교신 끝에 방문해도 좋다는 허거를 받고 방문하게 된다."
   }
 }

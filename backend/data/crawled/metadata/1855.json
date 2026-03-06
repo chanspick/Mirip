@@ -23,5 +23,10 @@
     "student_strength": "아무도 쉽게 대학가는 사람은 없고 다들 힘들게 많은 시간 투자하여 대학을 가려 하지만 저는 슬럼프때 입시에 대한 부정적인 생각이 너무 강하여 미술을 그냥 그만 두려 했습니다. 그리고 대학의 중요성도 심지어 느끼지 못하였습니다. 하지만 저는 그런 상황일 수록 더 냉정하게 생각하려고 노력했습니다.",
     "teacher_feedback": "선생님들은 그에 맞는 그림 방향성을 가르치며 저희보다 더 많은 준비를 했다 생각이 듭니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

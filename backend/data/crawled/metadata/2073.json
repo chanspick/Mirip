@@ -22,5 +22,14 @@
     "student_strength": "주제에 들어갈 딸기와 고글이 효과적으로 더욱 잘 보이도록 채도와 명도에 신경썼던 부분이라고 생각된다.",
     "teacher_feedback": "선생님께서 충고하시는 부분을 신경쓰며 열심히 했다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 39.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.47
+  },
+  "clip_topic": {
+    "topic_score": 0.5856,
+    "topic_text": "딸기, 나뭇가지, 보안경(고글) 이 나왔고, 내 구도에 개체들이 확실히 보일 수 있도록 했다."
   }
 }

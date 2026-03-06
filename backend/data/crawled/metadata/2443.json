@@ -22,5 +22,14 @@
     "student_strength": "주변에 와인병 색을 빨간색이나 초록색으로 하는 친구들이 많았어서 색을 파랗게 사용한 것이 도움이 되었다고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "실기 준비를 하며 들었던 강평들에서 다른 친구들 그림의 피드백을 기억하여 적용하고 구성했으며 와인을 최대한 돋보이게 끔 그리려 하였다"
+  },
+  "tier_refined": {
+    "tier_score": 43.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.649
+  },
+  "clip_topic": {
+    "topic_score": 0.5799,
+    "topic_text": "와인병, 쇠사슬이 출제되었다. 실기 준비를 하며 들었던 강평들에서 다른 친구들 그림의 피드백을 기억하여 적용하고 구성했으며 와인을 최대한 돋보이게 끔 그리려 하였다"
   }
 }

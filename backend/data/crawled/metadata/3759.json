@@ -23,5 +23,10 @@
     "student_strength": "스스로 그림을 분석하려고 했기 때문이라고 생각합니다. 숙제도 1년간 빼오지 않고 했고, 많은 노력을 했기 때문에 마지막에 좋은 결과를 얻었다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

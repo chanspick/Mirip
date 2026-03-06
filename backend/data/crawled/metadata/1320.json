@@ -24,5 +24,14 @@
     "student_strength": "성적보다는 실기에 집중해서 준비해왔기 때문에 전략적으로 실기의 비중이 높은 학교를 지원한 것이 합격할 수 있었던 가장 큰 이유인 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 64.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.821
+  },
+  "clip_topic": {
+    "topic_score": 0.5853,
+    "topic_text": "경기대 : 평소 잘 쓰던 화면에 응용하여 배치하여 더 자신있게 그릴 수 있었고, 제시 사물로 돋보기안경을 준 출제자의 의도를 생각하면서 확대/축소에 대한 부분을 그림에 보여주어 더 확실한 구도로 연출하였습니다."
   }
 }

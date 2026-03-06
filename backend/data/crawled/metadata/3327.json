@@ -23,5 +23,14 @@
     "student_strength": "학원선생님의 말씀을 조금이라도 흘려듣지 않고 짜여진 프로그램대로 하는 것. 실력이 가장 빠르게 늘게된 요인입니다.",
     "teacher_feedback": null,
     "ideation_process": "구상하는 시간이 있었는데 이때 만들었던 스토리를 떠올리며 주제에 맞춰서 다시 재구성했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 56.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.435
+  },
+  "clip_topic": {
+    "topic_score": 0.6336,
+    "topic_text": "요양원에 계신 할머니께 직접만든 부침개를 드렸다. 할머니께서 한입 맛보시더니 귓속말을 하셨다."
   }
 }

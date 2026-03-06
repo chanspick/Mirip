@@ -22,5 +22,14 @@
     "student_strength": "시험장에서 새로운 시도를 하지않고 평소에 그렸던 구도로 실수만 하지 않으려 했기 때문이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "그래서 그때 지적 받았던 부분과 내가 평소에 지적 받았던 부분을 생각하면서 그림을 그렸다."
+  },
+  "tier_refined": {
+    "tier_score": 60.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.623
+  },
+  "clip_topic": {
+    "topic_score": 0.5879,
+    "topic_text": "출제 문제로 큐브, 책, 이어폰으로 나왔고 평소에 학원에서 연습했던 주제 중 책으로 연습했던 그림이 생각났다. 그래서 그때 지적 받았던 부분과 내가 평소에 지적 받았던 부분을 생각하면서 그림을 그렸다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "긴장하면 평소 학원에서 연습하고 신경썼던 것들도 잊어버리게 되는 것 같습니다. 그리고 저는 시험장 옆자리 애들의 그림을 신경쓰느라 집중력을 조금 잃었던 것 같은데 다른애들 그림에 휘둘리지 말고 처음부터 끝까지 내 그림에만 집중해서 그리는게 제일 좋은 것 같습니다."
+  },
+  "tier_refined": {
+    "tier_score": 50.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.105
+  },
+  "clip_topic": {
+    "topic_score": 0.6147,
+    "topic_text": "절대로 긴장하지 않는게 제일 중요하다고 생각합니다. 긴장하면 평소 학원에서 연습하고 신경썼던 것들도 잊어버리게 되는 것 같습니다."
   }
 }

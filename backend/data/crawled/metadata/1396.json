@@ -23,5 +23,14 @@
     "student_strength": "고사장이 익숙했다. 그냥 마음 놓고 그리고 왔다.",
     "teacher_feedback": null,
     "ideation_process": "두 가지 방향이 제시 되었는데 그림에서 좀 더 효과적으로 거리감을 보여줄 수있는 사진으로 선택해 그렸다. 그림에서 인체의 자연스러운 비율과 앞 뒤의 공간감을 생각하며 그렸다."
+  },
+  "tier_refined": {
+    "tier_score": 70.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.281
+  },
+  "clip_topic": {
+    "topic_score": 0.5919,
+    "topic_text": "중년 남자가 흰 런닝에 검은 반바지를 입고 긴 막대를 잡고 서 있는 모습. 두 가지 방향이 제시 되었는데 그림에서 좀 더 효과적으로 거리감을 보여줄 수있는 사진으로 선택해 그렸다."
   }
 }

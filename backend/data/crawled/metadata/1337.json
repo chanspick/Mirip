@@ -24,5 +24,14 @@
     "student_strength": "결과가 나왔을때 후회하지 않을 만큼 노력한 결과라고 생각합니다",
     "teacher_feedback": null,
     "ideation_process": "소묘는 검정 캡모자를 쓴 남자 상반신 사진 모델이 출체되었습니다. 침착하게 시간대별로 계획한 갓을 지키면서 시험을 진행했고, 가장 기본적인 것을 신경썼습니다."
+  },
+  "tier_refined": {
+    "tier_score": 48.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.022
+  },
+  "clip_topic": {
+    "topic_score": 0.611,
+    "topic_text": "두상은 여자 사진모델이 출제가 되었습니다. 소묘는 검정 캡모자를 쓴 남자 상반신 사진 모델이 출체되었습니다."
   }
 }

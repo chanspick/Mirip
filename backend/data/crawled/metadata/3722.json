@@ -22,5 +22,14 @@
     "student_strength": "붓을 최대한 액티브하게 쓴게 좋게 보였지 않나 싶습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 70.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.261
+  },
+  "clip_topic": {
+    "topic_score": 0.5913,
+    "topic_text": "야구공/페인트붓 페인트붓의 털부분은 유연한 변화를 줄있기때문에 최대한 유연한 움직임이 보이도록 하고 야구공의 실을 이용해 붓의 털을 묶어줘서 변화를 줬습니다."
   }
 }

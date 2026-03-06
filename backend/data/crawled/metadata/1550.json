@@ -23,5 +23,14 @@
     "student_strength": "학원에서 철저하게 대비해주었고 나는 실기 준비를 매우 매우 열심히 했다.",
     "teacher_feedback": null,
     "ideation_process": "표현하시오 [제시어: 여름, 햇빛, 강렬하다] 이었고 평소 연습했던 구도들을 생각했고 주제어를 제일 잘 보여줄 수 있는 구도에 대입했다."
+  },
+  "tier_refined": {
+    "tier_score": 49.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.083
+  },
+  "clip_topic": {
+    "topic_score": 0.59,
+    "topic_text": "동그라미, 세모, 네모로 제시어를 평면(2차원)으로 표현하시오 [제시어: 여름, 햇빛, 강렬하다] 이었고 평소 연습했던 구도들을 생각했고 주제어를 제일 잘 보여줄 수 있는 구도에 대입했다."
   }
 }

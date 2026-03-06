@@ -22,5 +22,14 @@
     "student_strength": "느리더라도 꾸준히 지적받은 단점을 고치고 장점을 살려 그린 것이 가장 영향을 끼쳤다고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 69.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.248
+  },
+  "clip_topic": {
+    "topic_score": 0.5637,
+    "topic_text": "주황색 용기와 뚜껑, 글루건심으로 아웃포커싱 기법을 사용하여 '만날 생각에 수줍은...' 을 표현"
   }
 }

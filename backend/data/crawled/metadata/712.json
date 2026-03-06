@@ -22,5 +22,14 @@
     "student_strength": "주제에 대한 이해력과 상상력, 관찰력이라고 생각한다",
     "teacher_feedback": "선생님들께 피드백을 받은 것을 노트에 적어 문제점들을 하나하나 줄여가며 실기를 준비했다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 53.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.274
+  },
+  "clip_topic": {
+    "topic_score": 0.5963,
+    "topic_text": "노래 하고있는 20대 여자 가수가 주제였는데 평소에 TV에서 보아왔던 가수들을 상상해 가며 무대 위에서 공연을 하는 모습을 표현했다"
   }
 }

@@ -23,5 +23,10 @@
     "student_strength": "입시라는 게 워낙 장기전이고, 눈은 빨리 높아지는데 손은 안 따라주는 경우도 굉장히 많다. 수시의 경우 6개 대학을 쓸 수 있는데, 6개 다 떨어질 수도 있으니까 멘탈 관리를 잘 할 수 있도록 스스로를 먼저 다잡아야 하는 것 같다. 끝까지 차분하게 열심히 하는 지구력이 중요하다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 59.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.592
   }
 }

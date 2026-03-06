@@ -22,5 +22,14 @@
     "student_strength": "선생님께서 부족한 부분을 지적만 하지 않으시고 어떻게 보완해 나가야 하는지 구체적인 방향성을 잡아 주셨고, 그 피드백을 시험장에서 빼먹지 않고 적용한 것이 좋은 결과를 만들 수 있었던 것 같습니다.",
     "teacher_feedback": "피드백 받는 형식으로 준비하였습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.068
+  },
+  "clip_topic": {
+    "topic_score": 0.581,
+    "topic_text": "유리컵, 숟가락, 입체패턴이 나왔고 입체패턴을 종이로 활용하여 잘 보이도록 주제부에 입체적으로 배치하여 그렸습니다."
   }
 }

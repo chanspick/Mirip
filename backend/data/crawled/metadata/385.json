@@ -23,5 +23,14 @@
     "student_strength": "조금이나마 시간적으로 여유가 있을 때 성적 관리를 꼭 해야 해요. 물론 실기 실력 향상에도 많은 노력을 해야 합니다!",
     "teacher_feedback": null,
     "ideation_process": "문제를 받고 일단 물성을 가장 먼저 보여주려고 하였고, 힘이라는 제시어는 병따개로 병을 내리치는 장면을 포착하여 구성하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 67.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.958
+  },
+  "clip_topic": {
+    "topic_score": 0.6019,
+    "topic_text": "맥주병과 병따개가 출제되었고, 제시어는 \"힘\"이었습니다. 문제를 받고 일단 물성을 가장 먼저 보여주려고 하였고, 힘이라는 제시어는 병따개로 병을 내리치는 장면을 포착하여 구성하였습니다."
   }
 }

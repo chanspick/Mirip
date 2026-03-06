@@ -23,5 +23,14 @@
     "student_strength": "시물을 크게 넣었고, 밀도 높인 게 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.961
+  },
+  "clip_topic": {
+    "topic_score": 0.596,
+    "topic_text": "실기고사 당일 날 출제문제는 샤워볼과 면도기였고, 샤워볼의 구멍과 면도기의 특성에 집중하여 문제를 풀어나갔습니다."
   }
 }

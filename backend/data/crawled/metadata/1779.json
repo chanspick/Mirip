@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "백석대를 준비하면서 홈페이지에 나와있었던 예상문제들을 간략하게 나마 한번씩 그려보았었기 때문에 어렵지 않게 바로 그려나갈 수 있었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 43.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.666
+  },
+  "clip_topic": {
+    "topic_score": 0.6125,
+    "topic_text": "'전염병의 위기로 도시 한복판에서 탈출하는 상황' 이라는 주제였습니다. 백석대를 준비하면서 홈페이지에 나와있었던 예상문제들을 간략하게 나마 한번씩 그려보았었기 때문에 어렵지 않게 바로 그려나갈 수 있었습니다."
   }
 }

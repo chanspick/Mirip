@@ -23,5 +23,14 @@
     "student_strength": "칼라를 효과적으로 활용했고 질감의 연출을 열심히 했던것이 요인이라 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "선인장을 분해해서 주제부를 연출하려고 했다."
+  },
+  "tier_refined": {
+    "tier_score": 53.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.295
+  },
+  "clip_topic": {
+    "topic_score": 0.576,
+    "topic_text": "선인장과 붓을 이용하여 기초디자인 하시오. 선인장을 분해해서 주제부를 연출하려고 했다."
   }
 }

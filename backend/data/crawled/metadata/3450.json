@@ -23,5 +23,10 @@
     "student_strength": "매일같이 학원에서 시험과 연구를 거치며 받은 피드백을 통해, 단점을 보완하고 꾸준히 이야기와 그림을 발전시키는데 집중해 최선을 다했기에 얻을 수 있었던 결과라고 생각합니다. 그리고 학원에서 시험을 거치며 얻은 자신감과 경험 덕분에 시험장에선 크게 긴장하지 않고 잘 할 수 있었습니다.",
     "teacher_feedback": "피드백과 함께 개선점을 생각해 보거나, 이론을 다룬 책을 읽는 등 역량을 발전시키는 데 사용하였습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 78.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.696
   }
 }

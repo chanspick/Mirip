@@ -22,5 +22,14 @@
     "student_strength": "평소 학원에서 시험보던 대로 하려는 침착한 마음가짐과, 합격할 수 있다는 자신감이 제일 중요합니다. 저의 부족했던 부분에 대한 학원 선생님들의 조언들을 계속 신경쓰면서 그렸습니다,",
     "teacher_feedback": null,
     "ideation_process": "완성하기 위해서 시간을 배분했습니다. 특히 소묘는 절지 안에 들어오는 크기도 신경썼습니다."
+  },
+  "tier_refined": {
+    "tier_score": 73.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.421
+  },
+  "clip_topic": {
+    "topic_score": 0.5881,
+    "topic_text": "성신여대- 피자컷팅기, 플라스틱 케이스 소묘와 기초디자인을 다 완성하기 위해서 시간을 배분했습니다."
   }
 }

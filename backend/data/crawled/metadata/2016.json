@@ -24,5 +24,10 @@
     "student_strength": "수업 시간에서 얼마나 집중해서 실기를 하는 지도 중요하지만, 그 외의 시간을 어떻게 쓰는 지가 매우 중요한 것 같습니다.",
     "teacher_feedback": "선생님들께서 알려주시는 것들을 잘 들었다가 제가 실기를 할 때 꼭 적용시켜보려 노력했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.058
   }
 }

@@ -24,5 +24,14 @@
     "student_strength": "패턴중심이 아니라 자기가 제일 잘 할 수 있는 것으로 원장선생님이 조언해주신 것이 많이 도움되었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 52.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.21
+  },
+  "clip_topic": {
+    "topic_score": 0.5858,
+    "topic_text": "실기 당일에는 투명의자와 줄자가 나왔고, 투명의자와 줄자의 물성이 잘 보일 수 있도록 그렸습니다."
   }
 }

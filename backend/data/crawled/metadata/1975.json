@@ -22,5 +22,14 @@
     "student_strength": "화려하게 잘 그리자라는 생각보다는 어떻게든 긴장김있는 상황을 보여줘야된다고 생각했습니다. 그래서 에어캡을 볼펜으로 찔러 터지기 직전의 상황을 연출했고, 단순하게 그 상황을 보여준 덕 분에 합격할 수 있었던 것 같습니다.",
     "teacher_feedback": "선생님들의 시범을 놓치지 않으려고 했습니다.",
     "ideation_process": "생각해서 풀어나가려고 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 65.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.043
+  },
+  "clip_topic": {
+    "topic_score": 0.5802,
+    "topic_text": "학원에서는 시험장에서 어떤 주제가 나올지 모르니까 쉬운 주제부터 아주 어려운 주제까지 준비 했습니다. 그러다"
   }
 }

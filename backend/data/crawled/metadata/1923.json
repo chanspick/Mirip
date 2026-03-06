@@ -23,5 +23,14 @@
     "student_strength": "좋은 입시전략과 개인적인 노력이 좋은 결과로 이어진것 같다.",
     "teacher_feedback": "선생님이 개체시범을 보여주시면 열심히 따라했다..",
     "ideation_process": "머리집게를 재미있게 활용하고 최대한 여러각도로 보여주려고 노력했다. 라인요소를 물줄기로 활용했다."
+  },
+  "tier_refined": {
+    "tier_score": 56.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.414
+  },
+  "clip_topic": {
+    "topic_score": 0.5775,
+    "topic_text": "구강청결제, 머리집게, 병따개를 이용하여 기초디자인 하시오. 머리집게를 재미있게 활용하고 최대한 여러각도로 보여주려고 노력했다."
   }
 }

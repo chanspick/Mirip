@@ -23,5 +23,14 @@
     "student_strength": "학원에서 실기 시험을 상정하며 실제 시험과 같이 준비한게 주효했던 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 82.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.944
+  },
+  "clip_topic": {
+    "topic_score": 0.5918,
+    "topic_text": "시험을 여러번 보는학교기에 제출하는 답안들을 연속성이 있으면서도 새로운 시각으로 보일 수 있게 다양한 방식으로 풀려고 노력했습니다. 또한 출제 된 문제에서 답을 찾기 위해 집중해서 읽고 생각했습니다."
   }
 }

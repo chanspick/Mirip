@@ -22,5 +22,14 @@
     "student_strength": "선생님의 훌륭한 가르침으로 인해 합격할 수 있었다고 생각한다.",
     "teacher_feedback": "선생님이 주신 참고자료와 구도를 계속 보고 완벽히 숙지하려 노력했다..",
     "ideation_process": "표현하시오.였다. 이번에 건국대글로컬의 실기시간이 3절 5시간에서 4시간으로 줄었다는것에 집중했다."
+  },
+  "tier_refined": {
+    "tier_score": 79.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.741
+  },
+  "clip_topic": {
+    "topic_score": 0.5949,
+    "topic_text": "줄자와 완충기로 긴장감을 표현하시오.였다. 이번에 건국대글로컬의 실기시간이 3절 5시간에서 4시간으로 줄었다는것에 집중했다."
   }
 }

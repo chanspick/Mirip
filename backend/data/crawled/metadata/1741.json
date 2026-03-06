@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "주인공에게는 반드시 지켜야할 한 가지 원칙이 있다. 그것은 절대로 얼굴을 공개해서는 안 되는 것 그러나 라이브 방송 도중 사고가 일어나고, 주인공의 얼굴은 만천하에 알려진다."
+  },
+  "tier_refined": {
+    "tier_score": 60.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.612
+  },
+  "clip_topic": {
+    "topic_score": 0.5554,
+    "topic_text": "주제:주인공은 구독자 100만 명을 가진 유튜버이다. 주인공에게는 반드시 지켜야할 한 가지 원칙이 있다."
   }
 }

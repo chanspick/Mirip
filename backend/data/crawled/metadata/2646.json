@@ -22,5 +22,14 @@
     "student_strength": "풀어봤던 문제라고 방심하지 않고 다시 생각해본 것과 스케치, 채색의 디테일을 살린 것이 도움이 된 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "문제은행의 문제들 중 꽤 쉬운편에 속하는 문제였기 때문에 이미 풀어본 아이디어를 한번 더 부족했던 부분을 보충했습니다. 스케치의 디테일에 신경쓰기위해 침착하게 시작했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 35.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.254
+  },
+  "clip_topic": {
+    "topic_score": 0.568,
+    "topic_text": "테니스공과 만년필이었습니다. 문제은행의 문제들 중 꽤 쉬운편에 속하는 문제였기 때문에 이미 풀어본 아이디어를 한번 더 부족했던 부분을 보충했습니다."
   }
 }

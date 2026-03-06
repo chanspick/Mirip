@@ -22,5 +22,14 @@
     "student_strength": "여유있는 완성 시간 관리를 위해 평소보다 어두운톤을 일찍 들어가 덩어리감을 준 후에 중간톤으로 풀어주면서 시간을 단축시켰습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 36.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.339
+  },
+  "clip_topic": {
+    "topic_score": 0.5534,
+    "topic_text": "개체의 특징이 잘드러나는 부분으로 두 축을 세우고 주제부에 볼링핀을 중점으로 기타줄을 선제로써 감아 앞으로 진출해가는 모습으로 해야겠다고 생각했습니다."
   }
 }

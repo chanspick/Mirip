@@ -22,5 +22,14 @@
     "student_strength": "평소에 들은 평가를 생각하며 애매하게 노선을 바꾸지 않고, 하고 싶은 걸 시작부터 끝까지 밀고 나가서이지 않나 생각합니다.",
     "teacher_feedback": "선생님께서 주시는 피드백을 제 방법대로 해석했습니다..",
     "ideation_process": "평소 학원에서 실기를 할 때에도 눈치를 안 보는 편이라 그냥 하고 싶은 걸 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 51.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.181
+  },
+  "clip_topic": {
+    "topic_score": 0.5833,
+    "topic_text": "‘지나친 엉킴’이 주제로 나왔고, 지나침/엉킴으로 나누어 생각했을 때 과해도 될 것 같았습니다. 평소 학원에서 실기를 할 때에도 눈치를 안 보는 편이라 그냥 하고 싶은 걸 했습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "학원선생님들에게 계속 질문을 하며 더 나은 스타일과 분위기를 고른게 좋은 영향을 받은 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "그걸 들은 나는 얼어붙고 놀랐다. 할머니는 무슨 말을 했고 나는 어떤 행동을 했을까? 주제를 받자마자 평소하던 이야기와 연출로 최대한 이끌어가려고 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 57.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.462
+  },
+  "clip_topic": {
+    "topic_score": 0.5916,
+    "topic_text": "출제 문제는 요양원에 입원한 할머니가 내가 만든 부침개를 먹고 귀에 속삭였다. 그걸 들은 나는 얼어붙고 놀랐다."
   }
 }

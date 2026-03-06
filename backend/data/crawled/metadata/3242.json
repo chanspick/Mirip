@@ -22,5 +22,14 @@
     "student_strength": "선생님께 : 1년동안 제 그림에 관심 가져주시고 질문들에 진심으로 같이 고민해주셔서 감사했습니다. 학원 좋은 점 : 제 생각이나 그림에 자신감을 가질 수 있었습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다. 때문에 소묘 그림은 부차적인 부분은 줄이고 핵심만 효과적으로 그리려고 했고 전공 그림에 좀 더 집중했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 88.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.426
+  },
+  "clip_topic": {
+    "topic_score": 0.6509,
+    "topic_text": "아무래도 종이 사이즈가 더 큰 전공 그림의 밀도가 더 중요하다고 생각했습니다. 때문에 소묘 그림은 부차적인 부분은 줄이고 핵심만 효과적으로 그리려고 했고 전공 그림에 좀 더 집중했습니다."
   }
 }

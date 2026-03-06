@@ -22,5 +22,14 @@
     "student_strength": "한눈에 보이는 물체의 한방이 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 80.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.821
+  },
+  "clip_topic": {
+    "topic_score": 0.6151,
+    "topic_text": "커피메이커가 나왔으며, 커피메이커의 벗겨진 전선이 콘센트에 꼽혀있는 상태로 커피메이커에서 나오는 수증기가 전선으로 올라오자 스파크가 일어나는 것을 묘사했습니다."
   }
 }

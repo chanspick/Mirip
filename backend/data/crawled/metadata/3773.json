@@ -23,5 +23,10 @@
     "student_strength": "처음에 선생님께 그림 평가를 받을 때, 현역 때 제가 배웠던 부분과 괴리가 있어서 초반엔 따라가기 힘들었지만, 다행히 선생님께서 1:1로 잘 지도해주시고 추구하신 그림의 방향이 저와도 잘 맞아 몇 장 그린 뒤엔 잘 적응하여 현역 때보다 더 보기 좋은 그림들을 그릴 수 있었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 71.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.315
   }
 }

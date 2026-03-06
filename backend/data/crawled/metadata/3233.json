@@ -22,5 +22,14 @@
     "student_strength": "조건에 벗어나지 않고 깔끔하게 제시물을 표현한 것이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "토기의 독특한 형태를 주제로 놓고 옥수수의 예쁜 색상을 강조하여 문제를 풀이했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 57.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.483
+  },
+  "clip_topic": {
+    "topic_score": 0.5726,
+    "topic_text": "옥수수랑 토기가 나왔습니다. 토기의 독특한 형태를 주제로 놓고 옥수수의 예쁜 색상을 강조하여 문제를 풀이했습니다."
   }
 }

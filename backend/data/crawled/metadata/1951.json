@@ -24,5 +24,14 @@
     "student_strength": "나를 믿고, 지도해주시는 선생님을 믿고, 끝까지 최선을 다하는 게 합격의 열쇠라고 생각합니다. 입시 미술은 주제가 한정된 경우가 대부분이기에 그 안에서 나의 개성과 느낌을 나타내는 것이 중요한데, 선생님들과 그림에 대해 많은 대화를 나누며 진정한 ‘나의 그림’을 만들어 갈 수 있었던 것 같습니다.",
     "teacher_feedback": "선생님들의 피드백을 놓치지 않도록 매번 기록하고 기억하는 습관을 들였습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 51.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.148
+  },
+  "clip_topic": {
+    "topic_score": 0.5988,
+    "topic_text": "예상치 못한 문제가 나왔지만 당황하지 않고 평소 하던대로 그려 나갔습니다."
   }
 }

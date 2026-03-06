@@ -23,5 +23,14 @@
     "student_strength": "선생님 피드백을 반영하여 제 취약한 점을 꾸준히 보완하며 연습한 것과 문제지를 꼼꼼히 읽어본 것이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "주어진 시간 안에 충분히 전체적인 완성도를 높일 수 있도록 시간을 체크하며 그렸습니다. 또한 시험장의 조명이 노란색이어서 그 점을 감안하여 얼굴을 붉은색을 더하여 그렸었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 54.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.347
+  },
+  "clip_topic": {
+    "topic_score": 0.6063,
+    "topic_text": "초록색 패딩 조끼, 반팔 셔츠, 비니, 검은색 긴바지, 폼롤러가 나왔고, 저는 하나하나 잘그리기보다 주어진 시간 안에 충분히 전체적인 완성도를 높일 수 있도록 시간을 체크하며 그렸습니다."
   }
 }

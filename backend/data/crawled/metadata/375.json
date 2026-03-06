@@ -22,5 +22,14 @@
     "student_strength": "기초를 많이 다지며 응용하려 노력하였고, 학원에서 대학교 유형 별로 실기를 준비하면서 선생님들이 하셨던 조언들이 많은 도움이 되었습니다.",
     "teacher_feedback": null,
     "ideation_process": "출제 문제 중 천을 활용하여 평소에 쓰던 구도를 응용해서 구성하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 59.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.549
+  },
+  "clip_topic": {
+    "topic_score": 0.5907,
+    "topic_text": "마네킹과 천, 빨대 그리고 시침핀이 나왔고 평소에 특히, 선재가 나오면 공간을 재밌게 구성하려고 했습니다. 출제 문제 중 천을 활용하여 평소에 쓰던 구도를 응용해서 구성하였습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": null,
     "teacher_feedback": "선생님의 체본을 보고도 습득하기 더 쉬웠습니다..",
     "ideation_process": "대신 채색은 본실력만큼 나오는 것이니 어쩔 수 없지만 형태만큼은 평소보다 더 오래 체크 하면서 그렸습니다"
+  },
+  "tier_refined": {
+    "tier_score": 54.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.304
+  },
+  "clip_topic": {
+    "topic_score": 0.5933,
+    "topic_text": "정말 학원에서 그리는 것처럼 같은 마음으로 그렸습니다. 대신 채색은 본실력만큼 나오는 것이니 어쩔 수 없지만 형태만큼은 평소보다"
   }
 }

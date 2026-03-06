@@ -23,5 +23,14 @@
     "student_strength": "실기도 실기대로 연습했지만 영어와 논술도 꾸준히 연습했던 점과 1차, 2차, 면접, 자소서까지 일관성있는 컨셉을 유지했던 점이 합격요인인것 같다.",
     "teacher_feedback": null,
     "ideation_process": "직전에 훑고온 기출문제들과 비슷해서 비교적 쉽게 풀었다. 영상과 교수님들이 채점하실 것을 염두에 두고 무엇을 가장 중요하게 여기실지 생각하며 구성했다."
+  },
+  "tier_refined": {
+    "tier_score": 80.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.831
+  },
+  "clip_topic": {
+    "topic_score": 0.6046,
+    "topic_text": "1차는 전체소묘 시험이다. 직전에 훑고온 기출문제들과 비슷해서 비교적 쉽게 풀었다."
   }
 }

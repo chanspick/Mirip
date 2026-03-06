@@ -22,5 +22,14 @@
     "student_strength": "평소 다양한 소재에 대해 다루어보고, 비슷한 물체가 출제가 되니 자유롭게 풀어나갈 수 있었습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 32.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.116
+  },
+  "clip_topic": {
+    "topic_score": 0.5936,
+    "topic_text": "출제문제를 미리 연습해봤던 소재가 나와 다행이었고, 민들레, 캔콜라, 시계였으며~ 자신감을 가지고 수월하게 그려낼 수 있었습니다."
   }
 }

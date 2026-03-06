@@ -23,5 +23,14 @@
     "student_strength": "숙대의 합격작을 많이 찾아보면서 어떤 그림이 뽑히는지를 연구하고 그에 맞춰서 연습을 많이 했던 것이 합격으로 이어진 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "쇠사슬과 파장, 공의 잔상으로 반복의 느낌을 최대한 내려고 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.061
+  },
+  "clip_topic": {
+    "topic_score": 0.6123,
+    "topic_text": "반복 표현에 가장 신경 썼다. 쇠사슬과 파장, 공의 잔상으로 반복의 느낌을 최대한 내려고 노력했다."
   }
 }

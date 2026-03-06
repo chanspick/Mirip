@@ -22,5 +22,14 @@
     "student_strength": "꺽이지 않는 마음.",
     "teacher_feedback": null,
     "ideation_process": "주제부 위주 연출에 집중했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 39.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.488
+  },
+  "clip_topic": {
+    "topic_score": 0.5506,
+    "topic_text": "와인과 쇠사슬 문제였고 평소 때 처럼 소재가 잘 보이게 하도록 했습니다. 주제부 위주 연출에 집중했습니다."
   }
 }

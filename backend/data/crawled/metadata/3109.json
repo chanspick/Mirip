@@ -23,5 +23,14 @@
     "student_strength": "정시 시험장에서 떨지 않기 위해 수시에서 한 두개의 학교를 지원하여 시험장의 분위기나 그림을 그리는 시간 등을 경험해 보았다. 그리고 중요한 시험장에서 선생님이 말씀하시는 강약조절이나 시선의 흐름 등 그림에서의 지켜야할 것들을 다 지킨 그림을 그렸다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 46.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.84
+  },
+  "clip_topic": {
+    "topic_score": 0.6277,
+    "topic_text": "기초소양_ 4월이 오면 / 권영상 _시를 보고 시각적으로 표현하시오."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "색으로 떨어지는 깔끔한 마감, 머리집게의 형태",
     "teacher_feedback": null,
     "ideation_process": "그 다음으로는 구강 스프레이의 색상 선정, 병따개의 금속 재질감의 표현을 생각해서 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 73.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.437
+  },
+  "clip_topic": {
+    "topic_score": 0.5907,
+    "topic_text": "구강스프레이, 병따개, 머리집게 제일 처음 생각한 것은 머리집게의 형태를 멋있게 그려내는 것이었습니다. 그 다음으로는 구강 스프레이의 색상 선정, 병따개의 금속 재질감의 표현을 생각해서 그렸습니다."
   }
 }

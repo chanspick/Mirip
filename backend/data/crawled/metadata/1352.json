@@ -22,5 +22,14 @@
     "student_strength": "스케치를 할때 반에서 거의 가장빠르게 스케치를 떴다. 학원에서 매일매일 시험을 보니까 속도가 많이 붙은 것 같다. 속도면에서 다른애들과 차이가 나다보니 긴장을 하지않고 편하게 하던대로 그릴 수 있었던게 주요인 인 것 같다.",
     "teacher_feedback": null,
     "ideation_process": "그냥 평소에 하던대로 구성을 짰다."
+  },
+  "tier_refined": {
+    "tier_score": 68.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.197
+  },
+  "clip_topic": {
+    "topic_score": 0.5834,
+    "topic_text": "금강역사, 불상, 주전자, 유리컵이였다. 그냥 평소에 하던대로 구성을 짰다."
   }
 }

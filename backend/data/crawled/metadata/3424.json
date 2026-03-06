@@ -22,5 +22,10 @@
     "student_strength": "그림을 그리면서 채도를 계속 높이고 형태를 틀리지 않도록 노력했고,출제된 문제의 연관성과 의도를 파악하여 잘 보이기 위해 색의 대비를 크게 주었습니다.또한 물체의 특성이나 고유한 디테일을 살리도록 그렸기 때문에 합격한 것이라고 생각합니다.",
     "teacher_feedback": "피드백을 받아 오답노트를 적듯이 책상에 적어 그릴때 항상 고쳐보도록 하는 노력을 하였습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 48.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.907
   }
 }

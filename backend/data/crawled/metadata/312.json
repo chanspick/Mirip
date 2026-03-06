@@ -24,5 +24,10 @@
     "student_strength": "무엇보다 중요한건 꾸준히 연구하고 그리는게 답이었던 것 같아요. 그림을 그리기 힘들었던 날이 한두번이 아니지만 그럴 때마다(매일매일) 안심하라고 괜찮다고 입 떼어 말해주는 선생님들의 응원도 많이 힘이 되었어요.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 68,
+    "tier_confidence": 0.8,
+    "competition_percentile": 1.0
   }
 }

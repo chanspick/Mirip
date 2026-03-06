@@ -23,5 +23,14 @@
     "student_strength": "물체의 투시나 양감, 재질이나 고유의 특성을 나타낼 수 있는 기본기가 중요하다고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 67.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.978
+  },
+  "clip_topic": {
+    "topic_score": 0.6459,
+    "topic_text": "각지고 변형이 쉽게 되지않는 어두운 색 위주의 스팸캔과 하얗고 부드러우며 변형이 잘 되는 면장갑이 출제 되었기에 이 둘의 특성을 잘 살리는 방법으로 문제를 풀어나갔습니다."
   }
 }

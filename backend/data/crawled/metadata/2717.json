@@ -22,5 +22,14 @@
     "student_strength": "선생님께서 말씀해주신 제 그림의 단점을 계속 생각하고 그 부분을 고치려고 노력했던점이 합격의 주요인이라고 생각한다.",
     "teacher_feedback": "선생님 평가내용을 귀담아 들으려했고 많은 평소작 그림을 그렸습니다..",
     "ideation_process": "개체 특성들이 확실한 물체라서 그 특성이 잘 드러나도록 풀이하려고 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 73.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.46
+  },
+  "clip_topic": {
+    "topic_score": 0.6033,
+    "topic_text": "참치캔, 나무절구공이, 의료용핀셋이 나왔다. 개체 특성들이 확실한 물체라서 그 특성이 잘 드러나도록 풀이하려고 했습니다."
   }
 }

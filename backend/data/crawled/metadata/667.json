@@ -24,5 +24,10 @@
     "student_strength": "저는 수시까지는 기초소양을 하다가 정시에서 기초디자인을 배웠습니다. 수시에서 원하는 대학에 합격하지 못하여 좌절했었지만, 정시를 준비하는 기간에 원장님과의 상담을 통해서 남은기간동안 저에게 맞는 입시방향을 정하고, 새로이 기초디자인을 시작했습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

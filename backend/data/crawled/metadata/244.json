@@ -23,5 +23,14 @@
     "student_strength": "내 욕심이나 고집을 버리고 싸부들의 조언을 무조건적으로 수용하고 열심히 그릴려고 노력했어요.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 64.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.81
+  },
+  "clip_topic": {
+    "topic_score": 0.6015,
+    "topic_text": "정물소재가 머그컵,작은의자,배추,빗자루,가위,스케치북.라면이 나왔는데 최대한 학생답게 성실하게 그리려 했어요."
   }
 }

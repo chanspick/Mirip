@@ -23,5 +23,14 @@
     "student_strength": "저는 상황표현 이라는 실기 과목을 재미있게 그려서 별로 지치지 않고 편하게 입시를 할 수 있었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 59.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.591
+  },
+  "clip_topic": {
+    "topic_score": 0.5906,
+    "topic_text": "평소에 그림을 유쾌하고, 재미있게 그리는 편 이였지만, 주제를 받고 분위기를 전체적으로 따뜻하게 그리면 괜찮을 것 같다고 생각하고 그렸는데 이게 잘 먹힌 것 같습니다."
   }
 }

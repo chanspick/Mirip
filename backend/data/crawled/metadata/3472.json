@@ -23,5 +23,14 @@
     "student_strength": "주변에서 자주 듣던 드로잉과 부족한 색감 때문에 흑백을 주로 연습하여 고사에 더 익숙하게 연습해온 것이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "“기억이 희미한 할머니께ㅡ” 라는 문장으로 할머니의 기억이 희미하다 와 할머니에 대한 기억이 희미한 손자를 중의적으로 나타내어 가족애를 그리려 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 57.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.462
+  },
+  "clip_topic": {
+    "topic_score": 0.6077,
+    "topic_text": "요양원에 입원한 할머니께 부침개를 해드렸더니 귓속말을 하셨다. “기억이 희미한 할머니께ㅡ” 라는 문장으로 할머니의 기억이 희미하다"
   }
 }

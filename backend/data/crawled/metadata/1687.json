@@ -22,5 +22,14 @@
     "student_strength": "마지막 실기 시험인 만큼 후회 없이 하고 싶은 거 다 하자라고 마음먹은 것이 주요인이 아니였을까 생각이 듭니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 79.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.782
+  },
+  "clip_topic": {
+    "topic_score": 0.5911,
+    "topic_text": "당일 문제는 커피포트가 출제되었고, 물체와 관련된 것들과 연관 지어 다양한 연출을 할 수 있게끔 문제를 풀어나갔습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "학원에서 문제 풀이를 하면서 어떻게 문제를 바라봐야하고, 어떤 식으로 풀어야 평가자가 명확하게 인식할 수 있는지 깨닫게 되었습니다. 주관적인 시선에서 벗어나 친절한 그림을 그리는 방법을 학원에서 알려준 덕에 합격할 수 있었습니다.",
     "teacher_feedback": null,
     "ideation_process": "그 덕에 별 어려움 없이 그림을 그린 것 같습니다."
+  },
+  "tier_refined": {
+    "tier_score": 75.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.537
+  },
+  "clip_topic": {
+    "topic_score": 0.5892,
+    "topic_text": "학원에서 유사한 주제를 풀어본 적이 있었기 때문에, 그 당시의 구도와 유사하게 그려나갔습니다. 그 덕에 별 어려움 없이 그림을 그린 것 같습니다."
   }
 }

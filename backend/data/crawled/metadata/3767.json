@@ -23,5 +23,14 @@
     "student_strength": "적극적인 소재의 사용이라 생각합니다",
     "teacher_feedback": null,
     "ideation_process": "표현하는것이었는데 문제를 받고 물과 불의 결합으로 신재생에너지를 보여줘야겠다 발상하여 들어갔습니다"
+  },
+  "tier_refined": {
+    "tier_score": 59.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.594
+  },
+  "clip_topic": {
+    "topic_score": 0.5902,
+    "topic_text": "당일 출제 문제는 수도꼭지와 라이터 선풍기로 신재생에너지를 표현하는것이었는데 문제를 받고 물과 불의 결합으로 신재생에너지를 보여줘야겠다 발상하여 들어갔습니다"
   }
 }

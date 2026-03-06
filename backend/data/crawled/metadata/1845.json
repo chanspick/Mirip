@@ -23,5 +23,10 @@
     "student_strength": "선생님의 지도 덕분에 좋은 결과가 나왔다고 생각합니다. 3년간의 학생부 관리와 선생님의 지도가 만나 원하는 학교에 입학할 수 있었습니다. 만약 본인이 가고 싶은 학교가 있다면 1학년부터 미리 성적이나 활동 등을 쌓아두는 것이 좋다고 생각합니다.",
     "teacher_feedback": "선생님께서 지도해 주신 방향으로 따라가려고 노력했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.073
   }
 }

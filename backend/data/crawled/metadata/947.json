@@ -23,5 +23,14 @@
     "student_strength": "체력과 정신력 관리. 원래는 체력문제로 어려움을 겪었다. 그래서 운동을 하며 체력적 약점을 극복했다. 입시 후반에는 심리적으로 위축되고 불안하여 실기가 잘 안됐는데 명상을 하며 마음을 다스려 실기를 끌고나갔다.",
     "teacher_feedback": null,
     "ideation_process": "소묘는 평소 나오던 것과 달리 포즈를 취한 사람이 나왔다. 평소 하던 것과 달라 잠시 당황하였지만 침착함을 잃지 않고 차분하게 그렸다."
+  },
+  "tier_refined": {
+    "tier_score": 49.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.064
+  },
+  "clip_topic": {
+    "topic_score": 0.6158,
+    "topic_text": "조소는 남자모델이 나왔고 상반신을 만들라고 하였다. 소묘는 평소 나오던 것과 달리 포즈를 취한 사람이 나왔다."
   }
 }

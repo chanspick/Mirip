@@ -22,5 +22,14 @@
     "student_strength": "그냥 끝까지 해내겠다는 마음가짐.",
     "teacher_feedback": null,
     "ideation_process": "출제문제가 특별하진 않았다. 형태를 잘잡고, 전체적으로 그리는 것이 중요하다고 생각했다."
+  },
+  "tier_refined": {
+    "tier_score": 72.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.387
+  },
+  "clip_topic": {
+    "topic_score": 0.5886,
+    "topic_text": "여자모델이나왔고 흰색 니트에 검정색 바지를 입고 다리한쪽을 양반다리를 하고 있었다. 출제문제가 특별하진 않았다."
   }
 }

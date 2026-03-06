@@ -23,5 +23,14 @@
     "student_strength": "실기를 열심히 준비해서 합격할수있었던것 같다.",
     "teacher_feedback": "선생님들과 수업하고.",
     "ideation_process": "전체적으로 다 어두운 색감이라 피부를 밝게하려고 하였다."
+  },
+  "tier_refined": {
+    "tier_score": 70.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.299
+  },
+  "clip_topic": {
+    "topic_score": 0.5868,
+    "topic_text": "남색비니 ,남색체크 남방, 검정 트레이닝복 바지,투명우산 에 맨발. 전체적으로 다"
   }
 }

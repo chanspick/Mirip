@@ -22,5 +22,14 @@
     "student_strength": "체계적으로 구성이 짜져있어서 도움이 많이 되었던 것 같습니다. 허비되는 시간이 없어서 너무 좋았던 것 같습니다. 개인적으로 기본기를 다지는 시간이 도움이 많이 되었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 53.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.288
+  },
+  "clip_topic": {
+    "topic_score": 0.5805,
+    "topic_text": "앵무새는 학원에서 준비한 대로 그리려고 노력했고 앵무새의 형태와 구조를 잘 보여줄 수 있게 신경써서 그림을 그렸습니다."
   }
 }

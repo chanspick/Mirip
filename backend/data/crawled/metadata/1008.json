@@ -23,5 +23,14 @@
     "student_strength": "수업시간에 선생님들의 말씀을 모두 새겨들으려고 노력하고 실기 연습을 할때 항상 실전이라는 마인드로 임하는것과 실기 고사장에서 긴장을 많이 풀려고 노력하고 생각해온 방식으로 최대한 하려고 하는게 중요하다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 75.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.568
+  },
+  "clip_topic": {
+    "topic_score": 0.5875,
+    "topic_text": "웃는 여자가 나왔고 먼저 그 인물의 골격을 맞춘 후 그 사람의 인상과 느낌을 찾으려고 노력했다."
   }
 }

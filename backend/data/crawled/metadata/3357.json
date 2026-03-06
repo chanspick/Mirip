@@ -22,5 +22,14 @@
     "student_strength": "대학교에서 어떤 스타일의 그림을 선호하는지 정확히 분석하고 그걸 토대로 꾸준히 연습했던게 꽤나 중요했던 것 같고, 공간감과 분위기가 잘 나왔던 것 과 바닥에 은행잎을 깔아준게 좋게 작용한 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 42.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.611
+  },
+  "clip_topic": {
+    "topic_score": 0.6055,
+    "topic_text": "제시어는 따로 없었고, 제시물은 은행잎과 볼트, 너트 였는데, 공간감이 중요하다고 배워서 볼트와 너트를 반복적으로 깔고 색감의 조화를 주기 위해 은행이 떨어져 있는 배치를 주었습니다."
   }
 }

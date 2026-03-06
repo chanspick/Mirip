@@ -23,5 +23,14 @@
     "student_strength": "먼저 소묘에서는 하얀색 개체와 투명한 개체가 나왔었기 때문에 톤을 잡는 것에 어려움을 느꼈었습니다. 그래서 주변 그림을 얼추 비교해가면서 내가 톤을 덜 잡지는 않았는지 아니면 톤이 너무 어두워졌는지 확인하면서 그려나갔습니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하고 오른쪽 종이에는 물병, 약병을 이용해 기초조형으로 리듬감을 나타내시오"
+  },
+  "tier_refined": {
+    "tier_score": 59.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.55
+  },
+  "clip_topic": {
+    "topic_score": 0.5931,
+    "topic_text": "왼쪽 종이에는 물병, 약병의 이미지를 소묘로 표현하고 오른쪽 종이에는 물병, 약병을 이용해 기초조형으로 리듬감을 나타내시오"
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "흔히 가지고 다니는 핸드폰에 자료를 스크랩하고 정리하여 수시로 참고 하였고, 나아가서 수업에 응용 했던 것이 많이 도움이 되었던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "완성을 목적으로 스스로 정해놓은 시간을 따라 차근차근 풀어나갔습니다."
+  },
+  "tier_refined": {
+    "tier_score": 63.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.794
+  },
+  "clip_topic": {
+    "topic_score": 0.5804,
+    "topic_text": "한성대 : 자동차, 나무의자, 레몬짜는 도구 경기대 : 선인장, 성냥, 향수공병 협성대 : 시계, 커피글라인더 호서대 : 트럼펫, 호스 각 학교마다 완성을 목적으로 스스로 정해놓은 시간을 따라 차근차근 풀어나갔습니다."
   }
 }

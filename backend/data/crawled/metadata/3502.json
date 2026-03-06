@@ -22,5 +22,14 @@
     "student_strength": "큐브를 완전한 하나로 사용하지 않고 큐브 조각을 뽑아서 쓴 것이 좋게 보이지 않았나 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "색상을 강조하려고 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 42.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.637
+  },
+  "clip_topic": {
+    "topic_score": 0.5783,
+    "topic_text": "휴지, 축구공, 큐브 주제물 중 상대적으로 다양한 색상을 보여줄 수 있는 큐브를 중앙에 배치하여 다른 그림들보다 색상을 강조하려고 노력했습니다."
   }
 }

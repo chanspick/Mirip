@@ -22,5 +22,14 @@
     "student_strength": "평소 다양한 디자인 자료를 찾아본것이 도움이 된것 같다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 52.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.202
+  },
+  "clip_topic": {
+    "topic_score": 0.5659,
+    "topic_text": "가구 하나 없는 방, tv가 켜져 있는 모습을 빛과 음영의 관계로 지하 방 같은 느낌으로 표현 하였다."
   }
 }

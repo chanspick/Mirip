@@ -22,5 +22,14 @@
     "student_strength": "남들과 다른 시각으로 주제에 접근하려 했습니다. 문제풀이를 많이한게 중요했던거 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "선풍기의 특성을 이용해 바람의 느낌을 강조하려 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 65.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.859
+  },
+  "clip_topic": {
+    "topic_score": 0.5902,
+    "topic_text": "문제를 받고 쓰던 패턴에 넣어서 진행하였습니다. 선풍기의 특성을 이용해 바람의 느낌을 강조하려 했습니다."
   }
 }

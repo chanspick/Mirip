@@ -22,5 +22,14 @@
     "student_strength": "합격의 주원인은 실기 중에 마지막까지 포기하지 않은것 입니다. 누구나 실기 중간에 위기가 옵니다. 그때 다른 생각을 하지말고 그림에만 집중하는 것이 합격에 미치는 가장 큰 요인이라 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "발상을 하려 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 76.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.62
+  },
+  "clip_topic": {
+    "topic_score": 0.5853,
+    "topic_text": "실기주제는 이상한 나라와 다섯개의 문이었습니다. 친숙하지 않은 주제라 당황했지만 그려본 것 중 가장 자신있는 그림에 맞춰 그릴려했습니다."
   }
 }

@@ -24,5 +24,14 @@
     "student_strength": "물체간의 색대비가 확실하게 올라와서 합격한 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 59.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.548
+  },
+  "clip_topic": {
+    "topic_score": 0.5899,
+    "topic_text": "자명종, 윷, 노리개가 나왔는데 노리개에 있는 장식들을 시간내에 하나라도 더 그리려했고, 자명종과 윷에 대한 대비가 느껴지도록 신경썼습니다."
   }
 }

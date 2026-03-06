@@ -22,5 +22,14 @@
     "student_strength": "실기를 늦게 시작한 만큼 더 열심히 따라가려고 노력했고 시험장에서는 모델과 최대한 똑같이 만드려고 많이 비교한 덕분인것같다",
     "teacher_feedback": "선생님들이 알려주시는 것들을 최대한 따라하려고 노력했고, 매일 지적 받은 것들은 다음날 고쳐보려고 노력했다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 77.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.647
+  },
+  "clip_topic": {
+    "topic_score": 0.6083,
+    "topic_text": "모델링이였고, 다른 사람들 속도에 휘둘리지않고 평소 학원에서 하던대로 하려고 노력했다"
   }
 }

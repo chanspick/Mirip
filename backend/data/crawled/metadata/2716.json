@@ -24,5 +24,14 @@
     "student_strength": "열정이라고 생각합니다",
     "teacher_feedback": null,
     "ideation_process": "물론 처음에는 매우 당황했지만 처음보는 유형의 문제일수록 기본기를 탄탄하게 해야겠다는 생각을 하며 접근하였습니다"
+  },
+  "tier_refined": {
+    "tier_score": 49.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.058
+  },
+  "clip_topic": {
+    "topic_score": 0.5998,
+    "topic_text": "평소에 준비하는 문제와는 매우 다른 유형의 문제들이 출제가 되었습니다 물론 처음에는 매우 당황했지만 처음보는 유형의 문제일수록 기본기를 탄탄하게 해야겠다는 생각을 하며 접근하였습니다"
   }
 }

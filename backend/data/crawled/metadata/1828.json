@@ -23,5 +23,14 @@
     "student_strength": "탄탄한 기본기와 자기 객관화가 제 합격의 노하우 같습니다. 이론을 통한 수업 덕분에 이전보다 스스로 생각하는 힘을 기를 수 있었고 기본기가 탄탄한 강한 그림들을 그려 나갈 수 있었습니다. 또한 저는 제 자신이 멘탈이 약한 편인 것을 알고 있었기에 힘든 상황일수록 한번 털어내고 다시 자신감 있게 도전했습니다.",
     "teacher_feedback": "선생님께서 하셨던 말씀이나 제 실수들을 다시 정리해 나가며 준비를 했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 58.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.544
+  },
+  "clip_topic": {
+    "topic_score": 0.5844,
+    "topic_text": "제시물 : 줄넘기, 제시어 : 팽창"
   }
 }

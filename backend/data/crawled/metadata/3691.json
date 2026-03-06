@@ -23,5 +23,14 @@
     "student_strength": "학원 선생님께서 지도해주시는 걸 잘 따랐고 스스로 포기하지 않고 끈기 있게 노력한 덕분이라 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다. 색상 대비를 통해 각 물체의 물성을 잘 살리기 위한 방법을 생각하며 풀었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 55.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.387
+  },
+  "clip_topic": {
+    "topic_score": 0.5856,
+    "topic_text": "돼지저금통과 자물쇠로 확장과 대비가 제시어로 나왔습니다. 문제 풀이는 최대한 역동적으로 그려야겠다고 생각했습니다."
   }
 }

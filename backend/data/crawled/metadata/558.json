@@ -23,5 +23,14 @@
     "student_strength": "철저하게 상황표현 4시간 실기 시험에 맞춰서 준비 하였던것이 요인이라고 생각합니다",
     "teacher_feedback": null,
     "ideation_process": "위의 쓰레기 섬을 정화하는 사람들 이란 주제가 나왔습니다 다행히 시험 전날에 연습햇던 구도가 주제가 나와서 쉽게 풀었습니다"
+  },
+  "tier_refined": {
+    "tier_score": 60.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.598
+  },
+  "clip_topic": {
+    "topic_score": 0.5808,
+    "topic_text": "다양한 형태와 기능을 가진 드론을 이용해 바다 위의 쓰레기 섬을 정화하는 사람들 이란 주제가 나왔습니다"
   }
 }

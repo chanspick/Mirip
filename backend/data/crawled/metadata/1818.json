@@ -22,5 +22,14 @@
     "student_strength": "어떤 문제가 나와도 당황하지 않으려고 침착했던 게 시험장에서 많이 도움이 됐던 것 같습니다, 차분하게 연습했던 것들을 기억해내면서 그림을 완성하는 것에 집중했던 게 합격에 영향을 끼쳤던 것 같습니다,",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 82.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.939
+  },
+  "clip_topic": {
+    "topic_score": 0.5961,
+    "topic_text": "실기시험 문제는 뜰채와 바느질 세트가 나왔는데 평소 준비했던 대로 많이 연습했던 구도에 대입하여 학원에서 그렸던 것들을 떠올리며 그려나갔습니다."
   }
 }

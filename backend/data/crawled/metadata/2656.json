@@ -22,5 +22,14 @@
     "student_strength": "개체의 크기가 주요인이라고 생각합니다.",
     "teacher_feedback": "선생님이 지도해주신 부분을 놓치지 않으려고 노력했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 56.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.411
+  },
+  "clip_topic": {
+    "topic_score": 0.5762,
+    "topic_text": "드론, 스마트워치, 볼펜, 와인오프너, 필통이 나왔고, 과한 연출을 하기 보다는 개체의 배치와 크기를 신경써서 전체적인 분위기를 맞추며 풀어나갔습니다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "구도와 소묘 톤의 균형을 원장님께서 평소에 잘 이야기해주셨고 그게 시험장에서 정말 많은 도움이 되었어요.",
     "teacher_feedback": "선생님이 많이 배려해주시고 요령만 배우는 게 아니라 기본기부터 탄탄하게 배웠던거 같아요.",
     "ideation_process": "합격을 좌우하는 건 이 시간안에 이걸 다 완성하는 것 만으로도 큰 변별력이 있을 것 이라는 생각을 해서 주어진주제를 최대한 빨리풀어내려 노력했어요."
+  },
+  "tier_refined": {
+    "tier_score": 96.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.922
+  },
+  "clip_topic": {
+    "topic_score": 0.5881,
+    "topic_text": "손을 6개를 그려야 하는 상황인데 네 시간밖에 시간이 주어지지 않았잖아요. 합격을 좌우하는 건 이 시간안에 이걸 다"
   }
 }

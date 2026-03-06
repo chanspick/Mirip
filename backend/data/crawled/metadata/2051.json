@@ -22,5 +22,14 @@
     "student_strength": "긴장하지 않았던 점이 크다고 생각합니다. 제가 그리고자 하는 걸 분명히 표현했고 평소 부족한 부분들을 보완한 덕분에 합격할 수 있었습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 71.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.346
+  },
+  "clip_topic": {
+    "topic_score": 0.6016,
+    "topic_text": "\"중앙대/커피머신,모자,동전 청주대/의자,애플워치\" 제시된 사물들이 최대한 잘 보이도록 하려고 노력했고 시간분배를 적절히 한 후 마지막에 부족한 부분이 없는지 체크했습니다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "내 그림에 대한 선생님의 피드백을 잘 따르는 것이 합격의 주요인이라 생각한다.",
     "teacher_feedback": "선생님이 그림 평가를 해주시면 평가내용을 노트에 적어두었다.",
     "ideation_process": "두개의 제시물을 보고 스토리텔링위주의 구성보다는 조형적인 구성을 원하는 문제인거같아 조형적으로 그림을그리려했다."
+  },
+  "tier_refined": {
+    "tier_score": 53.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.26
+  },
+  "clip_topic": {
+    "topic_score": 0.6043,
+    "topic_text": "브로콜리, 종이컵이 출제되었다. 두개의 제시물을 보고 스토리텔링위주의 구성보다는 조형적인 구성을 원하는 문제인거같아 조형적으로 그림을그리려했다."
   }
 }

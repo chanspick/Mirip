@@ -23,5 +23,14 @@
     "student_strength": "입시를 준비하며 힘들 때에도 끝까지 포기하지 않는 자세가 중요하다고 생각합니다.",
     "teacher_feedback": "선생님들의 심층적인 지도로 실기고사를 대비할 수 있었습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 78.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.699
+  },
+  "clip_topic": {
+    "topic_score": 0.5871,
+    "topic_text": "고려대 디자인조형학부는 면접 전형이라 실기고사가 따로 없었습니다."
   }
 }

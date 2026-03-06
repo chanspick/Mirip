@@ -23,5 +23,14 @@
     "student_strength": "내가 잘하는 것을 찾아내고 언제 어디서나 쓸 수 있도록 연습한 것입니다.",
     "teacher_feedback": null,
     "ideation_process": "문제를 받고 내가 잘하는 것들을 전부 넣을 수 있는 방향으로 문제를 풀었다."
+  },
+  "tier_refined": {
+    "tier_score": 60.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.612
+  },
+  "clip_topic": {
+    "topic_score": 0.5546,
+    "topic_text": "100만 유튜버인 나는 얼굴을 공개하지 말아야 한다는 원칙이 있었는데 모종의 사고로 얼굴이 공개된다는 주제였다. 문제를 받고 내가 잘하는 것들을 전부 넣을 수 있는 방향으로 문제를 풀었다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": null,
     "teacher_feedback": null,
     "ideation_process": "오히려 시간 내에 남들보다 뒤지지 않는 밀도를 구현해내는데 집중했다."
+  },
+  "tier_refined": {
+    "tier_score": 66.3,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.067
+  },
+  "clip_topic": {
+    "topic_score": 0.5917,
+    "topic_text": "정물이 출제되었을 때 준비를 많이 했던 정물들이라서 구성과 표현이 어렵지 않았다. 오히려 시간 내에 남들보다"
   }
 }

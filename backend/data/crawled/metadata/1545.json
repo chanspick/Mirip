@@ -22,5 +22,14 @@
     "student_strength": "그날 컨디션에 구애받지 않고 성실하게 임하려는 것이 가장 중요하다고 생각된다.",
     "teacher_feedback": null,
     "ideation_process": "기출문제 풀면서 참치캔을 그려본 적이 있어서, 그 구도를 그대로 사용했다. 참치내용을 그리지 말라는 조건이 있어서 참치를 건전지로 바꿔서 그렸다."
+  },
+  "tier_refined": {
+    "tier_score": 70.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.311
+  },
+  "clip_topic": {
+    "topic_score": 0.6022,
+    "topic_text": "참치캔 종이노끈 사각건전지로 화면구성. 기출문제 풀면서 참치캔을 그려본 적이 있어서, 그 구도를 그대로 사용했다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "평소에 구성주의 작품, 미니멀 일러스트 등을 참고하며 평면조형을 공부하고 건대 기출문제와 합격작들을 꼼꼼히 분석한 것이 도움이 됐습니다.",
     "teacher_feedback": "선생님께 자주 지적받는 저의 단점을 고치는 데 집중했습니다.",
     "ideation_process": "생각했습니다. 별다른 표현이나 묘사력을 보여줄 수 없었기에 그림의 레이아웃과 배색, 붓자국이 남지 않도록 깔끔하게 칠하는 것에 특히 더 신경을 썼습니다."
+  },
+  "tier_refined": {
+    "tier_score": 71.7,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.351
+  },
+  "clip_topic": {
+    "topic_score": 0.5772,
+    "topic_text": "정사각형에 내접하는 원이 있다. 음영처리된 영역에서 찾을 수 있는 도형은 하단의 3개(A,B,C)이다."
   }
 }

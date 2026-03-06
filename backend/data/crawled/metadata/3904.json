@@ -23,5 +23,14 @@
     "student_strength": "사실적표현과 변형된표현을 잘 구분한 점과 주제부가 크게 잘 보인점이 주요인이라 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "표현하려고 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 61.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.652
+  },
+  "clip_topic": {
+    "topic_score": 0.576,
+    "topic_text": "사실적표현으로 연필깎이와 변형된 표현으로 성냥을 이용해 화면을 구성하시오 라는 문제를 받았습니다. 연필깎이의 재질변화가 잘 느껴지고 구조적 디테일을 찾아내서 사실적 표현이라는 점을 챙기려 했고 성냥의 특성인 불을 이용해 그을림이나 타서 재가 되는 모습을 통해 변형된 모습을 표현하려고 노력했습니다."
   }
 }

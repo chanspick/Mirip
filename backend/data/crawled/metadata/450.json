@@ -22,5 +22,14 @@
     "student_strength": "가르쳐주시는 선생님을 믿고 지적받은 부분을 고쳐가는 것이 합격에 도움이 된 것 같다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.906
+  },
+  "clip_topic": {
+    "topic_score": 0.5887,
+    "topic_text": "연필과 스프링노트 안경이 나왔고 평소 학원에서 쓰던 구도를 바탕으로 허전해 보이는 공간에는 안경의 성질을 이용해 채워나갔다."
   }
 }

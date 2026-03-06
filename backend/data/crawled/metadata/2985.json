@@ -22,5 +22,14 @@
     "student_strength": "시간 분배를 적절히 하고, 주변환경에 흔들리지 않고 집중하는 태도였다고 생각합니다.",
     "teacher_feedback": "선생님의 피드백을 유의 깊게 듣고 실행하려고 노력했습니다.",
     "ideation_process": "생각해서 금붕어의 채도와 묘사를 신경써주었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 78.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.705
+  },
+  "clip_topic": {
+    "topic_score": 0.581,
+    "topic_text": "금붕어어항과 구겨진 캔이 나왔습니다. 학원에서 금붕어와 코카콜라캔을 그려본 적이 있어서 막힘없이 그릴 수 있었습니다."
   }
 }

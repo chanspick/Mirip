@@ -22,5 +22,14 @@
     "student_strength": "선생님께: 저는 제 이야기를 그림에 드러내는 데에 용기가 필요했습니다. 그렇게 될 수 있도록 담담히 기다려주시고 조언해주셔서 감사합니다.",
     "teacher_feedback": "선생님들께 바로 조언을 구해 그림에 대한 객관적인 이야기를 듣고자 했습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 87.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.326
+  },
+  "clip_topic": {
+    "topic_score": 0.6543,
+    "topic_text": "시험 당일에는 자신감이 가장 중요한 것 같습니다.그림을 그리는 도중에는 시험이라는 특성상 계속해서 잘하고 있는건지 의심하게 됐지만 그런 생각들을 잠시 누르고 제 자신을 믿고 나아가려고 했습니다."
   }
 }

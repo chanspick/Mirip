@@ -23,5 +23,14 @@
     "student_strength": "학원 선생님이 매번 나에게 해주시는 말씀을 계속 마음속으로 되내이면서 그림을 그렸습니다. 내신이 끝난후에는 실기에만 모든 집중을 했고, 학원 내에서 보는 모든 시험을 실전이다 라고 생각하며 최선을 다해서 본 것도 영향을 끼친 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각했습니다. 그래서 가운데에다"
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.5897,
+    "topic_text": "평소 가로로 그림을 그렸었기 때문에 시험장에서 세로로 그리라는 조건을 받고 놀랐지만 가로든 세로든 주제 ‘분리’만 잘 보여주자 라고 생각했습니다. 그래서 가운데에다"
   }
 }

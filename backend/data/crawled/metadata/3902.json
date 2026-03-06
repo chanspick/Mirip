@@ -22,5 +22,14 @@
     "student_strength": "전공에 대한 관심과 꾸준한 준비, 그리고 실기장에서 침착하게 자신의 역량을 보여준 것이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "평소 기출 유형을 중심으로 대비해왔으며, 실기 당일에는 소재의 특징과 화면 구도를 먼저 잡아 구성으로 풀어냈습니다."
+  },
+  "tier_refined": {
+    "tier_score": 30.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.021
+  },
+  "clip_topic": {
+    "topic_score": 0.5812,
+    "topic_text": "화구통, 더블클립 입니다. 평소 기출 유형을 중심으로 대비해왔으며, 실기 당일에는 소재의 특징과 화면 구도를 먼저 잡아 구성으로 풀어냈습니다."
   }
 }

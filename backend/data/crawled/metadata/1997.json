@@ -22,5 +22,10 @@
     "student_strength": null,
     "teacher_feedback": "피드백으로 원하는 스타일을 유지하며 그림을 그릴 수 있었습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

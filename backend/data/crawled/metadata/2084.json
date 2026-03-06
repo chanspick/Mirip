@@ -22,5 +22,10 @@
     "student_strength": "서울과기대 유형은 소묘가 포함되어있어서 다른 학교보다 준비할 게 많았습니다. 그만큼 일찍 나와서 매일 한 시간씩 소묘를 연습했습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 51.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.194
   }
 }

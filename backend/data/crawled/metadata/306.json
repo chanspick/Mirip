@@ -22,5 +22,14 @@
     "student_strength": "매순간 즐길 수 는 없었겠지만, 그림을 좋아하고 즐기는 거야 말로 순간순간 타인과 차별화 될 수 있는 것이라고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 50.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.142
+  },
+  "clip_topic": {
+    "topic_score": 0.6136,
+    "topic_text": "자켓을 입고 펜을 쥐고 서있는 여자가 나왔다."
   }
 }

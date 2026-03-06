@@ -22,5 +22,14 @@
     "student_strength": "마지막 시험이라 그런지 긴장이 덜 하고 편안한 분위기에서 시험을쳐서 평소 학원에서 준비하던것보다 구도에서 사물을 좀더 넣을 여유도 생기고 완성도도 높게나와서 합격할수있었던 것 같습니다!!!",
     "teacher_feedback": "선생님께 피드백을 받은후 바로 저녁수업때 그점을 바로 보완하려했습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 80.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.821
+  },
+  "clip_topic": {
+    "topic_score": 0.6087,
+    "topic_text": "커피메이커가 나와서 위에서 물을 붓고 아래서 커피가 나오고 콘센트가 물에 담겨 스파크가 터지는 연출을 하려했습니다!!"
   }
 }

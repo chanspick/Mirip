@@ -22,5 +22,10 @@
     "student_strength": "여러 입시학원을 거치면서 느낀건데 좋은 미술학원을 선택하는게 제일 중요하다. 지금 다니는 미술학원이 나한테는 큰 영향을 끼친 것 같다. 내 그림 실력을 사람으로 만들어준 곳이다. 특히 보조 선생님 없이 일주일에 3번씩 시험을 보는데 쌤 없이 진짜 내 실력으로 그린 그림을 확인할 수 있어서 더 자극을 받고 내 단점을 확실히 알 수 있었다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 61.4,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.668
   }
 }

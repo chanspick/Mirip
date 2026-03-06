@@ -22,5 +22,14 @@
     "student_strength": "멘탈관리가 가장 중요했다고 생각합니다. 해낼 수 있다, 최선을 다해야겠다는 마음가짐이 중요한 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "문제를 보고 준비했던 그림보다 더 잘그리려고 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 44.5,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.726
+  },
+  "clip_topic": {
+    "topic_score": 0.5878,
+    "topic_text": "청경채, 탱탱볼 / 문제은행 학교라 고사실 도착 후 그림을 프린트한 종이를 보며 마지막까지 풀이한 그림을 기억하려고 했습니다. 문제를 보고 준비했던 그림보다"
   }
 }

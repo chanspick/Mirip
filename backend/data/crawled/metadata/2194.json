@@ -23,5 +23,14 @@
     "student_strength": "수시 실기를 준비하면서, 좀더 도전적으로 남들과 다르게 창의적으로 그릴 수 있도록 원장선생님이 잘 가르쳐 주셨습니다.",
     "teacher_feedback": "선생님께서 개별상담을 잘 해 주셔서 마음을 굳힐 수 있었습니다..",
     "ideation_process": "문제를 받고 침착하게 상징어를 생각한 후 문제를 풀었습니다."
+  },
+  "tier_refined": {
+    "tier_score": 55.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
+  },
+  "clip_topic": {
+    "topic_score": 0.594,
+    "topic_text": "입체영화를 보는 사람들의 이미지를 받고, 그 이미지가 전달하는 상징어를 쓰고 상징어를 기초로 사물을 디자인하여 제시하고 설명하라는 문제였습니다. 문제를 받고 침착하게 상징어를 생각한 후 문제를 풀었습니다."
   }
 }

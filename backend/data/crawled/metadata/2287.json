@@ -23,5 +23,14 @@
     "student_strength": "주위 사람들이 종이비행기를 다 컬러링을 해서 차별성을 주기 위해 흑백 사진 있는 그대로 종이비행기를 흰색으로 칠하고 일자 드라이버에 컬러 포인트를 준 것이라고 생각합니다.",
     "teacher_feedback": "피드백을 받았으며 피드백을 받은 부분 중 고칠 부분을 열심히 고치려고 신경 썼습니다...",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 66.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.928
+  },
+  "clip_topic": {
+    "topic_score": 0.5899,
+    "topic_text": "일자 드라이버, 종이비행기가 나왔으며 종이비행기가 날아가고 있는 느낌을 가지고 풀어나갔습니다."
   }
 }

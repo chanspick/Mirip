@@ -23,5 +23,14 @@
     "student_strength": "선생님들께서 짚어주시는 문제점을 최대한 고치려고 노력하고 저민의 기법들을 최대한 잘 활용할 수 있도록 노력했기 때문이라고 생각합니다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 51.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.181
+  },
+  "clip_topic": {
+    "topic_score": 0.5939,
+    "topic_text": "”지나친 엉킴“이 주제로 나왔고 평소에 자신있었던 기법들을 주제에 맞추어 변형하면서 만둘었습니다"
   }
 }

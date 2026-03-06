@@ -22,5 +22,14 @@
     "student_strength": "시험장에서 학원 선생님께서 지적해 주신 여러가지 그림의 장단점을 기억해내며 그려낸 것이 합격의 주요인이라고 생각합니다 . 그리고, 시험 전날 돋보기를 그려봤었는데 그게 안경의 깔끔한 표현에 도움이 됐던것 같아요.",
     "teacher_feedback": null,
     "ideation_process": "안경이 펼쳐지는 모양을 잘 보여주려고 했습니다. 양파 껍질은 조형적이지 않은 것 같아서 까거나 자르지 않았구요"
+  },
+  "tier_refined": {
+    "tier_score": 70.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.269
+  },
+  "clip_topic": {
+    "topic_score": 0.5975,
+    "topic_text": "양파,뿔테 안경,R자 패턴지가 나왔구요 안경이 펼쳐지는 모양을 잘 보여주려고 했습니다."
   }
 }

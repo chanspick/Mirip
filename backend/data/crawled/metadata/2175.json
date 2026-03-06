@@ -22,5 +22,14 @@
     "student_strength": "성적도 일정 부분 도움이 되었던 것 같지만 수능 이후에 체력이 많이 떨어져서 정시 특강을 하며 힘들어했는데, 선생님과 원장님이 적절히 조율해주시고 상담도 정말 잘해주셔서 멘탈 관리와 체력 관리 모두 잘 되었던 게 큰 요인인 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 73.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.453
+  },
+  "clip_topic": {
+    "topic_score": 0.5705,
+    "topic_text": "문제지에 다양한 조형언어들이 나왔기 때문에 학원을 다니면서 풀었던 건국대학교 기출 문제와 비슷한 맥락이라 생각해 조형언어를 최우선으로 보여주려 노력했습니다."
   }
 }

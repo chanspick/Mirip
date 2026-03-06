@@ -23,5 +23,10 @@
     "student_strength": "준비 시간이 적은 만큼 학원에 가면 긴장을 많이 했는데 그럴 때 마다 주말이나 학원 가기 전 잠깐 미술관을 가거나 영화를 보는 시간을 가졌어요. 그렇게 갔던 미술 관 중 라울뒤피 색채의 선율 이라는 전시에서 본 여러 패턴을 담은 의상들은 서경대 패션과를 준비 할 때 많은 도움이 되었습니다. 전시공간의 차분한 분위기와 단정한 정리감이 좋았어요.",
     "teacher_feedback": "선생님 말씀을 적어 두었습니다.",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 65.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.879
   }
 }

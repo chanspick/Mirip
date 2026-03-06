@@ -22,5 +22,14 @@
     "student_strength": "학원 선생님께 배운점이 많았고 필기노트가 가장 도움이 많이되었다",
     "teacher_feedback": null,
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 76.6,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.613
+  },
+  "clip_topic": {
+    "topic_score": 0.6146,
+    "topic_text": "사진모델링이 나왔고 사진 그대로 만드려고 노력하였다."
   }
 }

@@ -23,5 +23,14 @@
     "student_strength": "선생님께서 하신 말씀 하나하나 놓치지 않으려고 메모했고, 시범 그림들의 과정샷을 다 찍어 놓고 시간 날 때마다 계속 봤던 게 도움이 많이 됐던 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "제시어가 확대와 축소니 돋보기를 주제부에 크게 배치하여 확대를 표현하려고 했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 51.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.152
+  },
+  "clip_topic": {
+    "topic_score": 0.5609,
+    "topic_text": "돋보기와 깃털 만년필이 나왔고 , 제시어는 확대와 축소였습니다. 제시어가 확대와 축소니 돋보기를 주제부에 크게 배치하여 확대를 표현하려고 했습니다."
   }
 }

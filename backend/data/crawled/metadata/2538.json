@@ -23,5 +23,14 @@
     "student_strength": "학원에서 강조하신 부분들을 절대 잊지 않으려 했고, 난해한 문제가 나와도 차분하게 분석하고 평소대로 풀어나갔기에 좋은 결과가 있었다고 생각한다.",
     "teacher_feedback": null,
     "ideation_process": "모든 문제에서 가장 중요하게 생각했던 것은 조건을 벗어나지 않는 것이었다. 출제의도, 핵심에 맞게 객관성있고 설득력있는 풀이를 하려 노력했다."
+  },
+  "tier_refined": {
+    "tier_score": 82.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.905
+  },
+  "clip_topic": {
+    "topic_score": 0.5903,
+    "topic_text": "1차, 2차 도합 4일동안 시험을 쳤다. 모든 문제에서 가장 중요하게 생각했던 것은 조건을 벗어나지 않는 것이었다."
   }
 }

@@ -22,5 +22,14 @@
     "student_strength": "일단 작년에 떨어졌던 이유들을 되짚어 봤을 때 항상 공통적으로 들었던 문제점(특히 기본기)들을 고치려고 노력했었는데, 학원에서 마스터링 수업으로 기초를 잘 잡을 수 있었습니다.",
     "teacher_feedback": null,
     "ideation_process": "생각해서 적극적으로 사용했고, 축구공으로는 연출을 많이 생각했던 것 같아요. 그래서 축구공의 동사적 이미지를 생각해서 얼음 안에 축구공을 얼리고, 다른 축구공이 날라와서 깨는 연출을 생각했어요."
+  },
+  "tier_refined": {
+    "tier_score": 46.2,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.81
+  },
+  "clip_topic": {
+    "topic_score": 0.6442,
+    "topic_text": "이번 용인대 수시에서는 축구공과 얼음이 출제되었습니다. 처음에 문제를 받았을 땐 둘 다"
   }
 }

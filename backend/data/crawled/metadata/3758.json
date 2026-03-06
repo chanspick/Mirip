@@ -23,5 +23,10 @@
     "student_strength": null,
     "teacher_feedback": "피드백을 받아 저의 습관과 실수를 고쳐나갔습니다..",
     "ideation_process": null
+  },
+  "tier_refined": {
+    "tier_score": 72.0,
+    "tier_confidence": 0.4,
+    "competition_percentile": null
   }
 }

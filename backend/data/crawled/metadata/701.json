@@ -23,5 +23,14 @@
     "student_strength": "게임상황표현에 대한 집중적인 연습덕분에 합격한것같습니다. 희윤샘 사랑합니다!!",
     "teacher_feedback": null,
     "ideation_process": "로봇과 가족 구성원간에 감정교류 혹은 공존\" 이라는 주제가 나왔습니다. 사람과 기계가 공존하는 느낌의 그림을 그렸습니다."
+  },
+  "tier_refined": {
+    "tier_score": 56.8,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.441
+  },
+  "clip_topic": {
+    "topic_score": 0.6039,
+    "topic_text": "\"가까운 미래에 기술이 발전해서 가정에 홈로봇이 보편화 됐다. 로봇과 가족 구성원간에 감정교류 혹은 공존\" 이라는 주제가 나왔습니다."
   }
 }

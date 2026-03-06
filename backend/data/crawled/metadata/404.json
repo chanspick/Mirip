@@ -22,5 +22,14 @@
     "student_strength": "이번 새로운 유형은 정말학생들의 즉흥적인 창의력테스트라고 생각합니다. 화면구성도 제시물과 어울리게 잘 바꿔서 배치해야하고 제시물의 활용도가 높은 그림이 뽑힌 것 같습니다.",
     "teacher_feedback": null,
     "ideation_process": "멀티탭이라는 소재를 이용하여 재활용하는 자유로운 창작 그림을 그렸습니다. 멀티탭으로 배를 만들어 탐험하는 장면을 연출하였습니다."
+  },
+  "tier_refined": {
+    "tier_score": 63.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.794
+  },
+  "clip_topic": {
+    "topic_score": 0.5829,
+    "topic_text": "올해부터 새로운 유형인 창조적표현이라는 유형이 나왔습니다. 멀티탭이라는 소재를 이용하여 재활용하는 자유로운 창작 그림을 그렸습니다."
   }
 }

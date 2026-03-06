@@ -22,5 +22,14 @@
     "student_strength": "시험장에서 내가 잘할 수 있는게 무엇인지 인지하고 개체들간의 연관성을 살린 것이라고 생각합니다.",
     "teacher_feedback": "선생님께 피드백 받은 것을 다시 받지않게 노력했으며 스스로도 한장한장 그릴 때마다 발전할 수 있도록 노력했습니다..",
     "ideation_process": "분무기. 검정우산이 나왔어서 그림을 더 선명하게 하기위해 색 대비를 신경을 많이 쓰며 구도를 짰으며 공예과를 지원하여서 개체묘사와 색을 더 이쁘게 사용하려 노력했습니다."
+  },
+  "tier_refined": {
+    "tier_score": 55.9,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.397
+  },
+  "clip_topic": {
+    "topic_score": 0.615,
+    "topic_text": "제시물은 해바라기. 분무기."
   }
 }

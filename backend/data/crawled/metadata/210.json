@@ -24,5 +24,14 @@
     "student_strength": "구성과 표현력인 것 같아요. 학교에서 원하는 평가요소가 잘 드러나도록 그림을 그렸습니다.",
     "teacher_feedback": null,
     "ideation_process": "너무 평이하다는 생각이 들었어요. 남들과 다르게 보이기 위해 구성에 신경을 썼어요."
+  },
+  "tier_refined": {
+    "tier_score": 83.0,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.062
+  },
+  "clip_topic": {
+    "topic_score": 0.605,
+    "topic_text": "당일날 받았던 주제는 생각보다 너무 평이하다는 생각이 들었어요."
   }
 }

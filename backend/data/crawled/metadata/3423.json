@@ -23,5 +23,14 @@
     "student_strength": "중첩 효과를 통해 앞과 뒤의 차이를 두었고 어느 개체에 난색을 써서 눈에 띄게 해야 할 지에 대해 확실히 구분짓고자 하였습니다. 또 각자의 특성을 잘 표현한 것이 주요인이라고 생각합니다.",
     "teacher_feedback": null,
     "ideation_process": "이 문제에서 각 사물의 성질, 특성등을 파악했습니다. 캐리어의 바퀴가 굴러가며 면도기의 면도날이 빠지고 면도기로 캐리어를 긁어 흠집을 내는 등 화면 연출에 많은 신경을 썼습니다."
+  },
+  "tier_refined": {
+    "tier_score": 65.1,
+    "tier_confidence": 0.8,
+    "competition_percentile": 0.854
+  },
+  "clip_topic": {
+    "topic_score": 0.5903,
+    "topic_text": "여행용 캐리어, 면도기였습니다. 이 문제에서 각 사물의 성질, 특성등을 파악했습니다."
   }
 }

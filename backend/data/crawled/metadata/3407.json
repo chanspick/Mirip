@@ -32,5 +32,6 @@
   "clip_topic": {
     "topic_score": 0.605,
     "topic_text": "제시물은 메가폰, 투명테이프, 나침반이었으며 주제어는 가짜뉴스였습니다. 각 개체의 물성과 개체간의 연관성이 잘 보이도록 스케치하였습니다."
-  }
+  },
+  "anchor_group": "경기대_design_general"
 }

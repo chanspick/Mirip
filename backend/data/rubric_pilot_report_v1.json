@@ -1,0 +1,110 @@
+{
+  "summary": {
+    "total": 48,
+    "elapsed_seconds": 6304.0,
+    "input_tokens": 124270,
+    "output_tokens": 7864
+  },
+  "axes_stats": {
+    "formative": {
+      "mean": 81.4,
+      "median": 88.0,
+      "stdev": 21.5,
+      "min": 0,
+      "max": 92
+    },
+    "technique": {
+      "mean": 83.2,
+      "median": 90.0,
+      "stdev": 22.2,
+      "min": 0,
+      "max": 95
+    },
+    "composition": {
+      "mean": 77.4,
+      "median": 83.5,
+      "stdev": 20.6,
+      "min": 0,
+      "max": 90
+    },
+    "topic_interpretation": {
+      "mean": 76.5,
+      "median": 82.5,
+      "stdev": 22.1,
+      "min": 0,
+      "max": 95
+    },
+    "completeness": {
+      "mean": 79.0,
+      "median": 86.0,
+      "stdev": 21.2,
+      "min": 0,
+      "max": 93
+    }
+  },
+  "tier_correlation": {
+    "S": {
+      "formative": 77.7,
+      "technique": 77.4,
+      "composition": 72.2,
+      "topic_interpretation": 75.3,
+      "completeness": 71.8,
+      "_count": 13,
+      "_overall_mean": 74.9
+    },
+    "A": {
+      "formative": 88.8,
+      "technique": 90.5,
+      "composition": 84.2,
+      "topic_interpretation": 82,
+      "completeness": 87.4,
+      "_count": 13,
+      "_overall_mean": 86.6
+    },
+    "B": {
+      "formative": 86.9,
+      "technique": 90,
+      "composition": 83.8,
+      "topic_interpretation": 84.7,
+      "completeness": 86,
+      "_count": 11,
+      "_overall_mean": 86.3
+    },
+    "C": {
+      "formative": 71.5,
+      "technique": 74.7,
+      "composition": 69.1,
+      "topic_interpretation": 63.1,
+      "completeness": 70.4,
+      "_count": 11,
+      "_overall_mean": 69.7
+    }
+  },
+  "axes_discrimination": {
+    "formative": {
+      "s_mean": 77.7,
+      "c_mean": 71.5,
+      "gap": 6.2
+    },
+    "technique": {
+      "s_mean": 77.4,
+      "c_mean": 74.7,
+      "gap": 2.7
+    },
+    "composition": {
+      "s_mean": 72.2,
+      "c_mean": 69.1,
+      "gap": 3.1
+    },
+    "topic_interpretation": {
+      "s_mean": 75.3,
+      "c_mean": 63.1,
+      "gap": 12.2
+    },
+    "completeness": {
+      "s_mean": 71.8,
+      "c_mean": 70.4,
+      "gap": 1.5
+    }
+  }
+}

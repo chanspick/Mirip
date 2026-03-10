@@ -32,5 +32,6 @@
   "clip_topic": {
     "topic_score": 0.5836,
     "topic_text": "제시물은 계산기(A)와 휘핑크림이 올라간 아이스커피(B)가 나왔습니다. 명지대학교는 소재가 A와 B로 출제되는데 A는 사실적 표현이고 B는 변형이 가능합니다."
-  }
+  },
+  "anchor_group": "명지대_visual_design"
 }

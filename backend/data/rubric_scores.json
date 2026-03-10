@@ -1,0 +1,786 @@
+[
+  {
+    "post_no": 2546,
+    "tier": "S",
+    "university": "국민대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 82.1,
+    "scores": {
+      "formative": 78,
+      "technique": 75,
+      "composition": 70,
+      "topic_interpretation": 82,
+      "completeness": 72
+    },
+    "comment": "증기기관 장치를 통해 츄파춥스를 먹는 3단계 프로세스를 기계적으로 구현한 발상이 참신하며, 금속 질감과 목재 질감의 대비 및 색채 대비를 색연필로 효과적으로 표현했으나, 장치 전체의 공간적 연결성과 우측 하단부의 완성도가 상대적으로 아쉽다."
+  },
+  {
+    "post_no": 373,
+    "tier": "S",
+    "university": "서울대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 98,
+    "scores": {
+      "formative": 78,
+      "technique": 74,
+      "composition": 65,
+      "topic_interpretation": 72,
+      "completeness": 68
+    },
+    "comment": "손의 해부학적 구조 파악과 연필 톤 운용이 우수하나, 우측 원형 시퀀스와 좌측 스케치 영역 간의 화면 통합력이 다소 분산되어 있으며 웨어러블 디자인 개념의 시각적 설득력을 더 강화할 여지가 있음."
+  },
+  {
+    "post_no": 246,
+    "tier": "S",
+    "university": "국민대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 83.5,
+    "scores": {
+      "formative": 78,
+      "technique": 80,
+      "composition": 72,
+      "topic_interpretation": 75,
+      "completeness": 74
+    },
+    "comment": "비닐 지퍼백의 투명한 질감과 구겨짐, 내부 타올의 천 질감, 생수병의 유리/플라스틱 반사 등 이질적 재질을 연필과 색연필로 능숙하게 구분 표현한 점이 돋보이나, 우측 계란과 숟가락 주변의 밀도가 상대적으로 약하고 화면 하단 여백 처리가 다소 아쉬움."
+  },
+  {
+    "post_no": 3234,
+    "tier": "S",
+    "university": "서울대",
+    "work_type": "평소작",
+    "has_exam_topic": true,
+    "tier_score": 88.8,
+    "scores": {
+      "formative": 0,
+      "technique": 0,
+      "composition": 0,
+      "topic_interpretation": 0,
+      "completeness": 0
+    },
+    "comment": "이 이미지는 미대입시 학원의 합격 홍보 광고물로, 실기 작품이 포함되어 있지 않아 5축 루브릭 평가가 불가능합니다."
+  },
+  {
+    "post_no": 1216,
+    "tier": "S",
+    "university": "서울대",
+    "work_type": "평소작",
+    "has_exam_topic": true,
+    "tier_score": 94.5,
+    "scores": {
+      "formative": 78,
+      "technique": 75,
+      "composition": 72,
+      "topic_interpretation": 70,
+      "completeness": 68
+    },
+    "comment": "기하학적 건축 구조물과 유기적 점토 흐름의 대비가 흥미로운 조형적 시도를 보여주며, 직육면체의 면 처리와 창문 음각은 안정적인 입체 조형력을 증명하나, 유기적 부분의 완성도와 베이스 처리가 다소 미흡하여 전체적 밀도의 불균형이 아쉽다."
+  },
+  {
+    "post_no": 1025,
+    "tier": "S",
+    "university": "서울대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 97.1,
+    "scores": {
+      "formative": 78,
+      "technique": 75,
+      "composition": 72,
+      "topic_interpretation": 80,
+      "completeness": 74
+    },
+    "comment": "한글 자모 형태요소를 입체 조형물로 전환하는 해석력이 우수하며, 원형과 직선 구조의 대비를 통해 '내부가 보이는 입체' 조건을 설득력 있게 구현했으나, 좌측 구체 표면 묘사에 비해 우측 직육면체 구조의 명암 처리가 다소 단조로워 기법의 일관성이 아쉽다."
+  },
+  {
+    "post_no": 872,
+    "tier": "S",
+    "university": "한예종",
+    "work_type": "평소작",
+    "has_exam_topic": true,
+    "tier_score": 95.4,
+    "scores": {
+      "formative": 72,
+      "technique": 68,
+      "composition": 65,
+      "topic_interpretation": 70,
+      "completeness": 66
+    },
+    "comment": "연필 소묘로 3in1 복합 제품(스피커+공기청정기+화분)이라는 리디자인 발상은 참신하나, 중심 오브제의 나사형 구조 렌더링에 비해 주변 설명 드로잉들의 밀도와 완성도가 고르지 않고, 화면 구성이 설명적 나열에 그쳐 시각적 통일감이 아쉽다."
+  },
+  {
+    "post_no": 504,
+    "tier": "S",
+    "university": "국민대",
+    "work_type": "평소작",
+    "has_exam_topic": true,
+    "tier_score": 84.4,
+    "scores": {
+      "formative": 82,
+      "technique": 79,
+      "composition": 76,
+      "topic_interpretation": 58,
+      "completeness": 74
+    },
+    "comment": "연필 소묘로 책·인체·식물·잎사귀 등 복합 오브제를 상당한 관찰력과 구조 이해로 표현했으며 톤 범위도 넓고 질감 묘사가 우수하나, 하단 좌·우 하이라이트 영역의 밀도 편차와 주제(공업디자인 반사필름 조형) 연관성 부재가 아쉬움으로 남는다."
+  },
+  {
+    "post_no": 372,
+    "tier": "S",
+    "university": "서울대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 96.8,
+    "scores": {
+      "formative": 82,
+      "technique": 79,
+      "composition": 75,
+      "topic_interpretation": 72,
+      "completeness": 71
+    },
+    "comment": "손의 해부학적 구조와 입체감 파악이 우수하며 연필 크로스해칭 기법이 안정적이나, 상단부 손들의 밀도가 하단에 비해 떨어지고 좌측 손의 완성도가 상대적으로 미흡해 4시간 내 6개 손의 균등한 완성이라는 과제 조건에서 약점이 드러남."
+  },
+  {
+    "post_no": 3238,
+    "tier": "S",
+    "university": "서울대",
+    "work_type": "unknown",
+    "has_exam_topic": false,
+    "tier_score": 88.8,
+    "scores": {
+      "formative": 50,
+      "technique": 50,
+      "composition": 50,
+      "topic_interpretation": 50,
+      "completeness": 50
+    },
+    "comment": "이미지에 실기 작품이 포함되어 있지 않고 합격 홍보 카드만 제공되어 작품 평가가 불가능합니다."
+  },
+  {
+    "post_no": 510,
+    "tier": "S",
+    "university": "서울대",
+    "work_type": "평소작",
+    "has_exam_topic": false,
+    "tier_score": 92.3,
+    "scores": {
+      "formative": 78,
+      "technique": 80,
+      "composition": 68,
+      "topic_interpretation": 72,
+      "completeness": 62
+    },
+    "comment": "토끼와 식물, 천 등 복합 오브제를 수묵채색으로 능숙하게 묘사하며 관찰력과 필획 운용이 돋보이나, 하단 여백이 과도하게 비어 완성도 편차가 크고 구도의 무게중심이 상단에 치우친 점이 아쉽다."
+  },
+  {
+    "post_no": 1955,
+    "tier": "S",
+    "university": "서울대",
+    "work_type": "평소작",
+    "has_exam_topic": false,
+    "tier_score": 95.9,
+    "scores": {
+      "formative": 74,
+      "technique": 70,
+      "composition": 72,
+      "topic_interpretation": 68,
+      "completeness": 66
+    },
+    "comment": "농구장이라는 일상적 공간을 과슈/아크릴 계열로 표현한 작품으로, 원근감과 공간감이 안정적이며 수목 묘사의 밀도가 인상적이나, 하단 바닥면이 상대적으로 처리가 미흡하고 동양화과 지원작으로서의 매체 정체성—필획과 먹의 운용, 동양화적 조형 언어—이 불분명해 전공 적합성에서 아쉬움이 남는다."
+  },
+  {
+    "post_no": 310,
+    "tier": "S",
+    "university": "서울대",
+    "work_type": "평소작",
+    "has_exam_topic": false,
+    "tier_score": 93.5,
+    "scores": {
+      "formative": 78,
+      "technique": 82,
+      "composition": 75,
+      "topic_interpretation": 80,
+      "completeness": 72
+    },
+    "comment": "수묵과 담채를 혼용하여 도심 골목의 생명력과 시간의 퇴적을 섬세하게 포착한 작품으로, 식물의 유기적 선묘와 건축물의 기하학적 구조 간의 대비가 설득력 있으며, 먹의 농담 조절과 선의 밀도 운용이 우수하나 우측 하단부의 밀도 편차와 화면 주변부 마무리에서 다소 아쉬움이 남는다."
+  },
+  {
+    "post_no": 331,
+    "tier": "A",
+    "university": "이화여대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 76.5,
+    "scores": {
+      "formative": 78,
+      "technique": 75,
+      "composition": 70,
+      "topic_interpretation": 72,
+      "completeness": 76
+    },
+    "comment": "골격 구조와 대칭성이 안정적으로 유지되며 윤봉길의 인상을 재현하는 데 성실히 접근했으나, 눈두덩·광대·턱선 등 세부 형태의 입체적 밀도에서 아직 다듬을 여지가 있고 두상 전체의 볼륨감이 다소 평탄한 편이다."
+  },
+  {
+    "post_no": 762,
+    "tier": "A",
+    "university": "성신여대",
+    "work_type": "평소작",
+    "has_exam_topic": true,
+    "tier_score": 77.3,
+    "scores": {
+      "formative": 78,
+      "technique": 75,
+      "composition": 70,
+      "topic_interpretation": 72,
+      "completeness": 68
+    },
+    "comment": "얼굴 비례와 안면 골격 구조 이해가 상당히 양호하며 눈·코·입의 위치 관계가 자연스럽고 입체적 형태감이 돋보이나, 목과 흉부로 내려갈수록 표면 처리가 거칠어지고 어깨 라인이 불규칙하게 마무리되어 전체 완성도에 편차가 있음."
+  },
+  {
+    "post_no": 1515,
+    "tier": "A",
+    "university": "숙명여대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 74.5,
+    "scores": {
+      "formative": 82,
+      "technique": 85,
+      "composition": 80,
+      "topic_interpretation": 78,
+      "completeness": 83
+    },
+    "comment": "삼파장 전구의 발광 구조와 금속 부품들의 3차원 형태를 높은 수준으로 파악하고 있으며, 과슈/마커 매체를 능숙하게 다루어 빛의 방사감과 금속 질감을 설득력 있게 표현했으나, 주변 배경 요소들의 구조적 정합성이 중심부에 비해 다소 약하고 '조합'이라는 주제 해석이 시각적 나열에 머무는 아쉬움이 있다."
+  },
+  {
+    "post_no": 1630,
+    "tier": "A",
+    "university": "경희대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 83.9,
+    "scores": {
+      "formative": 82,
+      "technique": 79,
+      "composition": 72,
+      "topic_interpretation": 85,
+      "completeness": 76
+    },
+    "comment": "60대 여성의 슬픔을 억누르는 표정을 주름과 근육의 긴장감으로 설득력 있게 포착했으며, 두상의 골격 구조와 피부 노화 표현이 우수하나 흉부 하단의 마무리 조밀도가 다소 떨어져 전체 완성도를 소폭 낮춤."
+  },
+  {
+    "post_no": 3619,
+    "tier": "A",
+    "university": "중앙대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 67.7,
+    "scores": {
+      "formative": 78,
+      "technique": 82,
+      "composition": 72,
+      "topic_interpretation": 70,
+      "completeness": 75
+    },
+    "comment": "마이크의 구형 금속 질감, 바구니 엮임 패턴, 투명 테이프의 반사 등 다양한 재질 표현이 고르게 수준급이며 마커 기법 숙련도가 돋보이나, 화면 전체가 대상들로 빽빽이 채워져 시선의 안정적 흐름이 다소 분산되고 주제부(마이크)의 위계가 상대적으로 약해 구도와 주제해석의 설득력이 기법 수준에 미치지 못한다."
+  },
+  {
+    "post_no": 323,
+    "tier": "A",
+    "university": "한양대",
+    "work_type": "평소작",
+    "has_exam_topic": true,
+    "tier_score": 70.7,
+    "scores": {
+      "formative": 78,
+      "technique": 80,
+      "composition": 76,
+      "topic_interpretation": 82,
+      "completeness": 75
+    },
+    "comment": "기계적 구조물과 자연(새, 식물)의 대비를 통해 '비움과 채움'을 입체적으로 해석한 발상력이 돋보이며, 과슈/마커 혼합 매체의 운용이 능숙하나 우측 하단부의 밀도 저하와 기계 구조물 일부의 형태 정확도가 아쉬움."
+  },
+  {
+    "post_no": 1433,
+    "tier": "A",
+    "university": "중앙대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 69.6,
+    "scores": {
+      "formative": 88,
+      "technique": 85,
+      "composition": 82,
+      "topic_interpretation": 78,
+      "completeness": 86
+    },
+    "comment": "다이슨 드라이기의 원통형 구조와 금속 질감, 수세미의 섬유 질감, 빗살의 반복적 선 요소 등 각 오브제의 재질 특성을 높은 수준으로 구현했으며, 대각선과 원형 선 요소를 통해 동적인 화면 흐름을 효과적으로 구성한 상위권 작품이다."
+  },
+  {
+    "post_no": 3844,
+    "tier": "A",
+    "university": "경희대",
+    "work_type": "평소작",
+    "has_exam_topic": true,
+    "tier_score": 83.6,
+    "scores": {
+      "formative": 78,
+      "technique": 76,
+      "composition": 70,
+      "topic_interpretation": 52,
+      "completeness": 74
+    },
+    "comment": "두개골 구조와 근육의 입체적 이해가 탄탄하고 눈·코·입의 세부 조형이 안정적이나, 주제인 '고개 든 60대 여성'과 실제 결과물(정면 향한 젊은 남성) 사이의 괴리가 크며 각도·성별·연령 표현이 주제 해석에 반영되지 못한 점이 주된 감점 요인임."
+  },
+  {
+    "post_no": 2979,
+    "tier": "A",
+    "university": "건국대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 82.4,
+    "scores": {
+      "formative": 84,
+      "technique": 86,
+      "composition": 82,
+      "topic_interpretation": 85,
+      "completeness": 80
+    },
+    "comment": "'율동과 해제'라는 키워드를 마늘, 캔 커피, C형 클램프의 폭발적 분해 장면으로 구현한 발상이 탁월하며, 액체 splash와 금속 질감, 마늘의 유기적 표면을 과슈로 정교하게 표현한 기법 수준이 최상위권에 근접하나, 화면 주변부(좌하단, 우상단)의 밀도 처리가 중심부 대비 다소 약하고 공간 긴장감이 일부 이완되는 점이 아쉽다."
+  },
+  {
+    "post_no": 1051,
+    "tier": "A",
+    "university": "한양대",
+    "work_type": "재현작",
+    "has_exam_topic": false,
+    "tier_score": 69.6,
+    "scores": {
+      "formative": 88,
+      "technique": 86,
+      "composition": 82,
+      "topic_interpretation": 75,
+      "completeness": 84
+    },
+    "comment": "테이프 커터기와 유리 파편, 롤지 등 복수 오브제의 3차원 구조와 반사광을 정밀하게 재현한 최상위권 작품으로, 금속·유리·종이의 질감 차이를 마커로 명확히 변별해낸 기법 숙련도가 돋보이나, 상단부 구성이 다소 산만하여 시선 집중도가 분산되는 점이 아쉽다."
+  },
+  {
+    "post_no": 2211,
+    "tier": "A",
+    "university": "건국대",
+    "work_type": "평소작",
+    "has_exam_topic": false,
+    "tier_score": 73.2,
+    "scores": {
+      "formative": 78,
+      "technique": 80,
+      "composition": 72,
+      "topic_interpretation": 65,
+      "completeness": 75
+    },
+    "comment": "다양한 재질(유리, 금속, 목재, 돌, 식물)의 질감 표현과 구체의 반사광 처리가 숙련된 마커 기법을 보여주나, 중심부에 오브제가 과밀집되어 구도의 호흡이 다소 답답하며 우측 하단부의 밀도가 상대적으로 떨어져 완성도에 편차가 있음."
+  },
+  {
+    "post_no": 3542,
+    "tier": "A",
+    "university": "홍익대",
+    "work_type": "평소작",
+    "has_exam_topic": false,
+    "tier_score": 69.3,
+    "scores": {
+      "formative": 82,
+      "technique": 79,
+      "composition": 68,
+      "topic_interpretation": 62,
+      "completeness": 75
+    },
+    "comment": "석고 발 조각상의 3차원 구조와 근육·건의 해부학적 묘사가 뛰어나며 명암 단계 전환이 안정적이나, 구도가 다소 중앙 집중적이고 여백 처리가 단순해 화면 구성의 의도성이 약하며, 받침대 하단부 마무리 밀도가 상부에 비해 떨어지는 아쉬움이 있음."
+  },
+  {
+    "post_no": 1341,
+    "tier": "A",
+    "university": "이화여대",
+    "work_type": "평소작",
+    "has_exam_topic": false,
+    "tier_score": 79.5,
+    "scores": {
+      "formative": 78,
+      "technique": 75,
+      "composition": 72,
+      "topic_interpretation": 70,
+      "completeness": 68
+    },
+    "comment": "빨대·주전자·액체 등 다양한 사물의 입체구조와 금속/유리 재질 표현이 안정적이며 마커 렌더링 숙련도가 돋보이나, 상단부 오브제들의 완성도 편차와 하단 주변부의 밀도 부족이 전체 완성도를 다소 낮추고, 발상 측면에서 '낙하·쏟아짐'의 동세 연출은 흥미롭지만 구성의 시선 유도 동선이 다소 산만해 아쉬움이 남는다."
+  },
+  {
+    "post_no": 225,
+    "tier": "B",
+    "university": "건국대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 55.0,
+    "scores": {
+      "formative": 78,
+      "technique": 75,
+      "composition": 72,
+      "topic_interpretation": 70,
+      "completeness": 73
+    },
+    "comment": "인체의 골격과 근육 구조를 안정적으로 파악하고 있으며 손, 발, 얼굴 등 세부 묘사에서 관찰력이 두드러지나, 하체 원근 처리와 발의 비례에서 일부 부자연스러움이 남고, 안전모·유리병 등 정물의 재질 표현은 무난한 수준에서 마무리되어 인체 대비 밀도 편차가 느껴진다."
+  },
+  {
+    "post_no": 1007,
+    "tier": "B",
+    "university": "건국대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 52.5,
+    "scores": {
+      "formative": 82,
+      "technique": 85,
+      "composition": 78,
+      "topic_interpretation": 80,
+      "completeness": 83
+    },
+    "comment": "투명 유리병의 3차원 구조와 패턴 왜곡(원통형 곡면에 따른 체크·물방울 패턴 변형)을 설득력 있게 표현했으며, 오렌지 리본의 재질감과 운동감 연출이 돋보이는 상위권 기초디자인 작품이나, 화면 우측 상단 배경 오브제의 밀도 부족과 구도의 중앙 집중 편중이 다소 아쉽다."
+  },
+  {
+    "post_no": 3807,
+    "tier": "B",
+    "university": "숙명여대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 48.8,
+    "scores": {
+      "formative": 82,
+      "technique": 85,
+      "composition": 78,
+      "topic_interpretation": 76,
+      "completeness": 83
+    },
+    "comment": "종이컵·롤러·로프 등 다양한 사물의 3차원 구조와 곡면 광택 표현이 매우 숙련된 수준으로, 마커 블렌딩과 하이라이트 처리가 상위권다운 완성도를 보여주나, 화면 중앙부에 시각적 무게가 지나치게 집중되어 주변부 요소들이 다소 산만하게 흩어지는 구도의 아쉬움이 있고, '속도감'이라는 주제가 사물의 역동적 배치로 어느 정도 전달되지만 발상 자체는 관습적 범위를 크게 벗어나지 못한다."
+  },
+  {
+    "post_no": 2363,
+    "tier": "B",
+    "university": "한성대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 64.4,
+    "scores": {
+      "formative": 78,
+      "technique": 82,
+      "composition": 75,
+      "topic_interpretation": 72,
+      "completeness": 80
+    },
+    "comment": "파란 털실과 오렌지의 보색 대비를 전략적으로 활용한 구성력이 돋보이며, 털실의 격자 텍스처·스프링의 금속 질감·오렌지 단면의 투명감을 각각 설득력 있게 묘사했으나, 화면 하단부의 밀도 처리가 상단 주제부에 비해 다소 느슨하고 오브제 간 공간적 위계가 다소 혼잡한 점이 아쉽다."
+  },
+  {
+    "post_no": 1967,
+    "tier": "B",
+    "university": "동덕여대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 53.9,
+    "scores": {
+      "formative": 79,
+      "technique": 82,
+      "composition": 76,
+      "topic_interpretation": 71,
+      "completeness": 78
+    },
+    "comment": "선인장과 화분의 입체 구조 파악이 양호하고 마커 기법의 숙련도가 높으나, 다수 오브제의 방사형 배치가 다소 관습적이며 각 소재 간 공간적 연결고리가 약해 구도의 긴장감이 분산됨."
+  },
+  {
+    "post_no": 1653,
+    "tier": "B",
+    "university": "인하대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 64.6,
+    "scores": {
+      "formative": 78,
+      "technique": 75,
+      "composition": 72,
+      "topic_interpretation": 80,
+      "completeness": 70
+    },
+    "comment": "골프장갑이 공을 쥐는 구조적 발상이 참신하며 금속·가죽·고무 등 소재별 질감 차별화가 양호하나, 화면 주변부 밀도 저하와 일부 형태의 구조적 불안정이 아쉬움."
+  },
+  {
+    "post_no": 985,
+    "tier": "B",
+    "university": "서울과기대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 49.2,
+    "scores": {
+      "formative": 74,
+      "technique": 76,
+      "composition": 70,
+      "topic_interpretation": 82,
+      "completeness": 72
+    },
+    "comment": "치약·칫솔과 '가치 위계 혁신'이라는 제시문을 코카콜라·캠벨수프·전구 등 팝아트적 아이콘과 연결한 발상이 참신하며, 마커/색연필 혼용 렌더링에서 입술·치아·비눗방울의 질감 표현이 안정적이나, 흑백 스케치와 컬러 메인 화면의 연결이 다소 이질적이고 치아 원근감 처리와 화면 하단 밀도가 약해 최상위권 진입에는 아쉬움이 남는다."
+  },
+  {
+    "post_no": 1294,
+    "tier": "B",
+    "university": "상명대",
+    "work_type": "평소작",
+    "has_exam_topic": true,
+    "tier_score": 63.8,
+    "scores": {
+      "formative": 78,
+      "technique": 80,
+      "composition": 75,
+      "topic_interpretation": 82,
+      "completeness": 72
+    },
+    "comment": "골판지 튜브·멀티탭·유리구슬·낚싯바늘 등 이질적 오브제를 촉수 모티프로 엮어낸 발상이 독창적이며, 마커 렌더링의 색채 대비(네이비·시안·레드)와 재질감 표현이 수준급이나, 화면 주변부 촉수의 밀도가 중앙부에 비해 다소 떨어지고 배경 여백 처리가 다소 단조로워 완성도에 아쉬움이 남는다."
+  },
+  {
+    "post_no": 2199,
+    "tier": "B",
+    "university": "성균관대",
+    "work_type": "평소작",
+    "has_exam_topic": false,
+    "tier_score": 55.0,
+    "scores": {
+      "formative": 74,
+      "technique": 70,
+      "composition": 62,
+      "topic_interpretation": 58,
+      "completeness": 68
+    },
+    "comment": "인물의 얼굴과 상체 구조 파악이 양호하고 피부 톤 채색에서 수채/과슈 혼용의 능숙함이 보이나, 하반신으로 갈수록 형태 밀도가 떨어지고 배경 처리가 부재하여 화면 전체의 완성도 편차가 크며, 동양화 전공 작으로서의 필획적 특성이나 동양화적 조형 언어가 뚜렷하게 드러나지 않는다."
+  },
+  {
+    "post_no": 672,
+    "tier": "B",
+    "university": "가천대",
+    "work_type": "재현작",
+    "has_exam_topic": false,
+    "tier_score": 55.0,
+    "scores": {
+      "formative": 74,
+      "technique": 78,
+      "composition": 72,
+      "topic_interpretation": 70,
+      "completeness": 75
+    },
+    "comment": "연필 소묘(전동 스케이트보드)는 구조적 이해와 질감 표현이 안정적이며, 채색 일러스트(우측)는 마커/과슈를 활용한 복합 이미지로 소년과 거북이·스케이트보드 등의 모티프를 역동적으로 구성한 상위권 작품이나, 인물 상단부 미채색과 일부 공간 밀도 편차가 완성도를 소폭 제한한다."
+  },
+  {
+    "post_no": 670,
+    "tier": "B",
+    "university": "명지대",
+    "work_type": "재현작",
+    "has_exam_topic": false,
+    "tier_score": 55.0,
+    "scores": {
+      "formative": 82,
+      "technique": 80,
+      "composition": 78,
+      "topic_interpretation": 72,
+      "completeness": 76
+    },
+    "comment": "연필깎이라는 단일 사물을 극적인 앙각 투시와 분열·확산 구성으로 풀어낸 기초디자인으로, 3차원 구조 이해와 마커 렌더링 숙련도가 상위권 수준이나 우측 배경의 밀도 부족과 일부 하이라이트 처리의 경직성이 최상위권과의 변별점이다."
+  },
+  {
+    "post_no": 2394,
+    "tier": "B",
+    "university": "상명대",
+    "work_type": "재현작",
+    "has_exam_topic": false,
+    "tier_score": 57.8,
+    "scores": {
+      "formative": 78,
+      "technique": 80,
+      "composition": 72,
+      "topic_interpretation": 68,
+      "completeness": 75
+    },
+    "comment": "중앙의 양파(혹은 구근 형태) 오브제를 중심으로 솔방울·나사·망원경 등 이질적 오브제를 폭발적으로 배치한 기초디자인으로, 마커 블렌딩과 광택 표현이 숙련되고 색채 대비도 강렬하나, 주변 소오브제들의 구조적 완성도가 중심체에 비해 다소 약하고 화면 하단의 밀도 저하가 아쉽다."
+  },
+  {
+    "post_no": 1043,
+    "tier": "C",
+    "university": "한서대",
+    "work_type": "평소작",
+    "has_exam_topic": true,
+    "tier_score": 33.7,
+    "scores": {
+      "formative": 78,
+      "technique": 82,
+      "composition": 75,
+      "topic_interpretation": 68,
+      "completeness": 80
+    },
+    "comment": "마커를 능숙하게 다루며 금속·유리 등 복합 재질 표현이 우수하고 역동적 구성이 인상적이나, 와인오프너·색종이·트라이앵글 간의 주제적 연결 의도가 다소 불명확하고 화면 일부 가장자리 처리가 중심부 대비 밀도가 떨어진다."
+  },
+  {
+    "post_no": 2481,
+    "tier": "C",
+    "university": "경성대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 34.8,
+    "scores": {
+      "formative": 78,
+      "technique": 82,
+      "composition": 80,
+      "topic_interpretation": 75,
+      "completeness": 79
+    },
+    "comment": "연필·자·삼각자를 중심부로 폭발하듯 수렴시킨 다이나믹한 구도와 마커 렌더링 숙련도가 높으며, 각 도구의 재질감(광택·목재·금속) 표현이 안정적이나, 중심 충돌부의 형태 처리가 다소 혼잡하고 주변부 밀도 차이가 있어 최상위권과의 변별점이 존재한다."
+  },
+  {
+    "post_no": 2447,
+    "tier": "C",
+    "university": "창원대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 43.3,
+    "scores": {
+      "formative": 74,
+      "technique": 76,
+      "composition": 70,
+      "topic_interpretation": 63,
+      "completeness": 72
+    },
+    "comment": "와인병과 글라스의 유리 질감, 액체 표현이 마커 매체 특성을 잘 살린 수작이나, 구도가 다소 평면적으로 분산되고 주제 해석이 '와인 쏟기'라는 관습적 연출에 머물러 발상의 깊이가 아쉬운 창원대 수준의 안정적 상위권 작품."
+  },
+  {
+    "post_no": 3607,
+    "tier": "C",
+    "university": "경북대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 33.6,
+    "scores": {
+      "formative": 78,
+      "technique": 82,
+      "composition": 75,
+      "topic_interpretation": 72,
+      "completeness": 76
+    },
+    "comment": "적색양파의 층위 구조와 밧줄의 꼬임 질감을 마커로 능숙하게 표현했으며, 껍질이 역동적으로 벗겨지는 연출이 인상적이나 중심 오브젝트 주변의 원형 소용돌이 배경 처리가 다소 단조롭고 하단 마감이 상대적으로 약해 완성도에서 아쉬움이 남는다."
+  },
+  {
+    "post_no": 1996,
+    "tier": "C",
+    "university": "창원대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 30.2,
+    "scores": {
+      "formative": 78,
+      "technique": 80,
+      "composition": 72,
+      "topic_interpretation": 75,
+      "completeness": 76
+    },
+    "comment": "얼음과 비닐장갑의 투명·반사 재질 표현이 마커 기법으로 상당히 설득력 있게 구현되었고, 특히 중앙 파란 얼음 덩어리의 굴절·하이라이트 처리와 비닐 장갑의 황금빛 텍스처 대비가 돋보이나, 화면 주변부 요소들의 밀도가 중심부에 비해 현저히 낮고 얼음 조각들의 투시 구조가 다소 불안정하여 조형적 완결성은 아직 상위권 직전 수준에 머문다."
+  },
+  {
+    "post_no": 756,
+    "tier": "C",
+    "university": "용인대",
+    "work_type": "평소작",
+    "has_exam_topic": true,
+    "tier_score": 46.2,
+    "scores": {
+      "formative": 72,
+      "technique": 75,
+      "composition": 70,
+      "topic_interpretation": 52,
+      "completeness": 68
+    },
+    "comment": "공원 벤치와 가을 낙엽의 조합으로 계절감과 공간감을 표현한 마커 기초디자인 작품으로, 벤치의 주조형과 철제 장식 묘사는 구조 이해가 양호하나 제시 주제(축구공·얼음·공간감)와 실제 화면 내용(벤치·낙엽)이 불일치하여 주제 해석 점수가 크게 낮아지며, 마커 블렌딩과 잎맥 묘사는 준수하지만 원경 벤치들의 밀도 저하와 하단부 미완성 처리가 완성도를 떨어뜨린다."
+  },
+  {
+    "post_no": 2946,
+    "tier": "C",
+    "university": "서경대",
+    "work_type": "재현작",
+    "has_exam_topic": true,
+    "tier_score": 49.5,
+    "scores": {
+      "formative": 78,
+      "technique": 80,
+      "composition": 75,
+      "topic_interpretation": 72,
+      "completeness": 76
+    },
+    "comment": "청진기의 금속 질감과 유산지의 반복 패턴을 마커로 능숙하게 구현했으며, '반복과 교차' 주제를 구심점 구도로 시각화한 점이 우수하나, 화면 주변부 처리의 밀도 편차와 일부 투시 처리의 어색함이 아쉬운 상위권 기초디자인 작품."
+  },
+  {
+    "post_no": 3343,
+    "tier": "C",
+    "university": "인천가톨릭대",
+    "work_type": "평소작",
+    "has_exam_topic": true,
+    "tier_score": 32.6,
+    "scores": {
+      "formative": 78,
+      "technique": 82,
+      "composition": 72,
+      "topic_interpretation": 55,
+      "completeness": 75
+    },
+    "comment": "콜라캔의 원통 구조와 금속 질감 렌더링, 음료 스플래시 표현이 상당한 숙련도를 보여주나, 실제 화면에 보이는 개체(캔·칫솔·포크류)가 출제 주제(다용도칼·유리구슬·우산)와 전혀 매칭되지 않아 주제 해석 점수가 크게 하락하며, 우측 하단 칫솔 주변의 밀도 약화와 배경 처리의 평이함이 완성도를 제한한다."
+  },
+  {
+    "post_no": 2526,
+    "tier": "C",
+    "university": "",
+    "work_type": "unknown",
+    "has_exam_topic": false,
+    "tier_score": 38.0,
+    "scores": {
+      "formative": 0,
+      "technique": 0,
+      "composition": 0,
+      "topic_interpretation": 0,
+      "completeness": 0
+    },
+    "comment": "이 이미지는 미대 입시 실기 작품이 아닌 실제 인물 사진입니다. 평가 대상이 아닙니다."
+  },
+  {
+    "post_no": 452,
+    "tier": "C",
+    "university": "",
+    "work_type": "unknown",
+    "has_exam_topic": false,
+    "tier_score": 38.0,
+    "scores": {
+      "formative": 0,
+      "technique": 0,
+      "composition": 0,
+      "topic_interpretation": 0,
+      "completeness": 0
+    },
+    "comment": "이 이미지는 미대 입시 실기 작품이 아닌 인물 사진(증명사진 형식)으로, 평가 대상에 해당하지 않습니다."
+  },
+  {
+    "post_no": 1857,
+    "tier": "C",
+    "university": "영남대",
+    "work_type": "재현작",
+    "has_exam_topic": false,
+    "tier_score": 38.0,
+    "scores": {
+      "formative": 78,
+      "technique": 80,
+      "composition": 74,
+      "topic_interpretation": 65,
+      "completeness": 76
+    },
+    "comment": "레고 피규어와 종이봉투, 철사 등 이질적 소재의 조합을 입체감 있게 구현했으며 광택 재질 묘사와 마커 블렌딩 수준이 상당하나, 화면 외곽부 밀도 편차와 구도의 분산성이 아쉽고 주제 해석의 독창성보다는 기술적 재현에 집중된 작품이다."
+  }
+]

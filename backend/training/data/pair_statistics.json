@@ -1,0 +1,64 @@
+{
+  "train": {
+    "split": "train",
+    "total_pairs": 40000,
+    "same_dept_pairs": 20000,
+    "cross_dept_pairs": 20000,
+    "same_dept_ratio": 50.0,
+    "quality_distribution": {
+      "tier1_both_repro": 12139,
+      "tier2_one_repro": 989,
+      "tier3_no_repro": 6872,
+      "tier4_cross_dept": 20000
+    },
+    "score_gap": {
+      "mean": 16.9,
+      "min": 5.0,
+      "max": 66.6
+    },
+    "unique_images": 2187,
+    "eligible_items": 2187,
+    "top_dept_pairs": {
+      "design_general": 4613,
+      "visual_design": 4566,
+      "fine_art": 3744,
+      "industrial_design": 2476,
+      "craft": 2353,
+      "fashion": 964,
+      "animation": 562,
+      "interior": 451,
+      "sculpture": 271
+    }
+  },
+  "val": {
+    "split": "val",
+    "total_pairs": 4940,
+    "same_dept_pairs": 2440,
+    "cross_dept_pairs": 2500,
+    "same_dept_ratio": 49.4,
+    "quality_distribution": {
+      "tier1_both_repro": 1372,
+      "tier2_one_repro": 282,
+      "tier3_no_repro": 786,
+      "tier4_cross_dept": 2500
+    },
+    "score_gap": {
+      "mean": 15.9,
+      "min": 5.0,
+      "max": 55.7
+    },
+    "unique_images": 273,
+    "eligible_items": 273,
+    "top_dept_pairs": {
+      "design_general": 643,
+      "visual_design": 643,
+      "fine_art": 365,
+      "craft": 289,
+      "industrial_design": 272,
+      "fashion": 92,
+      "sculpture": 86,
+      "animation": 42,
+      "interior": 8
+    }
+  }
+}

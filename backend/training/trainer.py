@@ -179,24 +179,39 @@ class Trainer:
         avg_loss = total_loss / max(num_batches, 1)
         return avg_loss
 
-    def validate(self, val_loader: DataLoader) -> Tuple[float, float]:
+    def validate(
+        self, val_loader: DataLoader
+    ) -> Tuple[float, float] | Tuple[float, float, float]:
         """
         검증 수행
+
+        3-tuple 배치 (img1, img2, label) → (val_loss, val_acc) 반환
+        4-tuple 배치 (img1, img2, label, is_same_dept) → (val_loss, val_acc, same_dept_acc) 반환
 
         Args:
             val_loader: 검증 데이터로더
 
         Returns:
-            (검증 loss, 검증 accuracy) 튜플
+            (검증 loss, 검증 accuracy) 또는
+            (검증 loss, 검증 accuracy, same_dept_accuracy) 튜플
         """
         self.model.eval()
         total_loss = 0.0
         total_correct = 0
         total_samples = 0
+        same_dept_correct = 0
+        same_dept_total = 0
+        has_dept_info = False
 
         with torch.no_grad():
             for batch in val_loader:
-                img1, img2, labels = batch
+                if len(batch) == 4:
+                    img1, img2, labels, is_same_dept = batch
+                    has_dept_info = True
+                else:
+                    img1, img2, labels = batch
+                    is_same_dept = None
+
                 img1 = img1.to(self.device)
                 img2 = img2.to(self.device)
                 labels = labels.to(self.device)
@@ -210,12 +225,24 @@ class Trainer:
 
                 # Compute accuracy
                 predictions = torch.sign(score1 - score2).squeeze()
-                correct = (predictions == labels.float()).sum().item()
-                total_correct += correct
+                correct_mask = predictions == labels.float()
+                total_correct += correct_mask.sum().item()
                 total_samples += labels.size(0)
+
+                # Same-dept accuracy
+                if is_same_dept is not None:
+                    is_same_dept = is_same_dept.to(self.device)
+                    same_mask = is_same_dept == 1
+                    if same_mask.any():
+                        same_dept_correct += (correct_mask & same_mask).sum().item()
+                        same_dept_total += same_mask.sum().item()
 
         avg_loss = total_loss / max(len(val_loader), 1)
         accuracy = total_correct / max(total_samples, 1)
+
+        if has_dept_info and same_dept_total > 0:
+            same_dept_acc = same_dept_correct / same_dept_total
+            return avg_loss, accuracy, same_dept_acc
 
         return avg_loss, accuracy
 
@@ -289,6 +316,7 @@ class Trainer:
             "train_loss": [],
             "val_loss": [],
             "val_accuracy": [],
+            "same_dept_accuracy": [],
         }
 
         for epoch in range(self._current_epoch, self.config.max_epochs):
@@ -298,30 +326,41 @@ class Trainer:
             train_loss = self.train_one_epoch(train_loader)
             history["train_loss"].append(train_loss)
 
-            # Validate
-            val_loss, val_accuracy = self.validate(val_loader)
+            # Validate (3-tuple 또는 4-tuple 반환)
+            val_result = self.validate(val_loader)
+            val_loss = val_result[0]
+            val_accuracy = val_result[1]
+            same_dept_acc = val_result[2] if len(val_result) == 3 else None
+
             history["val_loss"].append(val_loss)
             history["val_accuracy"].append(val_accuracy)
+            if same_dept_acc is not None:
+                history["same_dept_accuracy"].append(same_dept_acc)
 
             # Scheduler step
             self.scheduler.step()
 
             # Epoch-level wandb logging
+            log_dict = {
+                "train/loss": train_loss,
+                "val/loss": val_loss,
+                "val/accuracy": val_accuracy,
+                "epoch": epoch,
+                "learning_rate": self.optimizer.param_groups[0]['lr'],
+            }
+            if same_dept_acc is not None:
+                log_dict["val/same_dept_accuracy"] = same_dept_acc
             if self.config.wandb_enabled and wandb is not None:
-                wandb.log({
-                    "train/loss": train_loss,
-                    "val/loss": val_loss,
-                    "val/accuracy": val_accuracy,
-                    "epoch": epoch,
-                    "learning_rate": self.optimizer.param_groups[0]['lr'],
-                })
+                wandb.log(log_dict)
 
             # 로그 출력
+            dept_str = f" - Same-Dept Acc: {same_dept_acc:.4f}" if same_dept_acc is not None else ""
             print(
                 f"Epoch {epoch + 1}/{self.config.max_epochs} - "
                 f"Train Loss: {train_loss:.4f} - "
                 f"Val Loss: {val_loss:.4f} - "
                 f"Val Acc: {val_accuracy:.4f}"
+                f"{dept_str}"
             )
 
             # 체크포인트 저장

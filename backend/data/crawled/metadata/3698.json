@@ -31,5 +31,6 @@
   "clip_topic": {
     "topic_score": 0.5803,
     "topic_text": "[축구공, 럭비공, 패턴지] 축구공과 럭비공은 둘 다 공이라는 물체이고 물성 또한 비슷하다"
-  }
+  },
+  "anchor_group": "중앙대_visual_design"
 }

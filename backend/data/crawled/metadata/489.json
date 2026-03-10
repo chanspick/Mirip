@@ -28,5 +28,6 @@
     "tier_score": 42.5,
     "tier_confidence": 0.8,
     "competition_percentile": 0.625
-  }
+  },
+  "anchor_group": null
 }

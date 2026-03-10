@@ -31,5 +31,6 @@
   "clip_topic": {
     "topic_score": 0.5884,
     "topic_text": "물체 A,B,C,D,E의 재질과 형태 등 여러가지 조건을 주고 A+(B 또는 C)+(D 또는 E)의 조형물을 두개 만드는 것이었습니다. 또, 정해진 크기의 사각형을 그려 그 안은 자유로운 재료로 컬러채색 하라는 조건이 있었습니다."
-  }
+  },
+  "anchor_group": "건국대_industrial_design"
 }

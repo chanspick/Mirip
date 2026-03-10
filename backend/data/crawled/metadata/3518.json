@@ -33,5 +33,6 @@
   "clip_topic": {
     "topic_score": 0.6048,
     "topic_text": "주어진 지문과 이미지를 통해 반사와 투과를 반영해 춤추는 손을 그리라는 문제가 나왔습니다."
-  }
+  },
+  "anchor_group": null
 }

@@ -376,6 +376,44 @@ def normalize_department(raw: str) -> str:
     return DEPARTMENT_NORMALIZE.get(raw, raw)
 
 
+def make_anchor_group_key(university: str, normalized_dept: str) -> str:
+    """
+    대학명 + 정규화된 학과명으로 앵커 그룹 키를 생성합니다.
+
+    Args:
+        university: 정규화된 대학명 (예: "서울대", "홍익대")
+        normalized_dept: 정규화된 학과 코드 (예: "fine_art", "visual_design")
+
+    Returns:
+        str: 앵커 그룹 키 (예: "서울대_fine_art")
+             대학명 또는 학과명이 없으면 빈 문자열 반환
+
+    Examples:
+        >>> make_anchor_group_key("서울대", "fine_art")
+        '서울대_fine_art'
+        >>> make_anchor_group_key("홍익대", "visual_design")
+        '홍익대_visual_design'
+        >>> make_anchor_group_key("", "fine_art")
+        ''
+        >>> make_anchor_group_key("서울대", "")
+        ''
+    """
+    if not university or not normalized_dept:
+        return ""
+
+    university = university.strip()
+    normalized_dept = normalized_dept.strip()
+
+    if not university or not normalized_dept:
+        return ""
+
+    # 유효하지 않은 학과 코드 제외
+    if normalized_dept in ("other", "unknown", ""):
+        return ""
+
+    return f"{university}_{normalized_dept}"
+
+
 def extract_department_from_title(title: str) -> Tuple[str, str]:
     """
     게시글 제목에서 학과명을 추출하고 정규화합니다.

@@ -32,5 +32,6 @@
   "clip_topic": {
     "topic_score": 0.6082,
     "topic_text": "상황: A는 긴 복도를 걷고있다 복도 천장과 바닥 벽에는 지름과 크기가 다른 구멍이 여러개있다."
-  }
+  },
+  "anchor_group": "청강대_animation"
 }
